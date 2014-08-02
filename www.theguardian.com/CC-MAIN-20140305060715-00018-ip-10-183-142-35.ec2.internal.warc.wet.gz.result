@@ -1,0 +1,97 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/business/2007/nov/06/ukeconomy.economics
+WARC-Date: 2014-03-07T05:29:41Z
+WARC-Record-ID: <urn:uuid:a1027cb4-fba0-4a6f-b99d-be4427646767>
+WARC-Refers-To: <urn:uuid:391f754b-d97f-4aca-b601-db37dba5da81>
+WARC-Block-Digest: sha1:BFWCMMTHV6UIUG3JGN5PVHARBQAHERI7
+Content-Type: text/plain
+Content-Length: 86
+
+Services, manufacturing and retail report poor performances | Business | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/business/2010/jan/25/chinese-gold-rush-demand
+WARC-Date: 2014-03-07T05:29:55Z
+WARC-Record-ID: <urn:uuid:9bbd682b-e6fe-4171-a6e0-fe116a2685a6>
+WARC-Refers-To: <urn:uuid:f432892d-8520-407c-acea-c7fb46576db4>
+WARC-Block-Digest: sha1:PL37IWK2ABBKXL7PNIT6OGF65F4XJI5U
+Content-Type: text/plain
+Content-Length: 65
+
+Chinese dig deep to join the gold rush | Business | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/film/Player/Player_Page/0,,45366,00.html
+WARC-Date: 2014-03-07T05:24:27Z
+WARC-Record-ID: <urn:uuid:2d7cd348-6ff5-41b9-a7e3-6bf53f386d42>
+WARC-Refers-To: <urn:uuid:3e3d57c4-adaa-4057-921c-403bfdea58e6>
+WARC-Block-Digest: sha1:6D2KOPWTR5E7PDELIZS4RDPP3MOEYEUQ
+Content-Type: text/plain
+Content-Length: 37
+
+Simon Callow | | guardian.co.uk Film 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/2008/apr/04/television3
+WARC-Date: 2014-03-07T05:24:26Z
+WARC-Record-ID: <urn:uuid:e7c7adf6-c181-4068-a919-68f67fad487d>
+WARC-Refers-To: <urn:uuid:6874913c-018d-497d-8a7c-d288625424da>
+WARC-Block-Digest: sha1:QQ45EQDM2U7ECA7K6PWH3YFZUNKZDFY5
+Content-Type: text/plain
+Content-Length: 49
+
+TV Dinners by Jim Shelley | Media | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/technology/blog/2005/sep/12/blimeyebaybuy?INTCMP=ILCNETTXT3487
+WARC-Date: 2014-03-07T05:25:56Z
+WARC-Record-ID: <urn:uuid:87a8757d-4e37-420f-ada2-85f90f0f9e2b>
+WARC-Refers-To: <urn:uuid:44fe3d97-c03f-4481-9880-a7b425123a0e>
+WARC-Block-Digest: sha1:CV3MVBHT7KZ25ZIZLY3MQZ6KHTIEZPGX
+Content-Type: text/plain
+Content-Length: 55
+
+Blimey: eBay buys Skype | Technology | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/technology/blog/2006/oct/31/googlebuyings1
+WARC-Date: 2014-03-07T05:24:24Z
+WARC-Record-ID: <urn:uuid:caa9f3c2-b24e-46e0-8ac8-2daf2d9a552f>
+WARC-Refers-To: <urn:uuid:583b41bb-6507-4a8d-85ea-c852c40bddf3>
+WARC-Block-Digest: sha1:AZOOCQTBJYL2UIFW5MJLY4IEXE672S3G
+Content-Type: text/plain
+Content-Length: 80
+
+Google buying spree continues -- now add JotSpot | Technology | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2004/oct/21/uselections2004.usa10?view=mobile
+WARC-Date: 2014-03-07T05:25:05Z
+WARC-Record-ID: <urn:uuid:e0e2f1a6-8abb-434b-a028-c052c66d994d>
+WARC-Refers-To: <urn:uuid:51b923b8-a860-4919-a871-ea3fdc6493ea>
+WARC-Block-Digest: sha1:JALUCGZ5COFL4KDI3E7FHMYDKXK7R7AV
+Content-Type: text/plain
+Content-Length: 67
+
+Sidney Blumenthal: America's hidden vote | world | theguardian.com
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2012/sep/04/pentagon-navy-seal-book-classified
+WARC-Date: 2014-03-07T05:31:45Z
+WARC-Record-ID: <urn:uuid:fc184d74-efc6-45d7-bf2a-abf03450470d>
+WARC-Refers-To: <urn:uuid:5fcf58c0-1135-4a17-ac83-373646241d44>
+WARC-Block-Digest: sha1:HUYH4IPXWEUO27PFWTLF4NEOZ45X23JM
+Content-Type: text/plain
+Content-Length: 97
+
+Pentagon says Navy Seal's Bin Laden book reveals military secrets | World news | theguardian.com 
+

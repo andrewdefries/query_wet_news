@@ -1,0 +1,73 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books
+WARC-Date: 2014-03-07T06:44:25Z
+WARC-Record-ID: <urn:uuid:ceb52637-63f1-46a0-a67d-aba0a166e3d0>
+WARC-Refers-To: <urn:uuid:21e1d609-b020-4bc7-ab6f-b2ba2f43f447>
+WARC-Block-Digest: sha1:NUDME5B3DNMT3QBND2ATMW7B4LB7KJSL
+Content-Type: text/plain
+Content-Length: 65
+
+Books news, reviews and author interviews | Books | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/business/2008/nov/25/pre-budget-report-implications?view=mobile
+WARC-Date: 2014-03-07T06:46:22Z
+WARC-Record-ID: <urn:uuid:fd6b09b2-11b5-49e5-ad8a-c6773f466ab4>
+WARC-Refers-To: <urn:uuid:ef8ddde6-2c66-4c3d-9ac5-470f2a32a798>
+WARC-Block-Digest: sha1:C63YAR7VIRHLBAFZ7M6T3KTTWLKCFUKY
+Content-Type: text/plain
+Content-Length: 72
+
+Pre-budget report: What does it mean for you? | Money | theguardian.com
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/politics/2005/apr/06/election2005.labour
+WARC-Date: 2014-03-07T06:44:41Z
+WARC-Record-ID: <urn:uuid:ec5cdb9b-ed87-4a90-9e73-c4d7dc7a3b6b>
+WARC-Refers-To: <urn:uuid:8dc16026-bd3e-44dd-b58b-9ea1a8474369>
+WARC-Block-Digest: sha1:SUGRWGHJLDPFU37Q3NOKBKJUJLVR7JNK
+Content-Type: text/plain
+Content-Length: 97
+
+Polly Toynbee: Hold your nose, vote Blair and Brown will be the victor | Politics | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/society/2005/may/18/guardiansocietysupplement1
+WARC-Date: 2014-03-07T06:50:38Z
+WARC-Record-ID: <urn:uuid:f0d263d3-0233-4829-9667-9cd17b17c8d3>
+WARC-Refers-To: <urn:uuid:a1eb70fb-4a0a-47b0-b597-4c8620c1ca61>
+WARC-Block-Digest: sha1:W5G3PEHZWXQJ6CDUJ4UQPJC3J6O2NN7E
+Content-Type: text/plain
+Content-Length: 46
+
+Dredging up Deptford | Society | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/technology/gamesblog/2012/sep/10/top-20-video-games
+WARC-Date: 2014-03-07T06:45:18Z
+WARC-Record-ID: <urn:uuid:0115f153-e2c2-4e20-ae5d-5c6ac5ba17a8>
+WARC-Refers-To: <urn:uuid:4df93bd4-ea32-49cc-b621-19c298257b91>
+WARC-Block-Digest: sha1:3IPFTLWFOZNKCVEP62AJFYHLWUFYJY2Y
+Content-Type: text/plain
+Content-Length: 89
+
+UK top 20 video games chart, week ending 8 September 2012 | Technology | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/voluntary-sector-network/community-action-blog/2012/feb/17/managing-volunteers-motivations-pitfalls/print
+WARC-Date: 2014-03-07T06:49:08Z
+WARC-Record-ID: <urn:uuid:90a65ed9-74f5-4440-befd-631dcb457cf7>
+WARC-Refers-To: <urn:uuid:ba3327a7-e273-4c10-b97d-f7500d49b0cd>
+WARC-Block-Digest: sha1:XQPC6TPACSNW7B5XP4N2WWZCMLMWSSMP
+Content-Type: text/plain
+Content-Length: 105
+
+Managing volunteers: The motivations and the pitfalls | Voluntary Sector Network | Guardian Professional 
+

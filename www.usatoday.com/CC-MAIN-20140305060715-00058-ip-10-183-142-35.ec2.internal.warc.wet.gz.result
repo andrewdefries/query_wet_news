@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/yankees/statistics/2010/season-regular/player/batting/
+WARC-Date: 2014-03-07T05:27:19Z
+WARC-Record-ID: <urn:uuid:0eb7c19d-9778-4e1e-9bae-c9613f5f97a7>
+WARC-Refers-To: <urn:uuid:82824f68-19dd-4a3c-be4b-fef7a3ac86e5>
+WARC-Block-Digest: sha1:EQFTKIOJVP2W6H2YCF76YNHTC5XTU6PB
+Content-Type: text/plain
+Content-Length: 213
+
+USA Today | Sports | MLB | yankeesNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribe
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nba/game/recap/l.nba.com-2008-e.10532/
+WARC-Date: 2014-03-07T05:29:35Z
+WARC-Record-ID: <urn:uuid:1c6c7692-4e07-472b-896e-5e7875d5781a>
+WARC-Refers-To: <urn:uuid:101359e1-532b-44b5-b152-0ebe1fcfce51>
+WARC-Block-Digest: sha1:B3WID5MTMZP3ITIHNC5ICMCU5PSIDKMW
+Content-Type: text/plain
+Content-Length: 61
+
+Sacramento Kings at Oklahoma City Thunder | USA TODAY | RECAP
+

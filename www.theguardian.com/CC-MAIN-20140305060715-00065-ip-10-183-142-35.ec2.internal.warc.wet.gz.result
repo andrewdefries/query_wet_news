@@ -1,0 +1,72 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/2008/jan/25/oneofthereasonsthe
+WARC-Date: 2014-03-07T05:26:04Z
+WARC-Record-ID: <urn:uuid:308f56cc-a0df-4a56-8d6b-927bcd2a26e9>
+WARC-Refers-To: <urn:uuid:0737aa36-c9a9-4e76-8c47-d4fb67565594>
+WARC-Block-Digest: sha1:5FBOFC4TIJATKSOQ4ODMRJGZQJONE3ZS
+Content-Type: text/plain
+Content-Length: 64
+
+Davos 08: Life is beautiful | Comment is free | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/greenslade/2007/oct/04/bewareofspeedandwikipedias
+WARC-Date: 2014-03-07T05:24:37Z
+WARC-Record-ID: <urn:uuid:02aa363f-6603-437f-9adb-29ff07d8268d>
+WARC-Refers-To: <urn:uuid:ac51e2f3-602d-46a2-81d3-3969bbc8829e>
+WARC-Block-Digest: sha1:EBUDTWMLEU6XGJIXSOWSWMEABA2TZRWI
+Content-Type: text/plain
+Content-Length: 66
+
+Beware of speed and Wikipedia's 'facts' | Media | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/news/blog/2006/jul/03/post175
+WARC-Date: 2014-03-07T05:28:52Z
+WARC-Record-ID: <urn:uuid:727c9500-8457-4819-b834-bb7dc6139f1f>
+WARC-Refers-To: <urn:uuid:109a5e66-6f3b-4b72-8fe6-b509d9b0e417>
+WARC-Block-Digest: sha1:BWUMPEXTUDLQ6N2U7S6SKJ6KLDWVT742
+Content-Type: text/plain
+Content-Length: 64
+
+The sun: doing what it says on the tin | News | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/politics/2012/jun/07/scottish-government-separate-tax-agency/print
+WARC-Date: 2014-03-07T05:25:03Z
+WARC-Record-ID: <urn:uuid:dab49588-bf0b-42a6-9e45-d410998d0f2a>
+WARC-Refers-To: <urn:uuid:d5afcee8-cf87-451b-895e-a3630f52c91f>
+WARC-Block-Digest: sha1:4TCHYW4JGTHOT272VLP4VQOTXMVYMGYO
+Content-Type: text/plain
+Content-Length: 75
+
+Scottish government plans separate tax agency | Politics | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/science/2006/feb/20/research.highereducation
+WARC-Date: 2014-03-07T05:35:41Z
+WARC-Record-ID: <urn:uuid:ea51599a-b08f-485b-a276-55aeb86d8f5d>
+WARC-Refers-To: <urn:uuid:dc0ad784-ee49-4ab4-af69-c9446a37f287>
+WARC-Block-Digest: sha1:LZXPQTTASDPEMYK6AUK4IHLDT2XQZEC7
+Content-Type: text/plain
+Content-Length: 75
+
+The laser that lets you see through solid objects | Science | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/tv-and-radio/2010/nov/22/tv-review-any-human-heart
+WARC-Date: 2014-03-07T05:25:43Z
+WARC-Record-ID: <urn:uuid:7fd2ad3f-9ba4-4699-8816-b12abc19209d>
+WARC-Refers-To: <urn:uuid:4b94457b-2829-45fd-8954-15a77112a00b>
+WARC-Block-Digest: sha1:QWN3ARLQH6BXQQG7EIVFZJOWOFUC256K
+Content-Type: text/plain
+Content-Length: 118
+
+TV review: Any Human Heart, American Dream and JFK: The Making of Modern Politics | Television & radio | The Guardian 
+

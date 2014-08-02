@@ -1,0 +1,49 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/artanddesign/2010/may/27/raphael-sistine-chapel-tapestries?INTCMP=ILCNETTXT3487
+WARC-Date: 2014-03-07T05:30:24Z
+WARC-Record-ID: <urn:uuid:4c98dffa-af9c-47de-9c75-beb2e244ebf5>
+WARC-Refers-To: <urn:uuid:fa18b187-f032-40df-9d66-516a421f6842>
+WARC-Block-Digest: sha1:GF5CJP66SMXLULHNUGPQSTT6O5QA52P2
+Content-Type: text/plain
+Content-Length: 90
+
+Raphael's Sistine Chapel tapestries to head to V&A museum | Art and design | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/culture/2005/aug/28/features.review8
+WARC-Date: 2014-03-07T05:32:54Z
+WARC-Record-ID: <urn:uuid:12a23ee0-c968-4121-928f-fd97e65256ca>
+WARC-Refers-To: <urn:uuid:1694d5b6-3077-4bf2-bd8e-c01c2a140bd9>
+WARC-Block-Digest: sha1:DO2T5SF4DUXJ5MJ363HM2HHYCYBQKNBP
+Content-Type: text/plain
+Content-Length: 74
+
+The Adventures of Shark Boy and Lava Girl in 3-D | Culture | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/discussion/report-abuse/comment/10638820
+WARC-Date: 2014-03-07T05:30:55Z
+WARC-Record-ID: <urn:uuid:73527265-1264-4aa9-97da-aaa4dfba7ce1>
+WARC-Refers-To: <urn:uuid:990357aa-b611-451c-9504-b584fd6d1c5f>
+WARC-Block-Digest: sha1:JCVBFS3HUFQBHTZ2A7A7CBWOQUBYVRR6
+Content-Type: text/plain
+Content-Length: 24
+
+Report abuse on comment
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/politics/2013/mar/20/gove-curriculum-dumb-down-education
+WARC-Date: 2014-03-07T05:26:19Z
+WARC-Record-ID: <urn:uuid:7018e617-e7d6-4e4a-b49f-f9f4341fa6be>
+WARC-Refers-To: <urn:uuid:c6aef048-d896-4589-94be-fec29840fd6a>
+WARC-Block-Digest: sha1:BOHX3M57IRIPTR4ZGLHZZHJOAVEYISMR
+Content-Type: text/plain
+Content-Length: 87
+
+Gove curriculum will 'dumb down' education, say academics | Politics | theguardian.com 
+

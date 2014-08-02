@@ -1,0 +1,500 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/mediashift/2009/08/why-do-some-college-newspapers-still-have-no-web-presence223
+WARC-Date: 2014-03-07T05:26:52Z
+WARC-Record-ID: <urn:uuid:0b6f9c26-ba3d-4fb9-a7f3-9db0aac1d5ab>
+WARC-Refers-To: <urn:uuid:b176c764-f928-4cd6-9d23-00f71c55870d>
+WARC-Block-Digest: sha1:6G4BTZTIEI6TII5VRLGCDBVD3D3ZU3GJ
+Content-Type: text/plain
+Content-Length: 12186
+
+Why Do Some College Newspapers Still Have No Web Presence? | Mediashift | PBS
+Quick Links:
+Uncategorized
+Tips for Unplugging and What to Do Once You Do
+#EdShift Chats
+#EdShift Chats: Can MOOCs Boost Journalism Education?
+Best Practices
+Assignment Remix: Tackling Data Requests in Classes
+MediaShift
+Your guide to the digital media revolution
+With your hostMark Glaser
+Home
+Social Media
+Social Networking
+Facebook
+Twitter
+Weblogs
+Citizen Journalism
+Business
+AdvertisingShift
+Hyper-Local
+MarketingShift
+Public Relations
+Technology
+Education
+Innovation
+Entrepreneurship
+Law & Ethics
+Tools & Tips
+Perspectives
+#EdShift Chats
+Legacy Media
+BookShift
+MagazineShift
+MovieShift
+MusicShift
+NewspaperShift
+Public MediaShift
+RadioShift
+TVShift
+Global View
+Europe
+World View
+Free Speech
+Environment
+Politics
+Events
+MediaShift Events
+Collaboration
+More Topics
+Mediatwits
+MobileShift
+Legal Drama
+Media Usage
+Your Take
+MediaShift Guides
+See Also: IdeaLab
+Why Do Some College Newspapers Still Have No Web Presence?
+Tweet
+By Bryan Murley
+August 11, 2009
+Summer’s almost over and college newspapers across the country will be cranking up to full speed soon. Likely, they’ll be getting ready for further adventures in online journalism, expanding their online presence while attempting to keep the print product financially successful.
+But hard as it is to believe, there are still student newspapers around the country that have no online presence at all. At the Associated Collegiate Press Summer Workshops recently, I asked for a show of hands from students whose newspapers didn’t have websites. In two sessions, several hands were raised.
+I won’t say which schools these students represent, but I’ve come across the phenomenon in other presentations over the years as well. And it still surprises me that any school newspaper would be without an online presence in this day and age. [update 8-12-09: per the comments, Bob Bergland notes a survey he conducted: “We were amazed to find that 36% of the 392 papers analyzed (random sample from the ~1,600 on the E&P directory) did not have a web presence (defined as no site, a site with no content listed as being under construction or a site which had not been updated in over six months).”]
+There are two primary obstacles for getting a college newspaper online: One is relatively easy to overcome (technology), the other much harder but more crucial overall (institutional).
+Technology
+I spoke to one student who was working to bring the college newspaper online at a school in the Southeast U.S. This student had a lot of questions about content management systems: Which one is best? How difficult are they to install and maintain?
+Honestly, the technical issue is one that can be overcome in an instant if you just want to get started. There are two fine weblog publishing platforms (out of many) which can provide a college newspaper with a place to put content online: Blogger and WordPress.com. Both will allow students to experience the joys of a content management system and putting content online. If you’ve got no budget and no technical help, this is the easiest way to get online now.
+If you want a turn-key content management system with your own domain name and ability to control some of the advertising, there’s College Media Network (CMN), which will keep the back-end running while young journalists focus on the content. Some would complain about some of CMN’s advertising, but I’ve never had a problem working with the network to remove ads that, for example, might offend sensitive sensibilities on a religious campus.
+And if you want to go all-out, then there are numerous open-source content management systems (CMS) that you can install on a server on your campus or on a hosting service. (See this CoPress wiki for information about three top open-source content management systems.)
+Institutional
+A more important obstacle for some schools that still don’t have an online presence is the institutional one. When I started advising, I worked at a private college that was affiliated with a religious denomination. We had an online site when I got there in 2001, but there are still private religious institutions that keep their student newspapers from publishing online.
+I have heard several justifications for this reticence, but they are all, at heart, about protecting the image of the university or college.
+Make no mistake, college news is a messy business. Students are learning, and their mistakes all too often show up in print. An online presence will broadcast those mistakes to the world, so the theory goes. Also, a college that supports student press freedoms when distributed to 2,000 people on campus might not be so keen to distribute “bad news” about the campus when the whole world is watching.
+There’s also the trouble with donors. When I was advising at a private school, we got several comments from donors who were outraged at some of the advertising that showed up on our student newspaper site. Personally, I thought these complaints were overblown, but I’m not in charge of development. We walked a fine line in those discussions. My argument to donors would be this: Do you want this to be a respected institution, or a backwater for propagating nonsense? If the former, then push to get students online. If the latter, then stay offline and wither.
+A disservice to future journalists
+Trumping all those considerations, staying offline is a disservice to student journalists who cannot use the online tools now widespread in the industry. A student who can’t put material online can’t really understand the impact of social networks like Twitter or Facebook to spread news. They can’t really understand what it is to create a personal brand. And they can’t really understand the challenges of multimedia production.
+A college that will not allow their student journalists to practice online journalism in a “real world” setting is abandoning its commitment to education in order to save face. And that is a tragedy not only for the college, but for the students who look to higher education to prepare them for the future.
+Is your school keeping you from pressing forward in online news? Drop a comment, even anonymously. This is truly the last frontier for online journalism. Let’s see if we can pull together to get all student newspapers online.
+Bryan Murley is assistant professor of new and emerging media at Eastern Illinois University, where he advises DENnews.com, the Pacemaker-winning online site for the student newspaper. He is also the director for innovation at the Center for Innovation in College Media, where he leads the weblog Innovation in College Media. He is the college media correspondent for MediaShift.
+Related
+http://www.featurewriting.net Michael Ray Smith
+In an odd way, I’m glad to hear that others–besides the private schools–are slow to drag and click, but your ideas on using wordpress and blogspot serve as a good remedy. Students also may enjoy animoto.com as a fun way to create content that they can drop into a blog. Bob Bergland
+The number of college papers without a web presence was also the most surprising finding of our research study, too (I still need to get that paper to you, Bryan). We were amazed to find that 36% of the 392 papers analyzed (random sample from the ~1,600 on the E&P directory) did not have a web presence (defined as no site, a site with no content listed as being under construction or a site which had not been updated in over six months).
+The fact that over a third of the papers didn’t have a website seems unconscionable, as Bryan suggests, in an age when Internet skills are so vital to any student entering the media workplace.
+http://www.bergslienmedia.no/blogg Bjørn Bergslien
+When I went to Curtin University of Technology (2002-2004) we didn’t have a website for our student newspaper, The Western Independent. Fair enough, after all it was half a decade ago. Our main focus was on TV, radio and print. New media was merely vaguely covered in some of the core media units. After reading your article above, I went straight to the Curtin website to see if The Western Independent had gone online yet. It hasn’t. And that’s a shame. Why can’t the Department of Media and Information collaborate with the departments of Internet Studies and Computer Science? Perhaps cross-institutional teamwork is difficult to substantiate into action.
+http://www.collegemediainnovation.org Ralph Braseth
+There are colleges and thousands of high schools without any newspaper at all. The fairly simple technical solutions mentioned above provide an opportunity for those schools to start a publication when before it may not have been possible. Every school should have an information source for its community. To not have one is no longer a choice people can blame on a lack of publishing resources. High school journalism especially should be booming, but it’s not.
+Wayne Myers
+I am very surprised that you do not name even one college newspaper that does not have an on-line edition. Why would you not want to do that? This is one of the reasons why journalism is falling apart–were you just trying to be nice? At worst, it looks like lazy reporting (although I know that’s probably not the case here). I absolutely agree with you that college papers without an on-line edition are doing future journalists a disservice–so why don’t you name names? You’ve undermined what could have been an influential, courageous article with the omission.
+http://www.collegemediainnovation.org/blog Bryan Murley
+I absolutely agree with you that college papers without an on-line edition are doing future journalists a disservice–so why don’t you name names? You’ve undermined what could have been an influential, courageous article with the omission.
+Because I don’t think it’s the fault of the college journalists that the people above them don’t understand what’s going on. I don’t want to penalize people who don’t deserve to be penalized.
+To be clear, if I could separate the idiots from the students, I would be more than happy to do so. But that’s not always possible. Believe me, I’d shame anyone I thought would be worth the effort. But I think that wouldn’t serve the larger goal, which is making sure college journalists get the training they are paying for.
+At least for the moment.
+http://www.extramusical.com musical instrument
+yya this here!
+Pingback: My Homepage
+Image by mfobrien via Flickr.
+Tagged: college media, college newspapers, digital divide, journalism online, journalism school It still surprises me that any school newspaper would be without an online presence in this day and age."
+Check out MediaShift Sponsorship opportunities!
+Multimedia
+Mediatwits #111: Comcast/Netflix Deal: Killing Net Neutrality or Helping Customers?
+Mediatwits Google Hangout
+Subscribe in YouTube
+Subscribe in RSS
+Mediatwits on SoundCloud
+Subscribe in SoundCloud
+Subscribe in iTunes
+Newsletters
+MediaShift delivers the best news on media and technology directly to your in-box.
+Daily Must-Reads
+E-Books and Self-Publishing Roundup
+Journalism Education Roundup
+MediaShift Daily
+Idea Lab Daily
+Collaboration Central
+MediaShift Events
+Best of Mediashift
+Taking Action: EdShift Launches to Move Journalism Education Forward
+Special Series: Crowdfunding the Media
+10 Important Tips on Teaching Entrepreneurship
+The Real Costs of Self-Publishing a Book
+Why We Need Radical Change for Media Ethics, Not a Return to Basics
+Special Series: Teaching Tomorrow's Entrepreneurs
+Stay Informed
+Get MediaShift Daily via Email
+Follow us on Social
+Who we Are
+MediaShift explains how traditional media such as newspapers, magazines, radio, TV, music and movies are changing with digital disruption and adapting their business models for a more mobile, networked world.
+Find out more »
+Contact us »
+Sponsor MediaShift »
+Reader Poll
+How do you get your video or TV news?
+Home |
+Social Media |
+Business |
+Education |
+Legacy Media |
+Global View |
+Events |
+Collaboration
+Privacy Policy
+Terms of Use
+Sponsor MediaShift
+Copyright 2014, Public Broadcasting Service (PBS)
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/wgbh/pages/frontline/shows/dna/photos/photos/eye/text_06.html
+WARC-Date: 2014-03-07T05:32:17Z
+WARC-Record-ID: <urn:uuid:b032839c-8514-49f3-94ea-336c35a85728>
+WARC-Refers-To: <urn:uuid:68bc14fb-d59b-4c9a-bbc6-28b5c7429281>
+WARC-Block-Digest: sha1:YPYJBRIXSUK4E32OPVNMVYBZVCHDXHWC
+Content-Type: text/plain
+Content-Length: 30432
+
+FRONTLINE: How can eyewitness indentification go wrong?
+from
+Witness For the Defense: The Accused, the Eyewitness, and the Expert Who Puts Memory On Trial
+by Dr. Elizabeth Loftus and Katherine Ketcham
+St. Martin's Press, 1991
+(reprinted with permission)
+Eyewitness testimony, which relies on the accuracy of human memory, has an enormous impact on the outcome of a trial. Aside from smoking pistol, nothing carries as much weight with a jury as the testimony of an actual witness. The memory of witnesses is crucial not only in criminal cases but in civil cases as well--in automobile accident cases, for example, eyewitness testimony carries great weight in determining who is as fault.
+Implicit in the acceptance of this testimony as solid evidence is the assumption that the human mind is a precise recorder and storer of events. Human beings hold fiercely to the belief that our memories are preserved intact, our thoughts are essentially imperishable, and our impressions are never really forgotten. Sigmund Freud believed that long-term memories lie deep in the unconscious mind, too deep to be disturbed by ongoing events and experiences; most people today continue to accept Freud's view of memory.
+In a published survey that I conducted with Geoffrey Loftus, my husband and fellow psychology professor, 169 individuals from various parts of the United States were asked to give their views about how memory works. Of these, 75 had formal graduate training in psychology, while the remaining 94 did not. The non psychologists had varied occupations. Lawyers, secretaries, taxicab drivers, physicians, philosophers, fire investigators, and even an eleven-year-old child participated. They were given this question: Which of these statements best reflects your view on how human memory works?
+Everything we learn is permanently stored in the mind, although sometimes particular details are not accessible. With hypnosis, or other special techniques, these inaccessible details could eventually be recovered.
+Some details that we learn may be permanently lost from memory. Such details would never be able to be recovered by hypnosis, or any other special technique, because these details are simply no longer there.
+Eighty-four percent of the psychologists and 69 percent of the non psychologists chose the first response, indicating a belief that all information in long-term memory is there, even though much of it cannot be retrieved. The most common reason for choosing that response was based on personal experience and involved the recovery of an idea that the person had not thought about for quite some time; a second reason, commonly given by psychologists, was knowledge of the work of Wilder Penfield, whose studies of brain stimulation in epileptic patients have been used as evidence to support the theory that memories are stable and permanent. Some respondents mentioned hypnosis, psychoanalysis, Pentothal, or even reincarnation to support their belief in the permanence of memory.
+But, in fact, human memory is far from perfect or permanent, and forgetfulness is a fact of life. One of the most obvious reasons for forgetting is that the information was never stored in memory in the fist place; even the most common, everyday items frequently fail to find a niche in our memory. Take a U.S. penny, for example. Most people would insist that hey know what a penny looks like and would have no trouble recognizing one when they saw it. but in a study conducted in 1979, fewer than half of the subjects were able to pick the exact copy of a real penny from fifteen possible designs. See the illustrations on the next page--can you?
+Another common object that we look at every day is a telephone. Can you remember the letters that accompany the numbers of your telephone?
+Even if we are careful observers and take in a reasonably accurate picture of some object or experience, it does not stay intact in memory. Other forces begin to corrode the original memory. With the passage of time, with proper motivation, or with the introduction of interfering or contradictory facts, the memory traces change or become transformed, often without our conscious awareness. We can actually come to believe in memories of events that never happened.
+Child psychologist Jean Piaget, in his Plays, Dreams, and Imitation in Childhood, related a personal story about the malleability of memory: ...one of my first memories would date, if it were true, from my second year. I can still see, most clearly, the following scene, in which I believed until I was about fifteen. I was sitting in my pram, which my
+nurse was pushing in the Champs Elysees, when a men tried to kidnap me. I was held in by the strap fastened around me while my nurse bravely tried to stand between me and the thief. She received various scratches, and I can still see vaguely those on her face. Then a crowd gathered, a policeman with a short cloak and a white baton came up, and the man took to his heels. I can still see the whole scene, and can even place it near the tube station. When I was about fifteen, my parents received a letter from my former nurse saying that she had been converted to the Salvation Army. She wanted to confess her past faults,
+and in particular to return the watch she had been given as a reward on occasion. She had made up the whole story, faking the scratches. I, therefore, must have heard, as a child, the account of this story, which
+my parents believed, and projected into the past in the form of a visual
+memory.
+A visual memory, indeed--many years later Piaget could picture in his mind not only the scratches on his nurse's face but also the nonexistent crowd, the policeman with his cloak and baton, and the thief taking "to his heels"!
+How does memory work, and why does it fail? Scientists generally agree that memories are formed when neurons link together to form new connections, or circuits, actually changing the contact between the cells; in the process, memories are stored. Long-term memories, which include experiences that happened just a few minutes ago to information several decades old, are stored in mental "drawers" somewhere in our brains. No one knows exactly where, although it has been estimated that in a lifetime, long-term memory can hold as many as 1 quadrillion (1 million billion) separate bits of information.
+The "drawers" holding our memories are obviously extremely crowded and densely packed. They also constantly being emptied out, scattered about, and then stuffed back into place. Like curious, playful children searching through drawers for a blouse or pair of pants, our brains seem to enjoy ransacking the memory drawers, tossing the facts about, and then stuffing everything back in, oblivious to order or importance. As new bits and pieces of information are added into long-term memory, the old memories are removed, replaced, crumpled up, or shoved into corners. Little details are added, confusing or extraneous elements are deleted, and a coherent construction of the facts is gradually created that may bear little resemblance to the original event.
+Memories don't just fade, as the old saying would have us believe; they also grow. What fades is the initial perception, the actual experience of the events. But every time we recall an event, we must reconstruct the memory, and with each recollection the memory may be changed--colored by succeeding events, other people's recollections or suggestions, increased understanding, or a new context.
+Truth and reality, when seen through the filter of our memories, are not objective facts but subjective, interpretive realities. We interpret the past, correcting ourselves, adding bits and pieces, deleting uncomplimentary or disturbing recollections, sweeping, dusting, tidying things up. Thus our representation of the past takes on a living, shifting reality; it is not fixed and immutable, not a place way back there that is preserved in stone, but a living thing that changes shape, expands, shrinks, and expands again, an amoebalike creature with powers to make us laugh, and cry, and clench our fists. Enormous powers--powers even to make us believe in something that never happened.
+Are we aware of our mind's distortions of our past experiences? In most cases, the answer is no. As time goes by and the memories gradually change, we become convinced that we saw or said or did what we remember. We perceive the blending of fact and fiction that constitutes a memory as completely and utterly truthful. We are innocent victims of our mind's manipulations. A pointing finger of blame has a powerful hold on even the most informed and intelligent of juries. Several years ago I conducted an experiment in which subjects acted as jurors in a criminal case. First they heard a description of a robbery-murder, then a prosecution argument, then an argument for the defense. In one version of the experiment, the prosecutor presented only circumstantial evidence; faced with this evidence, only 18 percent of the "jurors" found the "defendant" guilty. In a second version, the prosecutor pled the exact case with one difference: There was testimony from a single eyewitness--a clerk who identified the defendant as the robber. Now 72 percent of the jurors found the defendant guilty.
+The danger of eyewitness testimony is clear: Anyone in the world can be convicted of a crime he or she did not commit, or deprived of an award that is due, based solely on the evidence of a witness who convinces a jury that his memory about what he saw is correct. Why is the eyewitness testimony so powerful and convincing? Because people in general and jurors in particular believe that our memories stamp the facts of experiences on a permanent, non erasable tape, like a computer disk or videotape that is write-protected. For the most part, of course, our memories serve us reasonably well. But how often is precise memory demanded of us? When a friend describes a vacation, we don't ask, "Are you sure your hotel room had two chairs, not three?" After we watch a movie, our companion wouldn't normally grill us with questions like "Was Gene Hackman's hair wavy, or was it curly?" or "Did the woman in the bar wear red or pink lipstick?" If we make a mistake, it usually goes unnoticed and uncorrected--does it really matter if there were two chairs or three, or if the actor's hair was wavy or curly? Belief in an accurate memory is confirmed by default.
+But precise memory suddenly becomes crucial in the event of a crime or an accident. Small details assume enormous importance. Did the assailant have a mustache, or was he clean-shaven? Was he five eight or five eleven? Was the traffic light red, or was it green? How fast was the Cadillac going when it went through the red light--or was it yellow?--and smashed into the Volkswagen? Did the car cross the center line, or did it stay on its own side? Civil and criminal cases often rest on such subtle, seemingly trivial details, and these details are often hard to obtain.
+In July 1977 Flying magazine reported the fatal crash of a small plane that killed all eight people aboard and one person who was on the ground. Sixty eyewitnesses were interviewed, and two eyewitnesses who had actually seen the airplane just before the impact testified at a hearing to investigate the accident. The plane, one of the eyewitnesses explained, "was heading right toward the ground--straight down." This witness apparently did not know that several photographs clearly showed that the airplane hit flat and at a low-enough angle to skid for almost one thousand feet.
+To be mistaken about details is not the result of a bad memory but of the normal functioning of human memory. When we want to remember something, we don't simply pluck a whole memory intact from a "memory store." The memory is actually constructed from stored and available bits of information; we unconsciously fill in any gaps in the information with inferences. When all the fragments are integrated into a whole that makes sense, they form what we call a memory.
+Still other factors affect the accurate perception, and therefore recollection, or an event. Was there violence? How much? Was it light or dark? Did the eyewitness have any prior expectations or interests? A tragic real-life case illustrates the potential problems surrounding an initial perception of an event.
+Two men in their mid-twenties were hunting for bears in a rural area of Montana. They had been out all day and were exhausted, hungry, and ready to go home. Walking along a dirt trail in the middle of the woods, with the night falling fast, they were talking about bears and thinking about bears. They rounded a bend in the trail and approximately twenty-five yards ahead of them, just off the trail in the woods, was a large object that was moving and making noise. Both men thought it was a bear, and they lifted their rifles and fired. But the "bear" turned out to be a yellow tent, with a man and a woman making love inside. One of the bullets hit the woman and killed her. When the case was tried before a jury, the jurors had difficulty understanding the perceptual problems inherent in the event; they simply couldn't imagine how someone would look at a yellow tent and see a growling bear. The young man whose bullet killed the woman was convicted of negligent homicide. Two years later he committed suicide. This dramatic case demonstrates what psychologists call "event factors"--those factors inherent within a specific event that can alter perception and distort memory. It was a dark night, and in darkness different colors can't be distinguished and details can't be resolved. The two hunters had strong expectations and motivations--they anticipated that they might see a bear, they wanted to see a bear, they were nervous, excited, and exhausted from a long day in the woods. When they saw something large, moving, and making noise, they automatically assumed that it was a bear, raised their rifles, and shot to kill.
+Event factors have to do with the acquisition stage of memory, when we perceive an event and our brains make the instantaneous decision to either discard the information or insert it into memory. If the memory is stored, however, it does not just lie passively in our brains, waiting to be pulled out and recalled. Many things can happen during the retention and acquisition stages of memory--time passes, the memory fades, and more crucially, we war exposed to new information that adds to or alters the original memory.
+Suppose that a crime occurs, the police are notified, they arrive at the scene and begin to ask questions. "What happened?" the witness is asked. "What did the assailant look like?" After the witness tells the police what he can remember, he may be asked to come to the police station to look through a set of photographs. The witness is now performing a recognition test, in which either a single item (a photograph) or a set of items (a group of people in a lineup) is shown, and the witness is asked to indicate whether he has seen any of them before.
+Keep in mind that most witnesses are obliging--they want to help, and in the case of a violent crime or assault, they have an added incentive to help the police capture a violent criminal. In addition, research tells us that witnesses believe the police would not conduct a lineup unless they had a good suspect. Although witnesses try hard to identify the true criminal, when they are uncertain--or when no one person in the lineup exactly matches their memory--they will often identify the person who best matches their recollection of the criminal. And often their choice is wrong.
+Obviously, the composition of the lineup--how many people are included, what they look like, what they are wearing--is crucial. A lineup must be as free as possible from suggestive influences, or it could taint the witness's identification and lose its value.
+As our rather fanciful illustration of a biased lineup shows, if the suspect is a large, bearded man, the lineup should not include children, women in wheelchairs, or blind men with canes. Unless people resembling the suspect are included in the lineup, the suspect may be picked out by default, not by true recognition.
+But many lineups used in actual criminal cases are grossly suggestive, and the identifications they produce should be considered worthless. In a lineup conducted in Minnesota, a black suspect stood next to five white men; in another case, a six-foot-three-inch suspect was placed in a lineup with non suspects who were all under five feet then inches tall; in a case where the offender was known to be in his teens, an eighteen-year-old suspect was placed in a lineup with five non suspects, all over the age of forty. In a case I worked on from 1986 to 1988, a man was accused of murdering eight people on a fishing boat in Alaska. Eyewitnesses had provided police with a general physical description of the man they saw at the murder scene, including one very specific detail--the man they saw wore a baseball cap. In the photo lineup, the suspect was the only person wearing a baseball cap.
+But suppose a witness is presented with a fair lineup, in which everyone is at least approximately the same height and weight and fits a general description. The witness is looking at the lineup, concentrating hard, and the police officer suddenly says, "Take another look at number four." Perhaps the police officer stares conspicuously at number four while the witness is trying to identify the culprit. Or perhaps the witness hesitates while looking at number four and the interviewer leans forward and says, "What do you think about that one?"
+The witness takes in these little bits of information and may use them--unconsciously--to "fill in" a vague and fuzzy memory with the image of the person in the photograph. The image shifts, the lines waver, and suddenly the face in number four fuses with the fading memory of the criminal. "Number four looks familiar," the witness might say. And later: "Yes, I'm sure it's number four."
+A one-person lineup or viewing in which just one person is pointed out to the witness is particularly dangerous. In the fall of 1970, twenty-one-year-old Bobby Joe Leaster was chatting amiably with friends on a Boston street corner when two policeman jumped out of their patrol car, guns drawn, and accused him of murdering a store owner. They handcuffed Bobby Joe, and drove him to Boston City Hospital where the murdered man's wife was brought to the patrol car and asked to peer in the window at the suspect. "What do you think?" the officer asked her. The woman began to shake and cry. "Yes," she said, sobbing, "this looks like the man who shot and killed my husband." That was the only evidence against him, but Leaster was charged with murder, and on June 22, 1971, he was convicted and sentenced to life without parole.
+Six years later father-son lawyer team, Robert and Christopher Muse, were appointed by the U.S. District Court in Boston to represent Bobby Joe Leaster in his appeal. After one interview with Bobby Joe, the Muses had a hunch that this convicted criminal might be different from the rest who claim that they are innocent--this one actually might be innocent. For more than nine years the Muses worked on Leaster's behalf, refusing to charge him a penny for their services. A friend once asked Robert Muse how much of his estate he would be willing to bet on Leaster's innocence. "All of it," he immediately answered.
+In November 1986 the bullet taken from the murder victim was matched up with a gun linked to two men who had been arrested in October 1970, two weeks after the murder, for a liquor store holdup. In December 1986 Bobby Joe Leaster was given his freedom. He had spent almost sixteen years of his life behind bars.
+Mistaken identifications do happen in real life, and they are sometimes brought about by common police procedures. When the police have a suspect, they often show the witness a photo array and produce the actual lineup only if an identification is made. Almost invariably, only the person identified from the photo lineup also identifies the person he saw in the photos. This is called "photo-biased lineup," and the chances of a mistaken identification rise dramatically in such a situation.
+A 1977 study conducted at the University of Nebraska shows the effect of photo bias on the memory of witnesses. Student "witnesses" watched some "criminals" committing a crime. An hour later they looked through mug shots that included some of the criminals they had seen. A week later lineups were staged, and the subject witnesses were asked to indicate those who had taken part in the original crime. Eight percent of the people in the lineups were identified as criminals, yet they had neither taken part in the "crime" nor were their pictures included in the mug shots. Twenty percent of the innocent people whose photographs were included among the mug shots were also falsely identified. None of these people had committed a crime, not had they ever before been seen in person--and yet they were recognized from photographs and identified as criminals.
+How often are mistaken identifications made? How many Father Paganos and Lenell Geters have been falsely arrested, wrongly convicted, and spent time in prison for crimes they never committed? In a classic text on the subject, Convicting the Innocent, legal scholar Edwin M. Borchard presents sixty-five cases of "erroneous criminal convictions of innocent people." In twenty-nine of these cases, or approximately 45 percent, mistaken eyewitness identification was responsible for the conviction. Borchard concludes: "These cases illustrate the fact that the emotional balance of the victim or eyewitness is so disturbed by his extraordinary experience that his powers of perception become distorted and his identification is frequently most untrustworthy" (p. 367).
+Misidentifications are often blamed on the fact that the real criminal bears a close resemblance to the wrongly identified person. But in the twenty-nine cases in which mistaken eyewitness identification was responsible for the wrongful conviction, Borchard reports these facts:"...in eight of these cases the wrongfully accused person and the really guilty criminal bore not the slightest resemblance to each other, whereas in twelve other cases, the resemblance, while fair, was still not at all close. In only two cases can the resemblance be called striking." (p. 367).
+In 1983 Arye Rattner, a graduate student at Ohio State University, completed his doctoral dissertation titled Convicting the Innocent: Where Justice Goes Wrong. Rattner estimated that 0.5 percent (one-half of 1 percent) of people arrested and charged for what the FBI calls "indexed crimes"--murder, robbery, forcible rape, forgery, larceny, assault, and arson--are wrongfully convicted. Although statistically this number seems small, it is one of the largest estimates I've seen, and it translates into an estimated 8,500 wrongful convictions in the United States in one single year.
+Let's assume that Rattner's statistics are abnormally high--perhaps the percentage is twice what it should be, which would translate to 4,250 wrongful convictions in this country every year. Perhaps it's only half of that, in which case we would have 2,125 wrongful convictions. We could keep whittling the numbers down, but at some point the statistics have to hit us in the gut--these are real people, people like you and me, who are picked off the street, tried, convicted, and imprisoned--and yet they are innocent . If it were just ten people in one year, it would be too many.
+How many people in Rattner's study were convicted on the basis of mistaken eyewitness identification? Rattner carefully examined over two hundred cases and found that 52.3 percent resulted from eyewitness misidentification. "Our data," Rattner concludes, "indicate that eyewitness misidentification is the factor most often associated with the wrongful conviction" (p. 292).
+What are the solutions to this grievous problem? Despite the obvious risks inherent in eyewitness identification, it would be a tragic mistake to exclude all eyewitness testimony, because very often, as in cases of rape, it is the only evidence available. And often eyewitness's testimony is correct. But what about that small percentage of times when it is incorrect--how can we safeguard the rights of the innocent person who might be falsely accused? What can we do to give jurors a better understanding of the uses and pitfalls of such testimony?
+Defense attorneys often ask judges to read a list of instructions to the jury on the dangers of eyewitness identification. But the instructions tend to be convoluted and hard for many people to follow. Moreover, numerous psychological studies have shown that jurors have difficulty understanding the instructions. Another possible solution in eyewitness cases is expert testimony--a psychologist can explain to the jury how human memory works and apply the experimental findings to the case in question.
+This is what I do. I testify in court about the nature of human memory and the psychological factors that affect eyewitness testimony. I testify in cases where eyewitness identification is the sole or primary evidence against the defendant, including death penalty cases, where the consequences of a mistaken identification are potentially irreversible.
+When I began my research on human memory twenty years ago, it had nothing to do with courts of law or expert testimony. When lawyers asked me if I would testify in cases where eyewitness identification played a major role, I was willing to speak out in hopes that the relevant psychological research might help to make our criminal justice system work more fairly.
+When I testify in a criminal trial, my testimony does not guarantee that innocent people will go free--but it undoubtedly increases their chances. We cannot, we dare not, assume that our criminal justice system works perfectly and that all innocent men and women are sufficiently protected. "Trials are human affairs and therefore necessarily imperfect," wrote Judge Jerome Frank in his book Not Guilty. Mistakes will be made, innocent lives will continue to be pulled into the vast, complicated machinery of our justice system, and some will never make it back out again.
+More than seven thousand people have been executed in the twentieth century in this country; a recent study indicates that at least twenty-five of these were innocent. Twenty-five lives taken by mistake. Nearly sixteen hundred people are now on death row--how many of them are innocent?
+Hidden within statistics and complicated discussions about guilt and innocence is an unanswerable question, an unsolvable dilemma. In some cases--in Father Pagano's and Lenell Geter's case--the innocent person is proven innocent. But in many cases, innocence cannot be proven beyond a shadow of a doubt. Of the cases I describe in detail in this book, only two have outcomes that are neatly and cleanly tied up, with the real put safely behind bars and the innocent man completely and publicly exonerated. Hollywood can offer us pat, happy endings, but real life often does not give us the facts lined up in neat little rows, carefully sorted and assembled, every snag and tangle smoothed out. But in the absence of such absolute proof, is the person less innocent?
+Consider the case of Jimmy Landano. Landano is a former heroin addict and ex-con who did time in Attica. He's now doing life plus fifteen years in Rahway State Prison in New Jersey for killing a policeman in 1976. He was also convicted of robbery, gun possession, breaking in, car theft, and conspiracy.
+Four eyewitnesses and an accomplice who admitted his own role in the murder testified in court that Landano was the man who fired the fatal shot. Hairs found in the killer's hat were similar to Landano's; his name was in the address book of another accomplice to the murder; and he had no airtight alibi.
+The case against the ex-con and ex-junkie was overwhelmingly persuasive. And when he threatened to "come after" the prosecutor when he got out of prison, the judge and jury were even more convinced that they had convicted a dangerous criminal who should spend his life behind bars.
+But Landano claims that he was set up by members of a motorcycle gang known as The Breed in order to protect the real killer. They planted a hat similar to his own on the seat of the getaway car, Landano says. His history as a heroin addict and his incarceration in Attica for grand larceny made him a perfect "throwaway."
+Four eyewitnesses pointed to a photograph of Landano as the cop killer; but not all of their facts fit. One eyewitness claimed the killer had a thick mustache while another described the man as having no mustache at all; Landano has a bushy mustache. One forensics expert testified that hairs found in the killer's hat might be Landano's; another expert said they probably weren't. The killer's ski jacket looked comical on Landano, the sleeves reaching only two-thirds of the way down his long arms, exposing two tattoos. Tight at the shoulders and around the chest, it restricted his movements; he couldn't even make the zippers meet. His mother and girlfriend testified that he had been with them during the morning of the killing; but even if the jury believed them, there was theoretically enough time for Landano to commit the crime.
+Jim Landano spends his free time in prison reading court transcripts and police reports, pleading his case to anyone who will listen, writing letters to lawyers and reporters, and helping other inmates with similar cases. He is forty-four years old, and it will be twenty more long years before he is eligible for parole. The waiting makes him edgy; he is terrified of growing old in prison and missing out on the chance to straighten out his troubled life. Prisons breed hatred and desperation, he says. "When you treat people like animals," he repeats, over and over, "I've been framed," Landano says with fierce conviction. "I'm innocent."
+It's one man's passionate declaration of innocence against the sworn word of four eyewitnesses, three accomplices, and a jury of twelve people who carefully weighed the evidence and found Jimmy Landano guilty.
+Who is right and who is wrong?
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/wgbh/pages/frontline/shows/network/etc/credits.html
+WARC-Date: 2014-03-07T05:28:09Z
+WARC-Record-ID: <urn:uuid:3fe06a18-f4f2-4891-948d-1b1eaf9891ba>
+WARC-Refers-To: <urn:uuid:f0bd7e9a-4aec-4c2d-8e58-61e092745bc6>
+WARC-Block-Digest: sha1:63JCRVKCY3FDWV6UW5NX4USO7Z4G776B
+Content-Type: text/plain
+Content-Length: 4629
+
+Credits | Inside The Terror Network | FRONTLINE | PBS
+FRONTLINE
+SEARCH FRONTLINE
+CLOSE
+Recent ProgramsCOMPLETE PROGRAMS »
+Secrets of the VaticanFebruary 25th
+Secrets of the VaticanAn inside look at the scandals that rocked Benedict’s Papacy.WATCH »
+Generation LikeFebruary 18th
+Generation LikeWhat happens when the perennial teenage quest for identity is exposed on social media?
+WATCH »
+Next on FRONTLINECHECK LOCAL LISTINGS »
+Rape in the FieldsEncore PresentationMarch 18th
+Rape in the FieldsLowell Bergman investigates the hidden reality of rape on the job for immigrant women working in America’s fields, farms and factories. PREVIEW »
+TB Silent KillerMarch 25th
+TB Silent KillerFRONTLINE presents an unforgettable portrait of lives forever changed by tuberculosis, once thought to be a disease of the past.
+PREVIEW »
+Afghanistan / PakistanBiographiesBusiness / Economy / FinancialCriminal JusticeEducationEnvironmentFamily / ChildrenForeign Affairs / DefenseFRONTLINE WorldGovernment / Elections / PoliticsHealth / Science / TechnologyIraq / War on TerrorMediaRace / MulticulturalReligionSocial IssuesSports
+Get Our NewsletterFollow Us
+Tips / Contact Us
+History
+Senior Editorial Team
+Producers
+Awards
+FAQs
+Privacy Policy
+Journalistic Guidelines
+Press Room
+Buy DVDs on ShopPBS
+Download on iTunes
+Teacher Center
+FAQs
+RECENT GUIDES
+College, Inc.
+Obama's Deal
+The Vaccine War
+WATCHSCHEDULETOPICSABOUT FRONTLINESHOPTEACHER CENTER
+PROGRAM: INSIDE THE TERROR NETWORK
+AIRDATE: JANUARY 17, 2002
+PRODUCED AND DIRECTED BY
+Ben Loeterman WRITTEN BY
+Ben Loeterman and Hedrick Smith
+CORRESPONDENT
+Hedrick Smith
+EDITOR Rod Longhurst
+ASSOCIATE PRODUCER
+Laura Longsworth
+FIELD PRODUCER
+Tom Jennings
+CAMERA Bob Perrin
+SOUND John Austin
+Richard Patterson
+Tony Pasfield
+ADDITIONAL CAMERA James Callanan
+Dirk Nel PRODUCTION COORDINATOR
+Jessica Day GRIP
+Michael Gallagher
+PRODUCTION ASSISTANTS
+Moses Shumow
+Hector Rebellion
+RESEARCHER
+Sandra Velvel
+TRANSCRIBER
+Johanna Kovitz
+BBC PRODUCTION TEAM Aidan Laverty
+Jane Corbin
+Thea Guest
+John Thynne ORIGINAL MUSIC
+Nine Yards Productions
+ONLINE EDITOR
+Michael H. Amundson
+SOUND MIX Keith Nixon
+Greg McCleary
+SPECIAL THANKS Marc Henderson, Miami International Airport Sean Berry, Palm Beach Flight Training
+Jeff Dix, Palm Beach Flight Training
+Bob Norman, Broward New Times
+Sue Desantis, Huffman Aviation
+Ricardo Rios
+Kevin Sullivan, Portland International Jetport
+CHARACTER VOICES
+Michael McNally
+Margret Guillemin
+ARCHIVAL MATERIALS
+Associated Press Television News
+Canadian Broadcasting Corporation
+BBC Copyright 2002 British Broadcasting Corporation
+All Rights Reserved
+FOR FRONTLINE:
+PRODUCTION MANAGER	Tim Mangini
+ON-AIR PROMOTION PRODUCER
+M.G. Rabinow
+SENIOR EDITOR
+Steve Audette
+AVID EDITORS	Michael H. Amundson
+John MacGibbon
+POST PRODUCTION COORDINATOR
+Patricia Giles
+POST PRODUCTION ASSISTANT
+David McMahon	SERIES MUSIC Mason Daring
+Martin Brody
+COMMUNICATIONS MANAGER	Erin Martin Kane
+SENIOR PUBLICIST	Christopher Kelly
+PUBLICIST	Jessica Smith
+PROMOTIONS ASSISTANT
+Jenna Lowe
+SECRETARY
+Mary Sullivan
+COMPLIANCE MANAGER
+Lisa Palone-Clarke
+PARALEGAL	Adrienne Armor
+UNIT MANAGER	Douglas D. Milton
+BUSINESS MANAGER	Tobee Phipps
+WEBSITE PRODUCTION ASSISTANT
+Todd Goldstein
+WEBSITE ASSOCIATE PRODUCERS
+Sarah Moughty
+Kimberly Tabor WEBSITE COORDINATING
+PRODUCER
+Stephanie Ault
+WEBSITE PRODUCER/
+DESIGNER	Sam Bailey
+WEBSITE MANAGING EDITOR
+Wen Stephenson
+EDITORIAL RESEARCHER
+Catherine Wright
+REPORTER
+Dana Reinhardt
+COORDINATING PRODUCER	Robin Parmelee
+STORY EDITOR
+Ken Dornstein
+SERIES EDITOR	Karen O'Connor
+SENIOR PRODUCER SPECIAL PROJECTS
+Sharon Tiller
+EXECUTIVE PRODUCER
+SPECIAL PROJECTS
+Michael Sullivan
+EDITORIAL DIRECTOR Marrie Campbell
+SERIES MANAGER	Jim Bracciale
+EXECUTIVE EDITOR
+Louis Wiley Jr.
+EXECUTIVE PRODUCER	David Fanning	A BBC/WGBH FRONTLINE coproduction with Ben Loeterman Productions, Inc.
+© 2002
+WGBH EDUCATIONAL FOUNDATION	ALL RIGHTS RESERVED
+FRONTLINE is a production of WGBH Boston, which is solely responsible for its content. home + introduction + should we have... + their personal stories + inside al qaeda + reporter's notebook
+producer's chat + discussion + tapes & transcripts + press + credits + privacy
+FRONTLINE + wgbh + pbs online
+web site copyright 1995-2014
+WGBH educational foundation
+SUPPORT PROVIDED BY
+NEXT ON FRONTLINE
+Rape in the FieldsEncore PresentationMarch 18th
+TODAY'S STORIESMarch 6, 2014 / 12:01 pmCDC: Some Doctors Contribute to Superbug Spread
+March 5, 2014 / 1:23 pmPope Francis Defends Church’s Response To Clergy Sex Abuse
+March 4, 2014 / 11:56 amComing in March on FRONTLINE
+Join our newsletter
+Follow @frontlinepbs
+FRONTLINE on 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/wgbh/pages/frontline/tehranbureau/2012/01/news-ex-guard-warns-khamenei-uranium-enrichment-starts-at-fordow.html
+WARC-Date: 2014-03-07T05:24:47Z
+WARC-Record-ID: <urn:uuid:e15fd960-4f79-43c7-991a-94904b43cbda>
+WARC-Refers-To: <urn:uuid:9534739b-3cc7-4408-95ee-8ab3882a5fc5>
+WARC-Block-Digest: sha1:JW3TTCQGOYTPATH5EBTDSIKOXIL2VXH6
+Content-Type: text/plain
+Content-Length: 17875
+
+News | Ex-Guard Warns Khamenei; Uranium Enrichment Starts at Fordow - Tehran Bureau | FRONTLINE | PBS
+FRONTLINEVIDEO ARCHIVESCHEDULETOPICSABOUT FRONTLINEBUY DVDSTEACHERS
+2013 | A Rough Year for Iran Comment | The Complex Mechanics of Removing US Sanctions on Iran
+Dispatch | Yalda: The Evolution of an Iranian Tradition
+2013 | Tehran Bureau Analysis | Drones and the US-Iran Shadow War
+New Media | Against a Shattered Justice System, the Power of YouTube
+History | On Iranians, Drinking Wine, and Cultural Stereotyping
+Video | The English Barrier
+Passport | A Gulf, a Strait, and a Sea
+News | Majles Backflips in Election Law Folly; What's New Is Old in Nuke Policy
+Elections | Defining Democracy Down: Iran's New Presidential Election Law
+Diaspora | Community (Re)Defined: Hailing Successes, Recognizing Failures
+Media Watch | Conservative Bloggers in Iran: Beheshti and Citing Ahmadinejad
+Debate | A Democratic and Unified Opposition Is a Strategic Imperative
+In Focus | Nasrin Sotoudeh Ends Hunger Strike after Daughter's Travel Ban Lifted
+Dispatch | A Faith of Their Own: Islam and Iranian Youth
+News | Sotoudeh in Critical Condition; 'Maturity' Test for Women's Passports?
+News | US Sets March Deadline for Nuke Cooperation; Iran Girds for Assad's Fall
+Dispatch | Government in a Fog as Recession Looms ... or Has It Arrived?
+Elections | Senior Ayatollah: No Free Vote in Sight, Iran Ruled with 'Lies'
+Analysis | Iran's Nuclear Program: A Shift in the Winds?
+Death of a Blogger | Call for Top E-Cop to Resign; Police Admit 'Negligence'
+Q&A | Iran's Post-U.S. Influence in Iraq
+Society | A King Alone
+Dispatch | Gaza and the Israeli-Hamas Conflict as Seen from Iran
+Profile | Maryam's Temporary Matrimonies: A Story of Sigheh
+Arts | Poetry in Translation: History and Romance in the Verse of H. E. Sayeh
+Briefing | Satellite Wars: Why Iran Keeps Jamming
+News | Report: Coroner Asserts Beheshti 'Died from Natural Causes'
+Video | '10 Centimeters Too High': A Clerical Take on Sex Ed
+Art HouseCommentaryDispatchesFeaturesNotebookPress Roundup
+Tweet
+News | Ex-Guard Warns Khamenei; Uranium Enrichment Starts at Fordow
+by MUHAMMAD SAHIMI in Los Angeles
+10 Jan 2012 21:34Comments
+Press Roundup provides a selected summary of news from the Farsi and Arabic press and excerpts where the source is in English. Tehran Bureau has not verified these stories and does not vouch for their accuracy. Any views expressed are the authors' own. Please refer to the Media Guide to help put the stories in perspective. You can follow breaking news stories on our Twitter feed.
+Iran Standard Time (IRST), GMT+3:30
+9:30 p.m., 20 Dey/January 10 In an article in the newspaper Ettelaat, Hossein Alaei, a former high-ranking officer in the Islamic Revolutionary Guard Corps, made an implicit comparison between Iran during the revolutionary era of 1978-79, and what happened in the aftermath of the June 2009 presidential elections. The article appeared on the 34th anniversary of the bloody demonstrations that took place in Qom on January 9, 1978, the day after Ettelaat published an article by an unknown author with the pseudonym Ahmad Rashidi Motlagh that insulted Ayatollah Ruhollah Khomeini. Alaei (seen here in an image from the 1980s) wrote that before that event and in its immediate aftermath, ordinary Iranians did not target the Shah directly, but "the continuation of the violent crackdown on the people's protests forced people to directly oppose the Shah himself.... After those events, people began addressing letters to the Shah, and he was correctly identified as the main culprit and responsible for the state of the nation. People then decided to prevent anyone from ruling over them permanently." Alaei then posed several hypothetical questions that the Shah could have asked himself:
+"Would the problem have ended had I allowed the people to demonstrate peacefully and not accused them of confronting the government?"
+"Would I have not gotten a better outcome had I ordered the security forces not to shoot at the people and just try to calm them down?"
+"Would I have had to leave the country had I not put some of the statesmen and political activists under house arrest and not exiled others, and instead opened discussions with them?"
+"Would I have had to take refuge in a foreign land had I not insulted the people's collective wisdom and not called them agents of foreign countries?"
+"Would I have not lasted longer in my rule had I not accused the people of acting against the nation's national security, accepted the opposition, and even recognized their right [to oppose me]?"
+Alaei concluded with a well-known Qur'anic verse: "Thus, learn your lesson you who have eyes."
+Though he never mentions Supreme Leader Ayatollah Ali Khamenei, it is clear that Alaei is comparing Khamenei and his rule with the Shah and his regime.
+This is a very significant article from a well-positioned figure who has always been loyal to the Islamic Republic. Alaei was one of the top Revolutionary Guard commanders during the Iran-Iraq War, and the first commander of the Guard navy when it was founded in 1985. He also served as Guard chief of staff, deputy defense minister, and head of the Defense Ministry's aerospace division. He is now on the faculty of Imam Hossein University, which is linked to the Guards, and managing editor of the monthly Sanaa-ye Havaaei (Aerospace Industries). In his 15th letter to Khamenei, journalist and documentary filmmaker Mohammad Nourizad, who used to be an ardent supporter of the Supreme Leader, praised Alaei and asked him to write a letter to Khamenei. Alaei's article seems to be his response to the request.
+Interestingly, commemorating the same occasion, an item in the newspaper Jomhouri-ye Eslami, whose editor-in-chief, Masih Mohajeri, is close to Akbar Hashemi Rafsanjani, discussed in detail the recent events in Egypt, before and after the downfall of former President Hosni Mubarak. The article ended with a declaration: "Dictators must learn the lesson from what happened to the Pharaohs." IAEA confirms uranium enrichment underway at Fordow
+"The International Atomic Energy Agency can confirm that Iran has begun enriching uranium at Fordow enrichment facility," said agency spokesman Gill Tudor. "All the nuclear materials at this facility are safeguarded and under control by the IAEA." The Fordow facility, near Qom, has been built under a mountain, presumably to protect it from bombardment and other forms of military attack.
+Iran has not officially announced that it has begun enrichment activities at Fordow. Speaking at a ceremony marking the beginning of an exhibition of the progress of Iran's nuclear industry at the University of Hormozagan in southern Iran, Dr. Fereydoun Abbasi Davani, the president of the Atomic Energy Organization of Iran, said, "Wait for a few weeks for good nuclear news." He also said that the Fordow facility "will soon officially open," and will be able to produce uranium at 3.5, 4, and 20 percent enrichment. Al-Arabiya, the website that reflects the views of Saudi Arabia, was the first to report that the enrichment had already begun. Reacting to the subsequent international media coverage, Ali Asghar Soltanieh, Iran's permanent representative to the IAEA, said that all of Iran's nuclear activities are being monitored by the agency. In a separate interview with ISNA, the Iranian Students News Agency, Soltanieh said that the international reaction to the news has been "exaggerated." He added that the IAEA was notified about Fordow more than two years ago, and the agency's inspectors are present at the facility and monitor everything "24 hours a day."
+Iranian media outlets have largely silent about the issue. Aftab News, the website that is close to Rafsanjani, reported that according to Reuters, quoting Al-Arabiya, the enrichment activity had begun. Mashregh News, the website with links to the Islamic Revolutionary Guard Corps, also only referenced the Reuters report.
+Abbasi also said that no date has yet been set for the planned visit of a team of IAEA officials and experts to Iran, that the first batch of fuel for the Tehran Research Reactor produced within Iran will soon be used, and that "the enemy" is trying "to terrify our youth by assassinating our nuclear experts and scientists." Speaking on CBS's Face the Nation on Sunday, U.S. Defense Secretary Leon Panetta said Iran is laying the groundwork for making nuclear weapons someday, but is not yet building a bomb. He called for continued diplomatic and economic pressure to persuade Tehran not to take that step. He also cautioned against a unilateral strike by Israel against Iran's nuclear facilities, saying the action could trigger Iranian retaliation against U.S. forces in the region. "We have common cause here" with Israel, he said. "And the better approach is for us to work together."
+Potential successors to Central Bank governor
+As noted here, Central Bank Governor Mahmoud Bahmani has threatened to resign unless he is given much greater freedom to do his work. There is considerable speculation in the Iranian media about his possible successor, should he resign. Shafaf, the website close to Tehran Mayor Mohammad Bagher Ghalibaf, has suggested two potential successors. One is Hamid Baghaei, Mahmoud Ahmadinejad's vice president for executive affairs, who is despised by the hardliners and has been accused of corruption. The second is Mohammad Reza Farzin, currently deputy economic and financial affairs minister and secretary-general of the Commission for Targeted Subsidies, formed last year to manage the elimination of subsidies on basic food items and energy.
+Bahmani, who was appointed to his post in September 2008, has been under tremendous pressure by the hardliners, due to the wide fluctuations in the foreign currencies market and the lack of oversight by the Central Bank, which they believe has led to widespread corruption. He recently said, "We should run the nation in a way that we can preserve ourselves for two years. It appears that we have been trapped in Shoab abi Taleb." This is a reference to the site where Muslims believe the Prophet Muhammad and his supporters were surrounded for three years and grew so hungry that they beat their abdomens with rocks.
+Khamenei predicts big turnout for Majles elections
+In a meeting with clerics from Qom, Khamenei claimed that the turnout for the Majles elections, to be held on March 3, will be large and "will break the enemy['s back]." Speaking on Monday at a commemoration of the Qom demonstrations of 1978, he said, "Since quite some time ago, the enemy and its foot soldiers and minions, both in Iran and outside, have been trying to minimize participation in the elections." He predicted that 65 percent of those eligible will cast votes. Khamenei also rejected Bahmani's warning about the dire state of the economy, and suggested instead that the Islamic Republic is under the same conditions that Muslims were during the Prophet's era at the time of the Badr and Kheibar wars, in which Muslims were victorious.
+One day earlier, Basij commander Brigadier General Mohammad Reza Naghdi, said that Rafsanjani has met with Khamenei to persuade him to allow the reformists to run in the Majles elections, but the Supreme Leader responded that he will not work with the reformists under any circumstances. Meanwhile, every reformist group in the country has called for a boycott of the elections; in fact, for the first time in the history of the Islamic Republic, there is virtually unanimous agreement in the opposition, both inside Iran and in the diaspora, about the necessity of a boycott.
+On Sunday, an Intelligence Ministry official claimed, "Four people who had been organizing [social] networks and carrying out anti-security operations against the elections have been identified and arrested. The arrested people had received sophisticated instruments from the enemy for secret communications and were organizing networks to create disturbances in the country." Arrests of journalists and political activists continue
+The arrests of three well-known activists and journalists have been confirmed. Dr. Saeed Madani, member of the central committee of the Nationalist-Religious Coalition (NRC), was first arrested in March 2001, together with several other members of the NRC. After spending 12 months in prison -- five of those in solitary confinement -- he was finally released after he posted $250,000 bail. Reports indicate that his wife might have also been arrested. He had been threatened over the past several weeks by the security forces. Unconfirmed reports indicate that Dr. Madani's nephew has also been arrested in Isfahan.
+Ehsan Houshmand, 43, another member of the NRC, has also been arrested. In his work Houshmand has emphasized relying on Iranians' national identity, the need to protect Iran's territorial integrity, and the problems with Iran's ethnic minorities. He was first arrested in January 2010, but was released after a while. Reports indicate that he was arrested by Iran's drug enforcement administration, but the reason for such an arrest is not clear. Read an interview with him here.
+Over the past 30 months, the pressure on the nationalist-religious activists has increased dramatically. Nationalist-religious journalists Dr. Ahmad Zeidabadi, Keyvan Samimi, and Dr. Alireza Rajaei have been imprisoned. Emad Bahavar, head of the youth division of the Liberation Movement of Iran, has been in jail since 2010. Mohammad Tavasoli, head of the NRC's central committee, was arrested in November 2011, as was his son-in-law Farid Taheri. Tavasoli's daughter, Leila Tavasoli, has also been in prison since early 2010. Masoud Pedram, another nationalist-religious activist, is in detention as well.
+Also arrested is journalist Fatemeh Kheradmand, wife of journalist Masoud Lavasani. It has been speculated that she was arrested because of her work organizing the families of political prisoners. Lavasani was arrested in the aftermath of the June 2009 presidential election and sentenced to two years of incarceration. He was released only recently after serving his sentence. In addition to Madani, Houshmand, and Kheradmand, Dr. Mehdi Khazali, blogger, dissident, and son of the reactionary cleric Ayatollah Abolghasem Khazali, was arrested on Monday. According to his wife he was arrested at his work. Security agents attacked him, broke a bone in his hand and his teeth, and then took him away. Mahmoud Dardkeshan, a political activist who was close to the late Grand Ayatollah Hossein Ali Montazeri, is also under arrest. He has been arrested five previous times and has spent many years in prison.
+Human rights news
+Distinguished journalist Isa Saharkhiz has been hospitalized for nearly a month, but his family has been under pressure not to talk publicly about his hospitalization. He suffers from blood pressure fluctuations and severe pain in his back and neck, to the point that he has been forced to use a wheelchair. Prominent attorney and human rights advocate Abdolfattah Soltani, who has been in prison since September 10, 2011, refused to defend himself during his trial. The reason, according to his daughter Maedeh Soltani, was twofold. First, he has demanded his trial to be with a jury and open to the public, in accordance with Article 168 of the Constitution, and second, he believes that his arrest has been unlawful.
+Javad Lari, a political prisoner who spent five years in jail in the 1980s for allegedly supporting the Mojahedin-e Khalgh Organization, has been sentenced to death again. He was arrested in September 2009 and sentenced to death by the notorious judge Abolghasem Salavati. That sentence was nullified by the Supreme Court, but Salavati has now sentenced Lari to death a second time. It has been reported that his interrogator in the 1980s has met with him in jail and has told him that he has lived "20 extra years," and that he will soon be executed. Lari is in his 60s.
+Dr. Ghasem Sholeh Sadi, professor of international law at the University of Tehran and former Majles deputy, is on the verge of becoming paralyzed from waist down, due to lack of medical attention in jail. He wrote an open letter in 2002, after which it was arrested and sentenced to 30 months of imprisonment for "insulting the Supreme Leader." He was arrested last year again by the security forces in order to enforce his sentence.
+Labor and university activist Meysam Nejati Aref was arrested on January 3, and it is still not clear where he is being held. He is a student at Islamic Azad University in Karaj and also works at Saipa, Iran's second largest car manufacturer.
+Copyright © 2012 Tehran Bureau
+Follow Tehran Bureau on Facebook and Twitter.
+SHARE Please enable JavaScript to view the comments powered by Disqus.
+blog comments powered by Disqus
+In order to foster a civil and literate discussion that respects all participants, FRONTLINE has the following guidelines for commentary. By submitting comments here, you are consenting to these rules:
+Readers' comments that include profanity, obscenity, personal attacks, harassment, or are defamatory, sexist, racist, violate a third party's right to privacy, or are otherwise inappropriate, will be removed. Entries that are unsigned or are "signed" by someone other than the actual author will be removed. We reserve the right to not post comments that are more than 400 words. We will take steps to block users who repeatedly violate our commenting rules, terms of use, or privacy policies. You are fully responsible for your comments.
+CLOSE
+Contact Us
+Follow us on Email Us: CLOSE
+Subscribe
+via RSS
+Name
+Email
+Art HouseCommentaryDispatchesFeaturesNotebookPress Roundup
+posted january 10, 2012
+FRONTLINE is a registered trademark of wgbh educational foundation.
+web site copyright © 2008-2014 TehranBureau
+
+

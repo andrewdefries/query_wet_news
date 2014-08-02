@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2125165/cincinnati-zoos-baby-gorilla-gladys-goes-outside-for-the-first-time/
+WARC-Date: 2014-03-07T06:51:48Z
+WARC-Record-ID: <urn:uuid:b5f2b57d-c03c-4ef5-87f3-8022f5dbe2b2>
+WARC-Refers-To: <urn:uuid:d7a42a4e-aef3-4960-ab6a-1cba3dac0542>
+WARC-Block-Digest: sha1:N3HMVWTVTF2R7JOI3LR5ULX3KUPUW4FJ
+Content-Type: text/plain
+Content-Length: 68
+
+Cincinnati Zoo's baby gorilla Gladys goes outside for the first time
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nba/game/boxscore/l.nba.com-2008-e.10916/
+WARC-Date: 2014-03-07T06:48:14Z
+WARC-Record-ID: <urn:uuid:37fcf436-b697-4ddc-aa47-34d71dc36862>
+WARC-Refers-To: <urn:uuid:48531791-97a1-4feb-889f-771472a90f8f>
+WARC-Block-Digest: sha1:Y6RONJW6JX4WZYHE32BFOXR456PIKK4F
+Content-Type: text/plain
+Content-Length: 65
+
+Dallas Mavericks at Portland Trail Blazers | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/life/people/2014/02/26/what-makes-a-winning-oscar-look/5815641/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+usatoday-LifeTopStories+%28USATODAY+-+Life+Top+Stories%29
+WARC-Date: 2014-03-07T06:46:43Z
+WARC-Record-ID: <urn:uuid:79498081-9784-4ab1-8965-0c33d1228bf8>
+WARC-Refers-To: <urn:uuid:60fc6a71-4d4f-42b7-8998-279b30c0238f>
+WARC-Block-Digest: sha1:XU6JSQT22TD6YAZHHIIIKUNKMDD5AE2P
+Content-Type: text/plain
+Content-Length: 186
+
+What makes a winning Oscar look?NewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGames<
+

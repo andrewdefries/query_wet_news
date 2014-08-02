@@ -1,0 +1,91 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/2013/05/30/3424092/new-campo-in-miami-beach-offers.html
+WARC-Date: 2014-03-07T06:46:51Z
+WARC-Record-ID: <urn:uuid:6590eaa2-6d71-4f1c-985e-dd1fee874f56>
+WARC-Refers-To: <urn:uuid:fdcfb639-b8a0-4de0-a9b5-e81bbde0b206>
+WARC-Block-Digest: sha1:LFBHGZMRJZAZ5T54KX5CIWCAAU3BH6ZD
+Content-Type: text/plain
+Content-Length: 378
+
+New Campo in Miami Beach offers Argentine grill and more - Fork in the Road - MiamiHerald.com
+Customer Service
+Digital Newspaper
+el Nuevo Herald Classifieds
+Jobs Cars Real Estate Find & Save Deals Public Notices
+Place an Ad
+Fork in the Road
+Home
+Quick Links
+Customer Service Email Newsletters Events Calendar
+Facebook
+Twitter
+Mobile & Apps
+RSS
+Classifieds Jobs Cars Real Estate 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/broward-central/index-p2.html
+WARC-Date: 2014-03-07T06:48:54Z
+WARC-Record-ID: <urn:uuid:d0ee9670-550c-42a6-a151-87987c24bb33>
+WARC-Refers-To: <urn:uuid:e252b8ff-439f-4a1e-807c-4213878a348e>
+WARC-Block-Digest: sha1:4FVIRKHE7O2W6ZVMOCTJ6UQIY7HV4VEF
+Content-Type: text/plain
+Content-Length: 16
+
+MiamiHerald.com
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/classified-ads/Employment/classification/MICBNonprofit+-+Social+Services?fb_sf_published_at_l=[*%20TO%201360645200]&sort=is_featured_b%20desc%2Cpublished_at_l%20desc
+WARC-Date: 2014-03-07T06:50:38Z
+WARC-Record-ID: <urn:uuid:38f21c27-a7a9-4484-8b8e-1746ecada6a0>
+WARC-Refers-To: <urn:uuid:e5cbf533-e232-4705-a5e1-5e9795606f13>
+WARC-Block-Digest: sha1:GPHOAFZV2SMFZJHKRY6FCKEHR74VTD27
+Content-Type: text/plain
+Content-Length: 29
+
+Miami Herald: Classified Ads
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/classified-ads/Real+Estate+for+Rent/classification/Homes+for+Rent?start=20&fb_sf_published_at_l=[1362974400%20TO%20*]&sort=is_featured_b%20desc%2Cpublished_at_l%20desc
+WARC-Date: 2014-03-07T06:50:04Z
+WARC-Record-ID: <urn:uuid:ff042787-3acc-4200-b152-316dd56563ea>
+WARC-Refers-To: <urn:uuid:da78d3da-cb61-45ea-9488-8ce151932fc2>
+WARC-Block-Digest: sha1:GPHOAFZV2SMFZJHKRY6FCKEHR74VTD27
+Content-Type: text/plain
+Content-Length: 29
+
+Miami Herald: Classified Ads
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/classified-ads/Real+Estate/classification/MIHFMulti-Family+Home/?start=90&fb_sf_published_at_l=[*%20TO%201348545600]&sort=is_featured_b%20desc%2Cpublished_at_l%20desc
+WARC-Date: 2014-03-07T06:49:25Z
+WARC-Record-ID: <urn:uuid:d36fbd69-6982-4a4d-b39d-e10669092673>
+WARC-Refers-To: <urn:uuid:2d880cc3-0a4b-4ffa-8203-81b95749d4da>
+WARC-Block-Digest: sha1:GPHOAFZV2SMFZJHKRY6FCKEHR74VTD27
+Content-Type: text/plain
+Content-Length: 29
+
+Miami Herald: Classified Ads
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/classified-ads/ad/2429422
+WARC-Date: 2014-03-07T06:49:02Z
+WARC-Record-ID: <urn:uuid:224295f8-28c2-4b18-be30-cc9a16cc5689>
+WARC-Refers-To: <urn:uuid:06a700a2-bf19-4150-b9c7-caf8894784b7>
+WARC-Block-Digest: sha1:GPHOAFZV2SMFZJHKRY6FCKEHR74VTD27
+Content-Type: text/plain
+Content-Length: 29
+
+Miami Herald: Classified Ads
+
+

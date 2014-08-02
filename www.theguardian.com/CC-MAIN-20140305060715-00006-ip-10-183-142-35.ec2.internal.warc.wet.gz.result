@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/film/2001/jan/18/derekmalcolmscenturyoffilm.features11/print
+WARC-Date: 2014-03-07T05:29:46Z
+WARC-Record-ID: <urn:uuid:37bffb06-50b0-4f16-9602-38b02bcf8986>
+WARC-Refers-To: <urn:uuid:628e2cd0-0ef6-47fc-a4c6-1c31b0cd015a>
+WARC-Block-Digest: sha1:2GWO3CLV4HOGRYCWT5SXCCQDFL744VP3
+Content-Type: text/plain
+Content-Length: 70
+
+G2: Derek Malcolm concludes his Century of Film | Film | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/2011/may/09/us-billionaire-wikipedia-defamation
+WARC-Date: 2014-03-07T05:29:13Z
+WARC-Record-ID: <urn:uuid:98910747-9af4-4e81-8284-62b63ae93eb6>
+WARC-Refers-To: <urn:uuid:df7135be-98bd-4115-a4ee-020868462f5e>
+WARC-Block-Digest: sha1:G2GUTPBNINDMZWIQ6U25ORO57TKOJNT3
+Content-Type: text/plain
+Content-Length: 91
+
+US billionaire wins high court order over Wikipedia 'defamation' | Media | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2013/jun/01/russia-ban-adoptions-foreign-same-sex-couples
+WARC-Date: 2014-03-07T05:31:29Z
+WARC-Record-ID: <urn:uuid:14985276-bfa8-4355-9071-4c0fb6cc98a6>
+WARC-Refers-To: <urn:uuid:d80d33db-7a56-44b9-a248-ab32f1fb2081>
+WARC-Block-Digest: sha1:TFYH3WN2G5IIHBKLY4OGXCIJ5VJHOXBK
+Content-Type: text/plain
+Content-Length: 83
+
+Russia to ban adoptions by foreign same-sex couples | World news | theguardian.com 
+

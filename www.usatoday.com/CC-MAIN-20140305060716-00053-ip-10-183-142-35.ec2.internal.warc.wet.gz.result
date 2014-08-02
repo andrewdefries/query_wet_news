@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2665787/orlando-golf-top-courses-and-academies-promotional-video/
+WARC-Date: 2014-03-07T06:50:31Z
+WARC-Record-ID: <urn:uuid:6abe648f-70cd-4214-ba75-00846efa1b12>
+WARC-Refers-To: <urn:uuid:2539890f-f81c-4151-bb85-4a8c0d9097d3>
+WARC-Block-Digest: sha1:GUU7Z4AI3UUZ2ZKJQLU56PZO2DENLQYZ
+Content-Type: text/plain
+Content-Length: 59
+
+Orlando golf: Top courses and academies (promotional video)
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/latest/news/
+WARC-Date: 2014-03-07T06:44:22Z
+WARC-Record-ID: <urn:uuid:ae8bf4f7-5412-4781-a38e-09ed85b3475f>
+WARC-Refers-To: <urn:uuid:eab3dac8-a65f-476d-93b1-81497e3e1893>
+WARC-Block-Digest: sha1:MTK5Q4OKTMJIPMZR3FCTWTH4F2Z76GA3
+Content-Type: text/plain
+Content-Length: 181
+
+Videos,Photos - USATODAY.comNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGames
+

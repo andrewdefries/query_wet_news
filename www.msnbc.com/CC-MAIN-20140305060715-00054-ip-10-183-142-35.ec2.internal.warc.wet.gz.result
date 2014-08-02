@@ -1,0 +1,28 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/morning-joe?field_issues_target_id=&field_publish_date_value[min]&field_publish_date_value[max]&field_publish_date_value[timezone]=&field_publish_date_value[date_selector]=&page=624
+WARC-Date: 2014-03-07T05:28:03Z
+WARC-Record-ID: <urn:uuid:53a5e0ff-fba0-4de2-ab1b-33cb6cdceccd>
+WARC-Refers-To: <urn:uuid:b2a0000d-f9d7-4096-a761-a87795352430>
+WARC-Block-Digest: sha1:7NV6P3OCSSOMNUP6NJ7FNPX3FFVAPOQW
+Content-Type: text/plain
+Content-Length: 219
+
+Morning Joe - Joe Scarborough, Mika Brzezinski & Willie Geist on msnbc
+Jump to Navigation
+msnbc
+msn
+facebook
+twitter
+google plus
+rss
+tumblr
+instagram
+Explore
+All
+{{issue.issue.title}}
+Latest
+{{topic.topic.title}}
+Watch
+
+

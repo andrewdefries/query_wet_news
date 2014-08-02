@@ -1,0 +1,53 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/id/3036697/vp/47105656
+WARC-Date: 2014-03-07T05:29:58Z
+WARC-Record-ID: <urn:uuid:63a068e3-fcbf-4209-96a9-530eb32f3fad>
+WARC-Refers-To: <urn:uuid:6541aa03-a959-4ff8-be96-8eaad7752b29>
+WARC-Block-Digest: sha1:IFM7NLPAABMJ3RRSPR4SZDPBHQCDDOQK
+Content-Type: text/plain
+Content-Length: 29
+
+Hardball with Chris Matthews
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/id/39061291/ns/business-bpa_worldwide?q=BPA%20Worldwide
+WARC-Date: 2014-03-07T05:37:08Z
+WARC-Record-ID: <urn:uuid:1dd71a15-ea22-47cc-815f-751ad921c332>
+WARC-Refers-To: <urn:uuid:aa69d9bd-4b55-448a-ba81-a6de37eb9506>
+WARC-Block-Digest: sha1:GX7ZEA27SSFKX47EJPVH2AX267RK2PJB
+Content-Type: text/plain
+Content-Length: 82
+
+BPA Worldwide - Latest news, videos, and information- NBCNews.com
+Skip navigation
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/news/us-news/giant-chicken-crosses-road-drivers-say-they-didnt-see-it-v21157422
+WARC-Date: 2014-03-07T05:26:24Z
+WARC-Record-ID: <urn:uuid:0cd72a1d-eb42-41c4-a4f7-e6cbc82ed837>
+WARC-Refers-To: <urn:uuid:2f4205bb-61fe-4905-a10a-e80324841161>
+WARC-Block-Digest: sha1:DFVPG7DTXLDSSOHJGSRD22JPYCEQZFEL
+Content-Type: text/plain
+Content-Length: 80
+
+Giant chicken crosses the road -- and drivers say they didn't see it - NBC News
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/video/early-today/51491632/
+WARC-Date: 2014-03-07T05:38:27Z
+WARC-Record-ID: <urn:uuid:effdabe7-5677-48c0-bd13-3b6b4e8d2a06>
+WARC-Refers-To: <urn:uuid:f40f1a7c-27ab-4036-8c3d-d5f618bff8f4>
+WARC-Block-Digest: sha1:HCY3ZRG6UEGHBK5S6GAFNGOKBRQZT5ZI
+Content-Type: text/plain
+Content-Length: 68
+
+North Korean vice marshal may be pushing war - Video on NBCNews.com
+
+

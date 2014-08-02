@@ -1,0 +1,61 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2008/feb/02/art.art
+WARC-Date: 2014-03-07T05:25:36Z
+WARC-Record-ID: <urn:uuid:6a22d7ae-070b-4577-b722-b3c1c0d5755e>
+WARC-Refers-To: <urn:uuid:17295458-0865-4fac-829c-38e7072323fa>
+WARC-Block-Digest: sha1:IFO3RMLBJFR56JM72KJDEO7H2ANLH75R
+Content-Type: text/plain
+Content-Length: 62
+
+Iain Sinclair on the Camden Town Group | Books | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/discussion/report-abuse/comment/19415110
+WARC-Date: 2014-03-07T05:29:39Z
+WARC-Record-ID: <urn:uuid:7145e0db-5b92-43ce-ba22-0cbae1bf5ca2>
+WARC-Refers-To: <urn:uuid:fe6d4d37-1b2d-48a8-8e04-8fa3ae061dd1>
+WARC-Block-Digest: sha1:JCVBFS3HUFQBHTZ2A7A7CBWOQUBYVRR6
+Content-Type: text/plain
+Content-Length: 24
+
+Report abuse on comment
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/film/2011/aug/27/stargate-universe-dvd-bluray-review
+WARC-Date: 2014-03-07T05:28:21Z
+WARC-Record-ID: <urn:uuid:62f21d82-55dc-404f-9398-34990233baf6>
+WARC-Refers-To: <urn:uuid:212cf34e-d2bc-44e9-a7d2-5a4668e87643>
+WARC-Block-Digest: sha1:JJGICNYP4FBFC6TW3CK3U2IIHPCS5HBR
+Content-Type: text/plain
+Content-Length: 63
+
+This week's new DVD and Blu-ray releases | Film | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/film/signup/2010/oct/12/7-day-series
+WARC-Date: 2014-03-07T05:32:27Z
+WARC-Record-ID: <urn:uuid:b2bedc07-9eac-499f-a248-aa24598864b0>
+WARC-Refers-To: <urn:uuid:ae6aae61-b17c-4341-bc7e-dda08824d9ec>
+WARC-Block-Digest: sha1:SSUKYZXXVA2KH2LGMUVAL74L7R4U3NEV
+Content-Type: text/plain
+Content-Length: 43
+
+7 Day Film Series | Film | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/2006/may/08/citynews.business
+WARC-Date: 2014-03-07T05:24:51Z
+WARC-Record-ID: <urn:uuid:2b0905f3-510b-4033-8ba4-b688f2047399>
+WARC-Refers-To: <urn:uuid:86f5787e-dbfc-400b-8cc4-6dab7cb23a37>
+WARC-Block-Digest: sha1:5WYAJ2QN37J7IDCJTJMATKRCCVUCJCC7
+Content-Type: text/plain
+Content-Length: 59
+
+City steady on Sky's football deal | Media | MediaGuardian 
+

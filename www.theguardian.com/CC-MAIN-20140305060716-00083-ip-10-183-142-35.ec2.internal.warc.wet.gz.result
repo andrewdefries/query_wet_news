@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/2007/may/24/guestworkerprogram
+WARC-Date: 2014-03-07T06:44:37Z
+WARC-Record-ID: <urn:uuid:4e098166-fee9-49e2-98fa-156eceb19c8d>
+WARC-Refers-To: <urn:uuid:03f0560e-dc0d-4b14-aa55-9114d138640f>
+WARC-Block-Digest: sha1:U6O24RSKYAIBVKTYGSESC42S2CASTCE5
+Content-Type: text/plain
+Content-Length: 54
+
+Don't be my guest | Comment is free | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/2013/may/08/royal-mail-privatisation
+WARC-Date: 2014-03-07T06:48:44Z
+WARC-Record-ID: <urn:uuid:ede1f3d3-d927-4fa9-bf8c-4fa303384eea>
+WARC-Refers-To: <urn:uuid:54e0e59c-b017-450a-82a6-64ba6d80d891>
+WARC-Block-Digest: sha1:DLDFZX5ZD3AZ2YYQ2P7HP7JF6D5W2I2N
+Content-Type: text/plain
+Content-Length: 113
+
+Royal Mail privatisation is being delivered behind closed doors | Mario Dunn | Comment is free | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/film/2006/may/11/cannes2006.cannesfilmfestival
+WARC-Date: 2014-03-07T06:44:20Z
+WARC-Record-ID: <urn:uuid:af1c87de-47c8-40dc-8e9a-c27848596b28>
+WARC-Refers-To: <urn:uuid:7847b770-e4b9-425c-b7d6-a7c9d28d7c3f>
+WARC-Block-Digest: sha1:WGX3DZQ4TEZVKDTL5YCLE3INQXM3OL6N
+Content-Type: text/plain
+Content-Length: 80
+
+Donnie Darko director investigated for terrorist links | Film | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2009/sep/26/police-frustration-pilkington-inquest
+WARC-Date: 2014-03-07T06:52:03Z
+WARC-Record-ID: <urn:uuid:0cdf4475-7d53-473e-b972-eb02e5d88587>
+WARC-Refers-To: <urn:uuid:95aebaf5-5c34-4091-9a4a-b2c4bac93e93>
+WARC-Block-Digest: sha1:IFVB7N2IPHCZF3RH3RSWQ3Y33X4AQVGJ
+Content-Type: text/plain
+Content-Length: 119
+
+Councils, not police, deal with antisocial behaviour, top officer tells Pilkington inquest | UK news | theguardian.com 
+

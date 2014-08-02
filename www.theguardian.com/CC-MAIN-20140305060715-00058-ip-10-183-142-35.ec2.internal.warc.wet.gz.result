@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2006/feb/04/society.politics
+WARC-Date: 2014-03-07T05:24:39Z
+WARC-Record-ID: <urn:uuid:f3dcbf2f-c5a7-458b-a012-8bd304a46a32>
+WARC-Refers-To: <urn:uuid:b30f433e-d95e-4a0e-8b3d-b4106157b704>
+WARC-Block-Digest: sha1:U3CG767RRXTJ4NHUWKYN7VXO5EYID3AX
+Content-Type: text/plain
+Content-Length: 55
+
+Pankaj Mishra: The East was Red | Books | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/technology/blog/2007/jan/31/aperiodicappr
+WARC-Date: 2014-03-07T05:24:53Z
+WARC-Record-ID: <urn:uuid:521f3b17-4fb9-4618-a691-875ee4d1fde6>
+WARC-Refers-To: <urn:uuid:c8dc31f5-65db-4489-b1b4-1f2f8e66764e>
+WARC-Block-Digest: sha1:ZHX2CIZTHLCYKMQ6744T4MPEKUIDIF23
+Content-Type: text/plain
+Content-Length: 81
+
+A periodic approach to visualising visualisations | Technology | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2009/jul/06/three-deaths-swine-flu-uk
+WARC-Date: 2014-03-07T05:37:28Z
+WARC-Record-ID: <urn:uuid:740454de-283a-408b-8223-c016e980740e>
+WARC-Refers-To: <urn:uuid:b82d877e-f73c-4b2e-9bce-c1050526468a>
+WARC-Block-Digest: sha1:CDDJNNK4GETT4FIGMNVDSAZ743XZUEZI
+Content-Type: text/plain
+Content-Length: 83
+
+Three more die as swine flu cases pass 7,500 in the UK | World news | The Guardian 
+

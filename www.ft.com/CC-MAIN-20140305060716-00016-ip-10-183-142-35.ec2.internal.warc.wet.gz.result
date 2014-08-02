@@ -1,0 +1,372 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.ft.com/cms/s/05d75b74-978c-11e2-97e0-00144feabdc0,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F05d75b74-978c-11e2-97e0-00144feabdc0.html%3Fftcamp%3Dpublished_links%252Frss%252Fworld%252Ffeed%252F%252Fproduct%26siteedition%3Duk&siteedition=uk&ftcamp=published_links%2Frss%2Fworld%2Ffeed%2F%2Fproduct&_i_referer=
+WARC-Date: 2014-03-07T06:54:54Z
+WARC-Record-ID: <urn:uuid:46b86275-52e8-46b4-baa7-6dcb47cb0d7d>
+WARC-Refers-To: <urn:uuid:6c02ef99-49ce-4b98-8818-c769cd79d9ba>
+WARC-Block-Digest: sha1:32QWPSH7HACSU7M267MS6V6PSUORE65N
+Content-Type: text/plain
+Content-Length: 1504
+
+OECD gloomy on eurozone recovery - FT.com
+ft.com
+> GlobalEconomy
+> EU Economy
+Search
+Advanced search
+Subscribe
+|
+Sign in
+|
+Register
+|
+Site tour
+Welcome Subscribe
+Your account
+Site tour
+Sign out
+Email address
+Password
+Forgot password?
+Remember me on this computer
+Sign in
+"Remember me" uses a cookie. View our Cookie Policy.
+Home UK World Companies Markets Global Economy Economic Calendar Money Supply Americas China EU India Middle East UK US Macro Sweep Data Lab Tools Tools › Topics Portfolio FT clippings Alerts hub Email briefings MBA rankings Newslines FT Lexicon Mobile Currency converter FT ebooks ePaper Executive jobs FT press cuttings Social Media hub Economic calendar Lex Comment Management Personal Finance Life & Arts Last updated:
+March 28, 2013 10:33 am
+OECD gloomy on eurozone recovery
+By Claire Jones, Economics Reporter
+You have viewed your allowance of free articles. If you wish to view more, click the button below.
+Help
+•Contact us
+•About us
+•Advertise with the FT
+•Terms & conditions
+•Privacy policy
+•Copyright
+•Cookie policy
+© The Financial Times Ltd 2014 FT and 'Financial Times' are trademarks of The Financial Times Ltd.
+Printed from: http://www.ft.com/cms/s/0/05d75b74-978c-11e2-97e0-00144feabdc0.html
+Print a single copy of this article for personal use. Contact us if you wish to print more to
+distribute to others.
+© The Financial Times Ltd 2014 FT
+and ‘Financial Times’ are trademarks of The Financial Times Ltd.
+Privacy policy |
+Terms |
+Copyright
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.ft.com/cms/s/2/b73f4028-3a01-11dc-9d73-0000779fd2ac.html
+WARC-Date: 2014-03-07T06:54:28Z
+WARC-Record-ID: <urn:uuid:519a88ab-e091-43c6-9edb-3e6b74170ef0>
+WARC-Refers-To: <urn:uuid:85dfd08f-6e79-4dc1-a923-5b8cd76be512>
+WARC-Block-Digest: sha1:KHGIZN37PM5ZRW2ZZJ2NSI2WUJD6BZ5R
+Content-Type: text/plain
+Content-Length: 7519
+
+Global Financial Volatility: Day 3 - FT.com
+ft.com/frontpage
+UK
+Change edition
+Asia
+Europe
+India
+Middle East
+UK
+US
+All times are London time
+Search
+Advanced search
+Subscribe
+|
+Sign in
+|
+Register
+|
+Site tour
+Welcome Subscribe
+Your account
+Site tour
+Sign out
+Email address
+Password
+Forgot password?
+Remember me on this computer
+Sign in
+"Remember me" uses a cookie. View our Cookie Policy.
+Home Video Interactive Blogs News feed Alphaville beyondbrics Portfolio Special Reports In depth Today’s Newspaper Tools Tools › Topics Portfolio FT clippings Alerts hub Email briefings MBA rankings Newslines FT Lexicon Mobile Currency converter FT ebooks ePaper Executive jobs FT press cuttings Social Media hub Economic calendar UK World Companies Markets Global Economy Lex Comment Management Personal Finance Life & Arts July 24, 2007 5:21 pm
+Global Financial Volatility: Day 3
+Robert Engle: Good morning, we’re here at beautiful Chelsea Pier, in the heart of New York City. It’s a great place to go skating, and it’s a great place to take risk. Risk is something we often try to avoid in our lives, but some risks are really worth taking, and this is one that I like to take.
+All large corporations need to know how much risk they’re taking, particularly financial corporations, but others as well. So, they often set out risk management departments, who provide information to the CEO on a daily basis: how much risk is being taken. For example, how much risk is being taken in foreign exchange trading? How much risk does the Asian equity division take? How much risk is being taken by some particular trader who is trading energy futures? All these questions come up and need to be analysed on a daily basis.
+So, let’s talk about how these measures of risk are created. The basic measure that’s used is something called value at risk, and this is a way of trying to measure in dollars or pounds how much money the company could lose in a particular investment. The way it’s calculated is to try to find the number of dollars that you’re 99 per cent sure is worse than whatever is going to happen. In other words, it’s not quite the worst case, but it’s a 99 per cent worst case, and that’s called the value at risk. Let’s see how you do that. In the next picture, we have a graph which shows the probability of your portfolio going up in value on the right hand side, or going down in value on the left hand side. The 1 per cent point on this portfolio is the red bar on the left hand side of the graph. That is the value at risk. That tells you some number that you’re 99 per cent sure is worse than what’s actually going to happen. So, to use this method, you need to figure out what is the distribution of future values of this portfolio, whether it be a broad, diversified stock index or just some particular stock, or some portfolio that a trader is investing in. By using a GARCH model on historical data for this portfolio, you can figure out what the variance is at this point in time, because if the variance is large, this portfolio gets pulled out, and if it’s small, it gets shrunken together. And the smaller the size of this portfolio probability distribution are, the smaller the value at risk. So, that the GARCH volatility is proportional to the value at risk. So, let’s take a look at financial risk today, as measured in various different markets. When you ask most people, how risky is the global financial economy today they will say, it’s very risky. They have a lot of reasons to thinking it’s risky. In the US, we’re very concerned about the budget deficit that the government is running. We’re concerned about the balance of payments deficit. We have a war that’s expensive and is going badly. We have a good portion of the public debt owned by the Chinese government, and is part of the balance of trade - the imbalance of trade, I guess. There are many hedge funds. People are worried about the risks of hedge funds, and when we take a particularly long perspective, there is the problem of climate change, which is always in the background for our measures of risk.
+In light of all these risks, when we look at financial markets, we see a very different story. The measure of risk that a GARCH model generates is surprisingly different from this concept that risk is high. If you look at the financial markets all over the world, we will see that volatility is at an especially low level. For example, look at the rest of the data on the US S&P 500. We’ve been looking at that, but we haven’t looked up to the present. You can see the extraordinarily low volatility that we’ve had since 2003. It has stayed low, almost throughout this period, and it’s just as low as it was in the middle ‘90s. If you look at the next picture, it shows estimates of what this volatility is from the GARCH model and you can see that it has been declining dramatically over the period. This is shown in the red curve. You can also see this in the options market, because options are insurance policies that your portfolio will not decline in value, and so therefore the lower the risk, the lower the option price. The VIX is a measure of this forward looking volatility from the options markets, and you can see that falls very similarly to the GARCH model, to these record low levels. So the markets in Wall Street are telling us that volatility is low, even though we think that globally it’s high. What about in the rest of the world? Well, let’s take a look, for example, at Europe. In Europe you see the DAX and the Swiss Index both show lower volatility at the end of the period than in the beginning of the period, that it has fallen in the same sort of way that it does in the US. If you look at the Euronext countries, you see that the CAC, which is the Paris Exchange, and the Amsterdam Exchange both show low volatilities at the end of the sample period, just as in the US. In Asia, the Korean and Singapore indices both show declining volatility as you come into 2004, 5 and 6. And even China, when you look at the MSCI Index, which is the index of Chinese stocks that can be traded by foreigners, you see low volatility from about 2002 up to the present. So, we have a paradox here. The financial markets are showing very low volatility, while we think that the risks in the global market are at a very high level, and tomorrow we’re going to try to make sense out of this paradox.
+Related TopicsUnited States of America
+Copyright The Financial Times Limited 2014. You may share using our article tools.
+Please don't cut articles from FT.com and redistribute by email or post to the web.
+Share
+Share this on
+Clip
+Reprints
+Print
+Share
+Clip
+Reprints
+Print
+FT INVESTIGATIONS
+The scandal at the Vatican bank
+Qatari deals
+UK austerity
+Libor scandal
+Forex trading probes
+More FT investigations
+FINANCIAL TIMES JOBS
+Enter job search
+Search
+Business Development Manager - LCC
+Manchester Airports Group
+Financial Controller
+Manchester Airports Group
+Forensic Director
+KRyS Global
+Head of Retail – Duty Free & Innovation
+Manchester Airports Group
+Register for free to receive the latest executive jobs by email
+Printed from: http://www.ft.com/cms/s/2/b73f4028-3a01-11dc-9d73-0000779fd2ac.html
+Print a single copy of this article for personal use. Contact us if you wish to print more to
+distribute to others.
+© The Financial Times Ltd 2014 FT
+and ‘Financial Times’ are trademarks of The Financial Times Ltd.
+Privacy policy |
+Terms |
+Copyright
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.ft.com/cms/s/26418eda-5974-11e2-88a1-00144feab49a,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F26418eda-5974-11e2-88a1-00144feab49a.html%3Fftcamp%3Dpublished_links%252Frss%252Fcompanies_banks%252Ffeed%252F%252Fproduct%26siteedition%3Duk&siteedition=uk&ftcamp=published_links%2Frss%2Fcompanies_banks%2Ffeed%2F%2Fproduct&_i_referer=
+WARC-Date: 2014-03-07T06:54:32Z
+WARC-Record-ID: <urn:uuid:63d48753-8e9a-4f4d-aa51-013e6128886b>
+WARC-Refers-To: <urn:uuid:0e6f8e1a-d39d-41ca-aeb7-1517a04120d2>
+WARC-Block-Digest: sha1:O4S7EI5H5FOL4KN45TBOSL27ZE76IB4I
+Content-Type: text/plain
+Content-Length: 2101
+
+HSBC’s exit from Ping An in jeopardy - FT.com
+ft.com
+> Companies
+> Financials
+> Banks
+Search
+Advanced search
+Subscribe
+|
+Sign in
+|
+Register
+|
+Site tour
+Welcome Subscribe
+Your account
+Site tour
+Sign out
+Email address
+Password
+Forgot password?
+Remember me on this computer
+Sign in
+"Remember me" uses a cookie. View our Cookie Policy.
+Home UK World Companies Energy Energy› Mining Oil & Gas Utilities Financials Financials› Banks Insurance Property Financial Services Health Health› Health Care Pharmaceuticals Industrials Industrials› Aerospace & Defence Automobiles Basic Resources Chemicals Construction Industrial Goods Support Services Luxury 360 Media Retail & Consumer Retail & Consumer› Food & Beverage Personal & Household Goods Retail Tobacco Travel & Leisure Tech Tech› Science Tech Blog Telecoms Transport Transport› Airlines Shipping Rail By Region By Region› US Companies UK Companies European Companies Americas Companies Asia-Pacific Companies African Companies Middle Eastern Companies UK Small Companies Tools Tools › Topics Portfolio FT clippings Alerts hub Email briefings MBA rankings Newslines FT Lexicon Mobile Currency converter FT ebooks ePaper Executive jobs FT press cuttings Social Media hub Economic calendar Markets Global Economy Lex Comment Management Personal Finance Life & Arts Last updated:
+January 9, 2013 2:18 am
+HSBC’s exit from Ping An in jeopardy
+By Simon Rabinovitch in Beijing
+You have viewed your allowance of free articles. If you wish to view more, click the button below.
+Help
+•Contact us
+•About us
+•Advertise with the FT
+•Terms & conditions
+•Privacy policy
+•Copyright
+•Cookie policy
+© The Financial Times Ltd 2014 FT and 'Financial Times' are trademarks of The Financial Times Ltd.
+Printed from: http://www.ft.com/cms/s/0/26418eda-5974-11e2-88a1-00144feab49a.html
+Print a single copy of this article for personal use. Contact us if you wish to print more to
+distribute to others.
+© The Financial Times Ltd 2014 FT
+and ‘Financial Times’ are trademarks of The Financial Times Ltd.
+Privacy policy |
+Terms |
+Copyright
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.ft.com/cms/s/76808572-657c-11e2-a17b-00144feab49a,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F76808572-657c-11e2-a17b-00144feab49a.html%3Fftcamp%3Dpublished_links%252Frss%252Fcompanies_media%252Ffeed%252F%252Fproduct%26siteedition%3Duk&siteedition=uk&ftcamp=published_links%2Frss%2Fcompanies_media%2Ffeed%2F%2Fproduct&_i_referer=
+WARC-Date: 2014-03-07T06:45:03Z
+WARC-Record-ID: <urn:uuid:d171496a-25b6-4314-8c0e-6440d8c871e9>
+WARC-Refers-To: <urn:uuid:a6238bb4-e433-4273-a802-f30b3fa0da5e>
+WARC-Block-Digest: sha1:NNUVMULEQSIA3V6RP56GVIT3W2USY5LS
+Content-Type: text/plain
+Content-Length: 2093
+
+Spanish football tops earnings table - FT.com
+ft.com
+> Companies
+> Retail&Consumer
+> Travel & Leisure
+Search
+Advanced search
+Subscribe
+|
+Sign in
+|
+Register
+|
+Site tour
+Welcome Subscribe
+Your account
+Site tour
+Sign out
+Email address
+Password
+Forgot password?
+Remember me on this computer
+Sign in
+"Remember me" uses a cookie. View our Cookie Policy.
+Home UK World Companies Energy Energy› Mining Oil & Gas Utilities Financials Financials› Banks Insurance Property Financial Services Health Health› Health Care Pharmaceuticals Industrials Industrials› Aerospace & Defence Automobiles Basic Resources Chemicals Construction Industrial Goods Support Services Luxury 360 Media Retail & Consumer Retail & Consumer› Food & Beverage Personal & Household Goods Retail Tobacco Travel & Leisure Tech Tech› Science Tech Blog Telecoms Transport Transport› Airlines Shipping Rail By Region By Region› US Companies UK Companies European Companies Americas Companies Asia-Pacific Companies African Companies Middle Eastern Companies UK Small Companies Tools Tools › Topics Portfolio FT clippings Alerts hub Email briefings MBA rankings Newslines FT Lexicon Mobile Currency converter FT ebooks ePaper Executive jobs FT press cuttings Social Media hub Economic calendar Markets Global Economy Lex Comment Management Personal Finance Life & Arts January 24, 2013 12:01 am
+Spanish football tops earnings table
+By Christopher Thompson
+You have viewed your allowance of free articles. If you wish to view more, click the button below.
+Help
+•Contact us
+•About us
+•Advertise with the FT
+•Terms & conditions
+•Privacy policy
+•Copyright
+•Cookie policy
+© The Financial Times Ltd 2014 FT and 'Financial Times' are trademarks of The Financial Times Ltd.
+Printed from: http://www.ft.com/cms/s/0/76808572-657c-11e2-a17b-00144feab49a.html
+Print a single copy of this article for personal use. Contact us if you wish to print more to
+distribute to others.
+© The Financial Times Ltd 2014 FT
+and ‘Financial Times’ are trademarks of The Financial Times Ltd.
+Privacy policy |
+Terms |
+Copyright
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.ft.com/cms/s/c5a8ac24-7d3b-11e3-a579-00144feabdc0,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F3%2Fc5a8ac24-7d3b-11e3-a579-00144feabdc0.html%3Fsiteedition%3Duk&siteedition=uk&_i_referer=
+WARC-Date: 2014-03-07T06:55:56Z
+WARC-Record-ID: <urn:uuid:340238ab-0a17-48e5-9f79-647e296b454e>
+WARC-Refers-To: <urn:uuid:adb725a9-62dd-4d90-a2a9-42adfd45e375>
+WARC-Block-Digest: sha1:2P3OAGEZMO6HGCRAOHVPVCPIKZICPZOH
+Content-Type: text/plain
+Content-Length: 1493
+
+JPMorgan: cheap shot - FT.com
+ft.com/lex
+Search
+Advanced search
+Subscribe
+|
+Sign in
+|
+Register
+|
+Site tour
+Welcome Subscribe
+Your account
+Site tour
+Sign out
+Email address
+Password
+Forgot password?
+Remember me on this computer
+Sign in
+"Remember me" uses a cookie. View our Cookie Policy.
+Home UK World Companies Markets Global Economy Lex Lex In depth Lex Video Best of Lex About Lex Lex Biographies Lex on Mobile Lex by Email Subscribe to Lex Tools Tools › Topics Portfolio FT clippings Alerts hub Email briefings MBA rankings Newslines FT Lexicon Mobile Currency converter FT ebooks ePaper Executive jobs FT press cuttings Social Media hub Economic calendar Comment Management Personal Finance Life & Arts January 14, 2014 7:09 pm
+JPMorgan: cheap shot
+Buying into the bank is one way to play recovery but it comes with warnings
+You have viewed your allowance of free articles. If you wish to view more, click the button below.
+Help
+•Contact us
+•About us
+•Advertise with the FT
+•Terms & conditions
+•Privacy policy
+•Copyright
+•Cookie policy
+© The Financial Times Ltd 2014 FT and 'Financial Times' are trademarks of The Financial Times Ltd.
+Printed from: http://www.ft.com/cms/s/3/c5a8ac24-7d3b-11e3-a579-00144feabdc0.html
+Print a single copy of this article for personal use. Contact us if you wish to print more to
+distribute to others.
+© The Financial Times Ltd 2014 FT
+and ‘Financial Times’ are trademarks of The Financial Times Ltd.
+Privacy policy |
+Terms |
+Copyright
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.ft.com/cms/s/f0b5cdb2-4aaa-11e2-9650-00144feab49a,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Ff0b5cdb2-4aaa-11e2-9650-00144feab49a.html%3Fftcamp%3Dpublished_links%252Frss%252Fcompanies_aerospace-defence%252Ffeed%252F%252Fproduct%26siteedition%3Duk&siteedition=uk&ftcamp=published_links%2Frss%2Fcompanies_aerospace-defence%2Ffeed%2F%2Fproduct&_i_referer=
+WARC-Date: 2014-03-07T06:47:47Z
+WARC-Record-ID: <urn:uuid:3e531b54-c0ae-41dc-86df-ea72fca07cf8>
+WARC-Refers-To: <urn:uuid:3a3aa2ad-e584-42a5-bdc5-51f70f5e2603>
+WARC-Block-Digest: sha1:EX2I5YLSJDMR5WUONGUFWENWWMSO3TTA
+Content-Type: text/plain
+Content-Length: 2181
+
+BAE forced to take second look at Plan A - FT.com
+ft.com
+> Companies
+> Industrials
+> Aerospace & Defence
+Search
+Advanced search
+Subscribe
+|
+Sign in
+|
+Register
+|
+Site tour
+Welcome Subscribe
+Your account
+Site tour
+Sign out
+Email address
+Password
+Forgot password?
+Remember me on this computer
+Sign in
+"Remember me" uses a cookie. View our Cookie Policy.
+Home UK World Companies Energy Energy› Mining Oil & Gas Utilities Financials Financials› Banks Insurance Property Financial Services Health Health› Health Care Pharmaceuticals Industrials Industrials› Aerospace & Defence Automobiles Basic Resources Chemicals Construction Industrial Goods Support Services Luxury 360 Media Retail & Consumer Retail & Consumer› Food & Beverage Personal & Household Goods Retail Tobacco Travel & Leisure Tech Tech› Science Tech Blog Telecoms Transport Transport› Airlines Shipping Rail By Region By Region› US Companies UK Companies European Companies Americas Companies Asia-Pacific Companies African Companies Middle Eastern Companies UK Small Companies Tools Tools › Topics Portfolio FT clippings Alerts hub Email briefings MBA rankings Newslines FT Lexicon Mobile Currency converter FT ebooks ePaper Executive jobs FT press cuttings Social Media hub Economic calendar Markets Global Economy Lex Comment Management Personal Finance Life & Arts Last updated:
+December 21, 2012 7:45 pm
+BAE forced to take second look at Plan A
+By Carola Hoyos, Defence correspondent
+Defence group regroups after failure of EADS tie-up
+You have viewed your allowance of free articles. If you wish to view more, click the button below.
+Help
+•Contact us
+•About us
+•Advertise with the FT
+•Terms & conditions
+•Privacy policy
+•Copyright
+•Cookie policy
+© The Financial Times Ltd 2014 FT and 'Financial Times' are trademarks of The Financial Times Ltd.
+Printed from: http://www.ft.com/cms/s/0/f0b5cdb2-4aaa-11e2-9650-00144feab49a.html
+Print a single copy of this article for personal use. Contact us if you wish to print more to
+distribute to others.
+© The Financial Times Ltd 2014 FT
+and ‘Financial Times’ are trademarks of The Financial Times Ltd.
+Privacy policy |
+Terms |
+Copyright
+
+

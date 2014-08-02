@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2000113/tuesday-afternoon-forecast-winter-storm-rages-across-new-england/
+WARC-Date: 2014-03-07T05:27:15Z
+WARC-Record-ID: <urn:uuid:0c806153-f777-4e94-8d8f-372dd225b059>
+WARC-Refers-To: <urn:uuid:d7fc9d20-6e00-4621-bb2b-73e40727dba2>
+WARC-Block-Digest: sha1:IZBRPPFWDZCYBDC5SNH6ROHQ4ENPDCRR
+Content-Type: text/plain
+Content-Length: 65
+
+Tuesday afternoon forecast: Winter storm rages across New England
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/fantasy/football/2013/10/08/dlf-week-6-injuries-julio-jones-calvin-johnson/2945441/
+WARC-Date: 2014-03-07T05:31:16Z
+WARC-Record-ID: <urn:uuid:5ea25637-9219-4de9-975b-01ccd14557ee>
+WARC-Refers-To: <urn:uuid:b3b142be-6ae8-4c07-be79-7779e2bd58db>
+WARC-Block-Digest: sha1:HZV7LQUBGT6OBAXP3LA2PXAUI3U42GP3
+Content-Type: text/plain
+Content-Length: 187
+
+Jones' injury is most devastating for fantasy ownersNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settings
+

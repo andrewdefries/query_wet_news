@@ -1,0 +1,46 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/2013/11/08/3738394/fius-ron-turner-sam-miller-is.html
+WARC-Date: 2014-03-07T05:34:34Z
+WARC-Record-ID: <urn:uuid:13faea8e-92ba-47bc-80c2-9d3544260857>
+WARC-Refers-To: <urn:uuid:2eccfba5-d936-4a87-87f8-0926eb8c57a4>
+WARC-Block-Digest: sha1:E4HOC2D5EFISNFDSIDZ5FPEHFF2OIUUT
+Content-Type: text/plain
+Content-Length: 209
+
+FIUs Ron Turner: Sam Miller is questionable - FIU - MiamiHerald.com
+Customer Service
+Digital Newspaper
+el Nuevo Herald Classifieds
+Jobs Cars Real Estate Find & Save Deals Public Notices
+Place an Ad
+FIU
+Home
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/classified-ads/Employment/classification/MICBRetail/?fb_sf_published_at_l=%255B1371700800+TO+*%255D&sort=is_featured_b%2520desc%252Cpublished_at_l%2520desc
+WARC-Date: 2014-03-07T05:30:39Z
+WARC-Record-ID: <urn:uuid:88bc04d1-e6bd-45b4-ada4-ca078dd9d7cc>
+WARC-Refers-To: <urn:uuid:12fa4241-fe8c-4320-827c-9a8613257c37>
+WARC-Block-Digest: sha1:GPHOAFZV2SMFZJHKRY6FCKEHR74VTD27
+Content-Type: text/plain
+Content-Length: 29
+
+Miami Herald: Classified Ads
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/classified-ads/Employment/classification/MICBStrategy+-+Planning?fb_sf_published_at_l=%255B1361509200%2520TO%2520*%255D&sort=is_featured_b%252520desc%25252Cpublished_at_l%252520desc
+WARC-Date: 2014-03-07T05:36:01Z
+WARC-Record-ID: <urn:uuid:72553c7f-b076-4949-8f45-173d9b1122f9>
+WARC-Refers-To: <urn:uuid:84da5491-9f1f-4648-bdac-afed005806c8>
+WARC-Block-Digest: sha1:GPHOAFZV2SMFZJHKRY6FCKEHR74VTD27
+Content-Type: text/plain
+Content-Length: 29
+
+Miami Herald: Classified Ads
+
+

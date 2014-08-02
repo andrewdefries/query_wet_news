@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/gallery/2537509/fgcu-on-the-espys-red-carpet/
+WARC-Date: 2014-03-07T06:45:32Z
+WARC-Record-ID: <urn:uuid:4b7dafe0-b061-455d-b6a4-d5356611a9c7>
+WARC-Refers-To: <urn:uuid:b1d101ec-ab6b-4150-a709-9a2a58db1724>
+WARC-Block-Digest: sha1:LJTOX6VNY6RKZFOQNKDMZIJNWDHJYKXF
+Content-Type: text/plain
+Content-Length: 42
+
+FGCU on the ESPYs red carpetNewsSportsLife
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/tech/gaming/2013/05/21/analysis-microsoft-xbox-one/2349139/
+WARC-Date: 2014-03-07T06:53:11Z
+WARC-Record-ID: <urn:uuid:973a8a5a-1d1f-42a5-b320-abe16be3d7fb>
+WARC-Refers-To: <urn:uuid:40bfc5ca-5d0d-40c4-83ed-670ec9cf6790>
+WARC-Block-Digest: sha1:VE6TJ77G4T4XXTS74OISMLDTSITJINDL
+Content-Type: text/plain
+Content-Length: 196
+
+Analysis: Cautious optimism greets Xbox OneNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGames
+

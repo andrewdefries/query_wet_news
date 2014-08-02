@@ -1,0 +1,537 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/idealab/2008/10/finding-political-sleazemongers005
+WARC-Date: 2014-03-07T06:50:02Z
+WARC-Record-ID: <urn:uuid:1975fe38-64a8-4f38-939a-4eb9f080a9e6>
+WARC-Refers-To: <urn:uuid:31582ae9-df66-4680-886c-2cbc4754de60>
+WARC-Block-Digest: sha1:BKGUY66GC6ZRVS3YJTMPSB74YVEJIKYR
+Content-Type: text/plain
+Content-Length: 9328
+
+Finding Political Sleazemongers | Idea Lab | PBS
+Quick Links:
+Best Practices
+Knight's Eric Newton on How J-Schools Can Best Train the Next Generation of News Entrepreneurs
+Best Practices
+Ukrainian Protests & Surveillance: A Wake-Up Call for Western Governments
+Best Practices
+How to Rethink Open Data and Make It Relevant to the Public
+Idea Lab
+Community News for the Digital Age
+Home
+About
+About Idea Lab
+Authors
+Contact
+Business
+Financial
+Legal Issues
+Marketing
+Games & Virtual Worlds
+Best Practices
+Diversity
+Participation
+Philosophy
+Education
+Politics
+Mobile
+Technology
+Audio / Visual
+See Also: MediaShift
+Finding Political Sleazemongers
+Tweet
+By Ellen Hume
+October 9, 2008
+I have invited researchers at MIT’s Center for Future Civic Media to participate in an effort to blow the whistle on groups who are falsely presenting themselves as “ordinary bloggers,” but instead are paid to spread false information about candidates during the 2008 campaign in viral internet campaigns to influence voters. The project, already involving students from Columbia and Harvard, traces the IP addresses of these content originators to track those who are sending out large packets of these identical negative messages and claiming to be individuals. But a MIT researcher protested that this kind of research was not to his liking because it compromised the privacy of the person or group posting content. His point was that this kind of posting might seem noxious to us in this situation, but that we wouldn’t want people to be tracking us down if we were posting honest material but wished for whatever reason to remain anonymous.
+It was another collision between the right to privacy in posting on the web, and the right to transparency in figuring out the value of what has been posted.
+I would like to know what others think about this debate. Should we track down and expose people who pretend to be individuals, but in fact represent paid political opposition groups, who are sending out mass messages that are blatantly false and deliberately damaging to the character/issue at hand? Is it ok to track them down and simply expose them for who they really are and steer people to more verified sources of information on the subject at hand? In my previous life as a journalist, exposure was what we were aiming for: to show people what was really behind the Wizard’s curtain by verifying facts and separating them from myths. Once they knew what was real and what was false, the theory went, people could make informed judgments based on the facts. It doesn’t always turn out that way, but tools that make web postings more transparent seem positive when used in this context. Do we have to protect the noxious slime-mongers in order to also ensure that people who want to post authentic material honestly will be able to do so anonymously? Can we expose anonymity in one case, and protect it in another, without being hypocritical or damaging to civic media?
+You might also be interested in:
+Getting to Know Tor, the Most Popular Anonymity Tool in the World
+http://mlncn.com/ Benjamin Melançon
+It’s a false choice. We can exercise all the self-restraint we want– it is an entirely different set of people who will be exposing the personal information of people who are under threat of job loss, imprisonment, torture, or death.
+Clearly, the sort of people who would expose anyone’s information in those circumstances are not likely to exercise restraint.
+Instead, exposing those who are doing harm spreading lies (and have little to loose but their effectiveness when exposed) will likely promote the development of technology to protect true anonymity.
+So regardless whether you think anybody should have a right to anonymity, go after and show the liars for who they are.
+http://journo101.com Anna Haynes
+We need a Creative Commons equivalent for disclosures.
+(i.e., of varying degrees of stringency)
+Then if a blogger is sporting a “I’m independent” disclosure, but turns out to be shilling for a campaign, s/he is fair game to expose – while someone making no such promise isn’t.
+And it’d help the reader, in evaluating the various bloggers’ credibility.
+http://www.nextnewsroom.com Chris O’Brien
+Ellen:
+I think this touches on a critical issue we all face as the number of news and information sources multiply: How do we critically evaluate these sources so we know what information to trust? This notion isn’t just limited to political discourse, but touches on all aspects of digital information. For instance, many corporations have embraced social media to spread marketing messages across the Web, a method that allows them to “recruit” all sorts of folks with big followings to build buzz for their products and services. But these social media gurus are not necessarily obligated to disclose a relationship with a company to their audience. Some do, some don’t. I recently interviewed an executive at a company which provides a third-party commenting service for blogs and Web sites. They provide a number of tools to moderating comments and community interactions. As part of their service, if you’re starting some online forums, their employees will post in the forums, or seed them with questions, to make it appear to casual visitors that there’s a lot of conversation occurring. But they don’t identify themselves as employees. They may not be spreading any lies, but my instincts tell me that it doesn’t feel quite right. So, you’re touching on some important issues. And I think any effort that helps people meet that challenge and critically evaluate sources is a noble and necessary one. That said, I think your approach is slightly off the mark. First, I don’t think there is a “right to privacy in posting on the web.” You’re posting in public. Period. If you publish something online with the intention that it will be viewed by others (which would seem to be the intent of publishing any propaganda), and you choose to fake your name, then it’s totally legitimate for someone to point that out. I don’t see an ethical dilemma there or a privacy issue. But, once you unmask this person, then what? There are two potential scenarios that meet the “outrage factor.” First, the person is fundamentally publishing information that is factual, but failing to disclose that they are being paid by a campaign. If the campaign is failing to disclose that the person is being paid, or attempts to lie about it, then there might be some outrage factor. The bigger outrage would be if the information is fundamentally false, or misleading AND the source was being paid by the campaign. In both these cases, you have to do three things: Establish that the source is not disclosing their real identity; evaluate the quality and accuracy of the information; and determine there is a real connection to the campaign. For me, the most useful part of all of this is the second piece: evaluating the quality and accuracy of the information. Fortunately, there are a lot of excellent efforts during this campaign to do that. Beyond that, I think there is a more positive way to approach this problem. Patrick Thornton, who blogs at Journalism Iconoclast (http://patthorntonfiles.com/blog/) has a project underway to create an “online ethics seal.” The seal evaluates five different catergories: 1. Sourcing
+2. Objectivity/advocacy/opinion journalism or opinion
+3. Linking
+4. Copy editing/fact checking (does a second person fact check?)
+5. Conflicts of Interests
+What I like about the concept is that encourages disclosure and transparency, and rewards sites that embrace those values. The project is still in its early stages, but it’s worth checking out here: http://tinyurl.com/4lozwm
+However, keep please keep us posted on what the class decides to do and what it learns. If there’s a central site to follow their work, please let us know where to find it.
+http://journo101.com Anna Haynes
+Wow! Thanks Chris for posting that.
+Tagged: anonymity, politics, privacy, spammers Check out Idea Lab Sponsorship opportunities!
+Newsletters
+MediaShift delivers the best news on media and technology directly to your in-box.
+Daily Must-Reads
+E-Books and Self-Publishing Roundup
+Journalism Education Roundup
+MediaShift Daily
+Idea Lab Daily
+Collaboration Central
+MediaShift Events
+Best of Idea Lab
+The Difference Between 'Invention' and 'Innovation'
+The Pros and Cons of Using Kickstarter to Fundraise
+Former Facebook ME Dan Fletcher: 'It's a Great Time to Launch a New Publication'
+4 Lessons for Journalism Students from the Digital Edge
+The Top 5 Ways to Help Survivors During a Disaster Lessons from the School of Data Journalism Can Citizen Journalism Move Beyond Crisis Reporting?
+Mona Lisa Stopped Smiling: A Conversation on the Phenomenology of News
+Stay Informed
+Get Idea Lab Daily via Email
+Follow us on Social
+Who we Are
+Idea Lab is a group blog by innovative thinkers and entrepreneurs who are reinventing media in the digital age.
+Find out more »
+Contact us »
+Sponsor Idea Lab »
+Home |
+About |
+Best Practices |
+Education |
+Politics |
+Mobile |
+Technology
+Privacy Policy |
+Terms of Use |
+Sponsor Idea Lab |
+Copyright 2013, Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution NC SA 3.0 License.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/mediashift/tag/tommy-thompson/
+WARC-Date: 2014-03-07T06:53:33Z
+WARC-Record-ID: <urn:uuid:fabeb5f6-cf21-472c-9e9f-164a2c4fd97f>
+WARC-Refers-To: <urn:uuid:59805837-778c-4c3a-99d9-56a04ef4901e>
+WARC-Block-Digest: sha1:XKMM6PYBHB3DPGPJUBOTZXQ6SREJIZEK
+Content-Type: text/plain
+Content-Length: 1590
+
+tommy thompson | Mediashift | PBS
+Quick Links:
+Uncategorized
+Tips for Unplugging and What to Do Once You Do
+#EdShift Chats
+#EdShift Chats: Can MOOCs Boost Journalism Education?
+Best Practices
+Assignment Remix: Tackling Data Requests in Classes
+MediaShift
+Your guide to the digital media revolution
+With your hostMark Glaser
+Home
+Social Media
+Social Networking
+Facebook
+Twitter
+Weblogs
+Citizen Journalism
+Business
+AdvertisingShift
+Hyper-Local
+MarketingShift
+Public Relations
+Technology
+Education
+Innovation
+Entrepreneurship
+Law & Ethics
+Tools & Tips
+Perspectives
+#EdShift Chats
+Legacy Media
+BookShift
+MagazineShift
+MovieShift
+MusicShift
+NewspaperShift
+Public MediaShift
+RadioShift
+TVShift
+Global View
+Europe
+World View
+Free Speech
+Environment
+Politics
+Events
+MediaShift Events
+Collaboration
+More Topics
+Mediatwits
+MobileShift
+Legal Drama
+Media Usage
+Your Take
+MediaShift Guides
+See Also: IdeaLab
+Tag: tommy thompson
+Politicians Face Consequences If They Don’t Secure Name Domains
+by Steven Davy
+Search the name of Representative Pete Hoekstra of Michigan’s second district and PeteHoekstra.com is among the top results. But click on the site and you’ll encounter this tag line: “Dangerous, Polarizing & Bad for Michigan!” Rep. Pete Hoekstra How could a nine-term Congressman, a ranking member of the House Select Committee on Intelligence and now [...] more »
+May 26, 2010
+|
+2 Comments
+Home |
+Social Media |
+Business |
+Education |
+Legacy Media |
+Global View |
+Events |
+Collaboration
+Privacy Policy
+Terms of Use
+Sponsor MediaShift
+Copyright 2010, Public Broadcasting Service (PBS)
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/newshour/rundown/white-house-hosts-google-hangout-on-superheroes/
+WARC-Date: 2014-03-07T06:52:59Z
+WARC-Record-ID: <urn:uuid:c582decb-17d5-4c6c-98b3-61d7504f4f50>
+WARC-Refers-To: <urn:uuid:0c7ac1ef-63b7-4cc6-b429-de76a1868384>
+WARC-Block-Digest: sha1:VAF5OU54Y3W45USQ6QTWUB23MEBRPXC5
+Content-Type: text/plain
+Content-Length: 5494
+
+White House Hosts Google Hangout on Superheroes | The Rundown | PBS NewsHour | PBS PBS NEWSHOUR WATCHpoliticsShields and BrooksSupreme CourtartsArt BeatPoetrynationSupreme CourtworldSocial EntrepreneurshipeconomyMaking Sen$eSocial SecurityAsk the HeadhunterPaul SolmanscienceScience WednesdayMiles O’BrienhealtheducationTeachersteachersThe RundownTV SCHEDULEABOUT USFEEDBACKSUBSCRIPTIONSPRIVACYJOB OPENINGS RECENT PROGRAMSPOLITICSARTSNATIONWORLDECONOMYSCIENCEHEALTHEDUCATIONTEACHERSTHE RUNDOWN SUBSCRIBEFOLLOW USA BLOG OF NEWS AND INSIGHTNews Now:SYRIAHealth ReformMorning Line Science White House Hosts Google Hangout on Superheroes +1 EMAIL BY News Desk July 19, 2013 at 11:50 AM EST White House hosts Google+ HangoutAt 12 p.m. EDT, the White House will host a Google+ Hangout on “The Stuff Superheroes are Made Of,” the latest in their “We the Geeks” series that focuses on the future of science, technology and innovation. Experts who are working to develop impenetrable liquid armor, self-healing, touch-sensitive synthetic skin and, wait for it, invisibility cloaks will all be on hand to discuss their research.The Hangout is lead by White House innovation adviser Tom Kalil and includes:James Kakalios, Professor in the School of Physics and Astronomy at the University of Minnesota, and author of “The Physics of Superheroes”,Nathan Landy, graduate student at Duke University who’s working on an invisibility cloak,Zhenan Bao, Professor of Chemical Engineering at Stanford University, focusing on self-healing and touch-sensitive synthetic skin,Norman Wagner, Alvin B. and Julia O. Stiles Professor of Chemical Engineering at University of Delaware, researching liquid armor,and Nate Ball, co-founder of Atlas Devices and inventor of Batman-like Ascender and host of PBS’s Design Squad Nation.How realistic are these inventions outside of the realm of a comic book or “Harry Potter”? More likely than you might think. In October 2012, Hari Sreenivasan spoke with Jim Kakalios, physics professor at the University of Minnesota and a science consultant for film, about the science and physics behind superheroes: And science reporter Rebecca Jacobson rounded up some of Kakolios’s best examples of superheroes — like Batman, The Flash and The Invisible Woman — whose superhuman powers rely on science. SHARE ON FACEBOOK SHARE ON TWITTERsocial media PREVIOUS POSTVirginia Governor’s Race Spices Up 2013NEXT POST Earth and Moon Join Saturn in Interplanetary Photoshoot Are you aware of our comment policy?Beginning October 24, 2012, PBS NewsHour will allow open commenting for all registered users. We hope that the elimination of our moderation process will enable a more organic discussion amongst you, our audience. However, if a commenter violates our terms of use or abuses the commenting forum, their comment will be removed. We reserve the right to remove posts that do not follow these basic guidelines: comments must be relevant to the topic of the post; may not include profanity, personal attacks or hate speech; may not promote a business or raise money; may not be spam. Anything you post should be your own work. The PBS NewsHour reserves the right to read on the air and/or publish on its website or in any medium now known or unknown the comments or emails that we receive. By submitting comments, you agree to the PBS Terms of Use and Privacy Policy, which include more details.Please enable JavaScript to view the comments powered by Disqus.READ THIS NEXT Teaching students how to combat traumas of poverty on the yoga matSUBSCRIBEFOLLOW USSUPPORT FOR PBS NEWSHOUR PROVIDED BYThe Rundown offers the NewsHour's unique perspective on the important events of the day with insights from the journalists you trust.SUBSCRIBEReceive The Rundown news blog in your inbox. SUBSCRIBEPODCAST: ITUNES | XML HEADLINE FEEDS: XML | ALLBROADCAST REPORTSWhite House Takes Stock of Russia Relationship After Snowden Asylum DisputeNews Wrap: U.S. Files Charges Against Suspected Benghazi AttackPowerful Rulers Reduced to Laughable Caricature in ‘Art of Controversy’‘Our Future Is Digital’: Don Graham Reflects on Washington Post’s Turning PointFort Hood Suspect Claims ‘I Am the Shooter’ in Court Martial Opening StatementDeputy Defense Secretary: Spending Must Be ‘Driven by Strategy’With Little Hope of Going Home, Refugee Camp Takes on ‘Air of Permanence’MOST READMOST DISCUSSED1UN Ambassador Power: Russia is looking at the path of isolation2Is Alzheimer’s even more deadly than we thought?3What's the big deal about official economic data?4How enrolling in a MOOC could help you save your grandmother5Without these ancient cells, you wouldn't be here 1Former IRS official refuses to testify on agency's targeting of conservative groups 2Obama administration announces two-year extensions for canceled health plans3Guacamole at Chipotle could be climate change's next casualty 4U.S. 'not at all concerned' by Japan’s nuclear stockpiles 5States that reject Medicaid expansion could create disparity between legal immigrants and citizens Loading... WATCHFULL BROADCASTS LISTENFULL AUDIO PODCASTSSUPPORT FOR PBS NEWSHOUR PROVIDED BYTOPICSRECENT PROGRAMSPOLITICSARTSNATIONWORLDECONOMYSCIENCEHEALTHEDUCATIONTEACHERSTV LISTINGSABOUT USFEEDBACKSUBSCRIPTIONSPRIVACYJOB OPENINGS© 1996 - 2014 MacNeil / Lehrer Productions.All Rights Reserved.Support the kind of journalism done by the NewsHour... Become a member of your local PBS station. 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/parents/parenting/raising-girls/body-image-identity/how-to-avoid-stereotyping-girls/
+WARC-Date: 2014-03-07T06:55:12Z
+WARC-Record-ID: <urn:uuid:17674cc7-3e93-4461-8ee5-1a09cd1fcc81>
+WARC-Refers-To: <urn:uuid:4c2a5945-e60a-4dd5-9681-3e7eb1392180>
+WARC-Block-Digest: sha1:BLWSXGADRI2UZUG5EA6IOX3GUYOXM7NZ
+Content-Type: text/plain
+Content-Length: 9140
+
+How to Avoid Stereotyping Girls. Body Image & Identity. Raising Girls. Parenting | PBS Parents
+Support for PBS Parents provided by:
+Home
+Birthday Parties
+Curious George
+Daniel Tiger
+Super Why!
+All Parties
+Tips
+Video
+Child Development
+Baby & Toddler
+Preschool & Kindergarten
+Grade School
+Preteen & Teen
+Education
+Adventures in Learning
+Bookfinder
+Reading & Language
+Math
+Science
+Music & Arts
+Going to School
+Homeschooling
+Learning Disabilities
+Fun & Games
+Crafts for Kids
+PBS KIDS Activity Search
+Activities & Crafts
+Online Games
+Printables & Coloring Pages
+Photo Factory
+Food & Fitness
+Kitchen Explorers
+Eat Smart
+Recipe Roundup	Sports & Fitness
+Parenting
+Expert Q&A
+Raising Boys
+Raising Girls
+Talking with Kids
+Children & Media
+Death of a Loved One
+Financial Struggles
+Military Families
+PBS KIDS Programs
+All Shows
+The Cat in the Hat
+Curious George
+Daniel Tiger's Neighborhood
+Dinosaur Train
+Super Why!
+Wild Kratts
+TV Schedules
+Morning on PBS KIDS
+PBS KIDS Shop
+PBS KIDS Mobile Apps
+PBS Parents Ebooks
+Videos
+Adventures in Learning
+Birthday Parties
+Crafts for Kids
+Farm to Table Family
+Full-Time Kid
+Kitchen Explorers
+Parenting
+Raising Girls
+Home
+Behavior & Discipline
+School & Social Life
+Preschool Friendships
+Helping Preschoolers Resolve Social Conflicts
+Elementary School Friendships
+Helping Elementary Schoolers Deal with Social Conflict
+Middle School Friendships
+Helping Middle Schoolers Navigate Their Social Lives
+Can Girls and Boys Be Friends?
+Body Image & Identity
+Raising a Powerful Girl
+Raising a Girl with a Positive Body Image
+Helping Girls Develop Healthy Eating Habits
+Helping Girls Get Active
+Talking About Weight with Your Daughter
+Strategies for Shopping with Your Girl
+Understanding Girls’ Brains
+Helping Girls Break the Mold
+How to Avoid Stereotyping Girls
+Positive Organizations for Girls
+Things Boys Do—and Girls Should, Too
+How to Avoid Stereotyping Girls
+Does recent research on brain development help us understand our girls — or does it stereotype them? As fascinating as these findings are, the information is controversial on both a scientific and ideological basis. While many experts see value in research that shows some differences in male and female brains, they do not believe brain development is a stronger influence on a girl than the way she’s raised, the society she lives in, or the experiences she has in life
+JoAnn Deak notes that “although there may be a slight difference by gender at birth, how the brain is used over time can change that. So boys can develop great language skills and girls can develop great spatial skills. This is why life experience is so important. We don’t have to live with the basic structure of our birth; we can enhance and improve it. A girl can become as good an engineer as any boy or a boy as good with language skills as any girl. It’s how we work with our children and what we encourage them to do that makes a difference.”
+Use the information to serve, not to label.
+Catherine Steiner-Adair finds some of the information in brain research interesting, but is disturbed by how we might interpret it. “The research tells us interesting things, but what matters to me is how our culture uses it to serve or disserve girls and boys. When we use this research to look at ways to strengthen girls’ accomplishments or achievements, it’s a good thing, but when it’s used to make sweeping generalizations or put girls in a straightjacket it can be a cause for concern. The bottom line is we are more similar than we are different.”
+Deak comes down on the side of culture and nurture as dominant influences, while seeing many insights parents can gain by understanding their girl’s brain. “As an example,” she says, “take a look at why friendships matter so much to a girl and why fathers often have difficulty understanding why a girl may feel desperate after having a fight with a friend. Because female brains tend to focus on and remember details longer, and because the oxytocin girls produce has the effect of causing them to care more about connections and relationships than boys, this can lead to the terrible trio of social conflict for girls: they notice it more, they remember it more and they care more! Understanding how your daughter’s brain functions and where she may fall in the 80/20 scale might help you communicate with her more easily, figure out what’s going on with her emotionally, help her learn, and guide her through challenges — be they physical or emotional.”
+Watch out for media distortions.
+Steiner-Adair also expresses concern about how the media may misuse and distort brain research. “TV shows tend to focus on the relational — gossipy and mean — aspects of girls’ behavior. This research is sometimes used by the media to defend these behaviors and support an argument that says, ‘Well, that’s how girls are.’ It’s also used to stereotype boys as genetically insensitive types who shouldn’t be expected to develop relational skills. And then it creates storylines and characters that play out those stereotypes.”
+Don’t underestimate the power of social influences.
+Rachel Simmons, author of Odd Girl Out, sees value in aspects of the research but also points to other factors that may affect development as much as — or more strongly than — the brain. “It’s increasingly understood that girls socialize each other in very powerful ways, beginning in late childhood, by the age of about ten. By socialize, I mean they teach each other the unwritten rules of what it means to be a girl — the etiquette, what’s OK and what’s not OK, what will be tolerated and what won’t be tolerated. Girls socialize each other as much as their parents socialize them, so you can’t reduce it all to the brain.”
+Find a middle ground.
+Seattle-based psychotherapist Meg White, M.A., recognizes the value of the brain research and uses it in her practice, while recognizing its challenges and implications. “I used to be much more firmly planted in the nurture camp, but since I’ve had my own children, I am also looking at nature, as there are things so classically ‘boy’ about my son and ‘girl’ about my daughter, despite the fact that I have raised them in a pretty gender-neutral fashion,” says White. “But that said, I do fear that categorizing girls as less genetically predisposed to assertiveness keeps girls stuck in their stereotype and can get parents stuck in raising them in accordance with that stereotype. So in my practice, I find a middle ground. I think it’s important that first parents take into account the child in front of them — the temperaments, gifts, challenges and the world she lives in. Second, I try to help parents use information from the brain research to better understand a girl’s development and then encourage her to stretch her brain connections in the areas that will help her develop as a healthy, independent, assertive person.”
+Providing Support for PBS Parents
+What's this?
+Parenting Tools
+Child Development Tracker
+PBS KIDSActivity Search
+Bookfinder Select an Age:
+1
+2
+3
+4
+5
+6
+7
+8
+Pick a program
+ALL
+Arthur
+Between the Lions
+Caillou
+Clifford the Big Red Dog
+Curious George
+Cyberchase
+Dinosaur Train
+DragonflyTV
+FETCH!
+Fizzy's Lunch Lab
+Mama Mirabelle's Home Movies
+Martha Speaks
+Maya and Miguel
+Mister Rogers' Neighborhood
+Postcards from Buster
+Sagwa the Chinese Siamese Cat
+Scigirls
+Sesame Street
+Sid the Science Kid
+Super Why!
+The Cat in the Hat
+The Electric Company
+Wild Kratts
+Wilson & Ditch
+Word World
+WordGirl
+ZOOM
+Pick an activity type
+ALL
+Booklists
+Coloring Pages
+Games
+E-Postcards
+Projects
+Recipes
+Songs
+Stories
+Pick a skill
+ALL
+Creative Expression
+Health & Safety
+Math & Numbers
+Physical & Motor Skills
+Reading & Language
+Social & Emotional Skills
+Critical Thinking
+Select an age:
+All
+Babies
+Toddler
+Preschooler
+Kindergartner
+First-grader
+Second-grader
+Third-grader
+Select a book theme:
+All
+African American
+Animals
+Art
+Biography
+Crafts and Activities
+Education and Development
+Family
+Fantasy
+Feelings
+Friends
+Health and Nutrition
+Holidays
+Humor
+Letters and Numbers
+Literacy
+Multicultural
+Music
+Nature
+Neighborhoods
+Nonfiction
+Occupations
+Poetry
+School
+Science
+Seasons
+Shapes and Colors
+Spanish and Bilingual
+Special Needs
+Sports
+Transportation
+Winter Holidays
+Select a book type:
+All
+Read Aloud
+Read to Self
+Looking for Something Specific?
+Type in an author name or a word from the title. For example, type in Arthur or animals.
+Connect with Us
+PBS Parents Picks
+Musical Role Model
+Orchestrating a love of music in your children is as simple as it sounds! Daniel Tiger Coloring Pages
+Break out the crayons for some grrr-rific coloring time with Daniel Tiger and his friends!
+Sour Cream Pancakes
+Who knew Sour Cream Pancakes could taste so sweet? Get the recipe here!
+About PBS Parents | Site Map | Privacy Policy | Terms of Use | Contact PBS Parents | ¿Habla Español? | PBS.org
+© PBS 2003 - , all rights reserved
+Eat Smart for a Great Start Newsletter
+×
+PBS Parents Newsletter
+Find activities, parenting tips, games from your child's favorite PBS KIDS programs and more.
+Email Address
+×
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/wgbh/nova/egypt/raising/newyork.html
+WARC-Date: 2014-03-07T06:49:10Z
+WARC-Record-ID: <urn:uuid:8d1b4518-900d-4ada-ae3a-c2de76b00386>
+WARC-Refers-To: <urn:uuid:904f1918-666a-405a-af8d-6401165d90e7>
+WARC-Block-Digest: sha1:VWIHLTGTPT7DMNYCZPKF6RL3GOBBPG3I
+Content-Type: text/plain
+Content-Length: 2216
+
+NOVA Online | Mysteries of the Nile | A World of Obelisks: New York
+New York
+back to A World of Obelisks
+Location:	Central Park, New York, USA
+Pharaoh:	Tuthmosis III (reigned 1504-1450 B.C.)
+Height:	70 feet
+Weight:	193 tons
+Story: After the opening of the Suez Canal in 1869, the ruler of Egypt, the
+Khedive Ismail, promised the United States an obelisk. Henry Gorridge, a
+lieutenant commander of the U.S. Navy, was appointed the task of transporting
+it to New York from its pedestal in Alexandria. (It had been moved to
+Alexandria from Heliopolis, where Tuthmosis III had erected it alongside its
+companion, which is now in London.)
+The obelisk and its 50-ton pedestal arrived at the Quarantine Station in New
+York in July 1880. It took 32 horses hitched in 16 pairs to drag the pedestal
+alone through the streets of the city. Once the pedestal was in place on the
+summit of the Graywacke Knoll in Central Park, the obelisk was then hauled
+through Manhattan. It traveled at the rate of 97 feet a day, taking 112 days to
+arrive at the knoll. The shaft was raised in January 1881 before more than
+10,000 jubilant New Yorkers.
+At the raising, William Maxwell Evarts, then U.S. Secretary of State,
+declared, "Who indeed can tell what our nation will do if any perversity is
+possible of realization; and yet this obelisk may ask us, 'Can you expect to
+flourish forever? Can you expect wealth to accumulate and man not decay? Can
+you think that the soft folds of luxury are to wrap themselves closer and
+closer around this nation and the pith and vigor of its manhood know no decay?
+Can it creep over you and yet the nation know no decrepitude?' These are
+questions that may be answered in the time of the obelisk but not in ours."
+Back to A World of Obelisks
+Photo: Courtesy of www.nyctourist.com
+Explore Ancient Egypt | Raising the Obelisk | Meet the Team
+Dispatches | Pyramids | E-Mail |
+Resources
+Classroom Resources |
+Site Map | Mysteries of the Nile Home
+Editor's Picks | Previous Sites | Join Us/E-mail | TV/Web Schedule
+About NOVA | Teachers | Site Map | Shop | Jobs | Search | To print
+PBS Online | NOVA Online | WGBH
+© | Updated November 2000
+Support provided by
+For new content
+visit the redesigned
+NOVA site
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/wgbh/nova/madagascar/mail/mail20000601.html
+WARC-Date: 2014-03-07T06:51:11Z
+WARC-Record-ID: <urn:uuid:eb6305ed-446f-4241-b1c2-5de94cd02f8a>
+WARC-Refers-To: <urn:uuid:865886b3-58d9-4e95-8d39-313173c976ee>
+WARC-Block-Digest: sha1:OQB7MOEJNQ4SJUGSVJKRWUCTQ4IXEYTR
+Content-Type: text/plain
+Content-Length: 3158
+
+NOVA Online | The Wilds of Madagascar | Question and Responses #2
+Questions and Responses #2
+Posted June 1, 2000
+Previous set
+Question:I noticed that in the section, Windows on Madagascar:Rainforest, you mention that pygmy hippos are now extinct. Do you mean in the wild? I ask this because the Gladys Porter Zoo, located in Brownsville, TX, has two or three of them. Just thought I'd mention this in case you would be interested. Also, I absolutely enjoy NOVA Online...never dull!(name withheld by request)Response from Peter Tyson, NOVA Online Producer: Thanks for your note. The pygmy hippos at the Gladys Porter Zoo must be West African pygmy hippos, which still live in that part of the world. Though they were closer in size to West African pygmy hippos, Madagascar's two species of pygmy hippos, which are sadly both extinct, were thought to be more closely related to the much larger common African hippo.
+Question:What is it like to travel around the world?Lukas BrunzelleGeneral MitchellCudahy, WisconsinResponse from Peter Tyson, NOVA Online Producer: I find it fascinating to travel around the world, seeing different places, meeting different people and learning about their cultures, and encountering plants and animals and even whole landscapes I've never seen before. It's also a good way to have a clearer view about your own natural and cultural world. For me it's kind of an addiction. Some people say they have a travel bug; I have a travel disease, particularly when it comes to exotic adventure travel.
+Question: Ever since I got my first Madagascar Hissing Cock Roach, I have wondered what Madagascar was like, because I wanted to be an entropologist there. I thank you so much on this info. you have shared with me, because I have searched the library, encycopeidias, the internet(until i found you all), and almost any were. And if you have any idea where I can buy a book on speaking Malagasy, please let me know. THANKS!!!CatGold Hill Middle SchoolFort Mill, SCResponse from Peter Tyson, NOVA Online Producer: Isn't the Madagascar hissing cockroach a fascinating creature? I haven't seen any on this trip yet, though I have seen thousands of good old American cockroaches that somehow found their way into the caves of the Ankarana Reserve. Madagascar has many mysteries like that, which is one of the reasons why it is such an intriguing place. These include: How did Madagascar come to have so many plants and animals unique to it? How is it that the people who originally settled this island off Africa originally came from Indonesia? What caused all native Madagascar animals weighing over about 25 pounds, including giant lemurs and elephant birds, to go extinct sometime in the past 2,000 years?
+Previous set: #1
+The Expedition | Surviving The Wilds |
+Explore Madagascar
+Dispatches |
+Classroom Resources |
+E-Mail |
+Resources
+Site Map |
+The Wilds of Madagascar Home
+Editor's Picks | Previous Sites | Join Us/E-mail | TV/Web Schedule
+About NOVA | Teachers | Site Map | Shop | Jobs | Search | To print
+PBS Online | NOVA Online | WGBH
+© | Updated November 2000
+Support provided by
+For new content
+visit the redesigned
+NOVA site
+
+

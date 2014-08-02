@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/fantasy/baseball/player-news/mil/3b/all/
+WARC-Date: 2014-03-07T05:29:15Z
+WARC-Record-ID: <urn:uuid:31fbfc3a-5a76-490f-b153-9347d9f2067a>
+WARC-Refers-To: <urn:uuid:9b8f476a-3a90-46ed-8354-ff0bbf4a21d6>
+WARC-Block-Digest: sha1:JYRI3GRHCFLZA4BDB7WXIE4RCON5KU7L
+Content-Type: text/plain
+Content-Length: 391
+
+USA Today | Sports | FANTASY-BASEBALLNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribeMorePhoto GalleriesYour TakeInteractivesNewsletters & AlertsBest-Selling BooksNewsstandUSA WeekendAppsCollegeClassifiedsGamesScoresStocksVideoSubscribeDefault ViewBig PageUser
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaab/san-diego-state/schedule/2013/
+WARC-Date: 2014-03-07T05:28:34Z
+WARC-Record-ID: <urn:uuid:c6cab834-ea2b-4f2a-9fdf-860f49c9e026>
+WARC-Refers-To: <urn:uuid:f145e8d3-546b-498c-8845-e18ca91a0cc4>
+WARC-Block-Digest: sha1:PZQDXWEVWXFG662FSTVSLGK6ME5Y47PS
+Content-Type: text/plain
+Content-Length: 203
+
+USA Today | Sports | NCAAB | san-diego-stateNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScores
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/ncaaf/bigsky/2013/03/05/jordan-johnson-reinstated-montana-rape-charge/1965725/
+WARC-Date: 2014-03-07T05:32:52Z
+WARC-Record-ID: <urn:uuid:269c4834-e836-4e6c-9bac-f63835722cff>
+WARC-Refers-To: <urn:uuid:14ae350a-0f1d-43e2-a829-4c89c54e7978>
+WARC-Block-Digest: sha1:M6OYDKPBZ7MJ66MRGOVG7243EP4WE3F3
+Content-Type: text/plain
+Content-Length: 65
+
+Jordan Johnson reinstated at MontanaNewsSportsLifeMoneyTechTravel
+

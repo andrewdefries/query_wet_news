@@ -1,0 +1,26 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/msnbc/record-conservative-spending-expected-m
+WARC-Date: 2014-03-07T05:25:30Z
+WARC-Record-ID: <urn:uuid:46657baa-938b-472a-99ea-558f279fee65>
+WARC-Refers-To: <urn:uuid:6921724f-87be-45af-aa6e-7f58f2bfa377>
+WARC-Block-Digest: sha1:VVJBSECVFILHJ6VOADAFOXXE2QRWBP7I
+Content-Type: text/plain
+Content-Length: 84
+
+Record conservative spending expected, marking new age in American politics | MSNBC
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/rachel-maddow-show/rubber-glue-and-the-war-women?lite=
+WARC-Date: 2014-03-07T05:25:01Z
+WARC-Record-ID: <urn:uuid:a86a0f8b-9dba-416a-b639-d06d99c701c1>
+WARC-Refers-To: <urn:uuid:a085ce65-050b-45f2-ad07-edd5d591efc5>
+WARC-Block-Digest: sha1:F7PBDKVTUZWRGHOHB4RQRFFOVXGE42PG
+Content-Type: text/plain
+Content-Length: 45
+
+Rubber, glue, and the 'war on women' | MSNBC
+
+

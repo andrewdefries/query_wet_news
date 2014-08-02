@@ -1,0 +1,84 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2011/nov/07/short-story-margaret-drabble
+WARC-Date: 2014-03-07T06:57:23Z
+WARC-Record-ID: <urn:uuid:6f1ad431-56ae-4d28-82bf-b278afc84ddc>
+WARC-Refers-To: <urn:uuid:23d796ab-11ff-4fe9-925f-e07e7c323b3d>
+WARC-Block-Digest: sha1:A5FR6752GBK3HQYVAP4X5NXPBGN6RRO7
+Content-Type: text/plain
+Content-Length: 57
+
+Margaret Drabble | Trespassing | Books | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/childrens-books-site/2012/apr/11/review-rapunzel-ash-brothers-grimm
+WARC-Date: 2014-03-07T06:49:26Z
+WARC-Record-ID: <urn:uuid:e7639610-cc9c-44f3-9b7a-889455a1f3b0>
+WARC-Refers-To: <urn:uuid:554766ff-1ddd-4d78-bd43-d5470fb8a500>
+WARC-Block-Digest: sha1:IIMSMMJ7AUBYT7MLHUQF7SEEW42H5VCU
+Content-Type: text/plain
+Content-Length: 68
+
+Rapunzel by Jutta Ash - review | Children's books | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/cifamerica/2012/apr/16/tarek-mehanna-punished-speaking-truth
+WARC-Date: 2014-03-07T06:49:16Z
+WARC-Record-ID: <urn:uuid:9b01479d-5e6b-4e8d-be37-2b8f467f9d74>
+WARC-Refers-To: <urn:uuid:80caa02d-3f40-4a58-8849-ea09212a6303>
+WARC-Block-Digest: sha1:QQN7HKEX6RSFEZF52AP4YZJ62KHW5MSR
+Content-Type: text/plain
+Content-Length: 90
+
+Tarek Mehanna: punished for speaking truth to power | Ross Caputi | Law | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/environment/2010/nov/28/redd-forest-protection-banks-oil
+WARC-Date: 2014-03-07T06:52:22Z
+WARC-Record-ID: <urn:uuid:d18aa0c1-3b87-4414-a151-e76c80a0723a>
+WARC-Refers-To: <urn:uuid:0a48c76b-ba4f-4d46-ae8a-58ec4ad68f8b>
+WARC-Block-Digest: sha1:ZQUURBVDMDSFTRWQCEIWMQ4IVGEVXCWV
+Content-Type: text/plain
+Content-Length: 98
+
+Oil companies and banks will profit from UN forest protection scheme | Environment | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/2011/jan/25/independent-i-ad-sales
+WARC-Date: 2014-03-07T06:52:36Z
+WARC-Record-ID: <urn:uuid:f1464225-3f83-4c00-ba80-2916606c4173>
+WARC-Refers-To: <urn:uuid:06b33b36-253b-416f-96c3-3ba5f43c1d5c>
+WARC-Block-Digest: sha1:WMHYAIJMIQSHSOOIIAXVNRX56CSSQCGN
+Content-Type: text/plain
+Content-Length: 79
+
+Independent aims to hike ad rates by bundling with i | Media | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/technology/2012/feb/21/paypal-1000-jobs-ireland
+WARC-Date: 2014-03-07T06:46:24Z
+WARC-Record-ID: <urn:uuid:4784e5b7-d3c8-466c-963e-5da9bbf35b8d>
+WARC-Refers-To: <urn:uuid:65a15f6e-19b3-44ea-8053-f03ad809624b>
+WARC-Block-Digest: sha1:2R2FHYH2DJRR6JNJH7JT65G7AIZSNUEY
+Content-Type: text/plain
+Content-Length: 76
+
+PayPal to announce 1,000 new jobs in Ireland | Technology | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk-news/2013/sep/21/sexual-abuse-yarls-wood-immigration
+WARC-Date: 2014-03-07T06:44:35Z
+WARC-Record-ID: <urn:uuid:42e394ec-f947-485c-8731-621fcacfae62>
+WARC-Refers-To: <urn:uuid:15223bfc-893a-407a-b81a-9a1559827e8f>
+WARC-Block-Digest: sha1:RBOMAG3ZUWKJPONCXNSXEVNTBN72U2GL
+Content-Type: text/plain
+Content-Length: 97
+
+Sexual abuse allegations corroborated at Yarl's Wood immigration centre | UK news | The Observer 
+

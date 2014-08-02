@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2712135/cool-weather-could-soon-help-calif-firefighters/
+WARC-Date: 2014-03-07T05:30:03Z
+WARC-Record-ID: <urn:uuid:f8984f76-4d66-444c-97ec-3f1ff75977fe>
+WARC-Refers-To: <urn:uuid:88cb8d71-879a-412c-9a35-2f1a477aedad>
+WARC-Block-Digest: sha1:LK2DTVCGOBVJFCE6IWJA273T7NIBU7RQ
+Content-Type: text/plain
+Content-Length: 48
+
+Cool weather could soon help Calif. firefighters
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/injuries/white-sox/american/2b/
+WARC-Date: 2014-03-07T05:31:50Z
+WARC-Record-ID: <urn:uuid:af53a7d5-6702-4f07-be7a-32cbf738df96>
+WARC-Refers-To: <urn:uuid:1028b45e-abc0-4ff6-ad46-5a8b4aa86e29>
+WARC-Block-Digest: sha1:U4DO2TRQPLDBODDEE3RLRCZQGTUFQGOX
+Content-Type: text/plain
+Content-Length: 184
+
+USA Today | Sports | MLB | white-soxNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull Forecast
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/news/politics/2013/02/01/contraceptive-regulation-proposal-hhs/1883165/
+WARC-Date: 2014-03-07T05:28:41Z
+WARC-Record-ID: <urn:uuid:ef7c1a79-44ce-423e-b356-59be130c0850>
+WARC-Refers-To: <urn:uuid:68517d3b-f39c-43d1-91f8-26de8d392a9b>
+WARC-Block-Digest: sha1:IELCITPAIOSD7VYWVLASCXB2J76L4XMW
+Content-Type: text/plain
+Content-Length: 135
+
+HHS issues proposed contraception coverage ruleNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettings
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/tech/personal/2013/07/07/tech-gadgets-for-a-day-at-the-beach/2492921/
+WARC-Date: 2014-03-07T05:27:11Z
+WARC-Record-ID: <urn:uuid:35e0e9e4-437e-4c06-a4f2-3b8a334fda45>
+WARC-Refers-To: <urn:uuid:780c96e3-d9dd-40e2-8a46-072e7dba8ddf>
+WARC-Block-Digest: sha1:5P5YRB5L77UHF7F5Y55X76N7KTFYMBCE
+Content-Type: text/plain
+Content-Length: 115
+
+Tech gadgets for a day at the beachNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settings
+

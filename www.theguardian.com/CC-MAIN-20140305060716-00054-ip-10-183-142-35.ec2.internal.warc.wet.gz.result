@@ -1,0 +1,37 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2005/oct/15/featuresreviews.guardianreview13
+WARC-Date: 2014-03-07T06:44:06Z
+WARC-Record-ID: <urn:uuid:c9d8c00c-211a-4ebb-b883-83ee14752a8a>
+WARC-Refers-To: <urn:uuid:c81f0275-158e-4153-801a-61022576ba51>
+WARC-Block-Digest: sha1:EFCZPGVMXDQONEBRYKR56HEQGYE6GEKF
+Content-Type: text/plain
+Content-Length: 37
+
+Diary: Oct 15 | Books | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/tv-and-radio/2012/mar/04/white-heat-interview-claflin-foy
+WARC-Date: 2014-03-07T06:44:52Z
+WARC-Record-ID: <urn:uuid:666d52ce-9e09-4aa6-90cf-e56b6b54e1f8>
+WARC-Refers-To: <urn:uuid:50de9600-0218-4537-a2da-cb9fcb4f07c1>
+WARC-Block-Digest: sha1:AKN2FNAW7R2CT7TYUOTDTIQRIIDNBTLO
+Content-Type: text/plain
+Content-Length: 99
+
+White Heat: 'Back in the 60s and 70s, politics was everything' | Television & radio | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2006/nov/22/freedomofinformation.religion?view=mobile
+WARC-Date: 2014-03-07T06:48:44Z
+WARC-Record-ID: <urn:uuid:36eb5eb3-fe59-4b3f-8515-ccd12ac7e9a3>
+WARC-Refers-To: <urn:uuid:0cc4a62b-05dd-41d2-a82d-5c653c37d411>
+WARC-Block-Digest: sha1:VYGJHKJG3L6FGTYOCQOHDS77G6XHLABB
+Content-Type: text/plain
+Content-Length: 67
+
+How the Scientologists woo City police | UK news | theguardian.com
+
+

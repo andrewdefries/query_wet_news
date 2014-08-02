@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nba/spurs/schedule/
+WARC-Date: 2014-03-07T05:28:17Z
+WARC-Record-ID: <urn:uuid:22a7bcd2-2dc6-4009-b083-be82d0131129>
+WARC-Refers-To: <urn:uuid:28b940ba-76f6-47fb-a09c-fe037897ea1d>
+WARC-Block-Digest: sha1:EXWW7AFX3BOC6GNLXNQH3KU7JVVAJ4LH
+Content-Type: text/plain
+Content-Length: 251
+
+USA Today | Sports | NBA | spursNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribeMorePhoto GalleriesYour TakeInteractives
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/horseracing/2013/07/17/saratoga--150-years-orb-oxbow-palace-malice/2537209/
+WARC-Date: 2014-03-07T05:28:53Z
+WARC-Record-ID: <urn:uuid:4757e090-893c-45c3-b946-ebf0e16f72fa>
+WARC-Refers-To: <urn:uuid:3f304a75-cb06-4b24-a61f-443a89293cd2>
+WARC-Block-Digest: sha1:WIZ3U42QGSMMME2SGEXQJ4457S6JA362
+Content-Type: text/plain
+Content-Length: 83
+
+Triple Crown showdown looms in Saratoga's 150th seasonNewsSportsLifeMoneyTechTravel
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/videos/news/nation/2012/12/03/1743733/
+WARC-Date: 2014-03-07T05:30:33Z
+WARC-Record-ID: <urn:uuid:c660f9a6-a87e-4186-9b14-33a493a0d649>
+WARC-Refers-To: <urn:uuid:dd372262-d522-487d-be9d-c5acddbd1ccf>
+WARC-Block-Digest: sha1:ADN7OPBJHLOXJYZHO5PR5FKCYEWIABB2
+Content-Type: text/plain
+Content-Length: 60
+
+Portland, Ore.: Multmonah Metal Co. WorksNewsSportsLifeMoney
+

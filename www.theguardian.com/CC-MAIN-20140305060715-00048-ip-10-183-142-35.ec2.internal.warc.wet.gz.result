@@ -1,0 +1,96 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2002/feb/24/features.magazine
+WARC-Date: 2014-03-07T05:26:14Z
+WARC-Record-ID: <urn:uuid:cc23e4be-acb9-48e6-9cea-176257ea3f68>
+WARC-Refers-To: <urn:uuid:8d0baa2d-6449-4fb6-a05d-e26faafd8581>
+WARC-Block-Digest: sha1:FB4G3MGMY4EHLPGYIWVGNCGN6JH2JLA7
+Content-Type: text/plain
+Content-Length: 70
+
+Extract: A Head Full of Blue by Nick Johnstone | Books | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/education/mortarboard/2007/oct/17/nuswhythedegreemarkingsys/print
+WARC-Date: 2014-03-07T05:27:36Z
+WARC-Record-ID: <urn:uuid:a5890552-491e-4bdc-8a4d-6a26de75f4a1>
+WARC-Refers-To: <urn:uuid:3433597c-6a9c-4469-adbf-479871913c99>
+WARC-Block-Digest: sha1:HHIFQP42U7HUU6QDDB5KAAVY77EHC7TJ
+Content-Type: text/plain
+Content-Length: 81
+
+NUS: Why the degree marking system deserves a fail | Education | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/environment/2009/aug/13/obituary-riccardo-cassin
+WARC-Date: 2014-03-07T05:33:07Z
+WARC-Record-ID: <urn:uuid:d4106e3e-ea9c-4368-ace7-194fb61bb1c0>
+WARC-Refers-To: <urn:uuid:1d923a04-4405-48bc-b8aa-57af3c1f9d12>
+WARC-Block-Digest: sha1:KIEPTU4MOT22USPZHLQ5YBTQC6JXTLKN
+Content-Type: text/plain
+Content-Length: 56
+
+Obituary | Riccardo Cassin | Environment | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/football/2006/oct/02/europeanfootball.atleticomadrid1
+WARC-Date: 2014-03-07T05:30:14Z
+WARC-Record-ID: <urn:uuid:8cc80f9c-6b47-4651-a768-add8550da921>
+WARC-Refers-To: <urn:uuid:834ed2c6-3fd3-4eee-844f-7b1dcd8e0f22>
+WARC-Block-Digest: sha1:ENHO2YM5MTZ6UHYNQ3BCBKYBRNODJIWA
+Content-Type: text/plain
+Content-Length: 108
+
+Sid Lowe on La Liga: Aguero blows chance to lay Atlético's derby jinx to rest | Football | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/football/2012/aug/24/squad-sheets-tottenham-hotspur-west-brom
+WARC-Date: 2014-03-07T05:34:01Z
+WARC-Record-ID: <urn:uuid:05dade08-81f7-4998-ae1c-be98d1e5920d>
+WARC-Refers-To: <urn:uuid:adbe1f1f-bc1e-47b2-a2e2-803243d44b8d>
+WARC-Block-Digest: sha1:M537ERCBREUEOEUUFJWMCDQGHRINXYNO
+Content-Type: text/plain
+Content-Length: 81
+
+Squad sheets: Tottenham Hotspur v West Bromwich Albion | Football | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/lifeandstyle/2005/sep/03/foodanddrink.shopping1
+WARC-Date: 2014-03-07T05:32:08Z
+WARC-Record-ID: <urn:uuid:f8a862d9-67c5-4c54-b29b-40b4391db83f>
+WARC-Refers-To: <urn:uuid:5f4962a1-296f-40cb-b1df-9ae7b4784d5f>
+WARC-Block-Digest: sha1:D3SMT7ZI5CDT34LUUTUWBDZOSKUYBGXO
+Content-Type: text/plain
+Content-Length: 88
+
+Vicky Bhogal: Fairtrade is more than coffee and bananas | Life and style | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/lifeandstyle/2007/mar/19/fashion1
+WARC-Date: 2014-03-07T05:28:49Z
+WARC-Record-ID: <urn:uuid:88c4135b-7fe8-428e-872e-49e0216818ee>
+WARC-Refers-To: <urn:uuid:e2905c98-3151-474b-90f5-1a43bf7a83b7>
+WARC-Block-Digest: sha1:HYLC3Q4X4CETPRPODIMK3PF4RBRF654T
+Content-Type: text/plain
+Content-Length: 71
+
+Hadley Freeman answers your fashion questions | Fashion | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/politics/2004/aug/18/foreignpolicy.sudan
+WARC-Date: 2014-03-07T05:33:11Z
+WARC-Record-ID: <urn:uuid:7263d509-4145-42af-bb07-8ce8882a9a5d>
+WARC-Refers-To: <urn:uuid:c52ed787-2bc2-4223-b305-897fb45f7944>
+WARC-Block-Digest: sha1:73OOTCSWKT5BEV2EQEKTIAYP5N5BJEDZ
+Content-Type: text/plain
+Content-Length: 67
+
+Peter Hallward: Enough imperial crusades | Politics | The Guardian 
+

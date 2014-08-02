@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/gallery/1864071/demonstrators-battle-police-near-tahrir-square/
+WARC-Date: 2014-03-07T05:28:34Z
+WARC-Record-ID: <urn:uuid:c8c9117c-eb43-41fb-ac67-ff9c6d03b056>
+WARC-Refers-To: <urn:uuid:4e64994c-d816-4e90-bb76-d8167ac91c09>
+WARC-Block-Digest: sha1:F5SL4CIJA4QEEZTNERN6JRZ66X5RPAV3
+Content-Type: text/plain
+Content-Length: 93
+
+Demonstrators battle police near Tahrir SquareNewsSportsLifeMoneyTechTravelOpinionWeatherIcon
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/opinion/2013/11/07/nfl-football-hazing-other-views-editorials-debates/3472243/
+WARC-Date: 2014-03-07T05:28:13Z
+WARC-Record-ID: <urn:uuid:84db39d0-c902-4a4f-a063-26872899a406>
+WARC-Refers-To: <urn:uuid:403fe7e0-f7d1-451d-a5b5-198f07340d24>
+WARC-Block-Digest: sha1:QGFDHA36XJP7ZP23F35MPCSGFO47LRYU
+Content-Type: text/plain
+Content-Length: 180
+
+Football bonding and camaraderie: Other viewsNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settings
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/golf/pga/2013/11/08/chris-kirk-leads-mcgladery-classic-sea-island/3479113/
+WARC-Date: 2014-03-07T05:25:58Z
+WARC-Record-ID: <urn:uuid:13825463-8868-4dcb-8de9-4235ce166b67>
+WARC-Refers-To: <urn:uuid:6ca1ad2a-38a8-47e9-ada3-6293ef5aa4d6>
+WARC-Block-Digest: sha1:4BFVRFXQYJ35E2QDJTRHGSL4E4NZOQKD
+Content-Type: text/plain
+Content-Length: 98
+
+Chris Kirk overcomes weather for lead at Sea IslandNewsSportsLifeMoneyTechTravelOpinionWeatherIcon
+

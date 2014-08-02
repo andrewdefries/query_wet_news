@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/game/boxscore/l.mlb.com-2012-e.35665/
+WARC-Date: 2014-03-07T05:27:42Z
+WARC-Record-ID: <urn:uuid:9d2e3679-ad5a-4d48-9edd-3fb2273d0504>
+WARC-Refers-To: <urn:uuid:2507106f-4a3c-49b5-9ab3-1732394616e6>
+WARC-Block-Digest: sha1:MNMAPWOU3FDKFZO67NEPTCLU4R532BZD
+Content-Type: text/plain
+Content-Length: 65
+
+Los Angeles Angels at Arizona Diamondbacks | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaab/game/boxscore/l.ncaa.org.mbasket-2009-e.49482/
+WARC-Date: 2014-03-07T05:31:13Z
+WARC-Record-ID: <urn:uuid:ea54966b-fd46-4102-b1eb-7228564c7eda>
+WARC-Refers-To: <urn:uuid:a49f9c11-54de-4b37-8b4b-e8b33a60cb96>
+WARC-Block-Digest: sha1:7W3WZOHUD4K65QFIDYLD3HF55MMQANMA
+Content-Type: text/plain
+Content-Length: 70
+
+Norfolk State Spartans at Niagara Purple Eagles | USA TODAY | BOXSCORE
+

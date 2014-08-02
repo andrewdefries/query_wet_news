@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/gallery/1714033/highest-paid-college-football-coaches/
+WARC-Date: 2014-03-07T06:49:14Z
+WARC-Record-ID: <urn:uuid:ad84d760-deff-4578-8532-2f22672a6638>
+WARC-Refers-To: <urn:uuid:1a6781cf-9030-4638-9be2-2b810baf4b08>
+WARC-Block-Digest: sha1:5L6MDQUTD5R3UAUM6SSJFACW422ED7G5
+Content-Type: text/plain
+Content-Length: 336
+
+Highest paid college football coachesNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribeMorePhoto GalleriesYour TakeInteractivesNewsletters & AlertsBest-Selling BooksNewsstandUSA WeekendAppsCollegeClassifieds
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/game/play-by-play/l.mlb.com-2011-e.30168/
+WARC-Date: 2014-03-07T06:48:08Z
+WARC-Record-ID: <urn:uuid:8b0e93ee-f20a-429a-8343-803615c9767d>
+WARC-Refers-To: <urn:uuid:0811e69b-5607-4900-b905-3b2a10c37974>
+WARC-Block-Digest: sha1:3JMISRBWPXFF46J6SUQOMXVAKHBSR6NK
+Content-Type: text/plain
+Content-Length: 71
+
+Los Angeles Dodgers at Philadelphia Phillies | USA TODAY | PLAY-BY-PLAY
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/olympics/2013/06/07/olympic-baseball-softball-prepare-ioc-vote/2401011/
+WARC-Date: 2014-03-07T06:44:08Z
+WARC-Record-ID: <urn:uuid:f5bbca70-085a-4df2-a0b5-2f4cdc968b16>
+WARC-Refers-To: <urn:uuid:41bafcad-d30e-4d26-bb3c-102d9bb27dbb>
+WARC-Block-Digest: sha1:LVSZSFL23WZTA65DH4YMNFRSJOKCNJ5O
+Content-Type: text/plain
+Content-Length: 108
+
+Baseball, softball plan new strategy for Olympic voteNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidity
+

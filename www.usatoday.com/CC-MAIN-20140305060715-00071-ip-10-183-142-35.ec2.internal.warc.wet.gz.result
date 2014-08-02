@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2791117/sleepy-hollow-ny-wide-awake-for-new-tv-drama/
+WARC-Date: 2014-03-07T05:32:57Z
+WARC-Record-ID: <urn:uuid:713f9c84-8fb5-4230-af7a-261bc94b6c93>
+WARC-Refers-To: <urn:uuid:5ab3b025-1e8c-4dda-b6be-8e35bf3e3523>
+WARC-Block-Digest: sha1:NMQE763QKQVSYUUSNXZNXBWVD5BB2CNQ
+Content-Type: text/plain
+Content-Length: 48
+
+Sleepy Hollow, N.Y., wide awake for new TV drama
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/money/business/2013/04/30/kentucky-derby-week-profits/2124471/
+WARC-Date: 2014-03-07T05:26:29Z
+WARC-Record-ID: <urn:uuid:3281eecc-b5f4-411a-80be-5a58b48131e5>
+WARC-Refers-To: <urn:uuid:dc9739c7-f2b6-4385-9326-2112a76eb7ea>
+WARC-Block-Digest: sha1:52O5UWBNGETDF7IHCAG4WPWVS4GEFOXW
+Content-Type: text/plain
+Content-Length: 219
+
+Kentucky Derby is Churchill Downs' big bet for profitsNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocks
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/ncaaf/2013/09/27/ncaa-turns-down-usc-request-for-consideration-on-penalties/2883421/
+WARC-Date: 2014-03-07T05:30:56Z
+WARC-Record-ID: <urn:uuid:d7eaf926-49db-4957-a00d-755a3a8711cc>
+WARC-Refers-To: <urn:uuid:b139442f-c0e1-483f-80de-2457713a9501>
+WARC-Block-Digest: sha1:5ZKRRHE76J2Z2U34NVD5QQFSGPPCLVMQ
+Content-Type: text/plain
+Content-Length: 98
+
+NCAA turns down USC's request for 'consideration' of sanctionsNewsSportsLifeMoneyTechTravelOpinion
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/topic/d62e5a22-ec41-4b17-89be-0aa538131836/liza-minnelli/
+WARC-Date: 2014-03-07T05:30:13Z
+WARC-Record-ID: <urn:uuid:7ddd18d0-39fa-4b02-ad82-dc11c5ea93d5>
+WARC-Refers-To: <urn:uuid:bcf59779-5ebb-43f5-8aaa-5e1f2d5d6644>
+WARC-Block-Digest: sha1:LKKQOPRT43GMUGLB4LV3WWIPJWKAT7SA
+Content-Type: text/plain
+Content-Length: 206
+
+Liza Minnelli - Latest World & National News & Headlines - USATODAY.comNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settings
+

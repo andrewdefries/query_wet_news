@@ -1,0 +1,66 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.abc.net.au/dig/tv/default.htm?program=digtv&pres=20070416_2100&story=1
+WARC-Date: 2014-03-07T06:49:55Z
+WARC-Record-ID: <urn:uuid:72b2457d-9941-4aa3-b42a-00136cbd17e1>
+WARC-Refers-To: <urn:uuid:2a82ab5d-6782-42d3-841a-08d8ea0de780>
+WARC-Block-Digest: sha1:KYBK6OPHMBSA2WRPWRYVE3XR74VVSFOQ
+Content-Type: text/plain
+Content-Length: 111
+
+DIG TV - Music with Depth
+Search:
+Radio
+TV
+Shop
+News
+Sport
+Local
+Children
+Science
+Environment
+more Topics
+help
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.abc.net.au/news/2013-04-24/red-lanterns-hanging-for-buddha-birth-day-festival/4647884
+WARC-Date: 2014-03-07T06:44:31Z
+WARC-Record-ID: <urn:uuid:ed3b0bcb-3055-4538-aaa4-81ae665b6e7c>
+WARC-Refers-To: <urn:uuid:9f2e939c-0428-434b-8daf-7db58afc732a>
+WARC-Block-Digest: sha1:CFI5WGZFOWU2FZ5TS5266GIKBYLZUUQ3
+Content-Type: text/plain
+Content-Length: 75
+
+Buddha Birth Day Festival - ABC News (Australian Broadcasting Corporation)
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.abc.net.au/news/map/?id=1362
+WARC-Date: 2014-03-07T06:56:25Z
+WARC-Record-ID: <urn:uuid:aad7c126-b233-4928-9d22-cae55657cbee>
+WARC-Refers-To: <urn:uuid:b62a2d04-6c86-499f-88d4-54f808eecbde>
+WARC-Block-Digest: sha1:GMD37ANEEN2BE6PFIGYV4RR2NQLI5CNX
+Content-Type: text/plain
+Content-Length: 53
+
+Map - ABC News (Australian Broadcasting Corporation)
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.abc.net.au/tv/guide/abc1/201211/programs/ZX8827A004D2012-11-06T172943.htm
+WARC-Date: 2014-03-07T06:52:22Z
+WARC-Record-ID: <urn:uuid:26336e6e-34f0-42ac-b35c-39212f4ffe84>
+WARC-Refers-To: <urn:uuid:e3a0b526-9439-4e24-9aa3-0a9daa7c231e>
+WARC-Block-Digest: sha1:REW7LJNFEJJLSLBRBV5GJ6GTS24KPHQT
+Content-Type: text/plain
+Content-Length: 122
+
+ABC Television - ABC1 - Nigel Slater's Simple Cooking - Soft And Crisp - 5:30pm Tuesday, November 06 2012
+Search:
+Radio
+TV
+

@@ -1,0 +1,40 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/health/cancer/cold-caps-tested-prevent-hair-loss-during-chemo-f6C10704516
+WARC-Date: 2014-03-07T05:25:44Z
+WARC-Record-ID: <urn:uuid:fc18d2a0-9af6-48cb-aee3-824f7f92aa4d>
+WARC-Refers-To: <urn:uuid:0f433e37-4b83-4b3b-b575-bb55e61287f7>
+WARC-Block-Digest: sha1:H5YGDC27RS6YVVM4VBPG6BBS7QTPJPVL
+Content-Type: text/plain
+Content-Length: 62
+
+Cold caps tested to prevent hair loss during chemo - NBC News
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/id/44295220/ns/business-crane?q=Crane
+WARC-Date: 2014-03-07T05:26:12Z
+WARC-Record-ID: <urn:uuid:c4b6f030-d6e1-4e36-b381-d43612d50812>
+WARC-Refers-To: <urn:uuid:3e06ae83-76f2-486a-b2ce-126957dec787>
+WARC-Block-Digest: sha1:S7ZBJ2CJ7M3KDUTCGDUIDNHMK5X5LLLO
+Content-Type: text/plain
+Content-Length: 71
+
+Crane - Latest news, videos, and information| NBC News
+Skip navigation
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/news/latino
+WARC-Date: 2014-03-07T05:25:14Z
+WARC-Record-ID: <urn:uuid:764c8c96-45c8-4835-8097-cc96d7b50bcb>
+WARC-Refers-To: <urn:uuid:fd079f8e-f528-45dd-b8f2-fe50e0e8d289>
+WARC-Block-Digest: sha1:P65QEXYLHBEU7Q5ZDQUITZI6D2H54A5M
+Content-Type: text/plain
+Content-Length: 13
+
+NBC News.com
+
+

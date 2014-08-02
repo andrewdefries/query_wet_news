@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/salaries/2002/cardinals/player/3b/
+WARC-Date: 2014-03-07T05:30:35Z
+WARC-Record-ID: <urn:uuid:4b5608e2-3844-4fb0-a30d-2f57e35bdf22>
+WARC-Refers-To: <urn:uuid:5d12f41b-0d56-4a48-96b5-f6fa2354f6c0>
+WARC-Block-Digest: sha1:OS3OU2XVWLTH72FWPIZHMZF2MZEZR3VK
+Content-Type: text/plain
+Content-Length: 189
+
+USA Today | Sports | MLB | cardinalsNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGames
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/news/nation/2013/10/27/workplace-parents-adult-children/3145719/
+WARC-Date: 2014-03-07T05:27:21Z
+WARC-Record-ID: <urn:uuid:63055b29-5a99-4055-a700-dccafd8a9303>
+WARC-Refers-To: <urn:uuid:7a0bf10b-8bbf-4f8d-880f-4761293bbf4c>
+WARC-Block-Digest: sha1:PVGWXRLTPHFZUAZ2MBS65ZBLBBYBUBDA
+Content-Type: text/plain
+Content-Length: 203
+
+Take your parents to work? Good for employees, businessNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull Forecast
+

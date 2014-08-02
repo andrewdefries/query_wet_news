@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/game/boxscore/l.mlb.com-2010-e.28372/
+WARC-Date: 2014-03-07T06:50:51Z
+WARC-Record-ID: <urn:uuid:3ec7990c-f5fc-44d2-b171-37bb726ebec7>
+WARC-Refers-To: <urn:uuid:3a4dd881-308f-4607-b3e6-570610185bde>
+WARC-Block-Digest: sha1:L5G4LXWE3NTNUMYN6D5AS4XO34J7J2X5
+Content-Type: text/plain
+Content-Length: 62
+
+Atlanta Braves at Philadelphia Phillies | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaaf/game/recap/l.ncaa.org.mfoot-2013-e.40203/
+WARC-Date: 2014-03-07T06:45:34Z
+WARC-Record-ID: <urn:uuid:d818841a-ac9a-49c9-9137-ae7072134557>
+WARC-Refers-To: <urn:uuid:c5a3401f-5020-4a8f-86e3-61cfbd56cc09>
+WARC-Block-Digest: sha1:EWJZ544JC5SLD4YE6DISTAQMHZAAWLD4
+Content-Type: text/plain
+Content-Length: 59
+
+Rutgers Scarlet Knights at SMU Mustangs | USA TODAY | RECAP
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/onpolitics/2013/01/04/barney-frank-senate-massachusetts-kerry/1808651/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TP-OnPolitics+%28USATODAY+-+On+Politics%29
+WARC-Date: 2014-03-07T06:46:46Z
+WARC-Record-ID: <urn:uuid:d044efaa-3da3-43e8-af37-6c7a3e0e48c0>
+WARC-Refers-To: <urn:uuid:90499a7f-aee9-47d0-9b26-37cdb40fede4>
+WARC-Block-Digest: sha1:GYNKSDMXZFHR5CBERDMQKJ3DGNJM4ZJ5
+Content-Type: text/plain
+Content-Length: 83
+
+Barney Frank says he's interested in Senate jobNewsSportsLifeMoneyTechTravelOpinion
+

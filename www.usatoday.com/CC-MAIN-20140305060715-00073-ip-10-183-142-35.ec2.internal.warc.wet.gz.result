@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/game/recap/l.mlb.com-2011-e.32555/
+WARC-Date: 2014-03-07T05:27:40Z
+WARC-Record-ID: <urn:uuid:adc7be2b-6310-4f78-93b7-52a7d52b8bf1>
+WARC-Refers-To: <urn:uuid:378b5c3b-bd24-44ca-926d-5005cda05890>
+WARC-Block-Digest: sha1:E2SBJPEBHPHS6A5UOTQP6TAALT3RNHRF
+Content-Type: text/plain
+Content-Length: 58
+
+Washington Nationals at Atlanta Braves | USA TODAY | RECAP
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nfl/giants/statistics/2013/season-regular/player/offense/
+WARC-Date: 2014-03-07T05:33:15Z
+WARC-Record-ID: <urn:uuid:2a7382a8-0c4d-4eea-a3c5-4e83b3323e79>
+WARC-Refers-To: <urn:uuid:7831e3f3-8491-4049-9e9e-a8cf0da6f45c>
+WARC-Block-Digest: sha1:TBC4QO6YIUSNOPF7FDOCDNTOQ3E77YLC
+Content-Type: text/plain
+Content-Length: 212
+
+USA Today | Sports | NFL | giantsNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribe
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/money/business/2013/05/17/retirement-tests-if-david-beckham-built-lasting-brand/2201895/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+UsatodaycomMoney-TopStories+%28USATODAY+-+Money+Top+Stories%29
+WARC-Date: 2014-03-07T05:24:56Z
+WARC-Record-ID: <urn:uuid:b7dbc658-45a4-4253-94d3-3d976f5d6180>
+WARC-Refers-To: <urn:uuid:d9c473e9-e99b-45ec-be23-35b10c67a7d0>
+WARC-Block-Digest: sha1:7TFNF5TQ3QGODIN6MG3Z3BSLYEH2RGWH
+Content-Type: text/plain
+Content-Length: 195
+
+Retirement tests if Beckham built lasting brandNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull Forecast
+

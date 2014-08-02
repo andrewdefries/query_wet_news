@@ -1,0 +1,60 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/edinburgh/2011/jan/06/edinburgh-blog-clear-minded-creative-milo-mclaughlin
+WARC-Date: 2014-03-07T06:53:18Z
+WARC-Record-ID: <urn:uuid:e5667653-6ce8-4a2d-86af-0d10f3a626c3>
+WARC-Refers-To: <urn:uuid:98fa30b8-ec21-49a7-8995-463b35eaac76>
+WARC-Block-Digest: sha1:SWRUL3GO5VK7ZPY2VW2KWI3LIV4U25LR
+Content-Type: text/plain
+Content-Length: 68
+
+Bookmarked: The Clear-Minded Creative | Edinburgh | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/environment/blog/2013/jul/09/wild-animals-travelling-circuses/print
+WARC-Date: 2014-03-07T06:46:38Z
+WARC-Record-ID: <urn:uuid:ef52da4c-0dfd-4483-81a2-80ff7bfa5662>
+WARC-Refers-To: <urn:uuid:d547e5de-ac04-4a8c-96ea-7aa9e83c11e2>
+WARC-Block-Digest: sha1:VPV6IVSDNHMKID3LBBPXHWVIKXEJBWDY
+Content-Type: text/plain
+Content-Length: 102
+
+'Wild' animals in travelling circuses benefit no one | Karl Mathiesen | Environment | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/money/2010/nov/08/fund-managers-pharmaceuticals
+WARC-Date: 2014-03-07T06:46:38Z
+WARC-Record-ID: <urn:uuid:839015fb-35b9-4367-9e01-c1d49d183db1>
+WARC-Refers-To: <urn:uuid:be165a7b-6a8f-4f2f-a821-9c840eb351ea>
+WARC-Block-Digest: sha1:KN353MXPYYC6MD5L7M6XXLKAWX7RSI74
+Content-Type: text/plain
+Content-Length: 73
+
+Fund managers with a taste for pharmaceuticals | Money | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/society/2004/feb/22/research.medicineandhealth
+WARC-Date: 2014-03-07T06:45:07Z
+WARC-Record-ID: <urn:uuid:98b1770b-1c06-415c-ad1c-f33a3fcbb9b8>
+WARC-Refers-To: <urn:uuid:d8e44057-b738-43f9-b43d-7a58a03559e9>
+WARC-Block-Digest: sha1:SELCDPDTDIOEP4MNOKMSC6XRK4QBZ73O
+Content-Type: text/plain
+Content-Length: 82
+
+Maverick view that sparked panic over the triple vaccine | Society | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2007/jul/07/ukguns.news
+WARC-Date: 2014-03-07T06:48:34Z
+WARC-Record-ID: <urn:uuid:ed3e2de0-d360-47e8-8e40-03617d557108>
+WARC-Refers-To: <urn:uuid:2ac1a5f3-c0b4-4635-9317-4ddec07daabf>
+WARC-Block-Digest: sha1:5CJZB2T7EOTFPFHXO6J2Z4WMTP2PK4XV
+Content-Type: text/plain
+Content-Length: 57
+
+Armed raid on diamond jewellers | UK news | The Guardian 
+

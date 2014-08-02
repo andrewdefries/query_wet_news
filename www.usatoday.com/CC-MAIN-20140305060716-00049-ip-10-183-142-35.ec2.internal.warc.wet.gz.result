@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/gallery/1780889/vegas-trends-toward-the-trendy-crowd/
+WARC-Date: 2014-03-07T06:49:43Z
+WARC-Record-ID: <urn:uuid:7fd11469-7886-4e30-9e4b-3cda3fc2b7f4>
+WARC-Refers-To: <urn:uuid:a6127150-28f4-42e3-9f73-ff7bdfa4b74c>
+WARC-Block-Digest: sha1:QRVOP2LUQZFOKWQRSX7GORF4BJJCWBYG
+Content-Type: text/plain
+Content-Length: 184
+
+Vegas trends toward the trendy crowdNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull Forecast
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaab/game/boxscore/l.ncaa.org.mbasket-2009-e.48276/
+WARC-Date: 2014-03-07T06:52:22Z
+WARC-Record-ID: <urn:uuid:10ecfa2a-e2a1-4427-ae41-a9a955d015bc>
+WARC-Refers-To: <urn:uuid:9ff4bb97-3cfa-4f39-b8ec-691473100e28>
+WARC-Block-Digest: sha1:H6IKA622R6OES5FGMSFQH27EF2RBQKHM
+Content-Type: text/plain
+Content-Length: 75
+
+Northwestern State Demons at Louisiana Tech Bulldogs | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/popcandy/2013/08/27/dvd-releases/2706053/
+WARC-Date: 2014-03-07T06:48:56Z
+WARC-Record-ID: <urn:uuid:420d01b5-ab12-4773-b570-28d6cb9ecd53>
+WARC-Refers-To: <urn:uuid:96ebfff7-0e9f-4010-ba0f-a0601c07a877>
+WARC-Block-Digest: sha1:54XC4J3M5PJQGL5HU7B7UQ7CEYHWOG6M
+Content-Type: text/plain
+Content-Length: 100
+
+Cool stuff on DVD today: 'Tales of the City' and moreNewsSportsLifeMoneyTechTravelOpinionWeatherIcon
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/todayinthesky/2012/12/13/airline-christmas-forecast/1766495/
+WARC-Date: 2014-03-07T06:44:34Z
+WARC-Record-ID: <urn:uuid:3df3d6a0-f1d2-4341-b557-4e2902558fa7>
+WARC-Refers-To: <urn:uuid:bc359986-61b8-4e7a-a973-588f7c88a047>
+WARC-Block-Digest: sha1:747EHYQZ5NZUIBKSP62C4BRBMBY7IRGU
+Content-Type: text/plain
+Content-Length: 86
+
+Airlines expect fuller planes for ChristmasNewsSportsLifeMoneyTechTravelOpinionWeather
+

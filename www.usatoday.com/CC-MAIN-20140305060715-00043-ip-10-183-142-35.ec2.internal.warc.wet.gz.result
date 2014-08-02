@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/tigers/statistics/
+WARC-Date: 2014-03-07T05:32:06Z
+WARC-Record-ID: <urn:uuid:fbc4ec79-73df-4015-b65a-04f47f9e992c>
+WARC-Refers-To: <urn:uuid:18e9292e-c496-4742-823d-e2dfb668b37a>
+WARC-Block-Digest: sha1:GUDYCGESCDVRULSTH6LYVTSGHFF3Y5YN
+Content-Type: text/plain
+Content-Length: 212
+
+USA Today | Sports | MLB | tigersNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribe
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/life/music/2013/12/18/beyonce-producer-learned-of-release-90-minutes-before/4110643/
+WARC-Date: 2014-03-07T05:27:25Z
+WARC-Record-ID: <urn:uuid:31223303-30fe-47db-8646-85f60911ed0f>
+WARC-Refers-To: <urn:uuid:5b5cc536-783e-4556-b41b-d7e7a10e3e95>
+WARC-Block-Digest: sha1:NCFRYCVGEWWES4JCB5GAOYKZQMJFCMVG
+Content-Type: text/plain
+Content-Length: 238
+
+'Beyonce' producer learned of release 90 minutes beforeNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribeMore
+

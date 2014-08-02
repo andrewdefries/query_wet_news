@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2454029/wimbledon-day-1-tennis-channel-court-report/
+WARC-Date: 2014-03-07T06:46:12Z
+WARC-Record-ID: <urn:uuid:326d464a-e8a9-47ff-a679-37b53d387182>
+WARC-Refers-To: <urn:uuid:fc0751ed-f451-4c7d-bf94-91c4e9be5576>
+WARC-Block-Digest: sha1:JGNSST3TZ6DN7UFK7HI3T4PDUE6L2CBK
+Content-Type: text/plain
+Content-Length: 44
+
+Wimbledon Day 1: Tennis Channel Court Report
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaab/game/boxscore/l.ncaa.org.mbasket-2010-e.50535/
+WARC-Date: 2014-03-07T06:44:07Z
+WARC-Record-ID: <urn:uuid:828f5ab1-61f8-46d2-8fa1-7f71f045b921>
+WARC-Refers-To: <urn:uuid:f8ffa289-a128-4b74-8a1e-6dfff469ac49>
+WARC-Block-Digest: sha1:D3FUVKE4NT2VO44LF5ER6COVEF5DQOIX
+Content-Type: text/plain
+Content-Length: 75
+
+Rutgers Scarlet Knights at Notre Dame Fighting Irish | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/opinion/2013/10/24/nsa-eavesdropping-foreign-leaders-angela-merkel-editorials-debates/3183277/
+WARC-Date: 2014-03-07T06:44:57Z
+WARC-Record-ID: <urn:uuid:1c1b24f6-4a11-4e1d-bc4e-81159efad651>
+WARC-Refers-To: <urn:uuid:9361e590-7fc6-4a59-a10a-24d7bf440082>
+WARC-Block-Digest: sha1:WI23ZJEEUJH6D3YHXU3MGI4P56U6H2QM
+Content-Type: text/plain
+Content-Length: 200
+
+Spying on allied leaders carries big risks: Our viewNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull Forecast
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/mlb/2012/11/07/justin-upton-trade-talks-texas-rangers-gm-meeting/1691009/
+WARC-Date: 2014-03-07T06:45:28Z
+WARC-Record-ID: <urn:uuid:e2429138-e3f2-4d18-ae83-cf2a575ea1df>
+WARC-Refers-To: <urn:uuid:2e36af80-365e-453f-9626-98c3ebf2d8dc>
+WARC-Block-Digest: sha1:WJYLVGK64KRJ4ILJFUSSNG2TTMEP53UQ
+Content-Type: text/plain
+Content-Length: 86
+
+D'backs want a Rangers shortstop for Justin UptonNewsSportsLifeMoneyTechTravelOpinion<
+

@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mls/dynamo/schedule/2009/
+WARC-Date: 2014-03-07T06:45:47Z
+WARC-Record-ID: <urn:uuid:dce83d1e-5d92-463f-8457-07a016f8151d>
+WARC-Refers-To: <urn:uuid:5168e83e-1d55-4c84-86a8-0e468c94231c>
+WARC-Block-Digest: sha1:YMTUDY35T4X2BYKZJPJXVJZ7UXBXXLSV
+Content-Type: text/plain
+Content-Length: 192
+
+USA Today | Sports | MLS | dynamoNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScores
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/2013/05/23/expert-panel-to-study-uci-armstrong-collusion/2356241/
+WARC-Date: 2014-03-07T06:44:25Z
+WARC-Record-ID: <urn:uuid:c1159b1e-486a-4f3e-82bf-754ff8c22e94>
+WARC-Refers-To: <urn:uuid:280a816b-2c1c-4b36-9c68-0eebeb2dd0e2>
+WARC-Block-Digest: sha1:5MKOQVDPO7MDIYFVQAC5T6BPWG6BX4HR
+Content-Type: text/plain
+Content-Length: 91
+
+Expert panel to study UCI-Armstrong 'collusion'NewsSportsLifeMoneyTechTravelOpinionWeather<
+

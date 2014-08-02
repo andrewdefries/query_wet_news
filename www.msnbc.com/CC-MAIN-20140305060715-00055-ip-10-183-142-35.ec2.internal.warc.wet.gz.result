@@ -1,0 +1,13 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/topics/obamacare?page=5
+WARC-Date: 2014-03-07T05:26:15Z
+WARC-Record-ID: <urn:uuid:5d9a9780-e16a-4a3d-9cd1-08d91ed2229d>
+WARC-Refers-To: <urn:uuid:162f0fda-8ed0-4cb0-8e2e-6ec971f0bd38>
+WARC-Block-Digest: sha1:XCQFIZLFVZTYBHDWDNU6OIKCMW3IBK62
+Content-Type: text/plain
+Content-Length: 47
+
+Obamacare news, video and community from msnbc
+
+

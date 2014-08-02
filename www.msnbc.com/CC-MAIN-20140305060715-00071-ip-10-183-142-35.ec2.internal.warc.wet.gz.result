@@ -1,0 +1,13 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/
+WARC-Date: 2014-03-07T05:24:42Z
+WARC-Record-ID: <urn:uuid:14c62767-2fe2-41bc-adc1-3e6f5a809edb>
+WARC-Refers-To: <urn:uuid:bc239619-dbef-4cb2-a667-7252ff2c378d>
+WARC-Block-Digest: sha1:PMVZXG2RZ3XIHDRX2EU7BLE4GLNYVZU5
+Content-Type: text/plain
+Content-Length: 60
+
+msnbc: news, video and progressive community. Lean Forward.
+
+

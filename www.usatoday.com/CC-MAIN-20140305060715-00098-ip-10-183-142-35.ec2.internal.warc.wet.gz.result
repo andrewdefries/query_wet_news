@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/news/politics/2013/02/16/gun-ban-2200-firearms/1924547/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+usatoday-NewsTopStories+%28USATODAY+-+News+Top+Stories%29
+WARC-Date: 2014-03-07T05:24:56Z
+WARC-Record-ID: <urn:uuid:9a842355-6123-4345-ab8b-924f41d94e9f>
+WARC-Refers-To: <urn:uuid:62dca2be-a1c5-4e13-8f92-aa96f7c125f3>
+WARC-Block-Digest: sha1:BMHDVYZVGPRZB3SNFCWRPMBDFPRGWN76
+Content-Type: text/plain
+Content-Length: 216
+
+Gun ban would protect more than 2,200 firearmsNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideo
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/nfl/2013/01/26/new-orleans-holds-grudge-against-roger-goodell/1866451/
+WARC-Date: 2014-03-07T05:26:31Z
+WARC-Record-ID: <urn:uuid:c3de1b1b-8ac4-4d4a-a20c-8b447929486b>
+WARC-Refers-To: <urn:uuid:3e02fa91-7a16-48be-9ecd-5f3871d9adb1>
+WARC-Block-Digest: sha1:5YGXSMNVAK6TMEMYRWZZ7FYS2GI6KOMK
+Content-Type: text/plain
+Content-Length: 101
+
+New Orleans still holds grudge against GoodellNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidity
+

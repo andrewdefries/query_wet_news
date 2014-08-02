@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/big-page/sports/ncaaw/
+WARC-Date: 2014-03-07T06:44:44Z
+WARC-Record-ID: <urn:uuid:3957c718-09c3-40e5-8268-d710f0bb8d34>
+WARC-Refers-To: <urn:uuid:9350f3e5-a32a-4af3-ab52-b741964f0368>
+WARC-Block-Digest: sha1:4RCJEIVKXZBUXX43UC4STCETSGTFDAC3
+Content-Type: text/plain
+Content-Length: 44
+
+The Big Page in Sports_Ncaaw on USATODAY.com
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2427897/mandela-said-to-be-serious-but-recovering/
+WARC-Date: 2014-03-07T06:44:45Z
+WARC-Record-ID: <urn:uuid:c0e7bda7-1f3d-40cf-b283-b6a511740c7f>
+WARC-Refers-To: <urn:uuid:b20c41ac-1359-40b3-8b2c-654bcc382421>
+WARC-Block-Digest: sha1:K7BJFDH6YARQ42J76QR4X5HVLN6RNQOP
+Content-Type: text/plain
+Content-Length: 41
+
+Mandela said to be serious but recovering
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/nfl/2013/03/11/nfl-competition-committee-cut-blocks-changes/1977713/
+WARC-Date: 2014-03-07T06:47:42Z
+WARC-Record-ID: <urn:uuid:74adcf96-a213-4757-9a19-4bb973e7ec21>
+WARC-Refers-To: <urn:uuid:d3f26886-962e-4949-9044-904368aa5678>
+WARC-Block-Digest: sha1:XBWUBHRZ3ETPD2IUM2TX7KXEODDTOA5V
+Content-Type: text/plain
+Content-Length: 90
+
+NFL competition committee seeks changes to chop blocksNewsSportsLifeMoneyTechTravelOpinion
+

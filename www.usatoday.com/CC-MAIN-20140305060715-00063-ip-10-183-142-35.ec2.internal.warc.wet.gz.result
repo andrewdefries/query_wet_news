@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/nation/2014/01/02/peralta-marines-fallujah-medal-of-honor/4293257/
+WARC-Date: 2014-03-07T05:24:41Z
+WARC-Record-ID: <urn:uuid:8395d1d5-72d0-4489-bcdc-ac40d262bef9>
+WARC-Refers-To: <urn:uuid:6963b060-f0ce-4b21-ab9c-18c71a006a2b>
+WARC-Block-Digest: sha1:QYJM73JPCADWZD4ORX6WLODA7XCBANYD
+Content-Type: text/plain
+Content-Length: 91
+
+Lawmaker: New statements bolster case for heroism medalNewsSportsLifeMoneyTechTravelOpinion
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/nba/hornets/2013/02/24/new-orleans-hornets-pelicans-ticket-prices/1943473/
+WARC-Date: 2014-03-07T05:26:46Z
+WARC-Record-ID: <urn:uuid:31207ac3-34d3-4487-8dd0-78ebf81cb47d>
+WARC-Refers-To: <urn:uuid:2c2d327f-31c0-4e27-b6b9-5b29d515e677>
+WARC-Block-Digest: sha1:4FOVXIETNUPECDPXUFHZODS6SEGYK5WH
+Content-Type: text/plain
+Content-Length: 86
+
+New Orleans Hornets to cut price on 81% of ticketsNewsSportsLifeMoneyTechTravelOpinion
+

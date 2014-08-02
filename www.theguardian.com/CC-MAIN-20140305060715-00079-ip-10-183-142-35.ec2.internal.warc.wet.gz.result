@@ -1,0 +1,37 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/discussion/report-abuse/comment/12147632
+WARC-Date: 2014-03-07T05:26:38Z
+WARC-Record-ID: <urn:uuid:998106f4-5da6-40bf-9e01-77cac41f3738>
+WARC-Refers-To: <urn:uuid:1163a853-577c-463e-8ef4-23b1928fb8b3>
+WARC-Block-Digest: sha1:JCVBFS3HUFQBHTZ2A7A7CBWOQUBYVRR6
+Content-Type: text/plain
+Content-Length: 24
+
+Report abuse on comment
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/lifeandstyle/2008/jul/17/fashion.women
+WARC-Date: 2014-03-07T05:25:06Z
+WARC-Record-ID: <urn:uuid:e2bc35b8-c325-4984-806f-5857975aeec8>
+WARC-Refers-To: <urn:uuid:c6b2e0ce-6f24-4bca-844d-82c72cd379ed>
+WARC-Block-Digest: sha1:FJ42MB4CX2HCSMCEDZXN2JUKAQA2SZ76
+Content-Type: text/plain
+Content-Length: 94
+
+Hadley Freeman's fashion quiz: What will you be wearing next season? | Fashion | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/music/2012/aug/26/africa-express-bound-for-glory/print
+WARC-Date: 2014-03-07T05:32:15Z
+WARC-Record-ID: <urn:uuid:50662b97-acb8-4785-858e-f8c76060ec54>
+WARC-Refers-To: <urn:uuid:e1682b6a-0122-478e-890e-b61274d64349>
+WARC-Block-Digest: sha1:6SEK636QNJYQLINJSNVK3VTVINGYDE4X
+Content-Type: text/plain
+Content-Length: 62
+
+Africa Express: a magical mystery tour | Music | The Observer 
+

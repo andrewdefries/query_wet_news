@@ -1,0 +1,13 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/msnbc/poll-do-you-support-the-name-change
+WARC-Date: 2014-03-07T06:46:37Z
+WARC-Record-ID: <urn:uuid:53b9e813-8496-40c4-84e7-194f2fc9301b>
+WARC-Refers-To: <urn:uuid:1e24125d-31cf-478d-aa01-4baeae302ef6>
+WARC-Block-Digest: sha1:EM2GKLKJV2IF4MDQECTAR3YOYHLIHBAV
+Content-Type: text/plain
+Content-Length: 46
+
+Poll: Do you support the name-change? | MSNBC
+
+

@@ -1,0 +1,2829 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/article/SB10001424052970203630604578073232981407360.html?dsk=y
+WARC-Date: 2014-03-07T06:46:43Z
+WARC-Record-ID: <urn:uuid:3e1c8750-bc3a-42e8-a848-7a97250bc2a7>
+WARC-Refers-To: <urn:uuid:9a30354c-2b09-4401-b62e-fd644bd61188>
+WARC-Block-Digest: sha1:CM6K7EM2A2TNDVLQUI53QQKKMM6VW3NQ
+Content-Type: text/plain
+Content-Length: 13719
+
+Microsoft usa tática de rivais em versão móvel - WSJ.com
+WSJ	WSJ	Facebook
+Twitter
+Live	Live	MarketWatch	MarketWatch	Barron's	Barron's	Portfolio	Portfolio	Product X	Product X	djx
+rt
+f
+r&c
+pe&vc
+wsj
+b
+The Shops	The Shops	More WSJ Briefcase
+BigCharts
+Financial News
+Professor Journal
+SmartMoney
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classroom
+WSJ Radio
+WSJ Wine
+SEARCH
+headline
+goldman
+Companies
+GOLD
+Ran
+gold Resources Ltd. ADS
+U.S.
+View All Search Results »
+Subscribe
+Log In
+Brasil U.S.
+Asia
+Europe América Latina
+Brasil
+中文-简体(China)
+Deutschland
+India
+Indonesia
+日本(Japan)
+한국(Korea)
+Türkiye
+Inicio
+Finanças
+Empresas
+Economia
+Atualidades
+Colunas
+Dow Jones Reprints: This copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers, use the Order Reprints tool at the bottom of any article or visit
+www.djreprints.com
+See a sample reprint in PDF format.
+Order a reprint of this article now
+PORTUGUESE
+October 23, 2012, 12:04 a.m. ET
+Microsoft usa tática de rivais em versão móvel
+Artigo
+Stock Quotes
+Comentários
+smaller
+Larger
+Por DON CLARK e BEN WORTHEN
+A Microsoft Corp. está testando novas táticas para reformular seu sistema para a era de plataformas móveis. No processo, a reação que vem obtendo de fabricantes de computadores e outras empresas tradicionalmente aliadas vai da empolgação à consternação.A empresa, que planeja lançar mundialmente uma nova versão do Windows nesta sexta-feira, parece estar aprendendo com a Apple Inc. e a Google Inc., pois está apostando em comandos por toque e aplicativos, novidades que o consumidor abraçou em smartphones e tablets.
+Outra novidade da Microsoft é uma segunda versão do Windows para processadores que consomem menos energia — tecnologia que evoluiu do celular. Essa tacada gerou certo mal estar com a Intel, velha parceira em processadores. Além disso, criou brechas para outras fabricantes de chips até aqui excluídas do mercado de microcomputadores.
+"É um cenário totalmente novo para gente como nós", diz Anand Chandrasekher, diretor de marketing da Qualcomm Inc., que está fornecendo processadores para parte dos dispositivos com Windows que serão lançados.Não é só nisso que a Microsoft está seguindo os passos de Apple e Google. A empresa também vai lançar na sexta um tablet — o Surface — com sua própria marca. Pressão para mudar não falta. A venda de computadores, para os quais a Microsoft há muito é a principal fornecedora de software, vem despencando, à medida que o consumidor passa a priorizar smartphones e tablets. A Microsoft e a Intel estão apostando que o novo Windows com recursos de toque vai apelar principalmente para clientes corporativos e incentivar o desenvolvimento de tablets com sistema Windows, notebooks com telas sensíveis a toque e híbridos de laptop e tablet.
+"Agora sim vai começar a jorrar inovação", disse Paul Otellini, diretor-presidente da Intel, em uma teleconferência recente. Otellini acrescentou, contudo, que fabricantes de hardware vinham mostrando cautela, criando um volume menor de novos sistemas do que o típico às vésperas da chegada de uma nova versão do Windows.
+O preço pode ser um obstáculo. A Apple lança hoje uma versão menor do iPad, cujo modelo mais recente custa, em sua versão mais básica, US$ 499. Hoje, há tablets equipados com o software Android, da Google, por US$ 149. Por outro lado, fabricantes de computadores estão anunciando o tablet com Windows por valores entre US$ 600 e mais de US$ 1.000 (todos os preços se referem ao mercado americano).
+Outra dúvida envolve a decisão da Microsoft de lançar duas versões do software — o Windows 8 para processadores x86 tradicionais da Intel e da Advanced Micro Devices Inc., e o Windows RT para chips de celular que Qualcomm, Nvidia Corp. e Texas Instruments Inc. fabricam sob licença da ARM Holdings PLC. Segundo informou a Microsoft, os chips da ARM terão recursos para poupar bateria. Um deles seria um certo "standby conectado", um modo novo projetado para permitir que o aparelho funcione por semanas com uma única carga de bateria, pois a tela do aparelho fica apagada enquanto chegam e-mails.
+A Intel já avisou, no entanto, que pode fazer o mesmo com uma linha de processadores da empresa, o Atom.
+Já o Windows 8 tem uma vantagem mais óbvia: pode rodar tanto aplicativos novos para celular como programas anteriores para Windows. O Windows RT não é compatível com programas populares mais antigos, como o iTunes, da Apple.
+Por ora, somente cinco empresas anunciaram o lançamento de aparelhos para Windows RT: Dell Inc., Samsung Electronics Co., Lenovo Group Ltd., a Asustek Computer Inc. e Microsoft (no caso, o tablet Surface, que também deve sair em versões x86). O mercado já espera muito mais aparelhos para Windows 8.A Toshiba Corp. trabalhou com a Texas Instruments no projeto de um aparelho com chip da ARM, mas disse que não quis ir em frente. Outras, como as fabricantes de computadores Hewlett-Packard Co., Acer Inc. e Fujitsu Ltd., decidiram não apostar na tecnologia."Ainda acreditamos que o mercado vai estar no ambiente [Intel] x86", disse Sumit Agnihotry, diretor de marketing da Acer.
+A Microsoft criou tensão no mercado ao exigir que fabricantes de processadores elejam umas duas fabricantes de computadores ou aparelhos móveis como principais parceiras. A ideia, adotada pelo Google, é garantir que hardware e software funcionem bem juntos.
+Executivos da indústria de processadores disseram, no entanto, que detestam dar tratamento preferencial a um ou outro parceiro em detrimento dos outros.
+Além disso, a Microsoft pegou de surpresa fabricantes de computadores ao anunciar, em junho, que lançaria um tablet próprio.
+Um porta-voz da Microsoft se recusou a responder a maioria das perguntas feitas sobre o Surface e o processo de desenvolvimento da empresa. Segundo ele, no entanto, "a Microsoft trabalhou em estreita colaboração com [seus] parceiros de hardware para deixar mais de mil sistemas prontos para o lançamento do Windows 8".
+Certos fabricantes de aparelhos não veem a concorrência do Surface como um problema. A Dell pretende lançar um tablet no sistema RT para o grande público, que provavelmente levará o aparelho para o trabalho, disse David Lord, diretor de marketing na divisão de micros da Dell. "Temos um monte de clientes muito interessados ​​nisso", disse. Copyright 2012 Dow Jones & Company, Inc. All Rights Reserved
+This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit
+www.djreprints.com
+Subscriber Content Read Preview
+Erster Anleihe-Ausfall in China ängstigt Anleger
+Volkswirte haken EZB-Zinssenkung ab
+US-Börsenmakler verheimlichen ihre dunkle Vergangenheit
+close
+Email This
+Recipient's Email Address (Separate multiple address with commas)
+Your Email Address
+Message (Optional)
+Send me a copy
+or Cancel
+close
+Thank You
+Your email has been sent.
+close
+Error.
+An error has occured and your email has not been sent. Please try again.
+• Invalid email address.
+• You can't enter more than 20 emails.
+• Seperate multiple addresses with Commas.
+• Must enter an email address.
+• You must enter the verification code below to send.
+• Invalid entry: Please type the verification code again.
+Voltar ao Back To
+MSN Money Homepage
+MSN Money Investing
+Available to WSJ.com Subscribers
+Subscriber Content Read Preview
+With Shouts and Hugs, Sprint Boss Drives Turnaround
+Subscriber Content Read Preview
+Companies Rush to List Shares
+Subscriber Content Read Preview
+Regulator Deletes Brokers' Red Flags, Study Says
+Subscriber Content Read Preview
+Heavenly Currency Intervention Is Sought
+From the HomePage
+Crimea Raises Tension by Setting Secession Vote
+The Moscow-backed government of Crimea set a referendum in 10 days to ratify its decision to secede from Ukraine and join Russia, a vote President Obama blasted as illegal.
+Subscriber Content Read Preview
+Crimeans React With Mixed Emotions
+As Crimea's legislators were voting for secession, residents expressed a mixture of shock and satisfaction about the prospect of splitting Ukraine and joining Russia.
+Subscriber Content Read Preview
+Ukraine Strife Strains Diplomatic Ties
+Escalating tensions between Washington and Moscow are casting an uneasy light on the delicate diplomatic partnership between Secretary of State John Kerry and his Russian counterpart, Sergei Lavrov.
+Subscriber Content Read Preview
+Russia's Crimea Grab Sparks Wartime Allusions
+Russia's threat to annex the Crimea, which calls to mind Germany's moves before World War II, is stoking fears in Europe that Moscow may seek to take more territory under its control and destabilize the broader region.
+Loading...
+Footnotes*
+Real-time U.S. stock quotes reflect trades reported through Nasdaq only; comprehensive U.S. stock quotes reflect trading in all markets and are delayed at least 15 minutes. All quote volume is comprehensive and reflects trading in all markets, delayed at least 15 minutes. International stock quotes are delayed as per exchange requirements.
+Video
+previous
+next
+Opinion
+Opinion: Kasparov: Failure of the Russian “Reset” 4:59
+Opinion
+Opinion: Another Day, Another ObamaCare Delay
+3:37
+Opinion
+Opinion: The Carter Presidency, Pt. II. 3:41
+Opinion
+Opinion: Milken: Housing Policy Hurts The Middle Class 4:52
+Opinion
+Opinion: Obama's Blowout Budget 4:40
+Opinion
+Opinion: Putin's Georgia Precedent 3:28
+Opinion
+Opinon: Will Cuomo Save School Choice?
+3:49
+Opinion
+Opinion: Why One Parent Rallied for Charter Schools
+2:46
+Opinion
+Opinion: What Went Wrong for the Tea Party? 4:40
+Opinion
+Opinion: Tea Party Primary Stumbles 4:02
+Opinion
+Opinion: Lone Star State Bellwether 3:43
+Opinion
+Opinion: The Case for a Camera-Free Supreme Court 2:58
+Opinion
+Opinion: Why Ukraine Matters
+3:46
+Opinion
+Opinion: How to Punish Putin 4:35
+Opinion
+Opinion: Our Politicized Drug Czars
+3:02
+Most Recommended
+CommentsComments
+CommentersCommenters
+1.
+“So much for the idea, pushed by...;”
+- Don Hansen
+132 Recommendations
+2.
+“The IRS should collect the taxes...;”
+- Jonathan Murray
+123 Recommendations
+3.
+“We don't know what the course of...;”
+- Roger Cohen
+117 Recommendations
+4.
+“"Unfortunately, the UAW has...;”
+- XAVIER L SIMON
+104 Recommendations
+5.
+“True. I have read that in the...;”
+- Keith Dowling
+103 Recommendations
+Craig Mundo
+2794 Recommendations
+XAVIER L SIMON
+2556 Recommendations
+Bob Wahler
+2244 Recommendations
+James Doppelheuer
+2088 Recommendations
+Maria Bonanno
+1377 Recommendations
+Most Active Discussions
+Journal Community
+Religion & Ethics
+Do we need religion to have ethics? Is it possible that a world without religion can be, on the whole, a better place to live?
+Science Fiction and Fantasy
+What is your favorite Heinlein Story
+Libertarians
+Is it useful to compare political figures of today with Hitler?
+Question of the Day
+Have you had to sacrifice anything from your household budget to allow for higher cellphone/mobile data expenses?
+Question of the Day
+What do you think of as a “small” business?
+See all Discussion Groups
+]]>
+Journal Community
+close window
+Hello Your question to the Journal Community Your comments on articles will show your real name and not a username.Why?
+Why use your real name? The Journal Community encourages thoughtful dialogue and meaningful connections between real people. We require the use of your full name to authenticate your identity. The quality of conversations can deteriorate when real identities are not provided.
+Please enter your first and last name
+First name: Last name: Create a Journal Community profile to avoid this message in the future. (As a member you agree to use your real name when participating in the Journal Community)
+Post
+Cancel
+Privacy Policy
+Community Rules
+Notice: Your participation access with Journal Community has been disabled due to violation of Journal Community Guidelines.
+If you feel you have reached this status change in error, please contact TBD@wsj.com
+WSJ Web Slice
+CONTENT
+LINKS TO ACTUAL PAGE CONTAINING WEB SLICE FUNCTIONALITY.
+15
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Advertise
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads Recruitment & Career Ads Franchising
+Advertise Locally Tools & Features
+Apps
+Emails & Alerts
+Graphics
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Why Subscribe
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+Mobile Site
+Price & Volume
+Keyword & Symbol
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+Schließen
+Subscribe Now
+Save to ↓ More
+Save ↓ More
+Saved ↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+smaller
+Larger
+facebook
+twitter
+google plus
+linked in	Email
+Print
+Save
+↓ More
+facebook twitter google plus linked in
+Email
+Print Save
+↓ More
+Order Reprints facebook
+twitter
+google plus
+linked in
+Email
+Print
+Save
+↓ More
+Order Reprints 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10000872396390443589304577633773199268632?mod=WSJ__MIDDLENexttoWhatsNewsForth&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10000872396390443589304577633773199268632.html%3Fmod%3DWSJ__MIDDLENexttoWhatsNewsForth
+WARC-Date: 2014-03-07T06:52:53Z
+WARC-Record-ID: <urn:uuid:b8861cd1-face-48fd-aff6-3564a70cac51>
+WARC-Refers-To: <urn:uuid:d1a08cd7-fb68-4464-83f4-609e97426ee2>
+WARC-Block-Digest: sha1:WOOLVGFVZHFXID6TQU56CKU34N34WR6K
+Content-Type: text/plain
+Content-Length: 18181
+
+The New New-Home Market - WSJ.com investigation
+WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+WSJ.Money
+Stocks
+Funds/ETFs
+Bonds
+Family Finance
+Taxes
+Wealth Adviser
+MoneyBeat
+Total Return
+Your Money
+Subscribe
+Log In
+Top Stories in Your Money​
+1 of 8
+BofA Seeks a Lift From Flat-Fee Checking
+Subscriber Content
+Read Preview
+2 of 8
+Active or Index Investing? Try Both.
+3 of 8
+Leveraged ETFs for Retirees?
+4 of 8
+Psst...the Backdoor Route to a Roth IRA
+5 of 8
+How to Predict the Next Decade's Bond R...
+6 of 8
+Beware the Stealth Tax
+Subscriber Content
+Read Preview
+7 of 8
+Emerging Markets Look Appetizing…Again
+8 of 8
+Picking Up the Pieces
+Weekend Investor
+The New New-Home Market
+Demand for Freshly Built Homes Is Heating Up, and Steep Bargains Are Vanishing Fast. Here's How to Get a Good Deal Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Facebook
+Twitter
+Google+
+LinkedIn
+smaller
+Larger
+By
+Ruth Simon
+Updated Sept. 7, 2012 5:23 p.m. ET
+Six years after the U.S. housing market tumbled into the abyss, demand for brand-new homes is picking up. Sales are on the rise, and prices in many areas are inching higher. Enlarge Image
+The bad news for buyers: The new market environment means less discounting, fewer incentives and, in some cases, longer waits for homes. But there are several steps you can take to be a better shopper—from choosing amenities judiciously to waiting until a home is partially built before pulling the trigger on a deal. Low interest rates and improving economic conditions are persuading people like Jerold Hawkins to take the plunge. Mr. Hawkins, a software developer for the auto industry, and his wife, Katherine, a nurse, recently agreed to buy a new five-bedroom home in Rochester Hills, Mich., for $289,900. "I now have a really good job and so does my wife," Mr. Hawkins says. Enlarge Image
+A Pulte Homes "Ellsworth" house in the Grand Vista Estates development in Northville, Mich.
+PulteGroup The auto industry's recovery has spurred demand for new homes in the $180,000 to $500,000 price range in the Detroit area, says Dan Elsea,
+president of brokerage Real Estate One in Detroit. In the choicest neighborhoods, even homes built without a ready buyer often sell long before completion and with multiple offers, he says. After the new-home market's dismal performance of the past few years, any improvement is welcome. The median price plunged 22% from its peak of $262,600 in March 2007 to a low of $204,200 in October 2010, with some markets tumbling 50% or more. Just 306,000 new homes were sold last year, according to the U.S. Commerce Department, the lowest on record. But the tide seems to be turning. New-home sales rose in July for the third time in four months. And with inventories at record lows, builders are trimming incentives and raising prices in markets such as Detroit, Houston, New York and Phoenix. Overall, sales of new homes surged 22% from September through July, according to the National Association of Home Builders. The median price of new homes sold in July stood at $224,200, up 9.8% from their 2010 lows. Enlarge Image
+Workers in July frame the first home in a new community in Gilbert, Ariz. Prices and waiting times for new homes in the Phoenix area are starting to rise.
+Associated Press "We're clearly in recovery," says Douglas Yearley Jr.,
+chief executive of luxury builder Toll Brothers
+TOL -0.35%
+Toll Brothers Inc.
+U.S.: NYSE
+$39.41
+-0.14
+-0.35%
+March 6, 2014 4:00 pm Volume (Delayed 15m)
+:
+1.98M
+AFTER HOURS
+$39.41
+0.00
+0.00%
+March 6, 2014 4:26 pm Volume (Delayed 15m):
+42
+P/E Ratio
+31.53
+Market Cap
+$7.02 Billion
+Dividend Yield
+N/A
+Rev. per Employee
+$958,390
+02/27/14 HEARD ON THE STREET: Place Bet...
+02/25/14 Morning MoneyBeat: Record High...
+02/25/14 Toll Brothers Reports Surge in...
+More quote details and news »
+TOL in
+Your Value
+Your Change
+Short position
+in Horsham, Pa., which builds in 20 states nationwide. In August, Toll reported the most sustained demand in more than five years. Stronger markets include Connecticut, Massachusetts and New York, while Illinois and Las Vegas are softer, the company says. Billie Armenta,
+a government employee, says she is surprised the $294,900 base price of her new home in Phoenix has risen by more than $33,000 since she and her husband, Ruben, a retiree, signed their contract in January. The couple had to wait six weeks for an appointment at the design center and nearly eight months for construction to be completed. The much larger market for existing homes is perking up as well. Prices in June posted their first year-over-year increase in nearly two years, according to the S&P/Case-Shiller index of 20 major metropolitan areas. From September 2011 through July 2012, sales jumped 5%, according to the NAHB. To be sure, the housing recovery is still in its infancy, with credit tight and sales and prices well below historical levels. Rising interest rates, an uptick in the supply of foreclosed homes or a weakening economy all could crimp sales. More Weekend Investor Intelligent Investor: Want to Buy a Private Stock? Upside: Betting on a 'Turnaround' Getting Going: Pondering a Trust for Your Pet Is Facebook a Bargain Now? Conquering Retirement: Family Computer Crimes Playing 'Preferred' Shares But after years of retrenching, builders have whittled down their stockpiles greatly, and are being cautious about bringing new homes to market. The inventory of unsold new homes now stands at 144,000, down from a peak of 575,000 in July 2006, the Commerce Department reports. At the current sales pace, that's a 4.9 month supply of new homes; six months is considered a balanced market, says NAHB chief economist David Crowe.
+Big Changes One of the biggest changes since the downturn is where new homes are being built. The new homes are located much more closely to job centers than they were five years ago, says John Burns
+of John Burns Real Estate Consulting in Irvine, Calif. Some builders are rolling out features not likely to be found in the resale market. KB Home,
+KBH -2.71%
+KB Home
+U.S.: NYSE
+$19.01
+-0.53
+-2.71%
+March 6, 2014 4:04 pm Volume (Delayed 15m)
+:
+4.78M
+AFTER HOURS
+$19.01
+0.00
+0.00%
+March 6, 2014 4:27 pm Volume (Delayed 15m):
+5,017
+P/E Ratio
+42.24
+Market Cap
+$1.64 Billion
+Dividend Yield
+0.53% Rev. per Employee
+$1,466,520
+01/28/14 D.R. Horton Says Strong Sales ...
+More quote details and news »
+KBH in
+Your Value
+Your Change
+Short position
+which is based in Los Angeles and builds in 10 states and Washington, D.C., lets buyers choose whether the master bedroom is on the first or second floor. In Southern California, it has consulted with feng shui masters on home design. PulteGroup,
+PHM -0.29%
+PulteGroup Inc.
+U.S.: NYSE
+$20.58
+-0.06
+-0.29%
+March 6, 2014 4:01 pm Volume (Delayed 15m)
+:
+5.10M
+AFTER HOURS
+$20.52
+-0.06
+-0.29%
+March 6, 2014 5:27 pm Volume (Delayed 15m):
+77,004
+P/E Ratio
+3.03
+Market Cap
+$7.87 Billion
+Dividend Yield
+0.97% Rev. per Employee
+$1,457,320
+01/30/14 PulteGroup's Profit Surges Ami...
+More quote details and news »
+PHM in
+Your Value
+Your Change
+Short position
+which is based in Bloomfield Hills, Mich., and builds in 29 states, offers the "Pulte Planning Center," a secondary office space off the main living room that helps homeowners stay organized and monitor their children's homework. The New Home Co. in Aliso Viejo, Calif., offers a multigenerational home with a private living space for an older parent or child returning home after college. "We can take any walk-in pantry we have and turn it into a separate cooking facility," says New Home Chief Executive H. Lawrence Webb.
+Lennar,
+LEN -0.58%
+Lennar Corp. Cl A
+U.S.: NYSE
+$42.90
+-0.25
+-0.58%
+March 6, 2014 4:01 pm Volume (Delayed 15m)
+:
+3.14M
+AFTER HOURS
+$42.85
+-0.05
+-0.12%
+March 6, 2014 7:30 pm Volume (Delayed 15m):
+16,140
+P/E Ratio
+17.37
+Market Cap
+$8.57 Billion
+Dividend Yield
+0.37% Rev. per Employee
+$1,035,340
+12/18/13 Lennar Posts Fourth-Quarter Ga...
+12/18/13 Lennar's Profit Jumps 32%
+More quote details and news »
+LEN in
+Your Value
+Your Change
+Short position
+meanwhile, offers a "Next Gen" home aimed at baby boomers with aging parents or boomerang kids. Builders also are touting energy efficiency. Meritage Homes,
+MTH -1.21%
+Meritage Homes Corp.
+U.S.: NYSE
+$47.28
+-0.58
+-1.21%
+March 6, 2014 4:03 pm Volume (Delayed 15m)
+:
+320,671
+AFTER HOURS
+$47.28
+0.00
+0.00%
+March 6, 2014 4:27 pm Volume (Delayed 15m):
+1,494
+P/E Ratio
+13.74
+Market Cap
+$1.87 Billion
+Dividend Yield
+N/A
+Rev. per Employee
+$1,734,000
+More quote details and news »
+MTH in
+Your Value
+Your Change
+Short position
+which is based in Scottsdale, Ariz., and builds in seven states, lets buyers spend the credits they can apply to upgrades or financing on solar panels; in some model homes, an entire room is deconstructed to highlight energy-efficient features. Another change: Homes are starting to get larger again, after falling during the housing downturn. Among new homes sold in the first half of 2012, the median square footage was 2,013, up from a recent low of 1,945 in 2009, according to Hanley Wood Market Intelligence. Experts say larger homes are more attractive to the trade-up buyers who now dominate the new-home market. Steve Ruffner,
+president of KB Home, Southern California, says buyers can afford bigger homes because prices and interest rates have fallen. Of course, what you will get for your money depends on local conditions. If you are thinking about a new home, here are some points to consider. Don't be fooled by the sticker price. "The base price always looks incredibly good," says Lloyd Fox,
+a real-estate broker at Long Realty in Scottsdale, but upgrades typically add 10% to 15%, sometimes more. Billie Armenta, the Phoenix home buyer, says the purchase price for her home rose by more than $55,000 to $350,000 once the fee for a choice lot, carpeting, higher-quality cabinets and other upgrades were figured in. Expect to pay a premium. The median new home sold for 36% more than the median existing home last year, excluding distressed properties that were foreclosed on, according to Hanley Wood.
+That spread is wider than in the recent past. The gap had narrowed to just 28% in 2009, when builders were scrambling to unload the last of the inventory built during the housing boom. Since 2005 the gap has averaged 34%. Remember that location matters. Your ability to negotiate a good deal can vary even within the same locale. "We have some markets where we're raising prices on every plan pretty significantly," Standard Pacific chief financial officer Jeff McCall
+told investors in July. "And then 10 miles down the road we have stagnant pricing." Closer-in developments generally command a premium versus homes in outlying areas. In Tucson, builders are offering discounts from the list price on homes built without a ready buyer in the Dove Mountain area, which was hard hit by the housing bust, says Laura Sayers,
+a vice president at Long Realty. Less than 10 miles away, in Oro Valley, demand for new homes is so strong there is a waiting list for new lots, she says. Negotiate aggressively. Incentives are getting smaller, on average, but buyers in some markets still have a fair amount of bargaining power. In the Tampa Bay, Fla., area, builders are buying down interest rates, paying closing costs and tossing in appliances, says Jaci Stone,
+an agent at Century 21 Beggins Realty, who had one builder kick in two months' rent so a client could break a lease. Hayley and Tyler Sutterby nabbed $20,000 in upgrades instead of the standard $8,000 package when they recently bought a four-bedroom home under construction in Lithia, Fla. The couple is spending the credits on higher quality cabinets and flooring, a tankless water heater and other energy-saving features, says Ms. Sutterby, who works in marketing for a cable company. Be tactical. The closer a home is to completion, the fewer choices you get to make, but the more likely the builder is to make a deal. That's because builders don't want to end up saddled with finished homes. So keep an eye out for homes that are near completion or are in inventory, says Ms. Stone, the Tampa agent, who adds that publicly traded builders are often more willing to make a deal at the end of the quarter or fiscal year. Prepare to wait. When home prices were tumbling, buyers were regularly advised to sell their current homes before buying new ones—or risk being stuck with two mortgages. But with inventories at record lows, buyers might have to wait three to six months for their new home to be completed. That can make timing tricky for move-up buyers. Martin Mitchell,
+vice chief executive of Mitchell & Best Homebuilders in Rockville, Md., suggests that buyers in stronger markets prepare their home for sale, but wait until construction is under way before bringing it to market. Another option: sell your home and rent it back for a few months. Understand your financing options. Builders often will pay closing costs or provide other incentives if you get your mortgage from them. But the deals offered by builders aren't always better than what you might get from another lender, says Greg McBride,
+a senior financial analyst at Bankrate.com. Because their credit lines are limited, more builders are asking buyers to take out construction loans that roll into a standard mortgage once the home is completed instead of having the builder finance the construction from its own credit line, with the borrower taking out a mortgage when the sale closes. The bank makes payments to the builder, typically as construction goals are met, with the buyer generally paying interest only on the funds used. Anyone considering this option, "should at least have some sense of what the permanent financing costs will be," even if you can't lock in a mortgage rate, to make sure payments are affordable, advises Keith Gumbinger,
+a vice president at mortgage-data provider HSH.com. To reduce fees, arrange to close on both loans at the same time instead of closing first on the construction loan and then later on the mortgage. Write to Ruth Simon at ruth.simon@wsj.com Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Order Reprints
+Facebook
+Twitter
+Google+
+LinkedIn
+close
+Email This
+• Invalid Email Address
+Recipient's Email Address (Separate multiple address with commas)
+• Invalid Email Address
+Your Email Address
+Message (Optional)
+Send me a copy
+You must enter the verification code below to send.
+or Cancel
+close
+Thank You
+Your email has been sent.
+close
+Error.
+An error has occurred and your email has not been sent.
+Please try again.
+WSJ In-Depth Obama Scales Back Budget Goals
+Interactive: Faces of the Affordable Care Act
+The Journal follows those affected by the health law—from industry executives to consumers to care providers—and shares their stories.
+CDC: Antibiotic Overuse Can Be Lethal
+Why This Computer Mouse Rules
+Inside a Stunning Comeback
+China Calibrates its Response to Attack
+Popular Now
+What's This?
+Close
+Content engaging our readers now, with additional prominence accorded if the story is rapidly gaining attention. Our WSJ algorithm comprises 30% page views, 20% Facebook, 20% Twitter, 20% email shares and 10% comments.
+ARTICLES
+1
+U.S. Household Net Worth Hits Record
+Subscriber Content
+Read Preview
+Twitter
+Facebook
+Email
+Comments
+2
+Selfies Bring Ashtags to Lent
+Twitter
+Facebook
+Email
+Comments
+3
+Crimea Raises Tension by Setting Secession Vote
+Twitter
+Facebook
+Email
+Comments
+4
+Behind Oscar Selfie: Samsung's Ad Plan
+Twitter
+Facebook
+Email
+Comments
+5
+Ramblin' No More: A Last Run at the Beacon
+Twitter
+Facebook
+Email
+Comments
+VIDEO
+1 RT Anchor Quits On Air, Cites Putin 'Whitewash' Twitter
+Facebook
+2 For Billionaires Only: Tour a $315 Million Yacht Twitter
+Facebook
+3 Putinisms: Vladimir Putin’s Top Six One Liners Twitter
+Facebook
+4 Viral Oscar Selfie Sponsored by Samsung Twitter
+Facebook
+5 Structuring a Portfolio for Rising Rates Twitter
+Facebook
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424052748703816204574481580907391804?mod=rss_Deals_and_Deal_Makers&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052748703816204574481580907391804.html%3Fmod%3Drss_Deals_and_Deal_Makers
+WARC-Date: 2014-03-07T06:51:14Z
+WARC-Record-ID: <urn:uuid:aee8eba8-6d12-464d-958d-b108dd0547ae>
+WARC-Refers-To: <urn:uuid:440f680e-2712-4cdc-a874-5e624a26f8be>
+WARC-Block-Digest: sha1:QTWQ5QKBGTYJPBEHDKWODYU35U3YSUQL
+Content-Type: text/plain
+Content-Length: 3355
+
+Vivendi in Talks With GE to Unload NBC Universal Stake - WSJ.com WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+News
+Sports
+Culture
+Real Estate
+Metropolis
+New York
+Subscribe
+Log In
+Top Stories in New York​
+1 of 12
+De Blasio Approval Rating at 39% in Poll
+2 of 12
+NYPD Focus on Subway Panhandlers
+3 of 12
+MoMA PS1 Shows 'Body Awareness'
+4 of 12
+Garment District Proves Comfortable Fit
+Subscriber Content
+Read Preview
+5 of 12
+New York Assemblyman Found Guilty of Br...
+6 of 12
+City Jobs Picture Perks Right Along
+Subscriber Content
+Read Preview
+7 of 12
+Law Firm Under Scrutiny Boosts Lobbying
+8 of 12
+Jersey City Fire Kills Family of Four
+9 of 12
+Port Authority Land for Sale
+Subscriber Content
+Read Preview
+10 of 12
+Gov. Christie: Set Sights on Defeating ...
+11 of 12
+No Nibbling, Except in the Clubhouse
+12 of 12
+Showing the Love at 'Sweeney Todd'
+Business
+Vivendi In Talks to Unload NBC Stake
+By
+Sam Schechner And Jeffrey McCracken Updated Oct. 19, 2009 12:01 a.m. ET
+General Electric Co. and Vivendi SA are about $500 million apart in talks over what Vivendi should be paid for its minority stake in television and movie company NBC Universal, according to people familiar with the matter. That stake is a key element in a potential deal that could give U.S. cable operator Comcast Corp. control of NBC Universal, and eventually usher GE out of the entertainment business. GE currently owns 80% of NBC...
+Available to WSJ.com Subscribers With Shouts and Hugs, Sprint Boss Drives Turnaround
+Companies Rush to List Shares
+Regulator Deletes Brokers' Red Flags, Study Says
+Heavenly Currency Intervention Is Sought
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+meals
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887323321704578379253100472038?mod=WSJ_article_DeclarationsHeadlines&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887323321704578379253100472038.html%3Fmod%3DWSJ_article_DeclarationsHeadlines
+WARC-Date: 2014-03-07T06:48:47Z
+WARC-Record-ID: <urn:uuid:e12b7fc5-2f01-463e-a1bc-d07147d4e980>
+WARC-Refers-To: <urn:uuid:c8c14b2d-5e26-488a-8d61-d0d936206a39>
+WARC-Block-Digest: sha1:FCTWDYXPDMULWPVFKMAH6UDXPZVVNYYX
+Content-Type: text/plain
+Content-Length: 3763
+
+Michael Dell Could Lose Vote, CEO Job in Rival Dell Buyout Bid - WSJ.com WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+Careers
+Business Schools
+Education
+At Work
+Leadership
+How-To Guide
+CIO Journal
+CFO Journal
+Risk & Compliance
+Job Search
+Management
+Subscribe
+Log In
+Top Stories in Management​
+1 of 12
+With Shouts and Hugs, Sprint Boss Drive...
+Subscriber Content
+Read Preview
+2 of 12
+Fallen Law Firm's Leaders Are Indicted
+Subscriber Content
+Read Preview
+3 of 12
+EMC Is Undaunted by Cloud, Startups
+Subscriber Content
+Read Preview
+4 of 12
+Vedanta Names Albanese as CEO
+Subscriber Content
+Read Preview
+5 of 12
+Carlyle Honchos Join Wave of Private-Eq...
+Subscriber Content
+Read Preview
+6 of 12
+Indonesian Billionaire in Rescue Talks ...
+Subscriber Content
+Read Preview
+7 of 12
+Do CEOs of Family-Owned Businesses Work...
+8 of 12
+GE Gives CEO Immelt a Pay Raise
+Subscriber Content
+Read Preview
+9 of 12
+Target Tech Executive Resigns
+Subscriber Content
+Read Preview
+10 of 12
+FitBit Chief on Recall, What's Next
+11 of 12
+Amazon CEO Jeff Bezos Puts More Money I...
+Subscriber Content
+Read Preview
+12 of 12
+Disability Studies: Hot Topic on Campus
+Management
+Michael Dell Could Lose CEO Job in Rival Buyout Bid
+By
+Shira Ovide
+@ShiraOvide Shira.Ovide@wsj.com
+Shira Ovide
+Biography
+connect
+Shira Ovide
+@ShiraOvide Shira.Ovide@wsj.com
+Shira Ovide
+Biography
+Updated March 24, 2013 5:45 p.m. ET
+Michael Dell kicked off the process to take Dell Inc. private. Now as other potential bidders crowd into the picture, Mr. Dell may end up losing control of his company. Blackstone Group LP and activist investor Carl Icahn expressed interest in the computer maker before a key deadline for offers expired Friday, with each notifying a special committee of Dell's board that they are working on firm bids for the Round Rock, Texas,...
+Available to WSJ.com Subscribers With Shouts and Hugs, Sprint Boss Drives Turnaround
+Companies Rush to List Shares
+Regulator Deletes Brokers' Red Flags, Study Says
+Heavenly Currency Intervention Is Sought
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+meals
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887323372504578468002693775968?mod=WSJ_article_TheIntelligentInvestorHeadlines&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887323372504578468002693775968.html%3Fmod%3DWSJ_article_TheIntelligentInvestorHeadlines
+WARC-Date: 2014-03-07T06:55:24Z
+WARC-Record-ID: <urn:uuid:a3272819-6d2b-4556-91bf-179b06bac87e>
+WARC-Refers-To: <urn:uuid:8e1884b4-592a-406c-9d6a-4fabafde71d1>
+WARC-Block-Digest: sha1:OGMZSY7ROBS6FSBXHYI4PCY5SHUM2RJ6
+Content-Type: text/plain
+Content-Length: 3779
+
+Reserve Bank of Australia Cuts Interest Rates to Record Low 2.75% - WSJ.com investigation
+WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+World Home
+Asia
+China
+Hong Kong
+Japan
+India
+SE Asia
+Europe
+U.K.
+Russia
+Middle East
+Africa
+Canada
+Latin America
+World
+Subscribe
+Log In
+Top Stories in World​
+1 of 12
+Venezuelan President Calls for Meeting ...
+Subscriber Content
+Read Preview
+2 of 12
+Al Qaeda Trainee Testifies at Terror Tr...
+Subscriber Content
+Read Preview
+3 of 12
+Netherlands Flags Possible Ukraine Asse...
+Subscriber Content
+Read Preview
+4 of 12
+Niger Extradites Gadhafi's Son to Libya
+Subscriber Content
+Read Preview
+5 of 12
+Sweden Mulls "Doctrine Shift"...
+Subscriber Content
+Read Preview
+6 of 12
+Canadian Regulators Approve Enbridge Pi...
+Subscriber Content
+Read Preview
+7 of 12
+Disgraced Japanese Composer Apologizes
+8 of 12
+Heavenly Currency Intervention Is Sought
+Subscriber Content
+Read Preview
+9 of 12
+Karzai's Brother Quits Afghan Race
+10 of 12
+Doctor at Scene of Pistorius Shooting T...
+Subscriber Content
+Read Preview
+11 of 12
+New Zealand Looking to Revive Solid Ene...
+Subscriber Content
+Read Preview
+12 of 12
+U.S., Russia Discuss International 'Con...
+Subscriber Content
+Read Preview
+World News
+Australia Seeks Cushion With Surprise Rate Cut
+By
+James Glynn
+Updated May 7, 2013 6:10 a.m. ET
+SYDNEY—Australia's central bank cut interest rates to a record low Tuesday, seeking to cushion the economy from a strong currency that's undermining the nation's competitiveness and preparing for the end of a decadelong resources boom. In a surprise move, the Reserve Bank of Australia, or RBA, lowered the benchmark cash-rate target to 2.75%, expressing concern that the Australian dollar remains close to 30-year highs. The high currency is crippling the nation's manufacturers and exporters, while rate-sensitive sectors...
+Available to WSJ.com Subscribers With Shouts and Hugs, Sprint Boss Drives Turnaround
+Companies Rush to List Shares
+Regulator Deletes Brokers' Red Flags, Study Says
+Heavenly Currency Intervention Is Sought
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887323528404578455392811759684?mod=WSJ_article_NewYorkSportsHeadlines&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887323528404578455392811759684.html%3Fmod%3DWSJ_article_NewYorkSportsHeadlines
+WARC-Date: 2014-03-07T06:45:27Z
+WARC-Record-ID: <urn:uuid:95f91bf6-329c-4e29-b4e5-3ed5b3cff14d>
+WARC-Refers-To: <urn:uuid:d7c847fa-ed4d-45e8-a4ba-b22dd3a849cd>
+WARC-Block-Digest: sha1:CN7QFFUCNVPKE462RDJNIWFU7SBWJTWU
+Content-Type: text/plain
+Content-Length: 11181
+
+After Bangladesh, Wal-Mart, Gap and Hennes & Mauritz Meet to Prevent Industrial Disasters - WSJ.com WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+World Home
+Asia
+China
+Hong Kong
+Japan
+India
+SE Asia
+Europe
+U.K.
+Russia
+Middle East
+Africa
+Canada
+Latin America
+World
+Subscribe
+Log In
+Top Stories in World​
+1 of 12
+Venezuelan President Calls for Meeting ...
+Subscriber Content
+Read Preview
+2 of 12
+Al Qaeda Trainee Testifies at Terror Tr...
+Subscriber Content
+Read Preview
+3 of 12
+Netherlands Flags Possible Ukraine Asse...
+Subscriber Content
+Read Preview
+4 of 12
+Niger Extradites Gadhafi's Son to Libya
+Subscriber Content
+Read Preview
+5 of 12
+Sweden Mulls "Doctrine Shift"...
+Subscriber Content
+Read Preview
+6 of 12
+Canadian Regulators Approve Enbridge Pi...
+Subscriber Content
+Read Preview
+7 of 12
+Disgraced Japanese Composer Apologizes
+8 of 12
+Heavenly Currency Intervention Is Sought
+Subscriber Content
+Read Preview
+9 of 12
+Karzai's Brother Quits Afghan Race
+10 of 12
+Doctor at Scene of Pistorius Shooting T...
+Subscriber Content
+Read Preview
+11 of 12
+New Zealand Looking to Revive Solid Ene...
+Subscriber Content
+Read Preview
+12 of 12
+U.S., Russia Discuss International 'Con...
+Subscriber Content
+Read Preview
+Canada News
+Retailers Seek Plan to Prevent Disasters
+Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Facebook
+Twitter
+Google+
+LinkedIn
+smaller
+Larger
+By
+Shelly Banjo
+@sbanjo Shelly.Banjo@wsj.com
+Biography
+connect
+Shelly Banjo
+@sbanjo Shelly.Banjo@wsj.com
+Biography
+Updated April 30, 2013 7:42 p.m. ET
+Wal-Mart Stores Inc.,
+WMT +0.11%
+Wal-Mart Stores Inc.
+U.S.: NYSE
+$74.88
++0.08
++0.11%
+March 6, 2014 4:03 pm Volume (Delayed 15m)
+:
+5.07M
+AFTER HOURS
+$74.90
++0.02
++0.03%
+March 6, 2014 6:45 pm Volume (Delayed 15m):
+34,986
+P/E Ratio
+15.25
+Market Cap
+$242.04 Billion
+Dividend Yield
+2.56% Rev. per Employee
+$216,497
+03/06/14 Cerberus Reaches Deal for Safe...
+03/06/14 Harsh Weather Weighs on Retail...
+03/05/14 Carrefour's Stringency Lifts E...
+More quote details and news »
+WMT in
+Your Value
+Your Change
+Short position
+Gap Inc.,
+GPS -0.75%
+Gap Inc.
+U.S.: NYSE
+$42.29
+-0.32
+-0.75%
+March 6, 2014 4:00 pm Volume (Delayed 15m)
+:
+2.90M
+AFTER HOURS
+$40.25
+-2.04
+-4.82%
+March 6, 2014 7:49 pm Volume (Delayed 15m):
+567,229
+P/E Ratio
+15.16
+Market Cap
+$19.00 Billion
+Dividend Yield
+2.08% Rev. per Employee
+$118,735
+03/06/14 Harsh Weather Weighs on Retail...
+03/01/14 Gap to Open 30 to 35 Stores in...
+02/28/14 J. Crew in Talks to be Sold to...
+More quote details and news »
+GPS in
+Your Value
+Your Change
+Short position
+and Hennes & Mauritz
+HM-B.SK +0.28%
+H&M Hennes & Mauritz AB Series B
+Sweden: Stockholm
+kr288.10
++0.80
++0.28%
+March 6, 2014 5:29 pm Volume :
+1.83M
+P/E Ratio
+27.78
+Market Cap
+kr475.50 Billion
+Dividend Yield
+3.30% Rev. per Employee
+kr1,778,760
+03/06/14 Abercrombie Plans to Remake Ho...
+02/21/14 Strife Curbs Progress at Bangl...
+02/17/14 Europe's Stocks to Watch: H&M,...
+More quote details and news »
+HM-B.SK in
+Your Value
+Your Change
+Short position
+AB met with about 30 Western retailers, labor groups and nongovernmental organizations to work on a plan to prevent industrial disasters like last week's deadly building collapse in Bangladesh. The discussions included creating a clearinghouse of factory-inspection results, so companies can see where other retailers stopped production over safety concerns, participants said. The group plans to publish the results of the talks in May. Enlarge Image
+A woman grieved as she stuck up a poster of a family member on the wall of a school-turned-make-shift-morgue Tuesday in Savar, near Dhaka, Bangladesh. Several major international retailers met with labor groups and NGOs to work on a plan to prevent industrial disasters like last week's deadly building collapse.
+Associated Press Related News Bangladesh Unrest Seen Rising Over a Trial Gap, Wal-Mart and H&M all confirmed they attended Monday's meeting in Eschborn, a town near Frankfurt, at the headquarters of GIZ, a German federal agency. A spokeswoman for El Corte Inglés SA, the Spanish department-store chain, confirmed discussions of a program aimed at monitoring and improving Bangladesh's industrial infrastructure. Separately, European Union officials said they are considering action to pressure Bangladeshi authorities to improve labor conditions. In a statement Tuesday evening, the EU's trade commissioner, Karel De Gucht,
+and the bloc's foreign-policy chief, Catherine Ashton,
+said they were "very concerned" about labor conditions in Bangladesh. The EU is Bangladesh's largest trade partner. Clothing and order forms from a half dozen Western brands were found in the rubble of the toppled building outside Dhaka, including Canadian retail giant Loblaw
+L.T +0.74%
+Loblaw Cos. Ltd.
+Canada: Toronto
+$46.06
++0.34
++0.74%
+March 6, 2014 4:00 pm Volume :
+1.04M
+P/E Ratio
+20.56
+Market Cap
+$12.91 Billion
+Dividend Yield
+2.08% Rev. per Employee
+$234,572
+More quote details and news »
+L.T in
+Your Value
+Your Change
+Short position
+Cos., Spanish retailers Mango and El Corte Inglés, and Italian retailer Benetton Group SpA. Those companies confirm that factories at the building were producing clothing for them, with Mango and Benetton saying these were test runs. Loblaw and El Corte Inglés have both said they plan to compensate victims and the families of the garment workers. Bangladesh's $20 billion garment industry represents the second-largest clothing exporter after China and has become a prominent link in the global supply of low-cost clothing for so-called fast fashion and budget retailers in the U.S., Europe and Canada. The building collapse represents the third major industrial incident in five months in the country, following two deadly fires last year that killed more than 100 people in total and prompted Western brands to re-examine safety measures. A contract crafted by the U.S.-based International Labor Rights Forum and other groups after a 2010 garment-factory fire, the Bangladesh Fire and Building Safety Agreement, has so far failed to take effect since not enough retailers have signed on. The incidents have renewed calls for a wider safety agreement that would require retailers to sign on to a binding inspection system that would alert workers and the public when a factory is unsafe. Retailers are working on a broader agreement that "more brands are likely to sign up for," said Peter McAllister,
+director of the London-based group Ethical Trade Initiative, who attended the meeting. Labor groups would like to make this information open to the public so workers will also know if their factories are safe, but retailers have resisted amid worries about lawsuits. Some participants said it is unclear if the meeting will result in meaningful action. "What will end these disasters is an urgent program of building renovations," said Scott Nova,
+executive director of the Worker Rights Consortium, who attended the meeting. "That will only happen when brands make enforceable commitments to carry out and pay for it." —Laurence Norman contributed to this article. Write to Shelly Banjo at shelly.banjo@wsj.com Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Order Reprints
+Facebook
+Twitter
+Google+
+LinkedIn
+close
+Email This
+• Invalid Email Address
+Recipient's Email Address (Separate multiple address with commas)
+• Invalid Email Address
+Your Email Address
+Message (Optional)
+Send me a copy
+You must enter the verification code below to send.
+or Cancel
+close
+Thank You
+Your email has been sent.
+close
+Error.
+An error has occurred and your email has not been sent.
+Please try again.
+WSJ In-Depth Obama Scales Back Budget Goals
+Interactive: Faces of the Affordable Care Act
+The Journal follows those affected by the health law—from industry executives to consumers to care providers—and shares their stories.
+CDC: Antibiotic Overuse Can Be Lethal
+Why This Computer Mouse Rules
+Inside a Stunning Comeback
+China Calibrates its Response to Attack
+Popular Now
+What's This?
+Close
+Content engaging our readers now, with additional prominence accorded if the story is rapidly gaining attention. Our WSJ algorithm comprises 30% page views, 20% Facebook, 20% Twitter, 20% email shares and 10% comments.
+ARTICLES
+1
+Behind Oscar Selfie: Samsung's Ad Plan
+Twitter
+Facebook
+Email
+Comments
+2
+Crimea Raises Tension by Setting Secession Vote
+Twitter
+Facebook
+Email
+Comments
+3
+Selfies Bring Ashtags to Lent
+Twitter
+Facebook
+Email
+Comments
+4
+U.S. Household Net Worth Hits Record
+Subscriber Content
+Read Preview
+Twitter
+Facebook
+Email
+Comments
+5
+Ramblin' No More: A Last Run at the Beacon
+Twitter
+Facebook
+Email
+Comments
+VIDEO
+1 RT Anchor Quits On Air, Cites Putin 'Whitewash' Twitter
+Facebook
+2 For Billionaires Only: Tour a $315 Million Yacht Twitter
+Facebook
+3 Putinisms: Vladimir Putin’s Top Six One Liners Twitter
+Facebook
+4 Viral Oscar Selfie Sponsored by Samsung Twitter
+Facebook
+5 Structuring a Portfolio for Rising Rates Twitter
+Facebook
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+preparing
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887323539804578260123802564276?mod=WSJ_article_NHLHeadlines&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887323539804578260123802564276.html%3Fmod%3DWSJ_article_NHLHeadlines
+WARC-Date: 2014-03-07T06:54:10Z
+WARC-Record-ID: <urn:uuid:55c13b3f-1f16-44f6-890c-b62a0d98220d>
+WARC-Refers-To: <urn:uuid:23711454-d49a-48bc-b27f-b15db8deffae>
+WARC-Block-Digest: sha1:D546HJSFXKNKEEXQZHRWVJ6F4W2QKQ6R
+Content-Type: text/plain
+Content-Length: 13433
+
+Panetta to Open Combat Roles to Women - WSJ.com investigation
+WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+U.S. Home
+Seib & Wessel
+Politics & Policy
+Health Law
+Economy
+U.S.
+Subscribe
+Log In
+Top Stories in Politics and Policy​
+1 of 12
+More Uninsured Buy Health Coverage
+2 of 12
+Colleges Straining to Restore Diversity
+3 of 12
+Cruz and Christie Clash on Strategy at ...
+Subscriber Content
+Read Preview
+4 of 12
+Fed's Dudley Upbeat on Economy
+Subscriber Content
+Read Preview
+5 of 12
+More States Cry Fowl Over Egg Law
+Subscriber Content
+Read Preview
+6 of 12
+Rare Detente: New EPA Chief and Industry
+Subscriber Content
+Read Preview
+7 of 12
+Navy Hacking Tied to Contract
+Subscriber Content
+Read Preview
+8 of 12
+Senate Clears Way for McCaskill's Milit...
+Subscriber Content
+Read Preview
+9 of 12
+Al Qaeda Trainee Testifies at Terror Tr...
+Subscriber Content
+Read Preview
+10 of 12
+Obama's Defeat on Nominee Raises Doubts...
+Subscriber Content
+Read Preview
+11 of 12
+Obama Says Delays Don't Mean Health Law...
+Subscriber Content
+Read Preview
+12 of 12
+New Cold War? Obama, Putin Are Split
+Subscriber Content
+Read Preview
+Politics and Policy
+Combat Ban for Women to End
+Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Facebook
+Twitter
+Google+
+LinkedIn
+smaller
+Larger
+By
+Julian E. Barnes And Dion Nissenbaum Updated Jan. 24, 2013 10:49 a.m. ET
+Pentagon Chief Leon Panetta has removed the ban on women serving combat roles.
+Getty Images The Pentagon is dropping the last vestiges of rules barring American women from serving in combat, paving the way for the largest expansion ever of their role on the front lines. The Pentagon is dropping the last vestiges of rules barring American women from serving in combat, paving the way for the largest expansion ever of their role on the front lines. Lt. Col. Juantia Chang and Lt. Col. Kareem P. Montague join The News Hub to discuss. Photo: AP.
+Women in the military already are allowed to serve on most Navy ships, as combat pilots and in hundreds of support jobs, including those in war zones. But they have been historically excluded from direct combat roles, by federal law in earlier times and more recently by military policy. That will change Thursday when Defense Secretary Leon Panetta
+rescinds the 1994 Pentagon policy that bans women, who now make up about 14% of active-duty military personnel, from combat. The new measure will allow women to serve in combat roles—but, importantly, allow the military services to establish exceptions. More Gen. Dempsey's Letter to Defense Secretary Panetta Vote & Discuss
+The change is an acknowledgment that women on modern battlefields already are in the fight—152 women have died in Iraq and Afghanistan—and that military rules need to be updated to reflect realities of the current-day war zones. At the same time, the shift establishes a process that could take years to complete. The new policy should allow women to serve alongside infantry troops as battlefield medics, special-operations pilots and in other dangerous roles, officials said. But officials are divided about whether women will ultimately serve as infantry troops or in elite special-operations units. Some military officials, citing the difficulty of completing infantry training courses, believe that most women would be unable to meet the physical requirements. White House Press Secretary Jay Carney
+said Thursday that President Barack Obama believes the move to end the combat exclusion is "appropriate." He discussed the plan with Mr. Panetta and supports removing "unnecessary gender-based barriers," Mr. Carney said. Army Staff Sgt. Jennifer Hunt,
+who was injured in 2007 by a roadside bomb in Iraq, said in an interview Wednesday that the current ban on women in combat is "a legal fiction." She said women have long faced the same front-line dangers from militants and improvised explosive devises as men. "Right before the IED went off, it didn't ask me how many push-ups or sit-ups I could do," said Ms. Hunt, one of the women who filed a lawsuit last year to challenge the ban. "Right now the women who are serving are being engaged in combat, so their physical restrictions aren't a barrier." View Slideshow
+A female Marine and members of the Navy Hospital Corpsman walked at Forward Operating Base Jackson in Sangin, Helmand province, Afghanistan, on June 7, 2012.
+Adek Berry/AFP/Getty Images U.S. military services over the next two years will examine all 230,000 positions women currently are excluded from. They also will be required to establish gender-neutral requirements for admission and decide whether women can serve alongside men. "The goal is to make all roles available so long as we can meet the standards of the war fighter," said a defense official. The policy shift follows a study by the Joint Chiefs of Staff that determined the military could become much more aggressive at allowing women into excluded roles. "The time has come to rescind the direct combat exclusion rule for women and eliminate all unnecessary gender-based barriers to service," Gen. Martin Dempsey,
+the chairman of the Joint Chiefs of Staff, wrote in a Jan. 9 memo to Mr. Panetta. "Does that mean that women are going to be full-up Navy SEALs? Probably not," said Maren Leed,
+an analyst at the Center for Strategic and International Studies who served until last year as a senior adviser to the U.S. Army chief of staff. "It probably means there will be sub-specialties within the SEALs for which they are eligible." Women regularly have found themselves in battle in Iraq and Afghanistan, whether in supply convoys or in military police units. A number of other countries allow women in some combat roles, including Canada, Australia and New Zealand. Last February, Mr. Panetta ordered U.S. military service chiefs to find ways to expand the role of women. Under that decision, approximately 14,300 new positions were opened to women. The shift was hailed by both Democrats and Republicans on Capitol Hill. Sen. Kelly Ayotte (R., N.H.) said she was pleased by the announcement and Sen. Jack Reed
+(D., R.I.) said that on the current battlefield "all who serve are in combat." Rep. Tammy Duckworth
+(D., Ill.), a former Army pilot who lost both her legs in Iraq when her helicopter was hit by a rocket-propelled grenade, said the decision will allow the "best man or woman on the front line." Added Rep. Tulsi Gabbard
+(D., Hawaii), an Army National Guard member who deployed to Iraq as a medical specialist and was elected to Congress in November: "Female service members have contributed on the battlefield as far back as the Civil War, when some disguised themselves as men just to have the opportunity to serve their nation." She said the decision "is an overdue, yet welcome change, which I strongly support." But some lawmakers criticized the Pentagon's move and questioned whether physical requirements would permit women to enter combat duty in large numbers. "The focus of our military needs to be maximizing combat effectiveness," said Rep. Duncan Hunter
+(R., Calif.). "The question here is whether this change will actually make our military better at operating in combat and killing the enemy, since that will be their job, too." Last year, two women tried to complete the Marine Corps' 13-week infantry officer's training course at Quantico, Va. One did well, but eventually had to drop out because of stress fractures. Marine Corps officials plan to try again this year. Under the new rules, the services must establish the gender-neutral standards for all military specialties by September 2015. In his memo, Gen. Dempsey also ordered U.S. Special Operations Command, along with the military services, to examine a "responsible way to assign women to currently closed" military specialties. Beginning later this year, under Gen. Dempsey's memo, the service chiefs must provide regular progress reports on their efforts to expand the positions women may hold. A defense official said that after Thursday, any restriction sought by the services on women's service roles must be approved by the secretary of defense. Twenty years ago, Congress lifted the ban on women flying in attack aircraft, and now the Army, Marines, Navy and Air Force all have women pilots—although women don't serve as special-operations pilots. Female officers now serve on large submarines, and the Navy has plans to add female enlisted personnel on those vessels. The Navy also will allow women to serve on smaller classes of submarines. As the military considers sweeping changes for women, a senior Air Force leader told a House panel examining a sexual-abuse scandal at a Texas base on Wednesday that his branch of the military needs to improve its culture to root out problems, such as binge drinking and vulgar images, that can be conducive to sexual harassment. Obscene images, songs and stories "will not be accepted as part of our culture," Gen. Mark Welsh III, the Air Force chief of staff, told the House Armed Services Committee, which is investigating allegations of widespread sexual misconduct at the Air Force's facility for basic military training in San Antonio, where enlisted members begin their service. —Nathan Koppel and Peter Nicholas contributed to this article. Write to Julian E. Barnes at julian.barnes@wsj.com and Dion Nissenbaum at dion.nissenbaum@wsj.com Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Order Reprints
+Facebook
+Twitter
+Google+
+LinkedIn
+close
+Email This
+• Invalid Email Address
+Recipient's Email Address (Separate multiple address with commas)
+• Invalid Email Address
+Your Email Address
+Message (Optional)
+Send me a copy
+You must enter the verification code below to send.
+or Cancel
+close
+Thank You
+Your email has been sent.
+close
+Error.
+An error has occurred and your email has not been sent.
+Please try again.
+WSJ In-Depth Obama Scales Back Budget Goals
+Interactive: Faces of the Affordable Care Act
+The Journal follows those affected by the health law—from industry executives to consumers to care providers—and shares their stories.
+CDC: Antibiotic Overuse Can Be Lethal
+Why This Computer Mouse Rules
+Inside a Stunning Comeback
+China Calibrates its Response to Attack
+Popular Now
+What's This?
+Close
+Content engaging our readers now, with additional prominence accorded if the story is rapidly gaining attention. Our WSJ algorithm comprises 30% page views, 20% Facebook, 20% Twitter, 20% email shares and 10% comments.
+ARTICLES
+1
+U.S. Household Net Worth Hits Record
+Subscriber Content
+Read Preview
+Twitter
+Facebook
+Email
+Comments
+2
+Selfies Bring Ashtags to Lent
+Twitter
+Facebook
+Email
+Comments
+3
+Crimea Raises Tension by Setting Secession Vote
+Twitter
+Facebook
+Email
+Comments
+4
+Behind Oscar Selfie: Samsung's Ad Plan
+Twitter
+Facebook
+Email
+Comments
+5
+Ramblin' No More: A Last Run at the Beacon
+Twitter
+Facebook
+Email
+Comments
+VIDEO
+1 RT Anchor Quits On Air, Cites Putin 'Whitewash' Twitter
+Facebook
+2 For Billionaires Only: Tour a $315 Million Yacht Twitter
+Facebook
+3 Putinisms: Vladimir Putin’s Top Six One Liners Twitter
+Facebook
+4 Viral Oscar Selfie Sponsored by Samsung Twitter
+Facebook
+5 Structuring a Portfolio for Rising Rates Twitter
+Facebook
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887323823004578591422758092016?mod=WSJ_article_CollegeBasketballHeadlines&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887323823004578591422758092016.html%3Fmod%3DWSJ_article_CollegeBasketballHeadlines
+WARC-Date: 2014-03-07T06:48:30Z
+WARC-Record-ID: <urn:uuid:45c62c91-63d1-49bd-b572-026b228bc593>
+WARC-Refers-To: <urn:uuid:e166ba50-0a09-4f4e-b3ad-0727c82dbd7a>
+WARC-Block-Digest: sha1:5LL574UECGDGM45I7AAYZNZH67Q7RPOK
+Content-Type: text/plain
+Content-Length: 3947
+
+Pilot Error Eyed in San Francisco Plane Crash - WSJ.com WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+U.S. Home
+Seib & Wessel
+Politics & Policy
+Health Law
+Economy
+U.S.
+Subscribe
+Log In
+Top Stories in U.S.​
+1 of 12
+U.S. Household Net Worth Hits Record
+Subscriber Content
+Read Preview
+2 of 12
+Fed's Dudley Upbeat on Economy
+Subscriber Content
+Read Preview
+3 of 12
+More Uninsured Buy Health Coverage
+4 of 12
+Colleges Straining to Restore Diversity
+5 of 12
+More States Cry Fowl Over Egg Law
+Subscriber Content
+Read Preview
+6 of 12
+Senate Clears Way for McCaskill's Milit...
+Subscriber Content
+Read Preview
+7 of 12
+Rare Detente: New EPA Chief and Industry
+Subscriber Content
+Read Preview
+8 of 12
+Cruz and Christie Clash on Strategy at ...
+Subscriber Content
+Read Preview
+9 of 12
+Navy Hacking Tied to Contract
+Subscriber Content
+Read Preview
+10 of 12
+Al Qaeda Trainee Testifies at Terror Tr...
+Subscriber Content
+Read Preview
+11 of 12
+Army Suspends Prosecutor for Alleged Se...
+Subscriber Content
+Read Preview
+12 of 12
+Obama's Defeat on Nominee Raises Doubts...
+Subscriber Content
+Read Preview
+U.S. News
+Pilot Error Eyed in San Francisco Plane Crash
+Investigators Say Asiana Plane Approached Runway at Dangerously Slow Speed
+By
+Andy Pasztor And Andy.Pasztor@wsj.com
+Biography
+Vauhini Vara @vauhinivara Vauhini.Vara@wsj.com
+Biography
+connect
+Andy Pasztor
+Andy.Pasztor@wsj.com
+Biography
+Vauhini Vara
+@vauhinivara Vauhini.Vara@wsj.com
+Biography
+Updated July 8, 2013 4:57 p.m. ET
+SAN FRANCISCO—The Asiana Airlines jet that crashed while landing at San Francisco International Airport, killing two Chinese teenagers and injuring 182 others, was descending at a dangerously slow speed and pilots apparently ran out of time to correct their approach, investigators said Sunday. While stopping short of pinpointing pilot error as the likely cause of the fiery crash Saturday, National Transportation Safety Board Chairman Deborah Hersman's comments indicated investigators were focused primarily on why the...
+Available to WSJ.com Subscribers With Shouts and Hugs, Sprint Boss Drives Turnaround
+Companies Rush to List Shares
+Regulator Deletes Brokers' Red Flags, Study Says
+Heavenly Currency Intervention Is Sought
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+meals
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887324354704578637443030828474?mod=WSJ_article_BondsHeadlines&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887324354704578637443030828474.html%3Fmod%3DWSJ_article_BondsHeadlines
+WARC-Date: 2014-03-07T06:45:55Z
+WARC-Record-ID: <urn:uuid:1ab18bfc-2800-434f-9e74-7ae72e1ce2ed>
+WARC-Refers-To: <urn:uuid:28f67521-f7b9-4fc0-a438-e7e6419e6009>
+WARC-Block-Digest: sha1:7BRAJY7HLSEHTUDS4SZY57RQEWPMBCT6
+Content-Type: text/plain
+Content-Length: 3897
+
+Blue Chips Edge Down - WSJ.com WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+Markets Home
+Wall Street
+Heard on the Street
+Stocks
+Mutual Funds & ETFs
+Bonds
+Commodities
+Currencies
+Wealth Adviser
+World Markets
+Markets Pulse
+Corporate Intelligence
+CFO Journal
+MoneyBeat
+Market Data
+Markets
+Subscribe
+Log In
+Top Stories in Markets​
+1 of 12
+Don't Bet the House on Higher Spending
+Subscriber Content
+Read Preview
+2 of 12
+European Central Bank Digs In
+Subscriber Content
+Read Preview
+3 of 12
+Jobs Data Shouldn't Be Cause for Alarm
+Subscriber Content
+Read Preview
+4 of 12
+Altice Has Edge in French Telecom Battle
+Subscriber Content
+Read Preview
+5 of 12
+Vedanta's New Boss Faces Fix-Up Job
+Subscriber Content
+Read Preview
+6 of 12
+Cruising in the Back Seat of Tata Motors
+Subscriber Content
+Read Preview
+7 of 12
+A Chilling Forecast for Bank Profits
+Subscriber Content
+Read Preview
+8 of 12
+Exxon Gets the Joke
+Subscriber Content
+Read Preview
+9 of 12
+Winter's Toll on Gas Inventories May La...
+Subscriber Content
+Read Preview
+10 of 12
+No Escaping Standard Chartered's Headwi...
+Subscriber Content
+Read Preview
+11 of 12
+Defusing China's Debt Before It's Too L...
+Subscriber Content
+Read Preview
+12 of 12
+Austria Faces Bank Headache
+Subscriber Content
+Read Preview
+advertisement
+Today's Markets
+Blue Chips Edge Down
+Stocks End Seesaw Session Little Changed
+By
+Tomi Kilgore
+@TomiKilgore Tomi.Kilgore@dowjones.com
+Biography
+connect
+Tomi Kilgore
+@TomiKilgore Tomi.Kilgore@dowjones.com
+Biography
+Updated July 30, 2013 5:25 p.m. ET
+The Dow industrials edged down in a seesaw session, as investors balanced data showing a strong rise in home prices against a slip in consumer confidence and mixed corporate earnings. Trading activity remain muted on Tuesday as investors looked ahead to the Federal Reserve's policy statement and economic data releases later in the week. The Dow Jones Industrial Average ticked down 1.38 points, or less than 0.1%, to 15520.59....
+Available to WSJ.com Subscribers With Shouts and Hugs, Sprint Boss Drives Turnaround
+Companies Rush to List Shares
+Regulator Deletes Brokers' Red Flags, Study Says
+Heavenly Currency Intervention Is Sought
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+preparing
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887324556304578118891337284014?mod=ITP_weekendjournal_0&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887324556304578118891337284014.html%3Fmod%3DITP_weekendjournal_0
+WARC-Date: 2014-03-07T06:49:59Z
+WARC-Record-ID: <urn:uuid:8d52bc59-2819-45bc-9f98-555996abfd49>
+WARC-Refers-To: <urn:uuid:418e1f14-b765-4e41-92f1-e44556f5b91e>
+WARC-Block-Digest: sha1:T5LWLUDUJESIO33ZRXVO5DHUAJH7YAKF
+Content-Type: text/plain
+Content-Length: 12209
+
+Zuczug Label Is What China's Fashion Trendsetters Are Wearing - WSJ.com WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+Life & Culture Home
+Arts & Entertainment
+Sports
+Fashion
+Food & Drink
+Travel
+Health & Wellness
+Retirement Planning
+Cars
+Books & Ideas
+The A-Hed
+Speakeasy
+Life & Culture
+Subscribe
+Log In
+Top Stories in Life & Culture​
+1 of 12
+Cut to the Car Chase
+Subscriber Content
+Read Preview
+2 of 12
+'Nuns. Who Knew?' How Documentaries Fin...
+Subscriber Content
+Read Preview
+3 of 12
+A Channel of One's Own—With Vampires
+Subscriber Content
+Read Preview
+4 of 12
+'Ernest & Celestine' Recalls Tradit...
+Subscriber Content
+Read Preview
+5 of 12
+Scalpers Bet Fans Will Pay $5,500 to Se...
+6 of 12
+Showing the Love at 'Sweeney Todd'
+7 of 12
+Partying With Art 'Addicts'
+8 of 12
+Not Crazy, Actor Says of Murderer Chara...
+9 of 12
+Big Deals in Las Vegas
+10 of 12
+An Artist Finds the Perfect Red
+11 of 12
+Anatomy of a Song: "Kansas City&qu...
+Subscriber Content
+Read Preview
+12 of 12
+A Banjo and a Brass Fest
+Fashion
+What China's Trendsetters Are Wearing
+Camera-Ready Colors for Everyday Life From Zuczug, a Label With Global Ambitions
+Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Facebook
+Twitter
+Google+
+LinkedIn
+smaller
+Larger
+By
+Laurie Burkitt
+Nov. 14, 2012 6:57 p.m. ET
+Wang Yiyang, the designer behind the Zuczug brand, with 73 stores in China and global ambitions.
+Chad Ingraham for The Wall Street Journal Shanghai For Chinese fashion designer Wang Yiyang, inspiration springs from a traditional food market and the Tibetan plateau rather than from the runways of Paris and Milan. Mr. Wang,
+a 42-year-old from the northeastern Jilin province, is one of China's most lauded designers, celebrated for creating the clothes in a women's fashion line called Zuczug, which is influenced by China's traditions and by its ultra-wired, tech-obsessed youth. Amid a crowd of ambitious designers hoping to be the next Marc Jacobs, Mr. Wang is one of the likeliest suspects, China's fashion critics say, noting that he is one of the few designers here who is also a savvy businessman. View Slideshow
+The Zuczug store in Shanghai.
+Chad Ingraham for The Wall Street Journal Foreign luxury brands like Louis Vuitton and Salvatore Ferragamo have largely defined China's fashion trends, while domestic brands have been looked down upon as cheap and low-quality. But as mainstream Western luxury labels open stores on nearly every big-city street corner, wealthy trendsetters want distinctive high-end goods that require a learned eye to detect. They are moving to boutique brands like Diane von Furstenberg
+and Alexander Wang, as well as emerging Chinese designers like Uma Wang and Christine Lau. This is opening doors for Mr. Wang. Over the past 11 years, on an initial investment of 500,000 yuan (about $80,000 at current exchange rates), the designer has with little fanfare put together a network of 73 Zuczug stores—about 50 more than famed U.K. designer Paul Smith plans to open in China over the next five years. Vibrant hues and patterns lend themselves to photo- and video-sharing on socialmedia.
+Imaginechina/Associated Press A model presents a creation from the ZUCZUG collection during the Shanghai Fashion Week.
+ImagineChina/Associated Press Zuczug offered a promotional gift of sleeve protectors a traditional accessory used when cooking or riding a bicycle.
+Zuczug Enlarge Image
+Zuczug stores feature wearable Western inspired separates in color-bloc displays.
+Chad Ingraham for The Wall Street Journal Enlarge Image
+The denim slogan 'Let's blue,' emphasizes the group over the individual and suggests the brand's Chinese heritage.
+Chad Ingraham for The Wall Street Journal Enlarge Image
+Mr. Wang, right, with T-shirts saying 'my wife' and 'my husband.' At left, Zuczug's operations chief, Huang Zhifeng.
+Chad Ingraham for The Wall Street Journal Zuczug prices are clearly aimed at wealthy shoppers, which is part of the brand's allure. In some of China's most upscale shopping districts, Zuczug sells $185 Popsicle-orange riding pants and $315 camel-wool jumper dresses. In many ways, Zuczug can be seen as more comparable to U.S. designer Philip Lim than to the average Gap store. But the Zuczug line is meant to be wearable. Stores are arranged in color blocs, with blue items hanging together and orange items on the next rack. Kelly green athletic pants that sell for $270 have zipped pockets designed with a special hole for an earphone cord. "They're designed to be comfortable, for everyday life," Mr. Wang said, meaning for women who work, catch the bus and swap photos online with friends. "I'm not designing for a party or a runway event. This is just for an average day," Mr. Wang said, in an interview at his 19,000-square-foot Shanghai studio. Aware that iPhone-toting 20-somethings are big trendsetters and influencers for his brand, Mr. Wang is coming up with an online sales strategy. He has adapted his line for what he calls the "screen era," adding more vibrant colors and patterns that lend themselves to video and pictures on social-media sites. Zuczug, one of the China's homegrown brands, is hoping to be the next Marc Jacobs. The WSJ's Laurie Burkitt talks about a crop of upcoming local designers with global ambitions.
+Mr. Wang says he has every intention of making Zuczug a global brand but he doesn't have a timeline or a list of likely countries. Near-term, he says, he wants to open more stores domestically and elsewhere in Asia. "I have aspirations," Mr. Wang said. Some of the biggest voices in Chinese fashion have tapped Mr. Wang as China's most-likely-to succeed. He has been a pioneer, and now he is guiding younger designers. He has taught classes at nearby universities and mentors the people who work with him, including a team of 10 designers with whom he creates his roughly 300-piece collections. "Everyone wants to create a brand now, but think back 10 years ago, and Wang Yiyang was the only one attempting to do this," said Yeh Shaway, editorial director of the influential media company Modern Media. Hung Huang, an outspoken media mogul often referred to as China's Oprah, credits Mr. Wang for his fresh look at banal places and objects. She cites the "Vegetable Market" collection and its prints composed of fish, butcher knives or sweaters with hanging ducks, carrots and cabbage woven into them. Their inspiration was an excursion Mr. Wang and his team made to one of Shanghai's many chaotic wet markets—magnets for Western tourists craving a glimpse of grocery shopping in the pre-Wal-Mart era. While many raise their pompons to Mr. Wang, Zuczug still faces an uphill path. Some consumers, including 25-year-old Wu Di, a teacher in Beijing, have never heard of the brand. Ms. Wu stopped into a store only because she was passing by. "There are a bunch of talented designers in China, but many of them are targeted only at the so-called petty bourgeoisie," Ms. Wu said, using a derogatory term for China's upper class. Zuczug's local fashion rivals include JNBY, short for Jiang Nan Bu Yi—which means "clothing from the southern Yangtze River Delta"—and "Just Naturally Be Yourself." JNBY has more than 600 stores in China selling women's clothes, such as draping cotton knits, bell-collared wool sweaters, riding pants and other pieces similar to Zuczag's. Prices, though, run about 30% to 50% less. Mr. Wang is eager to tip his hat to those who have helped him build Zuczug. Baby pictures of colleagues decorate his studio walls—reminders of how far each worker has come and how much they've contributed to the growth of the brand, he says. "Your own happiness cannot compare to the happiness of the collective group," Mr. Wang said, a characteristically Chinese sentiment that also informs Zuczug's stores and helps set the brand apart from Western brands catering to attention-seekers. Mr. Wang said he sees endless opportunities for the future of China's fashion and for Zuczug."There is a distinct birth of creativity in this country," he said. "Some people just don't know about it yet." Write to Laurie Burkitt at laurie.burkitt@wsj.com Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Order Reprints
+Facebook
+Twitter
+Google+
+LinkedIn
+close
+Email This
+• Invalid Email Address
+Recipient's Email Address (Separate multiple address with commas)
+• Invalid Email Address
+Your Email Address
+Message (Optional)
+Send me a copy
+You must enter the verification code below to send.
+or Cancel
+close
+Thank You
+Your email has been sent.
+close
+Error.
+An error has occurred and your email has not been sent.
+Please try again.
+WSJ In-Depth Obama Scales Back Budget Goals
+Interactive: Faces of the Affordable Care Act
+The Journal follows those affected by the health law—from industry executives to consumers to care providers—and shares their stories.
+CDC: Antibiotic Overuse Can Be Lethal
+Why This Computer Mouse Rules
+Inside a Stunning Comeback
+China Calibrates its Response to Attack
+Popular Now
+What's This?
+Close
+Content engaging our readers now, with additional prominence accorded if the story is rapidly gaining attention. Our WSJ algorithm comprises 30% page views, 20% Facebook, 20% Twitter, 20% email shares and 10% comments.
+ARTICLES
+1
+U.S. Household Net Worth Hits Record
+Subscriber Content
+Read Preview
+Twitter
+Facebook
+Email
+Comments
+2
+Selfies Bring Ashtags to Lent
+Twitter
+Facebook
+Email
+Comments
+3
+Crimea Raises Tension by Setting Secession Vote
+Twitter
+Facebook
+Email
+Comments
+4
+Behind Oscar Selfie: Samsung's Ad Plan
+Twitter
+Facebook
+Email
+Comments
+5
+Ramblin' No More: A Last Run at the Beacon
+Twitter
+Facebook
+Email
+Comments
+VIDEO
+1 RT Anchor Quits On Air, Cites Putin 'Whitewash' Twitter
+Facebook
+2 For Billionaires Only: Tour a $315 Million Yacht Twitter
+Facebook
+3 Putinisms: Vladimir Putin’s Top Six One Liners Twitter
+Facebook
+4 Viral Oscar Selfie Sponsored by Samsung Twitter
+Facebook
+5 Structuring a Portfolio for Rising Rates Twitter
+Facebook
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+meals
+

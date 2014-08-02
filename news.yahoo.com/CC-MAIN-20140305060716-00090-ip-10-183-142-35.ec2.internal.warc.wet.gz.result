@@ -1,0 +1,943 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/alzheimers-disease-symptoms-reversed-mice-191500161.html
+WARC-Date: 2014-03-07T06:46:09Z
+WARC-Record-ID: <urn:uuid:50b9f247-af7e-4fcb-91a8-2b3d7b7aff54>
+WARC-Refers-To: <urn:uuid:42214214-26b0-428f-bd4f-77d0992786da>
+WARC-Block-Digest: sha1:YWAED2KLK53OTYFQGJ6BH2EN2TI7JC5V
+Content-Type: text/plain
+Content-Length: 11883
+
+Alzheimer's Disease Symptoms Reversed in Mice - Yahoo News
+Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Photos
+Featured
+Ukraine coverage
+Alzheimer's Disease Symptoms Reversed in Mice
+By Gary Stix
+February 9, 2012 2:15 PM
+0
+shares
+Content preferences
+Done
+A nearly 13-year-old skin cancer drug rapidly alleviates molecular signs of Alzheimer's disease and improves brain function, according to the results of a new mouse study being hailed as extremely promising. Early-stage human clinical trials could begin within months.
+In the study, published online February 9 by Science, researchers from Case Western Reserve University in Cleveland and colleagues used mice genetically engineered to exhibit some of the symptoms of Alzheimer's. Most notably, the mice produced amyloid beta peptides—toxic protein fragments that gum up neurons and lead to cell death—and showed signs of forgetfulness.
+Amyloid beta (red areas) peptides clear from the brain of an Alzheimer's mouse after three days of treatment with a cancer drug (right image). Source: AAAS/Science
+The Case Western team, led by Gary Landreth, decided to try the drug bexarotene (Targretin), approved in 1999 for cutaneous T cell lymphomas. The team chose this drug because of its long experience working with proteins in the nucleus of brain cells that can induce biochemical processes that affect amyloid beta.
+Landreth and his colleagues fed bexarotene to the demented mice, and with just a single dose it lowered the most toxic form of the amyloid beta peptide by 25 percent within six hours, an effect that lasted for up to three days. Mice that were cognitively impaired by the amyloid buildup resumed normal behaviors after 72 hours: They began to crinkle toilet paper placed nearby to make nests, a skill lost as amyloid increased in their brains.
+"We have successfully reversed all of the known pathological features and behavioral deficits found in mouse models of Alzheimer's disease," Landreth says. "Never before has anyone observed clearance of amyloid plaques with such speed in mouse models."
+Other Alzheimer's researchers hail the work. "I think this is extremely promising," says Samuel Gandy, a professor of neurology and psychiatry at Mount Sinai School of Medicine and associate director of the hospital's Alzheimer's Disease Research Center. "One of the drugs that has been on our wish list for 25 years is a drug that would clear existing amyloid deposits."
+"Landreth's paper is impressive," adds Kenneth Kosik, a neuroscientist at the University of California, Santa Barbara. "The effects in mice, including some restoration of cognitive abilities, are dramatic."
+Neural sanitation
+In a field littered with drug failures, the study offers hope that the strategy of clearing the brain of the toxic peptide can work. Bexarotene does not do so directly, however; instead, it activates retinoid receptors on brain cells that increase production of a fat-protein complex, apolipoprotein E, that helps rid excess amyloid in the fluid-filled space between neurons. It also appears to enhance another cleanup process, called phagocytosis.
+Bexarotene functions differently than an amyloid-clearance approach using monoclonal antibodies, which are further down the drug development pipeline. These antibodies bind directly to amyloid and then remove it, but they have sometimes caused fluid to fill brain tissue. Bexarotene may be less likely to cause such swelling. "I think the fact that we're inducing a natural process by turning on these receptors doesn't lend itself to water on the brain," says Paige Cramer, Landreth's graduate student who performed much of the research. Unlike bexarotene, which is taken orally, monoclonals are more troublesome to administer, because they must be delivered intravenously, and if they receive U.S. Food and Drug Administration approval, they would likely be significantly more expensive. The study also provides the most compelling evidence to date of how the biggest risk factor for Alzheimer's later in life—having the so-called Apolipoprotein E (APOE) gene, identified in the early 1990s—might yield a strategy for new therapies. The gene for apolipoprotein E comes in three versions, one of which, the e4 variant, confers a significantly higher risk of getting the disease—a roughly 60 percent chance at age 80 for those who carry a copy from both their mother and father, as against a less than 10 percent overall risk at that age in the general population. The gene variant, known informally as the Alzheimer's gene, is common: about 20 percent of the U.S. population has at least one copy. The e4 carriers may be vulnerable to Alzheimer's because they have a diminished ability to clear amyloid, a hypothesis that seems to be reinforced by this Case Western study.
+Jumping the gun?
+That idea, though, is not universally endorsed. Some experiments have shown that the e4 version may also impair the brain in other ways, perhaps by bollixing the biochemical functioning at the synapses, the connection points between neurons, or by producing toxic fragments of the lipoprotein that damage neurons. If so, increasing the production of this form of apolipoprotein E could actually worsen the pathology of the disease and would complicate greatly bexarotene's development.
+This potential hurdle does not dissuade one researcher experienced in Alzheimer's clinical trials. "I am not particularly concerned" about potential toxic effects of extra e4 production, says Paul Aisen of the University of California, San Diego, who heads the Alzheimer's Disease Cooperative Study, which organizes clinical trials for drugs to combat the illness. "If it significantly enhances amyloid clearance and reduces the burden of brain amyloid, there is a good chance it will succeed." David Holtzman, a prominent Alzheimer's researcher from Washington University in Saint Louis, echoes the sentiment about bexarotene's prospects: "I do think it is promising to go into humans."
+Landreth and Cramer certainly think so. They have formed a company called ReXceptor Therapeutics that intends to begin a preliminary trial in humans in the next few months to determine whether the drug crosses the blood–brain barrier and clears amyloid, as it does in mice. If those processes occur, clinical trials on the drug's effectiveness in humans could begin even this year, and they would probably last from 18 months to three years. The drug loses patent protection for cancer this year, but Case Western has filed for patents for its use in Alzheimer's.
+Many unknowns
+Despite their optimism, scientists say it's important not to overplay the progress. After all, drugs that work in mice do not necessarily help humans. Moreover, the genetically engineered version of mice used in this study do not recapitulate every aspect of the human disease. For instance, the mice do not experience the effects of dying neurons (despite having impaired cognition), and they do not go on to develop a hallmark characteristic of a later disease stage in humans—namely, the accretion of so-called tau proteins that seem to abet the killing of nerve cells. "Transgenic mouse experiments have not reliably predicted therapeutic effects in humans," Aisen says, "so caution is essential until human studies confirm target engagement," that is, the removal of amyloid plaques.
+And bexarotene does not come without risk: it raises levels of triglycerides, blood fats implicated in cardiovascular disease and diabetes. The Case Western mouse work suggests that Alzheimer's patients may benefit with doses lower than those ingested for cancer treatment, which might produce less of an effect on fat levels. Whether the drug remains effective over time is another question. The levels of amyloid plaques—although not the apparently more toxic soluble form of the peptide—rose after 90 days, a suggestion that the drug may be metabolized differently after ingestion over long periods. The enthusiasm generated for a mouse study stems from the desperation for new ideas as the number of Alzheimer's cases, now at 5.4 million in the U.S., is expected to more than double by the year 2050 as the nation's demographic profile continues to gray. A better understanding of the disease process—the knowledge that pathology begins 10 or 20 years before the first symptom—has shifted focus toward earlier drug trials. New technologies that combine brain imaging and spinal fluid tests might identify at-risk patients and test new drugs. A relatively inexpensive drug that can be ingested orally, such as bexarotene, could then be prescribed to at-risk but symptom-free patients, who would take them over the course of their lifetimes, like a cholesterol-lowering drug.
+As ReXceptor moves forward with its clinical trial plans, it will inevitably have to contend with the demands of the families of Alzheimer's patients. Landreth emphasizes that calling your physician after reading an article like this one is a bad idea. "Don't try this at home," he cautions, "because we don't know we what dose to give, we don't know how frequently to give it, and there are a few nuances to its administration. So one shouldn't be prescribing it off-label." It is also unclear whether a drug like bexarotene would work at a middle or advanced stage of the disease, when neurodegenerative processes have already set in.
+Bexarotene's genesis as an Alzheimer's treatment comes as an outgrowth of Landreth's long-time fundamental work on cell receptors. If it succeeds, it will demonstrate that new ideas for treating this seemingly intractable disease may come from beyond the sometimes narrowly focused strategies of large pharmaceutical companies.
+Follow Scientific American on Twitter @SciAm and @SciamBlogs.
+Visit ScientificAmerican.com for the latest in science, health and technology news.
+© 2012 ScientificAmerican.com. All rights reserved.
+amyloid plaques
+Click to view comments
+View Comments
+Share this
+0
+shares
+Top Stories Recruit describes being quizzed by bin Laden Sports medicine pioneer Frank Jobe dies at 88 Man revealed in report as bitcoin creator denies s … Latest Videos Play Asteroid Approaching in Close Encounter With Earth 00:39 Play Obamacare delay: Insurers can extend offers of no-frills plans 02:25 Play Secretary Kerry to meet with Russian counterpart to discuss Ukraine crisis 02:17 Play Russia Taking Over Ukraine's News Media 04:23 Play Crimeans await referendum seen as prelude for sovereignty 01:29 Latest Slideshows View Charity shop paintings revived with a modern twist View Photos of the day - March 6, 2014 View Get the look: Cate Blanchett View 10 of the best: Geneva Concept Cars View 'Banished Once A Month' - Nepal's Chaupadi tradition … Yahoo News Originals Writers Behind Hit Songs (Video) It's not over for Chris Christie and Marco Rubio Dad Sings 'Let It Go' Parody to End All 'Let It Go' Parodies, Literally Photographer Captures World's First Sunset Hyperlapse from Airplane Explore The ‘Seinfeld' Apartment With This Virtual Reality Demo Anderson Cooper in Kiev: 'It almost feels like something out of World War II' Charity shop paintings revived with a modern twist (gallery) Putin is not crazy. Frustrating, unpredictable. Not crazy. John Bolton's address to conservatives was heavy on 2016 talk Simple sticks contain potential answer to cleaner drinking water Follow Yahoo News
+on Facebook
+on Twitter
+on Tumblr
+on Google+
+on Pinterest
+on Flickr
+1996-2012 - Scientific American, Inc.
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/ben-carson-neurosurgeon-political-outsider-gop-presidential-prospect-123159295--politics.html
+WARC-Date: 2014-03-07T06:47:08Z
+WARC-Record-ID: <urn:uuid:43b8bf0c-ca2a-4b87-8e30-a7bfdc4b43fc>
+WARC-Refers-To: <urn:uuid:55acf79b-006d-414b-bc5d-b14cfafb0c11>
+WARC-Block-Digest: sha1:EH475ZPCJIS2X3K4CS3N3GHZ3LEKTZH6
+Content-Type: text/plain
+Content-Length: 5446
+
+Ben Carson: Neurosurgeon, Political Outsider, GOP Presidential Prospect? - Yahoo News
+Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Photos
+Featured
+Ukraine coverage
+Ben Carson: Neurosurgeon, Political Outsider, GOP Presidential Prospect?
+By Elahe Izadi
+February 11, 2013 7:31 AM
+0
+shares
+Content preferences
+Done
+If conservatives are looking for a political outsider with an inspiring rags-to-riches story and who could effectively challenge President Obama’s policies on health care and taxes while also quoting Scripture and criticizing political correctness, look no further than Ben Carson.Carson, raised by a single-mother in a poverty-stricken home who went on to become a top Johns Hopkins neurosurgeon, gave a nearly 30-minute speech at the National Prayer Breakfast last week that indirectly criticized many of the policies promulgated by President Obama -- all while the president sat just to his side.A YouTube video of Carson’s speech has since racked up more than 1 million views. A Wall Street Journal editorial ran under the headline “Ben Carson for President.” Carson told Sean Hannity on Fox News “If the Lord grabbed me by the collar and made me do it, I would. It’s not my intention.” Hannity replied, “I would vote for you in a heartbeat.”In particular, Carson’s views on some of Obama’s most hard-fought-for policies –health care and income tax levels -- have caused many on the right to talk about his political prospects. On health care, Carson said every child born in the U.S. should receive a medical savings account, which could receive pre-tax contributions."We can make contributions for people who are indigent," Carson said. "Instead of sending all this money to some bureaucracy, let's put it in their HSAs. Now they have some control over their own health care. And very quickly they're going to learn how to be responsible."When it comes to taxes, Carson pushed for a flat-income tax by citing the Biblical concept of tithing. "Some people say, 'Well that's not fair because it doesn't hurt the guy who made $10 billion as much as the guy who made 10.' Where does it say you've got to hurt the guy? He just put a billion dollars in the pot. We don't need to hurt him," Carson said. "It's that kind of thinking that has resulted in 602 banks in the Cayman Islands. That money needs to be back here building our infrastructure and creating jobs."Carson has also endeared himself to social conservatives, blasting the idea of political correctness, saying that it is destroying the nation by silencing conversations.His life story inspired a 2009 movie starring Cuba Gooding, Jr. Carson grew up in Detroit and didn't do well in school until his mother pushed him, despite her own lack of formal education. Carson went on to become only the 11th African-American board certified neurosurgeon in the country, and he gained national prominence for his role in a complicated series of surgeries separating five sets of conjoined twins.Perhaps Carson is primed for move into the political fray; he’s a regular on the lecture circuit, talks frequently about public education and came out with a book last year entitled America the Beautiful. There’s certainly a groundswell of support for it. While on Fox News, Carson responded to Hannity’s pledge that he’d get his vote for president by saying, “I have so many emails from people saying that I could probably finance my campaign if each one gave me a nickel.” Politics & GovernmentHealthBen CarsonPresident Obama
+Click to view comments
+View Comments
+Share this
+0
+shares
+Top Stories Recruit describes being quizzed by bin Laden Sports medicine pioneer Frank Jobe dies at 88 Man revealed in report as bitcoin creator denies s … Latest Videos Play Asteroid Approaching in Close Encounter With Earth 00:39 Play Obamacare delay: Insurers can extend offers of no-frills plans 02:25 Play Secretary Kerry to meet with Russian counterpart to discuss Ukraine crisis 02:17 Play Russia Taking Over Ukraine's News Media 04:23 Play Crimeans await referendum seen as prelude for sovereignty 01:29 Latest Slideshows View Charity shop paintings revived with a modern twist View Photos of the day - March 6, 2014 View Get the look: Cate Blanchett View 10 of the best: Geneva Concept Cars View 'Banished Once A Month' - Nepal's Chaupadi tradition … Yahoo News Originals Writers Behind Hit Songs (Video) It's not over for Chris Christie and Marco Rubio Dad Sings 'Let It Go' Parody to End All 'Let It Go' Parodies, Literally Photographer Captures World's First Sunset Hyperlapse from Airplane Explore The ‘Seinfeld' Apartment With This Virtual Reality Demo Anderson Cooper in Kiev: 'It almost feels like something out of World War II' Charity shop paintings revived with a modern twist (gallery) Putin is not crazy. Frustrating, unpredictable. Not crazy. John Bolton's address to conservatives was heavy on 2016 talk Simple sticks contain potential answer to cleaner drinking water Follow Yahoo News
+on Facebook
+on Twitter
+on Tumblr
+on Google+
+on Pinterest
+on Flickr
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/blogs/sideshow/groundhog-day-punxsutawney-phil-says-six-more-weeks-231323803.html
+WARC-Date: 2014-03-07T06:48:24Z
+WARC-Record-ID: <urn:uuid:399343ff-2653-4696-9aba-763fb8b1d1c3>
+WARC-Refers-To: <urn:uuid:5d2d62de-85d4-4510-82e5-5a678495f6d3>
+WARC-Block-Digest: sha1:54RD3TJ3T4YJXS3ZSAHIDVVLZLZYNFGI
+Content-Type: text/plain
+Content-Length: 4373
+
+Groundhog Day: Punxsutawney Phil says six more weeks of winter | The Sideshow - Yahoo News
+Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Odd News Videos
+Trending Now
+Who Knew?
+The Sideshow
+Photos
+Featured
+Ukraine coverage
+The Sideshow
+Groundhog Day: Punxsutawney Phil says six more weeks of winter
+By Eric Pfeiffer
+February 2, 2012 6:13 PM
+The Sideshow
+0
+shares
+Content preferences
+Done
+View photo.Today's Groundhog Day celebration in Punxsutawney, Pennsylvania
+Winter 2012 will have an extended stay on America's calendar, according to today's annual Groundhog Day forecasting event in Punxsutawney, Pennsylvania.
+Each year on February 2nd, people from around the world, including 5,000 in the small town today, watch this tongue-twisting small town for a sign from one groundhog that supposedly predicts when that year's spring will arrive:
+If it's a cloudy day outside when the groundhog emerges from its burrow, then spring will arrive early that year. However, if it is sunny outside, the groundhog will supposedly be scared by its own shadow, retreating underground for six more weeks of cold weather.
+Of course, Punxsutawney Phil's prediction is no more able to guarantee the extended forecast than your local weatherman. ABC News reports that an analysis by the National Climate Data Center found that Phil's predictions are more often wrong than right.
+Phil is also found of gloomy predictions. Ever since 1887, he has predicted 99 extended winters and just 16 early springs. Nine of the year's predictions were unavailable, according to ABC.
+The holiday began as a German tradition in 18th century Pennsylvania and became even more of a cultural phenomenon after the 1993 film Groundhog Day starring Bill Murray.
+Punxsutawney Phil has become a celebrity in his own right. Each year, the chubby rodent is watched by millions as he emerges from a burrow in the town he is named after. Phil has become so beloved by the town that he actually lives in the local library with his "wife" Phyllis.
+Taking inspiration from the plight of Bill Murray's character in the classic film, Yahoo contributor Owen Rust says Groundhog Day is a good time to reflect on one's routines.
+Other popular Yahoo! News stories:
+• Seattle library lets man watch porn on computers despite complaints
+• FBI says compulsive "hoarder" stole thousands of classified documents
+• Photos: Boy caught by rescuers after 25-foot fall from ski lift
+Click to view comments
+View Comments
+Share this
+0
+shares
+Top Stories Recruit describes being quizzed by bin Laden Sports medicine pioneer Frank Jobe dies at 88 Man revealed in report as bitcoin creator denies s … Latest Videos Play Asteroid Approaching in Close Encounter With Earth 00:39 Play Obamacare delay: Insurers can extend offers of no-frills plans 02:25 Play Secretary Kerry to meet with Russian counterpart to discuss Ukraine crisis 02:17 Play Russia Taking Over Ukraine's News Media 04:23 Play Crimeans await referendum seen as prelude for sovereignty 01:29 Latest Slideshows View Charity shop paintings revived with a modern twist View Photos of the day - March 6, 2014 View Get the look: Cate Blanchett View 10 of the best: Geneva Concept Cars View 'Banished Once A Month' - Nepal's Chaupadi tradition … Yahoo News Originals Writers Behind Hit Songs (Video) It's not over for Chris Christie and Marco Rubio Dad Sings 'Let It Go' Parody to End All 'Let It Go' Parodies, Literally Photographer Captures World's First Sunset Hyperlapse from Airplane Explore The ‘Seinfeld' Apartment With This Virtual Reality Demo Anderson Cooper in Kiev: 'It almost feels like something out of World War II' Charity shop paintings revived with a modern twist (gallery) Putin is not crazy. Frustrating, unpredictable. Not crazy. John Bolton's address to conservatives was heavy on 2016 talk Simple sticks contain potential answer to cleaner drinking water Follow Yahoo News
+on Facebook
+on Twitter
+on Tumblr
+on Google+
+on Pinterest
+on Flickr
+Copyright 2012 The Sideshow
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/british-man-arrested-kenya-mall-siege-092507669.html?soc_src=mediacontentsharebuttons
+WARC-Date: 2014-03-07T06:49:24Z
+WARC-Record-ID: <urn:uuid:c03f0093-2080-45da-bd27-6f9e3f3fbeec>
+WARC-Refers-To: <urn:uuid:76c186ad-8ce0-4e43-bce5-d11523c2df22>
+WARC-Block-Digest: sha1:T7GULQSBKAUYDJG4ADK3X5NA5UZ45I26
+Content-Type: text/plain
+Content-Length: 3243
+
+British man arrested in Kenya after mall siege - Yahoo News
+Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Photos
+Featured
+Ukraine coverage
+British man arrested in Kenya after mall siege
+September 25, 2013 6:17 AM
+0
+shares
+Content preferences
+Done
+LONDON (AP) — The Foreign Office has confirmed that a British man has been arrested in Kenya following the siege at an upscale mall that has left dozens dead.The agency said in a statement Wednesday that British officials were ready to provide assistance to the man. Officials would not provide details about the man, who is believed to be in his 30s. They also would not say whether he was linked to the mall attack.Britain's Daily Mail newspaper said the man was arrested Monday as he tried to board a flight from Nairobi to Turkey. The newspaper said his face was bruised and he was acting suspiciously.A Kenyan official has said the terrorists who took over the mall included a British woman and several Americans but have provided no further details.Some people who survived the mall siege have told journalists that a few of the attackers managed to leave the scene in the early minutes of the assault.Crime & JusticeSociety & Culture
+Click to view comments
+View Comments
+Share this
+0
+shares
+Top Stories Recruit describes being quizzed by bin Laden Sports medicine pioneer Frank Jobe dies at 88 Man revealed in report as bitcoin creator denies s … Latest Videos Play Asteroid Approaching in Close Encounter With Earth 00:39 Play Obamacare delay: Insurers can extend offers of no-frills plans 02:25 Play Secretary Kerry to meet with Russian counterpart to discuss Ukraine crisis 02:17 Play Russia Taking Over Ukraine's News Media 04:23 Play Crimeans await referendum seen as prelude for sovereignty 01:29 Latest Slideshows View Charity shop paintings revived with a modern twist View Photos of the day - March 6, 2014 View Get the look: Cate Blanchett View 10 of the best: Geneva Concept Cars View 'Banished Once A Month' - Nepal's Chaupadi tradition … Yahoo News Originals Writers Behind Hit Songs (Video) It's not over for Chris Christie and Marco Rubio Dad Sings 'Let It Go' Parody to End All 'Let It Go' Parodies, Literally Photographer Captures World's First Sunset Hyperlapse from Airplane Explore The ‘Seinfeld' Apartment With This Virtual Reality Demo Anderson Cooper in Kiev: 'It almost feels like something out of World War II' Charity shop paintings revived with a modern twist (gallery) Putin is not crazy. Frustrating, unpredictable. Not crazy. John Bolton's address to conservatives was heavy on 2016 talk Simple sticks contain potential answer to cleaner drinking water Follow Yahoo News
+on Facebook
+on Twitter
+on Tumblr
+on Google+
+on Pinterest
+on Flickr
+Copyright 2013 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/comments-world-leaders-ariel-sharon-130821485.html
+WARC-Date: 2014-03-07T06:50:04Z
+WARC-Record-ID: <urn:uuid:352afbde-7b63-432a-877e-ea2485a9faa6>
+WARC-Refers-To: <urn:uuid:811757fd-bef9-4003-b577-4971f93bc96c>
+WARC-Block-Digest: sha1:MHABDTDAKWUYWFDYZOKQQWMXWMXAI6GM
+Content-Type: text/plain
+Content-Length: 6140
+
+Comments by world leaders about Ariel Sharon - Yahoo News
+Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Photos
+Featured
+Ukraine coverage
+Comments by world leaders about Ariel Sharon
+January 11, 2014 11:22 AM
+0
+shares
+Content preferences
+Done
+.View photo
+FILE - In this March 7, 1984 file photo, an Israeli soldier keeps his finger on the trigger of his assault rifle while Former Defense Minister Ariel Sharon, right, stands on the bridge overlooking the Awali River, Israel's most northerly position in Sidon, Lebanon. Sharon, the hard-charging Israeli general and prime minister who was admired and hated for his battlefield exploits and ambitions to reshape the Middle East, died Saturday, Jan. 11, 2014. The 85-year-old Sharon had been in a coma since a debilitating stroke eight years ago. (AP Photo/Max Nash, File)
+JERUSALEM (AP) — A selection of memorable quotes about Ariel Sharon, Israel's former prime minister who died Saturday at age 85:___"The only one left is Sharon." — Then-Egyptian President Hosni Mubarak, hailing Sharon in 2005 as the only Israeli leader who could deliver peace with the Palestinians.__"A man of enormous courage ... a wonderful, historic leader." — Then-U.S. Secretary of State Condoleezza Rice, after Sharon's 2006 stroke.___Sharon was "the first Israeli leader who stopped claiming Israel had a right to all of the Palestinians' land." — Palestinian commentator Ghazi al-Saadi, commenting on Israel's withdrawal from Gaza Strip.___"The job of prime minister ... changed him, not just ideologically but also in terms of his personality. He was a fighting, quarrelsome man and suddenly he imposed on himself a great deal of restraint, personal control and calm." — Yossi Sarid, former leader of Israel's dovish Meretz Party.___"It is impossible to justify the minister of defense's disregard of the danger of a massacre." — Israeli commission that found Sharon, defense minister at the time, indirectly responsible for the massacre of hundreds by Israeli-allied Christian militiamen at the Sabra and Chatilla refugee camps in Lebanon in 1982 during Israel's war to root out Palestinian guerrillas.___"It was a stigmatization I rejected utterly." — Sharon in his autobiography, expressing outrage at commission's findings.___"It is not just Sabra and Chatilla. He committed so many crimes against Arabs everywhere. ... He is truly a butcher." — Adnan al-Mikdad, a Lebanese man who lost both his parents in the massacre.___"Those who didn't want to see him as army chief got him as defense minister, and those who don't want him as defense minister shall get him as prime minister." — the late Uri Dan, a journalist and Sharon's longtime confidant, speaking in the wake of the commission report.___"Everyone there should move, should run, should grab more hills, expand the territory. Everything that's grabbed will be in our hands, everything that we don't grab will be in their hands." — Sharon, as foreign minister in 1998, calling on Jewish settlers to take over as much West Bank land as possible before a permanent territorial agreement with Palestinians.___"If in a few months the Palestinians still continue to disregard their part in implementing the road map, then Israel will initiate the unilateral security step of disengagement from the Palestinians." — Sharon, in a Dec. 18, 2003, speech as prime minister, outlining plan to separate Israelis and Palestinians to stop attacks and to give up settlements in Gaza and parts of West Bank.___"He leaves behind great political chaos of the kind that I don't remember in the history of the country of Israel." — Sharon biographer Uzi Benziman, a harsh critic, commenting on plan to withdraw from Gaza Strip.___"He was one of a kind. I don't know any other man like him." — the late Joseph Lapid, head of Shinui Party and often political ally of Sharon.___"He never thought he would bring final peace, but he certainly thought he would take the steps that would eventually lead to it." — Arnon Perlman, top Sharon adviser until 2004.Politics & GovernmentAriel Sharon
+Click to view comments
+View Comments
+Share this
+0
+shares
+Top Stories Recruit describes being quizzed by bin Laden Sports medicine pioneer Frank Jobe dies at 88 Man revealed in report as bitcoin creator denies s … Latest Videos Play Asteroid Approaching in Close Encounter With Earth 00:39 Play Obamacare delay: Insurers can extend offers of no-frills plans 02:25 Play Secretary Kerry to meet with Russian counterpart to discuss Ukraine crisis 02:17 Play Russia Taking Over Ukraine's News Media 04:23 Play Crimeans await referendum seen as prelude for sovereignty 01:29 Latest Slideshows View Charity shop paintings revived with a modern twist View Photos of the day - March 6, 2014 View Get the look: Cate Blanchett View 10 of the best: Geneva Concept Cars View 'Banished Once A Month' - Nepal's Chaupadi tradition … Yahoo News Originals Writers Behind Hit Songs (Video) It's not over for Chris Christie and Marco Rubio Dad Sings 'Let It Go' Parody to End All 'Let It Go' Parodies, Literally Photographer Captures World's First Sunset Hyperlapse from Airplane Explore The ‘Seinfeld' Apartment With This Virtual Reality Demo Anderson Cooper in Kiev: 'It almost feels like something out of World War II' Charity shop paintings revived with a modern twist (gallery) Putin is not crazy. Frustrating, unpredictable. Not crazy. John Bolton's address to conservatives was heavy on 2016 talk Simple sticks contain potential answer to cleaner drinking water Follow Yahoo News
+on Facebook
+on Twitter
+on Tumblr
+on Google+
+on Pinterest
+on Flickr
+Copyright 2014 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/dr-ben-carson-gop-hero-exiled-own-medical-183810434.html?.tsrc=yahoo
+WARC-Date: 2014-03-07T06:50:58Z
+WARC-Record-ID: <urn:uuid:f32ae76a-e07f-4323-b988-0b3b67072338>
+WARC-Refers-To: <urn:uuid:0322a731-ee77-48c2-a023-3c0786b897a8>
+WARC-Block-Digest: sha1:ZS3MK3D76SHLRXAEVX2IVT55MBL4QH3U
+Content-Type: text/plain
+Content-Length: 5613
+
+Dr. Ben Carson, GOP Hero, Exiled by His Own Medical School - Yahoo News
+Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Photos
+Featured
+Ukraine coverage
+Dr. Ben Carson, GOP Hero, Exiled by His Own Medical School
+By J.K. Trotter
+March 29, 2013 2:38 PM
+0
+shares
+Content preferences
+Done
+Ben Carson, the neurosurgeon-turned-conservative-pundit, has accumulated legions of right-leaning fans since he stumped at the National Prayer Breakfast in February and, later, began appearing on Fox News Channel. But after delivering widely condemned comments regarding gay people on Fox this week, a group of students at Johns Hopkins, where Carson has worked since 1977, has successfully stopped Carson from speaking at the May commencement ceremony of the university's medical school. Carson announced on MSNBC Friday afternoon that he would refrain from speaking because he thought the ceremony should be devoted to students, and not the controversy swirling around him:
+Carson's withdrawal comes days after he appeared on Sean Hannity's eponymous Fox News show Wednesday night:
+Did you catch that? Here's what he said (bolding ours): "My thoughts are that marriage is between a man and a woman. It's a well-established, fundamental pillar of society and no group, be they gays, be they NAMBLA, be they people who believe in bestiality. It doesn't matter what they are. They don't get to change the definition."
+Understandably, this prompted at least one student club at John Hopkins's medical school to question whether Carson is an appropriate avatar for their commencement ceremonies. Their petition to remove Carson from the ceremony reads, in part:
+At the time of his nomination, Dr. Carson was known to most of us as a world-class neurosurgeon and passionate advocate for education. Many of us had read his books and looked up to him as a role model in our careers. Since then, however, several public events have cast serious doubt on the appropriateness of having Dr. Carson speak at our graduation.
+After listing a series of incidents — beginning with Carson's rejection of evolutionary theory on the grounds that it implies a total rejection of "moral codes" — the pitch continues:
+We retain the highest respect for Dr. Carson's achievements and value his right to publicly voice political views. Nevertheless, we feel that these expressed values are incongruous with the values of Johns Hopkins and deeply offensive to a large proportion our student body.
+As a result, we believe he is an inappropriate choice of speaker at a ceremony intended to celebrate the achievements of our class. We hope the administration of the Johns Hopkins School of Medicine will select an alternative speaker that better represents the values of our student body and of our great University.
+It's an awkward situation, even after Carson's decision to withdraw from speaking duties. With apologies to Sanjay Gupta, Carson is likely the most high-profile neurosurgeon of the moment, but continues to receive attention not for his medical accomplishments — such as operating on conjoined twins — but his nascent, gaffe-prone political career. (During his speech at the Conservative Political Action Conference in mid-March, Carson suggested that he was considering a run for political office.) To that end, Carson might as well have dropped out because he's pretty busy, doing hits on cable television with a regularity usually seen by political operatives and seasoned talking heads. With that kind of schedule, who has time to write an uplifting speech — or even deliver one?
+TelevisionCultural GroupsBen Carson
+Click to view comments
+View Comments
+Share this
+0
+shares
+Top Stories Recruit describes being quizzed by bin Laden Sports medicine pioneer Frank Jobe dies at 88 Man revealed in report as bitcoin creator denies s … Latest Videos Play Asteroid Approaching in Close Encounter With Earth 00:39 Play Obamacare delay: Insurers can extend offers of no-frills plans 02:25 Play Secretary Kerry to meet with Russian counterpart to discuss Ukraine crisis 02:17 Play Russia Taking Over Ukraine's News Media 04:23 Play Crimeans await referendum seen as prelude for sovereignty 01:29 Latest Slideshows View Charity shop paintings revived with a modern twist View Photos of the day - March 6, 2014 View Get the look: Cate Blanchett View 10 of the best: Geneva Concept Cars View 'Banished Once A Month' - Nepal's Chaupadi tradition … Yahoo News Originals Writers Behind Hit Songs (Video) It's not over for Chris Christie and Marco Rubio Dad Sings 'Let It Go' Parody to End All 'Let It Go' Parodies, Literally Photographer Captures World's First Sunset Hyperlapse from Airplane Explore The ‘Seinfeld' Apartment With This Virtual Reality Demo Anderson Cooper in Kiev: 'It almost feels like something out of World War II' Charity shop paintings revived with a modern twist (gallery) Putin is not crazy. Frustrating, unpredictable. Not crazy. John Bolton's address to conservatives was heavy on 2016 talk Simple sticks contain potential answer to cleaner drinking water Follow Yahoo News
+on Facebook
+on Twitter
+on Tumblr
+on Google+
+on Pinterest
+on Flickr
+Copyright © 2011 <a href="http://www.theatlanticwire.com/">The Atlantic Monthly Group.</a>
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/film-chronicle-rolling-stones-journey-145812985.html?soc_src=mediacontentsharebuttons
+WARC-Date: 2014-03-07T06:51:39Z
+WARC-Record-ID: <urn:uuid:6e862e07-23b1-421f-9325-157caffd635b>
+WARC-Refers-To: <urn:uuid:29923f4d-47bf-4fe5-9f82-c43f53aa9ec9>
+WARC-Block-Digest: sha1:RW2RDTY7J5CCA7VYSWZIX64C23QH7KYV
+Content-Type: text/plain
+Content-Length: 3666
+
+New film to chronicle Rolling Stones' journey - Yahoo News
+Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Photos
+Featured
+Ukraine coverage
+New film to chronicle Rolling Stones' journey
+August 30, 2012 12:04 PM
+0
+shares
+Content preferences
+Done
+LONDON (AP) — A documentary with newly-released historic footage will trace The Rolling Stones' 50-year journey from teenagers to rock icons, publicists for the band said Thursday.The film, titled "Crossfire Hurricane" — from a lyric in "Jumping Jack Flash" — is due for release in some British cinemas in October.The documentary includes footage showing the band's first road trips and the chaos of early tours, accompanied by commentaries by Mick Jagger, Keith Richards, Charlie Watts, Ronnie Wood and former Stones Bill Wyman and Mick Taylor."This is not an academic history lesson," director Brett Morgen said in a statement. Instead, the film invites the audience to experience "the Stones' nearly mythical journey from outsiders to rock and roll royalty," he said.The documentary also will be shown later this year on HBO and the BBC.The Stones, which are celebrating their 50th anniversary this year, have so far kept their plans secret. On Thursday, a publicist for the band denied reports that it will play four shows in London and New York in November.The reports followed rumors that the rockers may be releasing new material after Jagger tweeted a photo of him holding a guitar inside a Paris recording studio this week.The band first played in July, 1962 at The Marquee Club in London.Arts & EntertainmentMediaThe Rolling StonesMick Jaggerdocumentary
+Click to view comments
+View Comments
+Share this
+0
+shares
+Top Stories Recruit describes being quizzed by bin Laden Sports medicine pioneer Frank Jobe dies at 88 Man revealed in report as bitcoin creator denies s … Latest Videos Play Asteroid Approaching in Close Encounter With Earth 00:39 Play Obamacare delay: Insurers can extend offers of no-frills plans 02:25 Play Secretary Kerry to meet with Russian counterpart to discuss Ukraine crisis 02:17 Play Russia Taking Over Ukraine's News Media 04:23 Play Crimeans await referendum seen as prelude for sovereignty 01:29 Latest Slideshows View Charity shop paintings revived with a modern twist View Photos of the day - March 6, 2014 View Get the look: Cate Blanchett View 10 of the best: Geneva Concept Cars View 'Banished Once A Month' - Nepal's Chaupadi tradition … Yahoo News Originals Writers Behind Hit Songs (Video) It's not over for Chris Christie and Marco Rubio Dad Sings 'Let It Go' Parody to End All 'Let It Go' Parodies, Literally Photographer Captures World's First Sunset Hyperlapse from Airplane Explore The ‘Seinfeld' Apartment With This Virtual Reality Demo Anderson Cooper in Kiev: 'It almost feels like something out of World War II' Charity shop paintings revived with a modern twist (gallery) Putin is not crazy. Frustrating, unpredictable. Not crazy. John Bolton's address to conservatives was heavy on 2016 talk Simple sticks contain potential answer to cleaner drinking water Follow Yahoo News
+on Facebook
+on Twitter
+on Tumblr
+on Google+
+on Pinterest
+on Flickr
+Copyright 2012 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/greek-unions-call-another-general-strike-140955042.html
+WARC-Date: 2014-03-07T06:52:37Z
+WARC-Record-ID: <urn:uuid:0e06a423-3dcb-4ff7-95cf-0636cc1e965c>
+WARC-Refers-To: <urn:uuid:11954206-5351-466a-93e8-b089abcefce1>
+WARC-Block-Digest: sha1:VG5QBKFWVWXK4O2ATA6BPIUHXCSJIAY2
+Content-Type: text/plain
+Content-Length: 3099
+
+Greek unions call another general strike - Yahoo News
+Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Photos
+Featured
+Ukraine coverage
+Greek unions call another general strike
+October 10, 2012 10:11 AM
+0
+shares
+Content preferences
+Done
+ATHENS, Greece (AP) — Greece's main labor unions have called a general strike for Oct. 18, the day of a European Union summit and a month after a similar strike saw tens of thousands demonstrate and violent clashes break out with police.The government has been struggling to come up with €13.5 billion ($17 billion) worth of austerity measures for 2013-14 so it can qualify for its next rescue loan payment. Without the money, Greece would run out of funds next month.The government hopes to have an agreed package for the summit.Greece has been dependent on bailouts from its euro partners and the International Monetary Fund since May 2010. In return, it enacted deep budget cuts and tax hikes.The unions said Wednesday that the "barbaric measures" are leading to poverty.Politics & GovernmentLabor Issues
+Click to view comments
+View Comments
+Share this
+0
+shares
+Top Stories Recruit describes being quizzed by bin Laden Sports medicine pioneer Frank Jobe dies at 88 Man revealed in report as bitcoin creator denies s … Latest Videos Play Asteroid Approaching in Close Encounter With Earth 00:39 Play Obamacare delay: Insurers can extend offers of no-frills plans 02:25 Play Secretary Kerry to meet with Russian counterpart to discuss Ukraine crisis 02:17 Play Russia Taking Over Ukraine's News Media 04:23 Play Crimeans await referendum seen as prelude for sovereignty 01:29 Latest Slideshows View Charity shop paintings revived with a modern twist View Photos of the day - March 6, 2014 View Get the look: Cate Blanchett View 10 of the best: Geneva Concept Cars View 'Banished Once A Month' - Nepal's Chaupadi tradition … Yahoo News Originals Writers Behind Hit Songs (Video) It's not over for Chris Christie and Marco Rubio Dad Sings 'Let It Go' Parody to End All 'Let It Go' Parodies, Literally Photographer Captures World's First Sunset Hyperlapse from Airplane Explore The ‘Seinfeld' Apartment With This Virtual Reality Demo Anderson Cooper in Kiev: 'It almost feels like something out of World War II' Charity shop paintings revived with a modern twist (gallery) Putin is not crazy. Frustrating, unpredictable. Not crazy. John Bolton's address to conservatives was heavy on 2016 talk Simple sticks contain potential answer to cleaner drinking water Follow Yahoo News
+on Facebook
+on Twitter
+on Tumblr
+on Google+
+on Pinterest
+on Flickr
+Copyright 2012 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/ipads-great-space-astronaut-says-222806193.html
+WARC-Date: 2014-03-07T06:53:27Z
+WARC-Record-ID: <urn:uuid:6207f5b1-db5b-4abb-ba91-957b39867e7c>
+WARC-Refers-To: <urn:uuid:7fda9bc0-edd2-4bd1-8372-2ab0b77e68ab>
+WARC-Block-Digest: sha1:VYOVE3MHDD3TGKUW7NFVAQ3SP6P4ZAIO
+Content-Type: text/plain
+Content-Length: 4659
+
+iPads Would Be Great in Space, Astronaut Says - Yahoo News
+Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Photos
+Featured
+Ukraine coverage
+iPads Would Be Great in Space, Astronaut Says By Tariq Malik, SPACE.com Managing EditorSpace.com
+March 7, 2012 5:28 PM
+0
+shares
+Content preferences
+Done
+Apple launched the new iPad today (March 7), but American astronauts on the International Space Station are still waiting for a handy tablet device to make daily life above planet Earth a bit easier.	NASA astronaut Dan Burbank, who commands the space station, said that while he doesn't own a new iPad — or any other tablet — he definitely could use one in space.	"I don't have an iPad yet, and I most certainly don't have one up here on the space station," Burbank said today while answering a question from a student in San Jose, Calif., via a video link. "At some point I think that would be a really good tool to have up here because it would be a lot easier to have a single tablet, a single screen, to take with you to do procedures and science experiments instead of having a big laptop with you."	The International Space Station is primarily controlled using dozens of laptop computers distributed throughout the many modules of the orbiting lab. From end to end, the space station is as long as a football field, but the actually habitable space where astronauts live is about the same as a five-bedroom house, NASA officials have said.	While the entire space station crew may not have Apple's new iPad close at hand, the astronauts do have at least two tablets in orbit. In October, Russia's Federal Space Agency launched two iPads into space for recreational use by the orbiting laboratory's Russian crewmembers. And there are other Apple devices available, too.	"We have iPods up here and we can uplink all the music that we like to here," Burbank said. The astronauts also have two iPhone 4 devices, which were launched to the space station last year to be used in experiments.	Burbank spoke during an educational event at the Tech Museum San Jose, where NASA's space station-themed "Destination: Station" exhibit is currently on display.	The space station is currently home to six astronauts: three Russians, two Americans and one Dutch spaceflyer. Burbank and his American crewmate Don Pettit took questions from students at the museum during today's event.	You can follow SPACE.com Managing Editor Tariq Malik on Twitter @tariqjmalik. Follow SPACE.com for the latest in space science and exploration news on Twitter @Spacedotcom and on Facebook. Best Apps for the New iPad Best Tablets of 2012 - Reviews iPad Falls From Edge Of Space - And Survives space station
+Click to view comments
+View Comments
+Share this
+0
+shares
+Top Stories Recruit describes being quizzed by bin Laden Sports medicine pioneer Frank Jobe dies at 88 Man revealed in report as bitcoin creator denies s … Latest Videos Play Asteroid Approaching in Close Encounter With Earth 00:39 Play Obamacare delay: Insurers can extend offers of no-frills plans 02:25 Play Secretary Kerry to meet with Russian counterpart to discuss Ukraine crisis 02:17 Play Russia Taking Over Ukraine's News Media 04:23 Play Crimeans await referendum seen as prelude for sovereignty 01:29 Latest Slideshows View Charity shop paintings revived with a modern twist View Photos of the day - March 6, 2014 View Get the look: Cate Blanchett View 10 of the best: Geneva Concept Cars View 'Banished Once A Month' - Nepal's Chaupadi tradition … Yahoo News Originals Writers Behind Hit Songs (Video) It's not over for Chris Christie and Marco Rubio Dad Sings 'Let It Go' Parody to End All 'Let It Go' Parodies, Literally Photographer Captures World's First Sunset Hyperlapse from Airplane Explore The ‘Seinfeld' Apartment With This Virtual Reality Demo Anderson Cooper in Kiev: 'It almost feels like something out of World War II' Charity shop paintings revived with a modern twist (gallery) Putin is not crazy. Frustrating, unpredictable. Not crazy. John Bolton's address to conservatives was heavy on 2016 talk Simple sticks contain potential answer to cleaner drinking water Follow Yahoo News
+on Facebook
+on Twitter
+on Tumblr
+on Google+
+on Pinterest
+on Flickr
+Copyright © 2011 <a href="http://www.space.com/">SPACE.com</a>.
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/photos/tuesday-morning-weather-forecast-photo-182623958.html?selected_tab=4&mod_id=latest-news-galleries
+WARC-Date: 2014-03-07T06:44:59Z
+WARC-Record-ID: <urn:uuid:e82e5baa-e8b9-4b99-b028-03196b298010>
+WARC-Refers-To: <urn:uuid:b0635365-8413-434e-87d1-2f4d8719a47b>
+WARC-Block-Digest: sha1:4NSYTGYSATIFJZ6YPBNOZ4ABYOGHHUHJ
+Content-Type: text/plain
+Content-Length: 746
+
+Tuesday morning weather forecast | View photo - Yahoo News
+Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Photos
+Featured
+Ukraine coverage
+Tuesday morning weather…Tuesday morning weather forecast
+0
+shares
+Content preferences
+Done
+February 26, 2013 1:45 PM
+Cam Tran has your Tuesday morning weather forecast.
+Share this
+0
+shares
+Click to view comments
+View Comments
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/photos/u-s--slideshow/raw-video-dust-storm-blankets-photo-104311247.html
+WARC-Date: 2014-03-07T06:50:16Z
+WARC-Record-ID: <urn:uuid:e96dfe52-0cf8-487b-8cac-0734a24203f9>
+WARC-Refers-To: <urn:uuid:9f83ee51-c6d1-45c8-bb2d-c3225d2d36f2>
+WARC-Block-Digest: sha1:PY2KDFCTJY2V2ZNJAQA637JP2T7SEN3Q
+Content-Type: text/plain
+Content-Length: 1780
+
+U.S.
+Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Photos
+Featured
+Ukraine coverage
+U.S.
+October 10, 2012 11:55 AM
+Associated Press Videos
+0
+shares
+Content preferences
+Done
+View gallery
+500 photos
+.
+.
+.
+.
+National news events
+Click to view comments
+View Comments
+Share this
+0
+shares
+Latest Videos Play Asteroid Approaching in Close Encounter With Earth 00:39 Play Obamacare delay: Insurers can extend offers of no-frills … 02:25 Latest Slideshows View Charity shop paintings revived with a modern twist View Photos of the day - March 6, 2014 View Get the look: Cate Blanchett View 10 of the best: Geneva Concept Cars View 'Banished Once A Month' - Nepal's Chaupadi tradition … Yahoo News Originals Writers Behind Hit Songs (Video) It's not over for Chris Christie and Marco Rubio Dad Sings 'Let It Go' Parody to End All 'Let It Go' Parodies, Literally Photographer Captures World's First Sunset Hyperlapse from Airplane Explore The ‘Seinfeld' Apartment With This Virtual Reality Demo Anderson Cooper in Kiev: 'It almost feels like something out of World War II' Charity shop paintings revived with a modern twist (gallery) Putin is not crazy. Frustrating, unpredictable. Not crazy. John Bolton's address to conservatives was heavy on 2016 talk Simple sticks contain potential answer to cleaner drinking water Follow Yahoo News
+on Facebook
+on Twitter
+on Tumblr
+on Google+
+on Pinterest
+on Flickr
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/us-spy-programs-raise-ire-both-home-abroad-225349299.html
+WARC-Date: 2014-03-07T06:46:37Z
+WARC-Record-ID: <urn:uuid:0712ab7d-4cd2-4d3c-a529-06875a9506f3>
+WARC-Refers-To: <urn:uuid:fece19c7-4c74-43ea-8185-8a74d7fcfcfb>
+WARC-Block-Digest: sha1:TDZFYPAMZ4N5IX26MKC63LKDGOZJFSWJ
+Content-Type: text/plain
+Content-Length: 12626
+
+US spy programs raise ire both home and abroad - Yahoo News
+Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Photos
+Featured
+Ukraine coverage
+US spy programs raise ire both home and abroad
+By LARA JAKES
+June 10, 2013 10:49 PM
+0
+shares
+Content preferences
+Done
+.View gallery
+.
+.
+WASHINGTON (AP) — The Obama administration faced fresh anger Monday at home and abroad over U.S. spy programs that track phone and Internet messages around the world in the hope of thwarting terrorist threats. But a senior intelligence official said there are no plans to end the secretive surveillance systems.The programs causing the global uproar were revealed by Edward Snowden, a 29-year-old employee of government contractor Booz Allen Hamilton. Snowden, whose identity was revealed at his own request, has fled to Hong Kong in hopes of escaping criminal charges. Sen. Dianne Feinstein of California, who heads the Senate Intelligence Committee and supports the surveillance, accused Snowden of committing an "act of treason" and said he should be prosecuted.Coolly but firmly, officials in Germany and the European Union issued complaints over two National Security Agency programs that target suspicious foreign messages — potentially including phone numbers, email, images, video and other online communications transmitted through U.S. providers. The chief British diplomat felt it necessary to try to assure Parliament that the spy programs do not encroach on U.K. privacy laws.And in Washington, members of Congress said they would take a new look at potential ways to keep the U.S. safe from terror attacks without giving up privacy protections that critics charge are at risk with the government's current authority to broadly sweep up personal communications."There's very little trust in the government, and that's for good reason," said Rep. Adam Schiff, D-Calif., who sits on the House Intelligence Committee. "We're our own worst enemy."Independent Sen. Angus King of Maine, who sits on the Senate Intelligence Committee, said he was considering how Congress could limit the amount of data spy agencies seize from telephone and Internet companies — including restricting the information to be released only on an as-needed basis."It's a little unsettling to have this massive data in the government's possession," King said.A senior U.S. intelligence official said there are no plans to scrap the programs that, despite the backlash, continue to receive widespread if cautious support within Congress. The official spoke on condition of anonymity to discuss the sensitive security issue.The programs were revealed last week by The Guardian and The Washington Post newspapers. National Intelligence Director James Clapper has taken the unusual step of declassifying some of the previously top secret details to help the administration mount a public defense of the surveillance as a necessary step to protect Americans.One of the NSA programs gathers hundreds of millions of U.S. phone records to search for possible links to known terrorist targets abroad. The other allows the government to tap into nine U.S. Internet companies and gather all communications to detect suspicious behavior that begins overseas.
+View gallery
+FILE - In this June 6, 2013 file photo National Security Agency plaques are seen at the compound at …
+Snowden is a former CIA employee who later worked as a contractor for the NSA on behalf of Booz Allen, where he gained access to the surveillance. Republican Sen. Susan Collins of Maine said it was "absolutely shocking" that a 29-year-old with limited experience would have access to this material.The first explosive document he revealed was a top secret court order issued by the U.S. Foreign Intelligence Surveillance Court that granted a three-month renewal for a massive collection of American phone records. That order was signed April 25. The Guardian's first story on the court order was published on June 5.In a statement issued Sunday, Booz Allen said Snowden had been an employee for fewer than three months, so it's possible he was working as an NSA contractor when the order was issued.He also gave the Post and the Guardian a PowerPoint presentation on another secret program that collects online usage by the nine Internet providers. The U.S. government says it uses that information only to track foreigners' use overseas.Believing his role would soon be exposed, Snowden fled last month to Hong Kong, a Chinese territory that enjoys relative autonomy from Beijing. His exact whereabouts were unknown Monday."All of the options, as he put it, are bad options," Guardian journalist Glenn Greenwald, who first reported the phone-tracking program and interviewed Snowden extensively, told The Associated Press on Monday. He said Snowden decided to release details of the programs out of shock and anger over the sheer scope of the government's privacy invasions."It was his choice to publicly unveil himself," Greenwald told the AP in Hong Kong. "He recognized that even if he hadn't publicly unveiled himself, it was only a matter of time before the U.S. government discovered that it was he who had been responsible for these disclosures, and he made peace with that. ... He's very steadfast and resolute about the fact that he did the right thing."Although Hong Kong has an extradition treaty with the U.S., the document has some exceptions, including for crimes deemed political. Any negotiations about his possible handover will involve Beijing, but some analysts believe China is unlikely to want to jeopardize its relationship with Washington over someone it would consider of little political interest.Snowden also told The Guardian that he may seek asylum in Iceland, which has strong free-speech protections and a tradition of providing a haven for the outspoken and the outcast.
+View gallery
+Glenn Greenwald, right, a reporter for The Guardian newspaper, speaks to media at a hotel in Hong Ko …
+The Justice Department is investigating whether his disclosures were a criminal offense — a matter that's not always clear-cut under U.S. federal law.A second senior intelligence official said Snowden would have had to have signed a nondisclosure agreement to gain access to the top secret data. That suggests he could be prosecuted for violating that agreement. Penalties could range from a few years to life in prison. The official spoke on condition of anonymity to describe the process of accessing classified materials more frankly.On Monday afternoon two agents visited the Upper Macungie Township, Pa., home of Snowden's father, Lonnie Snowden. A man who showed FBI identification as he was leaving the home referred questions to the bureau's Philadelphia office, which declined to comment.The leak came to light as Army Pfc. Bradley Manning is being tried in military court under federal espionage and computer fraud laws for releasing classified documents to WikiLeaks about the wars in Iraq and Afghanistan, among other items. The most serious charge against him is aiding the enemy, which carries a potential life sentence. But the military operates under a different legal system.If Snowden is forced to return to the United States to face charges, whistleblower advocates said Monday that they would raise money for his legal defense.Clapper has ordered an internal review to assess how much damage the disclosures created. Intelligence experts say terrorist suspects and others seeking to attack the U.S. all but certainly will find alternate ways to communicate instead of relying on systems that now are widely known to be under surveillance.The Obama administration must also now deal with the political and diplomatic fallout of the disclosures. Privacy laws across much of Western Europe are stricter than they are in the United States.On Tuesday, the European Parliament, through its 27-nation executive arm, will debate the spy programs and whether they have violated local privacy protections. E.U. officials in Brussels pledged to seek answers from U.S. diplomats at a trans-Atlantic ministerial meeting in Dublin that begins Thursday."It would be unacceptable and would need swift action from the EU if indeed the U.S. National Security Agency were processing European data without permission," said Guy Verhofstadt, a leader in the Alde group of liberal parties.Additionally, German government spokesman Steffen Seibert told reporters Monday that Chancellor Angela Merkel would question President Barack Obama about the NSA program when he's in Berlin on June 18 for his first visit to the German capital as president. In Germany, privacy regulations are especially strict, and the NSA programs could tarnish a visit that both sides had hoped would reaffirm strong German-American ties.In London, British Foreign Secretary William Hague was forced to deny allegations that the U.K. government had used information provided by the Americans to circumvent British laws. "We want the British people to have confidence in the work of our intelligence agencies and in their adherence to the law and democratic values," Hague told Parliament.White House spokesman Jay Carney said Obama is open for a discussion about the spy programs, both with allies and in Congress. His administration has aggressively defended the two programs and credited them with helping stop at least two terrorist attacks, including one in New York City.But privacy rights advocates say Obama has gone too far. The American Civil Liberties Union and Yale Law School filed legal action Monday to force a secret U.S. court to make public its opinions justifying the scope of some of the surveillance, calling the programs "shockingly broad." And conservative lawyer Larry Klayman filed a separate lawsuit against the Obama administration, claiming he and others have been harmed by the government's collection of as many as 3 billion phone numbers each day.Army records indicate Snowden enlisted in the Army around May 2004 and was discharged that September."He attempted to qualify to become a Special Forces soldier but did not complete the requisite training and was administratively discharged from the Army," Col. David H. Patterson Jr., an Army spokesman at the Pentagon, said in a statement late Monday.___Associated Press writers Donna Cassata, Frederic Frommer and Matt Apuzzo in Washington, Robert H. Reid in Berlin and Kelvin Chan in Hong Kong contributed to this report.___Follow Lara Jakes on Twitter at https://twitter.com/larajakesAPPolitics & GovernmentGovernmentBooz Allen HamiltonSenate Intelligence Committee
+Click to view comments
+View Comments
+Share this
+0
+shares
+Top Stories Recruit describes being quizzed by bin Laden Sports medicine pioneer Frank Jobe dies at 88 Man revealed in report as bitcoin creator denies s … Latest Videos Play Asteroid Approaching in Close Encounter With Earth 00:39 Play Obamacare delay: Insurers can extend offers of no-frills plans 02:25 Play Secretary Kerry to meet with Russian counterpart to discuss Ukraine crisis 02:17 Play Russia Taking Over Ukraine's News Media 04:23 Play Crimeans await referendum seen as prelude for sovereignty 01:29 Latest Slideshows View Charity shop paintings revived with a modern twist View Photos of the day - March 6, 2014 View Get the look: Cate Blanchett View 10 of the best: Geneva Concept Cars View 'Banished Once A Month' - Nepal's Chaupadi tradition … Yahoo News Originals Writers Behind Hit Songs (Video) It's not over for Chris Christie and Marco Rubio Dad Sings 'Let It Go' Parody to End All 'Let It Go' Parodies, Literally Photographer Captures World's First Sunset Hyperlapse from Airplane Explore The ‘Seinfeld' Apartment With This Virtual Reality Demo Anderson Cooper in Kiev: 'It almost feels like something out of World War II' Charity shop paintings revived with a modern twist (gallery) Putin is not crazy. Frustrating, unpredictable. Not crazy. John Bolton's address to conservatives was heavy on 2016 talk Simple sticks contain potential answer to cleaner drinking water Follow Yahoo News
+on Facebook
+on Twitter
+on Tumblr
+on Google+
+on Pinterest
+on Flickr
+Copyright 2013 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/video/oakland-girl-hospitalized-being-grazed-063854572.html
+WARC-Date: 2014-03-07T06:49:30Z
+WARC-Record-ID: <urn:uuid:4e7b871d-9b59-439f-a4a3-bde53e025723>
+WARC-Refers-To: <urn:uuid:ad753a98-37c5-42d6-985f-8c3f18bf3fd1>
+WARC-Block-Digest: sha1:XFSLDWYIT4DF7BDTOXN37ZRGC5AUHM2R
+Content-Type: text/plain
+Content-Length: 4079
+
+Oakland girl hospitalized after being grazed by bullet | Watch the video - Yahoo News Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Photos
+Featured
+Ukraine coverage
+
+NOW WATCHING
+UP NEXT
+2:12
+
+Oakland girl hospitalized after being grazed by bullet
+<p>A 10-year-old Oakland girl was hospitalized after being grazed by a bullet. She was in her own yard playing when gunfire erupted.</p>
+NOW WATCHING
+UP NEXT
+1:34
+
+Obama: West Won't Let Kremlin Carve Up Ukraine
+President Barack Obama ordered the West&#39;s first sanctions in response to Russia&#39;s military takeover of Crimea on Thursday, declaring his determination not to let the Kremlin carve up Ukraine. (March 7)
+NOW WATCHING
+UP NEXT
+1:26
+
+Today in History for March 7th
+Highlights of Today in History: Civil rights marchers attacked in Selma, Alabama; Adolph Hitler sends troops into Rhineland; Director Stanley Kubrick dies. (March 7)
+NOW WATCHING
+UP NEXT
+1:36
+
+Asia Week Ahead: Central banks prepare to pull policy levers
+Central banks around the region will meet to decide on interest rates, and consumer inflation data from India may impact upcoming elections. Sareena Dayaram reports.
+NOW WATCHING
+UP NEXT
+2:50
+
+Can Japan pension fund bend it like Buffett?
+The gap between promises to Japan’s future pensioners and actual assets is so wide that the government will need to perform like Warren Buffett to make it up, says Breakingviews&#39; Peter Thal Larsen.
+NOW WATCHING
+UP NEXT
+2:04
+
+Everyday low prices no lure for China's shoppers
+As more Chinese consumers shop online and prioritize quality and safety over price, Wal-Mart&#39;s fortunes in China have waned. Jane Lanhee Lee reports on how it&#39;s is shifting strategies in response.
+NOW WATCHING
+UP NEXT
+0:34
+
+Two killed in Venezuela demonstrations
+NOW WATCHING
+UP NEXT
+1:09
+
+Man Denies He's Bitcoin Founder
+In an extensive interview with the Associated Press, the man Newsweek claims is the founder of Bitcoin denied he had anything to do with the digital currency. (March 6)
+NOW WATCHING
+UP NEXT
+2:06
+
+Gloria Campos and Her Mission to Help Children in Foster Care
+Anchor woman in Dallas who found families for hundreds of children is retiring after 30 years.
+NOW WATCHING
+UP NEXT
+1:28
+
+The Return of El Nino
+Scientists predict record cold weather could be replaced with record heat.
+
+Share this
+
+
+
+
+
+Latest Videos Play Asteroid Approaching in Close Encounter With Earth 00:39 Play Obamacare delay: Insurers can extend offers of no-frills plans 02:25 Play Secretary Kerry to meet with Russian counterpart to discuss Ukraine crisis 02:17 Play Russia Taking Over Ukraine's News Media 04:23 Play Crimeans await referendum seen as prelude for sovereignty 01:29 Latest Slideshows View Charity shop paintings revived with a modern twist View Photos of the day - March 6, 2014 View Get the look: Cate Blanchett View 10 of the best: Geneva Concept Cars View 'Banished Once A Month' - Nepal's Chaupadi tradition … Yahoo News Originals Writers Behind Hit Songs (Video) It's not over for Chris Christie and Marco Rubio Dad Sings 'Let It Go' Parody to End All 'Let It Go' Parodies, Literally Photographer Captures World's First Sunset Hyperlapse from Airplane Explore The ‘Seinfeld' Apartment With This Virtual Reality Demo Anderson Cooper in Kiev: 'It almost feels like something out of World War II' Charity shop paintings revived with a modern twist (gallery) Putin is not crazy. Frustrating, unpredictable. Not crazy. John Bolton's address to conservatives was heavy on 2016 talk Simple sticks contain potential answer to cleaner drinking water Follow Yahoo News
+on Facebook
+on Twitter
+on Tumblr
+on Google+
+on Pinterest
+on Flickr
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://news.yahoo.com/video/resident-evil-6-siege-gameplay-150707535.html
+WARC-Date: 2014-03-07T06:44:49Z
+WARC-Record-ID: <urn:uuid:11674966-e4ac-4770-947f-e5a1773e535e>
+WARC-Refers-To: <urn:uuid:3f8c90b8-25cf-4ff9-a910-409704f10435>
+WARC-Block-Digest: sha1:7OXLJHBIEY22VY46L3MJQJZ5U4F2SBXO
+Content-Type: text/plain
+Content-Length: 4661
+
+Resident Evil 6 Siege Gameplay Trailer | Watch the video - Yahoo News Home Mail News Sports Finance Weather Games Groups Answers Screen Flickr Mobile More Celebrity Shine Movies Music TV Health Shopping Travel Autos Homes Yahoo News Search NewsSearch Web Sign In Mail Help Account Info Help Suggestions Yahoo News Home
+U.S.
+World
+Politics
+Tech
+Science
+Health
+Odd News
+Opinion
+Local
+Dear Abby
+Comics
+ABC News
+Yahoo Originals
+Photos
+Featured
+Ukraine coverage
+
+NOW WATCHING
+UP NEXT
+2:06
+
+Resident Evil 6 Siege Gameplay Trailer
+Resident Evil 6 Siege Gameplay Trailer shows off the newest up and coming multiplayer DLC. Play as BSAA agents or the zombies in this survival wave mode type atmosphere. Can you save the rookie? Can you eat the rookie? (<a href="http://www.gamezone.com/news/2013/01/28/resident-evil-6-siege-gameplay-trailer">http://www.gamezone.com/news/2013/01/28/resident-evil-6-siege-gameplay-trailer</a>)
+NOW WATCHING
+UP NEXT
+1:34
+
+Obama: West Won't Let Kremlin Carve Up Ukraine
+President Barack Obama ordered the West&#39;s first sanctions in response to Russia&#39;s military takeover of Crimea on Thursday, declaring his determination not to let the Kremlin carve up Ukraine. (March 7)
+NOW WATCHING
+UP NEXT
+1:26
+
+Today in History for March 7th
+Highlights of Today in History: Civil rights marchers attacked in Selma, Alabama; Adolph Hitler sends troops into Rhineland; Director Stanley Kubrick dies. (March 7)
+NOW WATCHING
+UP NEXT
+1:36
+
+Asia Week Ahead: Central banks prepare to pull policy levers
+Central banks around the region will meet to decide on interest rates, and consumer inflation data from India may impact upcoming elections. Sareena Dayaram reports.
+NOW WATCHING
+UP NEXT
+2:50
+
+Can Japan pension fund bend it like Buffett?
+The gap between promises to Japan’s future pensioners and actual assets is so wide that the government will need to perform like Warren Buffett to make it up, says Breakingviews&#39; Peter Thal Larsen.
+NOW WATCHING
+UP NEXT
+2:04
+
+Everyday low prices no lure for China's shoppers
+As more Chinese consumers shop online and prioritize quality and safety over price, Wal-Mart&#39;s fortunes in China have waned. Jane Lanhee Lee reports on how it&#39;s is shifting strategies in response.
+NOW WATCHING
+UP NEXT
+0:34
+
+Two killed in Venezuela demonstrations
+NOW WATCHING
+UP NEXT
+1:09
+
+Man Denies He's Bitcoin Founder
+In an extensive interview with the Associated Press, the man Newsweek claims is the founder of Bitcoin denied he had anything to do with the digital currency. (March 6)
+NOW WATCHING
+UP NEXT
+2:06
+
+Gloria Campos and Her Mission to Help Children in Foster Care
+Anchor woman in Dallas who found families for hundreds of children is retiring after 30 years.
+NOW WATCHING
+UP NEXT
+1:28
+
+The Return of El Nino
+Scientists predict record cold weather could be replaced with record heat.
+
+Resident Evil 6 Siege Gameplay Trailer
+GameZone
+2:06 mins
+Resident Evil 6 Siege Gameplay Trailer shows off the newest up and coming multiplayer DLC. Play as BSAA agents or the zombies in this survival wave mode type atmosphere. Can you save the rookie? Can you eat the rookie? (http://www.gamezone.com/news/2013/01/28/resident-evil-6-siege-gameplay-trailer)
+Share this
+
+
+
+
+
+Latest Videos Play Asteroid Approaching in Close Encounter With Earth 00:39 Play Obamacare delay: Insurers can extend offers of no-frills plans 02:25 Play Secretary Kerry to meet with Russian counterpart to discuss Ukraine crisis 02:17 Play Russia Taking Over Ukraine's News Media 04:23 Play Crimeans await referendum seen as prelude for sovereignty 01:29 Latest Slideshows View Charity shop paintings revived with a modern twist View Photos of the day - March 6, 2014 View Get the look: Cate Blanchett View 10 of the best: Geneva Concept Cars View 'Banished Once A Month' - Nepal's Chaupadi tradition … Yahoo News Originals Writers Behind Hit Songs (Video) It's not over for Chris Christie and Marco Rubio Dad Sings 'Let It Go' Parody to End All 'Let It Go' Parodies, Literally Photographer Captures World's First Sunset Hyperlapse from Airplane Explore The ‘Seinfeld' Apartment With This Virtual Reality Demo Anderson Cooper in Kiev: 'It almost feels like something out of World War II' Charity shop paintings revived with a modern twist (gallery) Putin is not crazy. Frustrating, unpredictable. Not crazy. John Bolton's address to conservatives was heavy on 2016 talk Simple sticks contain potential answer to cleaner drinking water Follow Yahoo News
+on Facebook
+on Twitter
+on Tumblr
+on Google+
+on Pinterest
+on Flickr
+Yahoo - ABC News Network
+Help / Suggestions
+Privacy
+About Our Ads
+Terms
+
+

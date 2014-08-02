@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/film/pitchers/page/0,,2093280,00.html
+WARC-Date: 2014-03-07T05:24:55Z
+WARC-Record-ID: <urn:uuid:dd5485ea-df23-4ca7-b606-81c095823210>
+WARC-Refers-To: <urn:uuid:096a92b2-bc12-4a6b-b829-7dc9c02573ec>
+WARC-Block-Digest: sha1:LZAXYJX6HTZIOV5IJIYFZN6JMUHW5QA3
+Content-Type: text/plain
+Content-Length: 56
+
+The Pitchers June 2007 | Features | guardian.co.uk Film 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/music/musicblog/2010/oct/01/tony-moore-kashmir-klub
+WARC-Date: 2014-03-07T05:35:38Z
+WARC-Record-ID: <urn:uuid:92b8b106-2235-463f-a961-f969dd396c17>
+WARC-Refers-To: <urn:uuid:823f65ff-5117-4b81-ab2f-7efc851e6ae4>
+WARC-Block-Digest: sha1:MUVWDK3SDFUBJ32LVHUZQO6NHPJ42M7C
+Content-Type: text/plain
+Content-Length: 99
+
+Behind the Music: Tony Moore is proof live music need not cost a fortune | Music | theguardian.com 
+

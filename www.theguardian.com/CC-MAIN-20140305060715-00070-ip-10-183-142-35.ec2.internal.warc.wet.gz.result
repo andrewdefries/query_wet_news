@@ -1,0 +1,84 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2010/mar/27/bleeding-city-alex-preston-review
+WARC-Date: 2014-03-07T05:28:38Z
+WARC-Record-ID: <urn:uuid:153d2a99-6db7-4e57-a886-5aa1f12a128a>
+WARC-Refers-To: <urn:uuid:160e2bdf-e2f2-453c-b95d-1b6a1fe2075d>
+WARC-Block-Digest: sha1:BMCXGMSYDWFMFTT2ZDEYYK57CLD2EPQW
+Content-Type: text/plain
+Content-Length: 72
+
+This Bleeding City by Alex Preston | Book review | Books | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/2007/nov/05/comment.usa
+WARC-Date: 2014-03-07T05:36:30Z
+WARC-Record-ID: <urn:uuid:55ad352e-2a13-449b-ac20-ac3cb21baea9>
+WARC-Refers-To: <urn:uuid:831828a4-5a63-44cc-9678-4e496df495c2>
+WARC-Block-Digest: sha1:EZB4SSZWHBBAUSABQ72M2C7NDY5WNZ43
+Content-Type: text/plain
+Content-Length: 106
+
+Michael Tomasky: This is one dangerous man: it's George Bush with brains | Comment is free | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/2010/dec/12/observer-editorial-protests
+WARC-Date: 2014-03-07T05:32:19Z
+WARC-Record-ID: <urn:uuid:819df1c9-d725-4dc2-bd89-ec05f2adbc91>
+WARC-Refers-To: <urn:uuid:ee74f495-0272-40cd-8f78-2b2a2f357bb8>
+WARC-Block-Digest: sha1:TRNQQ5EKGJ76YI7PQGUETEXOEJM73IKA
+Content-Type: text/plain
+Content-Length: 72
+
+Educating Charlie | Observer editorial | Comment is free | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/global-development/2012/aug/09/talk-point-sport-development
+WARC-Date: 2014-03-07T05:34:10Z
+WARC-Record-ID: <urn:uuid:76da07cc-c17f-48e5-85c0-95b539a5eeba>
+WARC-Refers-To: <urn:uuid:fe434f0e-d60f-4e1f-b661-8faa146116d6>
+WARC-Block-Digest: sha1:HRQN3XFUCIXP7GHXPG73W2B7KPZSHQAO
+Content-Type: text/plain
+Content-Length: 92
+
+Talk point: what role can sport play in development? | Global development | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/sport/2008/aug/16/paularadcliffe.olympicsathletics
+WARC-Date: 2014-03-07T05:31:23Z
+WARC-Record-ID: <urn:uuid:cdd505b7-a6b7-4bfd-8dbd-c11b398e07d3>
+WARC-Refers-To: <urn:uuid:c3c0ef50-d004-4500-8b9f-8b5864720303>
+WARC-Block-Digest: sha1:EZLWV2MDA3TAYCLCGXPBQ3ZOTLDZ7TPD
+Content-Type: text/plain
+Content-Length: 100
+
+Pain the only certainty as Radcliffe lines up for race with marathon destiny | Sport | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2006/aug/30/audreygillan.uknews2
+WARC-Date: 2014-03-07T05:27:37Z
+WARC-Record-ID: <urn:uuid:09bfa49f-6969-4f6a-b405-d687e49556d5>
+WARC-Refers-To: <urn:uuid:5520e89a-f623-43e5-a073-94ed493fa022>
+WARC-Block-Digest: sha1:AZF4NJX5URNA4GR4NE6UCQSGTDWGRFWT
+Content-Type: text/plain
+Content-Length: 93
+
+Missing schoolgirl thought to be staying with relatives in Pakistan | UK news | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2008/jan/26/mining.uknews4
+WARC-Date: 2014-03-07T05:33:53Z
+WARC-Record-ID: <urn:uuid:5d8a4dad-0b85-4d01-b156-d5ba8dc3f392>
+WARC-Refers-To: <urn:uuid:14832fd5-eeb0-439e-9075-f31dcd14a296>
+WARC-Block-Digest: sha1:WZZWYGOLJEQN4XZETP4PDMVAOBOE4SFX
+Content-Type: text/plain
+Content-Length: 55
+
+When the coal finally ran out | UK news | The Guardian 
+

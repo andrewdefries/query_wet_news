@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/football/2001/apr/11/theknowledge.sport
+WARC-Date: 2014-03-07T06:45:54Z
+WARC-Record-ID: <urn:uuid:a239dbef-79cd-48bb-9cfb-3702bfe05804>
+WARC-Refers-To: <urn:uuid:dec25a48-990e-4b50-bc44-3bac3e83cfd0>
+WARC-Block-Digest: sha1:STZYQAA347YJGFV6WNBT32Y64H65AIVJ
+Content-Type: text/plain
+Content-Length: 50
+
+Lucky, lucky Arsenal | Football | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/2004/aug/11/radio.students
+WARC-Date: 2014-03-07T06:44:34Z
+WARC-Record-ID: <urn:uuid:c0a629a0-fabe-467e-9673-a1f1592f0fec>
+WARC-Refers-To: <urn:uuid:f015d8bd-fa8c-4bfa-b8b9-ea4c33cc3f04>
+WARC-Block-Digest: sha1:7RX4HCQC5BAIFGW362W7SILQF2DUY67J
+Content-Type: text/plain
+Content-Length: 51
+
+Student radio faces crisis | Media | MediaGuardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/sport/2011/sep/10/warwickshire-nottinghamshire-county-championship
+WARC-Date: 2014-03-07T06:52:20Z
+WARC-Record-ID: <urn:uuid:1f595530-eec7-4c1a-a401-5cb8b87d6627>
+WARC-Refers-To: <urn:uuid:1fdf6215-4192-449d-a81a-22e9a3c39a62>
+WARC-Block-Digest: sha1:TR7Q2PGNRDNEG6BNNJRPP57NT7LLEAPG
+Content-Type: text/plain
+Content-Length: 92
+
+Rampant Warwickshire see off Nottinghamshire to move closer to title | Sport | The Observer 
+

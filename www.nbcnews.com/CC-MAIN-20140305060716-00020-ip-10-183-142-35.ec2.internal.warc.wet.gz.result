@@ -1,0 +1,26 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/id/3036789/ns/msnbc-morning_joe/vp/52989743/
+WARC-Date: 2014-03-07T06:54:08Z
+WARC-Record-ID: <urn:uuid:c5e2de94-09a4-46ba-b859-134ec63a07e6>
+WARC-Refers-To: <urn:uuid:a90896da-dc00-48af-a41b-6de7f6f36514>
+WARC-Block-Digest: sha1:C4CARX6MXYSR5TOK7WQUZSJYVAER3OF2
+Content-Type: text/plain
+Content-Length: 12
+
+Morning Joe
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/video/nightly-news/9842336/
+WARC-Date: 2014-03-07T06:46:16Z
+WARC-Record-ID: <urn:uuid:a8a7753a-5859-4b71-8ce6-6dc5598143a5>
+WARC-Refers-To: <urn:uuid:b643fb82-5b90-49b4-a0b7-70bdf4a6eaa7>
+WARC-Block-Digest: sha1:WLZPEY266TIMD46BC6HTUTLVBNMC4QPD
+Content-Type: text/plain
+Content-Length: 67
+
+Katrina victims' first look at neighborhood - Video on NBCNews.com
+
+

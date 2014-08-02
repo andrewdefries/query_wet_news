@@ -1,0 +1,26 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/?p=183767
+WARC-Date: 2014-03-07T06:43:57Z
+WARC-Record-ID: <urn:uuid:c38d6920-8e64-4a74-a268-28beb4074167>
+WARC-Refers-To: <urn:uuid:ea745333-4cd5-40ca-82f3-71375ce2bd7d>
+WARC-Block-Digest: sha1:PMVZXG2RZ3XIHDRX2EU7BLE4GLNYVZU5
+Content-Type: text/plain
+Content-Length: 60
+
+msnbc: news, video and progressive community. Lean Forward.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/the-cycle/attack-the-giant-squid
+WARC-Date: 2014-03-07T06:44:08Z
+WARC-Record-ID: <urn:uuid:21429009-afde-4514-ac7d-ecb03f78825f>
+WARC-Refers-To: <urn:uuid:70d84cec-4dbd-4e22-9e18-c848effc460a>
+WARC-Block-Digest: sha1:366BBZYBFTE7B5FJVOG4LCMWN5NZOHQN
+Content-Type: text/plain
+Content-Length: 34
+
+Attack of the Giant Squid | MSNBC
+
+

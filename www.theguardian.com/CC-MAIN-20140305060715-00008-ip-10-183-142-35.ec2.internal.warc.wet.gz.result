@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/business/2007/apr/11/businessglossary88
+WARC-Date: 2014-03-07T05:35:46Z
+WARC-Record-ID: <urn:uuid:738ca8e3-ceb6-4fea-9106-2b6a8c24db77>
+WARC-Refers-To: <urn:uuid:8a85cd98-4134-4f24-bdc9-c2e2ab791b0c>
+WARC-Block-Digest: sha1:GJ7UKXNQWNS2APNMUJ3MVEK2LRD5WFQ6
+Content-Type: text/plain
+Content-Length: 34
+
+Ebit | Business | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/football/2006/sep/04/thefiver.sport
+WARC-Date: 2014-03-07T05:25:43Z
+WARC-Record-ID: <urn:uuid:0adbe1c8-87fc-466b-be8f-77d58f9ffdbc>
+WARC-Refers-To: <urn:uuid:b805c272-3c3d-4ff0-8f52-a8e1ee03d26a>
+WARC-Block-Digest: sha1:M5DMPMPZDW2EHQW5V6WNNPDY4XII3G2V
+Content-Type: text/plain
+Content-Length: 72
+
+Passive Boozing; and Wild-Tackling Scouser | Football | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2008/jun/16/smoking.law
+WARC-Date: 2014-03-07T05:28:10Z
+WARC-Record-ID: <urn:uuid:7751f466-29f2-4b2a-be3b-f928da7ead87>
+WARC-Refers-To: <urn:uuid:efedd929-a76f-4a84-9914-ec24eb5804ea>
+WARC-Block-Digest: sha1:3BL2NG2MQNHSJK46RPDJX3O66RQDRQD3
+Content-Type: text/plain
+Content-Length: 63
+
+The question: Is the smoking ban working? | Law | The Guardian 
+

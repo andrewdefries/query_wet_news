@@ -1,0 +1,49 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/business/2009/nov/18/donald-fisher-obituary
+WARC-Date: 2014-03-07T05:30:31Z
+WARC-Record-ID: <urn:uuid:e30a1c02-2f6a-431c-90d6-0bd90c4dd523>
+WARC-Refers-To: <urn:uuid:7f0efccd-f5f1-461f-885f-eb423026c8a8>
+WARC-Block-Digest: sha1:FEXQEMECWOWR77IOZ47DUISAGOG4K7H2
+Content-Type: text/plain
+Content-Length: 49
+
+Donald Fisher obituary | Business | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/belief/2012/nov/13/social-media-vote-women-bishops?commentpage=3
+WARC-Date: 2014-03-07T05:27:47Z
+WARC-Record-ID: <urn:uuid:c811058d-35e2-4f74-a668-6fdf0a28c141>
+WARC-Refers-To: <urn:uuid:1642e10f-5bc8-4aed-bf32-25fa1cfbc0f2>
+WARC-Block-Digest: sha1:AQA5ZVI4636IT4C4FK5YPXFTTWZTKTFM
+Content-Type: text/plain
+Content-Length: 109
+
+How social media could swing the vote for women bishops | Vicky Beeching | Comment is free | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/discussion/report-abuse/comment/17508704
+WARC-Date: 2014-03-07T05:33:13Z
+WARC-Record-ID: <urn:uuid:00ebe576-5a88-4c67-a75a-b5008dbe2b19>
+WARC-Refers-To: <urn:uuid:de2c1f21-1c37-4518-8219-05629fe94ca9>
+WARC-Block-Digest: sha1:JCVBFS3HUFQBHTZ2A7A7CBWOQUBYVRR6
+Content-Type: text/plain
+Content-Length: 24
+
+Report abuse on comment
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/2010/sep/05/andy-coulson-phone-hacking-allegations
+WARC-Date: 2014-03-07T05:36:39Z
+WARC-Record-ID: <urn:uuid:1ad88671-cae6-4512-a02f-275bdc4b1b1c>
+WARC-Refers-To: <urn:uuid:c325a6a4-da97-4f2f-a1d9-3d2d2be4c3bb>
+WARC-Block-Digest: sha1:7XPXVMOK6ILKJ4VXAZVJGLO6UIWVF5RZ
+Content-Type: text/plain
+Content-Length: 113
+
+David Cameron and Andy Coulson: the PM, the PR guru and a scandalous lapse of judgment | Media | theguardian.com 
+

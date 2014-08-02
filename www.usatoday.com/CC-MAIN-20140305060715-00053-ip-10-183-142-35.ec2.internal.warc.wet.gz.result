@@ -1,0 +1,60 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/1905719/connecticut-governor-lifts-travel-ban/
+WARC-Date: 2014-03-07T05:30:14Z
+WARC-Record-ID: <urn:uuid:d777615f-7a47-4b81-9c3d-987a39249dfa>
+WARC-Refers-To: <urn:uuid:6f39b940-a392-4ac3-bfe6-98cd69a9e32b>
+WARC-Block-Digest: sha1:C7DMU5A4XS47BYLOTZ5RFUPQEBEFIDAH
+Content-Type: text/plain
+Content-Length: 37
+
+Connecticut governor lifts travel ban
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/game/recap/l.mlb.com-2012-e.34684/
+WARC-Date: 2014-03-07T05:26:54Z
+WARC-Record-ID: <urn:uuid:8e73a01e-426a-4d4a-9aac-5e079912b0b0>
+WARC-Refers-To: <urn:uuid:4d23c135-7dac-49bd-922c-0d5a093e99c6>
+WARC-Block-Digest: sha1:HUQ4WOU77CXMKL7BWQB5VHSZAMNUPP2K
+Content-Type: text/plain
+Content-Length: 56
+
+Seattle Mariners at New York Yankees | USA TODAY | RECAP
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaab/scores/2013/02/05/big-sky/
+WARC-Date: 2014-03-07T05:30:03Z
+WARC-Record-ID: <urn:uuid:f071ccbf-fb24-4068-bc6d-55ab7cb30bba>
+WARC-Refers-To: <urn:uuid:c8a58465-f7cb-4ebd-801a-400eaeebf542>
+WARC-Block-Digest: sha1:E76HYJOT3OFK32XBJJVFICWDOAAMIA5N
+Content-Type: text/plain
+Content-Length: 245
+
+USA Today | Sports | NCAABNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribeMorePhoto GalleriesYour TakeInteractives
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/life/people/2012/12/06/obamas-turn-out-for-annual-christmas-tree-lighting-ceremony/1752073/
+WARC-Date: 2014-03-07T05:32:35Z
+WARC-Record-ID: <urn:uuid:dac10198-60b2-4234-aeae-014c0d7bc6c9>
+WARC-Refers-To: <urn:uuid:cc553c90-a9df-4213-b056-95149b8de520>
+WARC-Block-Digest: sha1:3G77VNJ4XOXRXZRYPDNIGWRPT472P7HR
+Content-Type: text/plain
+Content-Length: 183
+
+Obamas turn out for annual White House Christmas tree-lighting ceremonyNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or Zip
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/theoval/2013/01/09/obama-romney-switchers/1817629/
+WARC-Date: 2014-03-07T05:25:56Z
+WARC-Record-ID: <urn:uuid:90e1168f-685e-44da-a8a0-2ec5edc4ee90>
+WARC-Refers-To: <urn:uuid:e401030e-af22-47b4-b619-6e29caf460cb>
+WARC-Block-Digest: sha1:QJ2QCLICTZHXBQF3XUSVUTCMAFUSISVI
+Content-Type: text/plain
+Content-Length: 88
+
+Few counties switched party support in Election 2012NewsSportsLifeMoneyTechTravelOpinion
+

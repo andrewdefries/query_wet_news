@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nba/game/boxscore/l.nba.com-2011-e.15806/
+WARC-Date: 2014-03-07T05:32:52Z
+WARC-Record-ID: <urn:uuid:c846986d-e714-48e6-b2c9-a8eca5aa2ba1>
+WARC-Refers-To: <urn:uuid:8fb6ca10-4470-410b-8c95-a5cf253e9c14>
+WARC-Block-Digest: sha1:4ZESRM3GDXVZRJRMZBHDZDSTY3EIEI4T
+Content-Type: text/plain
+Content-Length: 53
+
+Atlanta Hawks at Brooklyn Nets | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaab/game/boxscore/l.ncaa.org.mbasket-2010-e.55588/
+WARC-Date: 2014-03-07T05:30:20Z
+WARC-Record-ID: <urn:uuid:81a9fc3b-79e0-4e0b-a0c0-88bb230a64eb>
+WARC-Refers-To: <urn:uuid:42ed9a9b-c74f-43ea-aaf8-44a12b1f741e>
+WARC-Block-Digest: sha1:RR3Y65SRHES4Y2H7VTXKJLP7OICHDP2Q
+Content-Type: text/plain
+Content-Length: 66
+
+Colorado Buffaloes at Kansas State Wildcats | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nfl/jaguars/
+WARC-Date: 2014-03-07T05:26:49Z
+WARC-Record-ID: <urn:uuid:91196764-b298-4f64-8bb4-7ca4661c2285>
+WARC-Refers-To: <urn:uuid:0e63b7e1-e7fc-43b3-9d58-0c4eb9d5e6f8>
+WARC-Block-Digest: sha1:CXZNB6YWV5BLQFDSCZLN76PPLFI2QWMU
+Content-Type: text/plain
+Content-Length: 384
+
+USA Today | Sports | NFL | jaguarsNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribeMorePhoto GalleriesYour TakeInteractivesNewsletters & AlertsBest-Selling BooksNewsstandUSA WeekendAppsCollegeClassifiedsGamesScoresStocksVideoSubscribeDefault ViewBig Page
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/nhl/rangers/2013/03/05/rangers-marc-staal-eye-flyers/1966309/
+WARC-Date: 2014-03-07T05:33:22Z
+WARC-Record-ID: <urn:uuid:3bab3f4b-c905-40f5-bf55-b6fe076ff496>
+WARC-Refers-To: <urn:uuid:f5e59a11-d947-4070-991a-cf851ecf4c5d>
+WARC-Block-Digest: sha1:LWOT6YXNCREZNSSSJ24GQIU24QIO4EHI
+Content-Type: text/plain
+Content-Length: 77
+
+Rangers' Staal leaves after puck hits him in eyeNewsSportsLifeMoneyTechTravel
+

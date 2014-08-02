@@ -1,0 +1,38 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.cbsnews.com/common/includes/sitemaps/atlantis/main504584_501143.shtml
+WARC-Date: 2014-03-07T06:58:01Z
+WARC-Record-ID: <urn:uuid:e276fbf4-cbe3-4884-a54d-aecad5244746>
+WARC-Refers-To: <urn:uuid:db9e6902-08cc-4f74-a420-0bb9545fc343>
+WARC-Block-Digest: sha1:DMAN4YB6RVXX7HCLTMVIV4U3CDRKVFGK
+Content-Type: text/plain
+Content-Length: 73
+
+CBS News Sitemap
+US NewsVideos
+Part 1
+Stories
+Part 1
+Photo Essays
+Part 1
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.cbsnews.com/pictures/10-scary-diseases-pets-give-people/
+WARC-Date: 2014-03-07T06:55:53Z
+WARC-Record-ID: <urn:uuid:4b24ca11-59d7-4086-94f3-34749a832a9c>
+WARC-Refers-To: <urn:uuid:be8167d1-041d-4dee-b39a-0afc9dd2b4fe>
+WARC-Block-Digest: sha1:SNED6JG5FAT76T72M3A3XINOBLBJQQIM
+Content-Type: text/plain
+Content-Length: 148
+
+10 scary diseases pets give people - Photo 1 - Pictures - CBS News
+CBSNews.com
+CBS Evening News
+CBS This Morning
+48 Hours
+60 Minutes
+Sunday Morning
+
+

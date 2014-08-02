@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/info/submitting-illustrations-and-artwork
+WARC-Date: 2014-03-07T06:45:12Z
+WARC-Record-ID: <urn:uuid:3a68e025-a021-40e1-878d-0b0ed08e942a>
+WARC-Refers-To: <urn:uuid:06e1a786-7c0a-461d-a871-8917ae0a7206>
+WARC-Block-Digest: sha1:ULS2RYIGBAMDTE2MRGNYQW6YOOCOMA3U
+Content-Type: text/plain
+Content-Length: 62
+
+Submitting illustrations and artwork | Help | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/music/2006/jun/30/popandrock.shopping
+WARC-Date: 2014-03-07T06:44:19Z
+WARC-Record-ID: <urn:uuid:0b0918e5-ac87-46a2-af30-6b0bf0e980d8>
+WARC-Refers-To: <urn:uuid:44a3f76e-ffbf-4610-8a3d-14c0ac4e2adf>
+WARC-Block-Digest: sha1:U654QWDG3VAWRGHWXPL6BSIEQMD2VTXW
+Content-Type: text/plain
+Content-Length: 70
+
+CD: TV on the Radio, Return to Cookie Mountain | Music | The Guardian 
+

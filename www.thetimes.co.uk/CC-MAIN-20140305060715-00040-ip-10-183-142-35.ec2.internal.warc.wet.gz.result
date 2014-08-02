@@ -1,0 +1,32 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.thetimes.co.uk/tto/public/digital/article3689639.ece
+WARC-Date: 2014-03-07T05:27:08Z
+WARC-Record-ID: <urn:uuid:4b811fbf-6c2b-47d9-9ca5-33217887c6f6>
+WARC-Refers-To: <urn:uuid:816cf972-268b-4fc5-b7c6-612ce7923766>
+WARC-Block-Digest: sha1:O6NLUHARZVCPSWONNT4OJUA2IUVIQXNS
+Content-Type: text/plain
+Content-Length: 2601
+
+We’re listening to your feedback | The Times
+/g, ">");
+//]]>
+The Times
+List View
+Site Map
+RSS Feeds
+We’re listening to your feedback
+Print
+Share via
+Facebook
+Twitter
+Google+
+1 of 1
+Nick Petrie
+Social Media Editor
+Last updated at 3:31PM, February 15 2013
+We’ve received lots of feedback about our new app. Here we outline the issues you’ve reported and how we plan to fix them
+Mind Games We thought it would be a good idea to place them in Times 2, like the paper. However many of you reported not being able to find them. As such we are moving them back to their previous location (same as the old app) - as of Saturday Feb 16 they will be located at the back of the main book and be included in the automatic newsstand download. iPad 1 We’ve worked hard to support the iPad, even though Apple are phasing out support for the older tablet. Some of you have been reporting problems with the app crashing. We’ve found that simply turning you iPad off and on again (this is how to do that), helps clear the memory and stops the crashing. Times2, Weekend, Magazine, Saturday Review, The Game All these sections have been split into their own book to make the edition easier to use. Unfortunately they currently do not download via Newsstand. We have identified the problem and our developers are working on a patch to submit to Apple. To find them, simply tap the edition tab, then tap the front cover of the section you would like to download. There is also an issue when readers try and move back from additional sections to the main edition. We’ve identified the bug and this will be included in the same patch. Newsstand not downloading It’s easy to miss the notification that pops up asking for permission to send “new issues and push notifications” to your ipad. It appears while you are installing the app and if you reject it Newsstand cannot work. We’ve produced a helpful guide to tell you how to turn it back on. Archive editions We have discovered a bug meaning the app only stores one week of editions, even if you have set it to 31 days. We are working on a fix for this. We’ve also had lots of feedback about features that people would like to see in future updates of the iPad app. The ability to share articles via email and on social media
+We’re working on this so can email, tweet and post your favourite articles to friends and family via the app Saving articles to read later
+Lots of you have said you’d like to be able to save articles like recipes and financial advice to read at a later date. The good news is that this is planned for the end of April. 
+

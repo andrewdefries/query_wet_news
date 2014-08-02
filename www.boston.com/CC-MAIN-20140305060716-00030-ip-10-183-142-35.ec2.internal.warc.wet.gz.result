@@ -1,0 +1,26 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.boston.com/news/globe/living/articles/2005/09/02/as_parody_pretty_fails_to_persuade/?camp=pm
+WARC-Date: 2014-03-07T06:52:06Z
+WARC-Record-ID: <urn:uuid:a4b0fa69-6e7d-4e48-8906-cb8ceeb7706c>
+WARC-Refers-To: <urn:uuid:a3d74b49-c187-465d-949b-2e9daeb0b5b6>
+WARC-Block-Digest: sha1:YDDO3JI3LJJ5YMACTHNJLPN4NHAEWUKE
+Content-Type: text/plain
+Content-Length: 57
+
+As parody, 'Pretty' fails to persuade - The Boston Globe
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.boston.com/news/world/europe/articles/2005/03/19/ahead_of_palm_sunday_pope_reflects_on_his_sufferings/?camp=pm
+WARC-Date: 2014-03-07T06:49:01Z
+WARC-Record-ID: <urn:uuid:7d46eddc-4897-4b06-a97a-c45e6e719456>
+WARC-Refers-To: <urn:uuid:95f15f37-ab7d-4847-8ff6-8cb444f4c6ad>
+WARC-Block-Digest: sha1:DC7Y7YJ3AOO4FGIQZKQGI4SOYHHBU3JI
+Content-Type: text/plain
+Content-Length: 73
+
+Ahead of Palm Sunday, pope reflects on his sufferings - The Boston Globe
+
+

@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2056557/1-dead-kids-ok-in-n-illinois-school-bus-crash/
+WARC-Date: 2014-03-07T06:47:10Z
+WARC-Record-ID: <urn:uuid:d09d75d8-1413-4861-afba-e7f46705d493>
+WARC-Refers-To: <urn:uuid:2906c378-d026-4f97-9f7c-ad2866020552>
+WARC-Block-Digest: sha1:JLGDPWIV6SF3YOS3MB66UAEWLU2V7OFU
+Content-Type: text/plain
+Content-Length: 47
+
+1 dead, kids OK in N. Illinois school bus crash
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/hotelcheckin/2012/09/24/best-western-and-wyndham-make-hotel-reviews-easy-to-read/1589759/
+WARC-Date: 2014-03-07T06:53:52Z
+WARC-Record-ID: <urn:uuid:9781a028-04c1-42b8-b45f-712119acc3e4>
+WARC-Refers-To: <urn:uuid:d1843c82-c2c8-4d86-8566-c74d964d11a7>
+WARC-Block-Digest: sha1:EUB53THGP5RWNSBOPJJG2VKBUBFTEGI7
+Content-Type: text/plain
+Content-Length: 178
+
+Best Western latest to highlight hotel reviews on websiteNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSet
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/news/nation/2012/12/29/suspect-nyc-subway-death/1797943/
+WARC-Date: 2014-03-07T06:52:53Z
+WARC-Record-ID: <urn:uuid:e0106bf4-0e99-4426-b1fe-b726919b9b31>
+WARC-Refers-To: <urn:uuid:f95c9f9c-1e2d-49e3-856c-51f61fb72de4>
+WARC-Block-Digest: sha1:6HYL2ZD4EIJSLOUXUZYWC5IO4N2RZTVE
+Content-Type: text/plain
+Content-Length: 183
+
+Psychiatric test for suspect in NYC subway deathNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settings
+

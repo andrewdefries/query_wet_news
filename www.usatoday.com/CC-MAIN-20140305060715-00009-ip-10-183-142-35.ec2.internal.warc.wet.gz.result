@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/game/boxscore/l.mlb.com-2012-e.34639/
+WARC-Date: 2014-03-07T05:29:33Z
+WARC-Record-ID: <urn:uuid:e1654795-75a9-45da-a74e-d7498aa73d6c>
+WARC-Refers-To: <urn:uuid:061949be-7af3-45e8-818c-6c7e346b8667>
+WARC-Block-Digest: sha1:USIABQYMGRXWIELJF7MKL32UGQI5QOK5
+Content-Type: text/plain
+Content-Length: 58
+
+Cincinnati Reds at San Diego Padres | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/onpolitics/2013/11/06/afl-cio-ads-immigration-house-republicans/3453861/
+WARC-Date: 2014-03-07T05:27:09Z
+WARC-Record-ID: <urn:uuid:d950137e-9982-411b-a56b-ca04bf106ac9>
+WARC-Refers-To: <urn:uuid:757e8505-4900-4e78-b0e7-c4fa6932ce36>
+WARC-Block-Digest: sha1:PS3246RRJFX6AKR4ZAEC3YLC4ZH4T2ZU
+Content-Type: text/plain
+Content-Length: 163
+
+AFL-CIO launches ads confronting GOP on immigrationNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or Zip
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/tennis/2013/08/22/alexandr-dolgopolov-gael-monfils-winston-salem-open/2690323/
+WARC-Date: 2014-03-07T05:31:28Z
+WARC-Record-ID: <urn:uuid:b76a8e72-6992-458d-8b90-982ef742d238>
+WARC-Refers-To: <urn:uuid:550c6aa6-12c1-484c-b293-34936de85762>
+WARC-Block-Digest: sha1:ELUNRYPVVOJEF5MGUVNFSO3DZLUJ66KM
+Content-Type: text/plain
+Content-Length: 107
+
+Alexandr Dolgopolov, Gael Monfils reach Winston-Salem Open semisNewsSportsLifeMoneyTechTravelOpinionWeather
+

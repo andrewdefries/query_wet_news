@@ -1,0 +1,26 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/classified-ads/Auctions/Sales/classification/Estate+Sales/?fb_sf_published_at_l=%255B1353733200+TO+*%255D&sort=is_featured_b%2520desc%252Cpublished_at_l%2520desc
+WARC-Date: 2014-03-07T05:36:07Z
+WARC-Record-ID: <urn:uuid:a98277bd-65a5-4bfe-9199-be473d1df508>
+WARC-Refers-To: <urn:uuid:d87160d0-020b-4363-89db-a5d2fd0e0c34>
+WARC-Block-Digest: sha1:GPHOAFZV2SMFZJHKRY6FCKEHR74VTD27
+Content-Type: text/plain
+Content-Length: 29
+
+Miami Herald: Classified Ads
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/cutler-bay/index-p2.html?topic=public-schools
+WARC-Date: 2014-03-07T05:37:11Z
+WARC-Record-ID: <urn:uuid:c6d7746b-43a5-4e62-91bd-be32cf28cfd3>
+WARC-Refers-To: <urn:uuid:f84e5441-bc99-4e9c-b62c-927e141f874d>
+WARC-Block-Digest: sha1:4FVIRKHE7O2W6ZVMOCTJ6UQIY7HV4VEF
+Content-Type: text/plain
+Content-Length: 16
+
+MiamiHerald.com
+
+

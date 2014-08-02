@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/business/2010/mar/14/shareholder-value-comment
+WARC-Date: 2014-03-07T06:49:08Z
+WARC-Record-ID: <urn:uuid:c5eae6f4-fe3c-40fb-b93b-8fd7e82260e7>
+WARC-Refers-To: <urn:uuid:ed30cb50-5a05-46fa-8075-2c32505bfa43>
+WARC-Block-Digest: sha1:FWWAVIYXKJL2BEECVM3VFMFHSRMLDZ7K
+Content-Type: text/plain
+Content-Length: 73
+
+Shareholders and targets won't do the business | Business | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/audio/2009/mar/06/media-talk-podcast-itv-arena-university-challenge
+WARC-Date: 2014-03-07T06:48:10Z
+WARC-Record-ID: <urn:uuid:9d3feba4-0f28-4d49-b1e2-2fb9e13362d4>
+WARC-Refers-To: <urn:uuid:b214b314-7839-4947-9278-bd0dd854ca66>
+WARC-Block-Digest: sha1:KATE6MB3XRVEZIFPSNJXP66I5EJUXTIH
+Content-Type: text/plain
+Content-Length: 115
+
+Media Talk podcast: ITV job cuts, the end for Arena, and scandal at University Challenge | Media | theguardian.com 
+

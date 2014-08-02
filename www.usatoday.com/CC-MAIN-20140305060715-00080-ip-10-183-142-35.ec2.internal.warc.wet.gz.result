@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2155259/is-new-orleans-still-safe-usa-now-video/
+WARC-Date: 2014-03-07T05:27:55Z
+WARC-Record-ID: <urn:uuid:1f884c9d-6956-4ce4-81e7-85bbb0d3459b>
+WARC-Refers-To: <urn:uuid:bf88503b-b111-42f5-bc3e-c5a935e49d92>
+WARC-Block-Digest: sha1:HDXI3NUVD2P2XQOUBB7E2MZ6DCDE52RB
+Content-Type: text/plain
+Content-Length: 42
+
+Is New Orleans still safe? | USA NOW video
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/salaries/1992/orioles/team/2b/
+WARC-Date: 2014-03-07T05:24:45Z
+WARC-Record-ID: <urn:uuid:c4951b87-aaf4-496f-badb-859ad02be9ab>
+WARC-Refers-To: <urn:uuid:596de577-bba3-4664-9a3c-ac9c6012e8e2>
+WARC-Block-Digest: sha1:JLSOPAEQLT2MF6ORUEAPLBCPTYJC2YPB
+Content-Type: text/plain
+Content-Length: 199
+
+USA Today | Sports | MLB | oriolesNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocks
+

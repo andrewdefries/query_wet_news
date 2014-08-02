@@ -1,0 +1,40 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/id/3032608/vp/53327915
+WARC-Date: 2014-03-07T05:26:09Z
+WARC-Record-ID: <urn:uuid:e15af1ae-afbb-49b4-92f3-582fa01d13d4>
+WARC-Refers-To: <urn:uuid:0844b0ab-a9c6-4e86-8efb-4fc6992b63da>
+WARC-Block-Digest: sha1:3TRDOERMGDSOZLATDTQRBKZ7IVPAMESA
+Content-Type: text/plain
+Content-Length: 72
+
+Meet the Press with David Gregory - Sundays on NBC News Skip navigation
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/id/33788380/ns/business?q=GlaxoSmithKline
+WARC-Date: 2014-03-07T05:36:12Z
+WARC-Record-ID: <urn:uuid:3f06f1fc-e205-4e7c-b8e1-99f1100eefc1>
+WARC-Refers-To: <urn:uuid:84d430d5-c2d4-4cba-8ce4-c483cfe2ffe0>
+WARC-Block-Digest: sha1:L67CA4IEKZPFS2K7Q3REE5QZ62ZTQK6L
+Content-Type: text/plain
+Content-Length: 84
+
+GlaxoSmithKline - Latest news, videos, and information- NBCNews.com
+Skip navigation
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/politics/first-read/gay-discrimination-vote-highlights-gops-ideological-struggle-v21307820
+WARC-Date: 2014-03-07T05:24:16Z
+WARC-Record-ID: <urn:uuid:2564a59f-05ca-4987-9b30-a76c3fa80c32>
+WARC-Refers-To: <urn:uuid:cfc77274-6872-4025-a311-6289af2287b5>
+WARC-Block-Digest: sha1:ZI2JP3ZCSBBGFIEFEEKT3RW3RAMYXB26
+Content-Type: text/plain
+Content-Length: 73
+
+Gay discrimination vote highlights GOP's ideological struggle - NBC News
+
+

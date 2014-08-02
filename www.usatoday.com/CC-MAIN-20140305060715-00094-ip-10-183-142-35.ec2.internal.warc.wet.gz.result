@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/mariners/statistics/2013/season-regular/team/batting/
+WARC-Date: 2014-03-07T05:29:37Z
+WARC-Record-ID: <urn:uuid:b0675a73-3e6d-46c5-8511-c8bc566fd144>
+WARC-Refers-To: <urn:uuid:654aa95f-3651-4290-981b-8a48619e06f7>
+WARC-Block-Digest: sha1:Z5B3NCKWOAASVCYORZ4JKKSQDNUXIUU4
+Content-Type: text/plain
+Content-Length: 188
+
+USA Today | Sports | MLB | marinersNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGames
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nba/nuggets/
+WARC-Date: 2014-03-07T05:31:17Z
+WARC-Record-ID: <urn:uuid:e41c9b42-8de9-4f56-a56d-b71be1d292fc>
+WARC-Refers-To: <urn:uuid:c305c655-f84a-402e-9b80-b791c7dcc00f>
+WARC-Block-Digest: sha1:DOE3WX4Y6GQMEI6FDBOWUZEKK5PKXBYT
+Content-Type: text/plain
+Content-Length: 300
+
+USA Today | Sports | NBA | nuggetsNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribeMorePhoto GalleriesYour TakeInteractivesNewsletters & AlertsBest-Selling BooksNewsstand
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/videos/sports/nba/2013/03/14/1989301/
+WARC-Date: 2014-03-07T05:26:40Z
+WARC-Record-ID: <urn:uuid:c8626155-300c-4adb-9700-7590e526fefb>
+WARC-Refers-To: <urn:uuid:84d5fcae-c857-4833-b962-6e7da46c9aa9>
+WARC-Block-Digest: sha1:UIJYWISCGKF2NZ4ZEPGYPOOQYUT46TZF
+Content-Type: text/plain
+Content-Length: 57
+
+Kobe Bryant out? Paul George hopes notNewsSportsLifeMoney
+

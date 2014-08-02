@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/gameon/2012/12/07/sean-payton-talking-to-saints/1753711/
+WARC-Date: 2014-03-07T06:50:25Z
+WARC-Record-ID: <urn:uuid:8a835d08-9f49-4458-9755-fe0df4846430>
+WARC-Refers-To: <urn:uuid:ff87a2c1-fca8-46c2-b11e-f69474315c27>
+WARC-Block-Digest: sha1:X3NKAJCQQKLA7M7HQOSNASKL2XRR6S2Z
+Content-Type: text/plain
+Content-Length: 91
+
+Has Sean Payton been talking to the New Orleans Saints?NewsSportsLifeMoneyTechTravelOpinion
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/topic/e323a2e6-9557-40f7-83fd-ee37c891db3b/talking-your-tech/
+WARC-Date: 2014-03-07T06:52:57Z
+WARC-Record-ID: <urn:uuid:7dd8b3ce-7190-4870-85e3-22d369da151b>
+WARC-Refers-To: <urn:uuid:0f55492a-71ce-4e53-baf1-2f6200dc195f>
+WARC-Block-Digest: sha1:6SP5QXEAXTCD77S5ODYGKTW3P6VF2DSP
+Content-Type: text/plain
+Content-Length: 97
+
+Talking Your TechNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settings
+

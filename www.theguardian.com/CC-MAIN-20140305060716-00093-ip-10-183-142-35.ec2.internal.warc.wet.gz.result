@@ -1,0 +1,72 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2000/jun/24/fiction.books
+WARC-Date: 2014-03-07T06:49:39Z
+WARC-Record-ID: <urn:uuid:6d240f0c-d6b4-4fe6-8b93-d074feb8e9a2>
+WARC-Refers-To: <urn:uuid:8bb39090-b1ec-493d-8bcf-45b407e7d5e5>
+WARC-Block-Digest: sha1:LSXXLKVWLYSGLWFIYS5FI7UAFA7NATBP
+Content-Type: text/plain
+Content-Length: 40
+
+Late night final | Books | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/politics/2007/feb/19/politicalnews.uk
+WARC-Date: 2014-03-07T06:44:50Z
+WARC-Record-ID: <urn:uuid:deb5b36e-b4ab-45a6-81c9-fbf86a491e13>
+WARC-Refers-To: <urn:uuid:083ca888-96dc-489c-ae08-14652fbd3bc7>
+WARC-Block-Digest: sha1:SKMDKLG6I6ZZWMAHLEVH5E6TSTGDH2UB
+Content-Type: text/plain
+Content-Length: 57
+
+The nominations at a glance | Politics | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/sport/2012/may/04/junior-seau-family-donating-brain
+WARC-Date: 2014-03-07T06:49:16Z
+WARC-Record-ID: <urn:uuid:4ace918f-ed6b-4d0e-81dc-1cb29da64e98>
+WARC-Refers-To: <urn:uuid:c79d8928-a291-4d42-a6ba-5e56e9630bd4>
+WARC-Block-Digest: sha1:FI4QIYY3BZ273VGP4JS6DD46CCP23ZQI
+Content-Type: text/plain
+Content-Length: 96
+
+Junior Seau's family to donate player's brain for NFL injury research | Sport | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/stage/2008/jul/30/theatre
+WARC-Date: 2014-03-07T06:44:14Z
+WARC-Record-ID: <urn:uuid:cc723b1b-64f7-4d4b-82c7-8382dc05be58>
+WARC-Refers-To: <urn:uuid:9fa6a78d-64c1-473a-a611-946d6583e2e7>
+WARC-Block-Digest: sha1:2V5D3URFVSIKJF6CMWXFN6DBUTJ2FDOL
+Content-Type: text/plain
+Content-Length: 56
+
+A Slight Ache: Lyttelton, London | Stage | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/tv-and-radio/2013/sep/28/strictly-come-dancing-2013-week-one-saturday-live-blog
+WARC-Date: 2014-03-07T06:43:51Z
+WARC-Record-ID: <urn:uuid:41410e36-1ed1-4f9f-a5df-52468069bf89>
+WARC-Refers-To: <urn:uuid:c3adfc85-86fc-4a07-928e-f297a9a672d1>
+WARC-Block-Digest: sha1:VXUOXSGULQ76LFM3OHO4TXEU5KDXQV43
+Content-Type: text/plain
+Content-Length: 99
+
+Strictly Come Dancing 2013: week one – Saturday live blog | Television & radio | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2011/oct/10/joanna-yeates-strangled-by-vincent-tabak
+WARC-Date: 2014-03-07T06:50:07Z
+WARC-Record-ID: <urn:uuid:3e2a6ffd-a57f-4e8a-bd73-16beeb69f22c>
+WARC-Refers-To: <urn:uuid:07914fcb-72f3-41fb-b7bb-7bdfdec82558>
+WARC-Block-Digest: sha1:EKQ6Q2KLNGUIMJXZDWVGCHHVYAEERDBE
+Content-Type: text/plain
+Content-Length: 103
+
+Joanna Yeates killer texted girlfriend while body was in car, prosecutor says | UK news | The Guardian 
+

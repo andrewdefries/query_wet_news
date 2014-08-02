@@ -1,0 +1,218 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/idealab/2009/09/mobile-projects-shouldnt-overlook-dumbphones254
+WARC-Date: 2014-03-07T06:50:54Z
+WARC-Record-ID: <urn:uuid:62d79441-c84b-4c48-a469-29382df51d2c>
+WARC-Refers-To: <urn:uuid:f1a1dd15-5bf7-4d5a-9904-65e1f0589574>
+WARC-Block-Digest: sha1:V7GLS32RH2NEH6Q4J5LODPSOXRYXLEET
+Content-Type: text/plain
+Content-Length: 5521
+
+Mobile Projects Shouldn’t Overlook ‘Dumbphones’ | Idea Lab | PBS
+Quick Links:
+Best Practices
+Knight's Eric Newton on How J-Schools Can Best Train the Next Generation of News Entrepreneurs
+Best Practices
+Ukrainian Protests & Surveillance: A Wake-Up Call for Western Governments
+Best Practices
+How to Rethink Open Data and Make It Relevant to the Public
+Idea Lab
+Community News for the Digital Age
+Home
+About
+About Idea Lab
+Authors
+Contact
+Business
+Financial
+Legal Issues
+Marketing
+Games & Virtual Worlds
+Best Practices
+Diversity
+Participation
+Philosophy
+Education
+Politics
+Mobile
+Technology
+Audio / Visual
+See Also: MediaShift
+Mobile Projects Shouldn’t Overlook ‘Dumbphones’
+Tweet
+By Adam Klawonn
+September 14, 2009
+This week, CityCircles (formerly Daily Phoenix) attended a lunch event at Arizona State University that allowed us to have one-on-one conversations with college seniors who were interested in our project. (The event is summarized here.)
+This was a crucial event. ASU has a huge footprint in the Phoenix area because it has 69,000 students. They buzz around the Valley in cars, on bikes, on foot and yes, on light rail. This makes them a huge group for us as potential users and collaborators. As we talked to them, we realized that an assumption we made early on — one that many other projects probably make as well — was not accurate. In the hype surrounding the race to 3G and 4G and touch-screen phones and do-it-all applications, only a fraction of the market uses these smartphones. The rest of us have, for lack of a better term, “dumphones.”
+This means that designing a platform for smartphone users could lead one astray. Every student we spoke with had different versions of phones that used a native web browser. We initially considered this reality and were encouraged by our advisors to do so, but we didn’t realize how dead-on the advice was until we interacted with some of our users.
+So there are two takeaways here: organize events that allow you to interact one-on-one with different groups of your core users; and gear your mobile development towards dumphones. You can always build that slick mobile app later.
+For more on our ASU experience, check out our video:
+CityCircles at ASU from Adam Klawonn on Vimeo.
+You might also be interested in:
+It’s a Mobile World: How Public Diplomacy at the State Department Is Adapting
+http://geoff.terrorware.com Geoffrey Hing
+I would add that making your application, whether it’s geared towards “smart” phones or more basic-featured devices, based on an open API on the backend is helpful because it allows others to extend your work to different platforms and interfaces. As an example, the Chicago Transit Authority’s bus tracker is designed to run in a mobile web browser. However, because someone was able to reverse engineer the backend API I was able to make a Twitter-based interface to the bus tracker system that would work on my SMS-only phone. http://contentious.com Amy Gahran
+I’ve been researching “dumb phones” as a news platform for a new community hub called Oakland Local (launching this week). A couple of things I’ve learned:
+1) The wireless industry term for anything that is not a smartphone is “feature phone.” Using this search term vastly enhances your research.
+2) For “feature phones” that offer web browsing, the browsers are vastly different. Drupal and wordpress both offer good bare-bones mobile themes that seem to work well as a lowest-common denominator.
+3) Feature phones make it difficult for community members to interact back with the news/info site. So curb your expectations on that front, and expect that it will mainly be a distribution channel.
+4) Many feature phones support e-mail, so consider e-mail alerts as a potential mobile channel.
+5) Text messaging can be a powerful distribution, promotion, and interaction tool. But for people on feature phones with low-cost or prepaid plans, texting is relatively costly. If your goal is to reach people with lower incomes, offer SMS channels but don’t send out too many messages. Also, allow people to customize which texts they receive, as much as possible.
+- Amy Gahran
+Tagged: asu, citycircles, light rail, mobile, phoenix, smartphones Check out Idea Lab Sponsorship opportunities!
+Newsletters
+MediaShift delivers the best news on media and technology directly to your in-box.
+Daily Must-Reads
+E-Books and Self-Publishing Roundup
+Journalism Education Roundup
+MediaShift Daily
+Idea Lab Daily
+Collaboration Central
+MediaShift Events
+Best of Idea Lab
+The Difference Between 'Invention' and 'Innovation'
+The Pros and Cons of Using Kickstarter to Fundraise
+Former Facebook ME Dan Fletcher: 'It's a Great Time to Launch a New Publication'
+4 Lessons for Journalism Students from the Digital Edge
+The Top 5 Ways to Help Survivors During a Disaster Lessons from the School of Data Journalism Can Citizen Journalism Move Beyond Crisis Reporting?
+Mona Lisa Stopped Smiling: A Conversation on the Phenomenology of News
+Stay Informed
+Get Idea Lab Daily via Email
+Follow us on Social
+Who we Are
+Idea Lab is a group blog by innovative thinkers and entrepreneurs who are reinventing media in the digital age.
+Find out more »
+Contact us »
+Sponsor Idea Lab »
+Home |
+About |
+Best Practices |
+Education |
+Politics |
+Mobile |
+Technology
+Privacy Policy |
+Terms of Use |
+Sponsor Idea Lab |
+Copyright 2013, Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution NC SA 3.0 License.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/newshour/bb/weather-jan-june11-japan4_03-15/
+WARC-Date: 2014-03-07T06:51:49Z
+WARC-Record-ID: <urn:uuid:6d5ad5f7-68c0-4174-b9f7-0004fb35c1c4>
+WARC-Refers-To: <urn:uuid:a37b6f20-0cf0-432a-a4fd-e6ea70f0a416>
+WARC-Block-Digest: sha1:3YMY7VQPMPEXN6TTP6HFAUWRKGYAZ5OG
+Content-Type: text/plain
+Content-Length: 13465
+
+Will Japan's Crises Disrupt Global Economic Recovery? | Video | PBS NewsHour | PBS PBS NEWSHOUR WATCHpoliticsShields and BrooksSupreme CourtartsArt BeatPoetrynationSupreme CourtworldSocial EntrepreneurshipeconomyMaking Sen$eSocial SecurityAsk the HeadhunterPaul SolmanscienceScience WednesdayMiles O’BrienhealtheducationTeachersteachersThe RundownTV SCHEDULEABOUT USFEEDBACKSUBSCRIPTIONSPRIVACYJOB OPENINGS RECENT PROGRAMSPOLITICSARTSNATIONWORLDECONOMYSCIENCEHEALTHEDUCATIONTEACHERSTHE RUNDOWN SUBSCRIBEFOLLOW USTOPICS > WorldWill Japan’s Crises Disrupt Global Economic Recovery?March 15, 2011 at 6:52 PM EST564792336123361Will Japan's Crises Disrupt Global Economic Recovery?As stock markets plunge around the world, Ray Suarez talks with The Economist's Greg Ip about the economic fallout from the ongoing disaster in Japan.2011-03-15 19:51:00disabled1843085632xazxJ8vPPqYtrue6496764994http://www.pbs.org/newshour/bb/samantha-power-ukraine/Power: Russia faces "political and economic isolation"UN ambassador Samantha Power points to the hope of greater economic ties as a critical leverage point for the United States in persuading Russia "pull back from the brink." She joins Gwen fill to discuss the new sanctions announced by President Obama against Russia and best routes to deescalate the conflict. 2014-03-06 18:00:00http://www.pbs.org/newshour/wp-content/uploads/2014/03/476527197-320x196.jpg2365195030nuPP7D_ssrE6496465001http://www.pbs.org/newshour/bb/crimean-call-vote-splitting-ukraine-prompts-international-opposition/Crimean lawmakers call for vote on splitting from UkraineThe Crimean Parliament announced a referendum on whether the region should join Russia or remain part of Ukraine, but the newly formed government in Kiev pushed back, calling it illegal. President Obama criticized the upcoming vote and took action to restrict visas and place financial sanctions on Russians behind the Ukraine invasion. Hari Sreenivasan reports.2014-03-06 18:00:00http://www.pbs.org/newshour/wp-content/uploads/2014/03/476953879-320x196.jpg2365195102ACAVOCSS3QY6493264906http://www.pbs.org/newshour/episode/wednesday-march-5-2014/Wednesday, March 5, 2014Tonight on the program, we examine the diplomatic situation concerning Ukraine as talks made little headway Wednesday. Also: College Board changes the SATs, fishing for data in the radioactive waters off Fukushima, protesters demand the release of Al-Jazeera journalists in Egypt, a second look at aging in New York and a leading coal producer to pay hundreds of millions for water pollution.2014-03-05 06:00 pmhttp://www.pbs.org/newshour/wp-content/uploads/2014/03/kerry_ukraine-320x196.jpgu6Ef9v6AkAkMany of Japan's factories, a key component of the global supply line, have been crippled the earthquake or tsunami, or have ceased production due to rolling blackouts. Ray Suarez talks with The Economist's Greg Ip about the global economic impact of Japan's earthquake, tsunami and nuclear disasters. COMMENTS +1 EMAILSUPPORT FOR PBS NEWSHOUR PROVIDED BYMORE VIDEOPower: Russia faces "political and economic isolation"Crimean lawmakers call for vote on splitting from UkraineWednesday, March 5, 2014 +1 EMAILLISTEN http://newshour-tc.pbs.org/newshour/rss/media/2011/03/15/20110315_economy.mp3SEE PODCASTSTRANSCRIPTRELATED LINKSJapan, International Community Race to Aid Earthquake, Tsunami Victims Japan's Earthquake, Tsunami Survivors Begin Digging Out as Death Toll Climbs JEFFREY BROWN: And we turn to another impact of the disaster in Japan: the economic consequences there and around the world.Ray Suarez has that story.RAY SUAREZ: Global markets plunged today following reports of new explosions and a larger radiation release.The shutdown of power plants has led to rolling blackouts throughout Japan. And that, in turn, has caused auto manufacturers and electronics factories to shutter nationwide. Some of those factories affect the supply pipeline for key goods around the world.Greg Ip of “The Economist” magazine joins us to discuss what’s behind some of the fear and the reactions.And, Greg, the Nikkei has had the largest two-day sell-off in more than 20 years, the major Japanese stock index. And then other markets, as the sun came up, started to follow suit. Why?GREG IP, “The Economist”: In the last few days, initially, the reaction of foreign markets to the disaster in Japan was, this would be containable; the negative effects would mostly be in Japan; and, perhaps, as we saw with the Kobe earthquake in the mid-1990s, they would be transitory.This morning, they woke up to the news that maybe this is actually magnitudes worse than anything they have seen before, not just an earthquake, but a nuclear disaster. And if you think about it, the damage to the economy, not just in Japan, but the world, is proportionate to how bad the disaster is.The further the radiation spreads, the longer the disruption lasts, the more damage to the infrastructure, the more damage to supply chains. And so, naturally, investors are trying to sort of struggle with pricing that into the future for the economy.Now, as the day wore on, they got news that maybe the disaster was going to be contained after all, and so markets rallied somewhat.RAY SUAREZ: In fact, around midday, the American stock indexes began to claw back most of their opening losses. So, can we look at this as a transitional thing, just until markets figure out just how bad off Japan is?GREG IP: Not yet, I don’t think.I mean, remember, the disaster has already turned out to be worse than we thought just on Friday morning, when the first news came out. The reason investors are taking it so hard is because they just don’t know how to quantify their risk.I mean, how many people will ultimately have to be evacuated? How far will the radiation spread? How long will the disruptions last? And the natural reaction, faced with that kind of uncertainty, not just for investors, but for businessmen and even households is I’m going to stay close to home. I’m not going to take risks. I’m not going to make big investments now.RAY SUAREZ: Apart from risk and speculation and pricing future events, there’s real practical nuts-and-bolts effects in Japan. It’s one of the world’s largest suppliers of flash memory, of semiconductors.How does this affect far-flung factories, far, far away from Japan and its problems?GREG IP: Well, you know, even though it was a big news event when China surpassed Japan as the world’s second largest economy, Japan is still the third largest economy in the world and the key supplier for a lot of key technologies, as you mentioned, like flash memory, which goes into like cell phones and smartphones, silicon wafers that are used to make chips and so forth.And, in many cases, these — Japan is the key supplier for a lot of manufacturers, including here in North America. You have already seen companies announce shutdowns, albeit temporary, of automotive assembly lines because they’re unsure of the supply of parts from Japan.Now, they have inventories of these parts. And it may be that if this disruption only lasts a few weeks, we won’t see anything serious. But, again, we really don’t know how long this disruption will last. What we have been reminded of is that, notwithstanding the difficulties Japan has gone through in the last two decades, they’re still a vital supplier in many key industries.RAY SUAREZ: And one thing that makes them unique among the world’s industrial powers is that they have almost no natural resources of their own. Are they peculiarly exposed, uniquely exposed in the energy sector, let’s say, for oil?GREG IP: Well, in fact, one of the reasons Japan depends on heavily on nuclear power is precisely because of the national policy of trying to resist getting too dependent on fossil fuels.One of the big question marks over not just the Japanese, but the world economy, now is does this disaster seriously impair the deployment of nuclear power, which many people had hoped would take up the slack from fossil fuels, as we tried to curb carbon emissions?The possible result of this is that if Japan has to go without as much nuclear power as it has had in the past, it will need more fossil fuels. That could add to the upward pressure on the price of oil, which has already been a problem that the American economy has been struggling with.RAY SUAREZ: Well, when the ground started to shake, we were already seeing oil north of $100 a barrel. Could Japan’s problems end up slowing down the recovery for the entire world economy?GREG IP: It certainly could, certainly through this impact of creating more uncertainty.I mean, if you think about it, if it’s — it’s one things to have these problems in Japan. But we’re also having all the unrest in the Middle East, which has put upward pressure on the price of oil. And we have still got problems in Europe, where they have not solved the debt problems of countries like Greece and Portugal.A year ago, when the European debt crisis first erupted, it ricocheted into our markets, as investors and businessmen here tried to sort of comprehend, what does it mean for the American economy?And you saw a big slowdown in economic growth right around that time because of this uncertainty effect. We’re now dealing with kind of a triple whammy of all those things. At this point, it probably does not stop the considerable momentum the recovery has. But if it lasts for some more weeks, all bets are off.RAY SUAREZ: What about Japan itself? After the Kobe earthquake in 1995, even in the midst of its own economic problems, sluggish growth, really difficult indebtedness problems, they managed to rebuild a major Japanese city quickly, beautifully. And — and now we’re looking at something much larger perhaps, but can they afford it?GREG IP: Well, one of the remarkable things is how humanity does recover from these disasters, and often with more resilience and speed than you think. That earthquake is one example; 9/11 in our case is another example — partly because of the application of enormous, you know, effort by policy-makers, such as central banks and governments, who pour money into reconstruction.I mean, rebuilding from World War II was a much bigger task for Japan, and they accomplished it. Now, as you say, Japan does have this problem. They’re heavily indebted. Their debt is something like two-and-a-half times national GDP, one of the most indebted countries in the rich world.And there are concerns that if they have to borrow even more to finance this reconstruction, that will really strain the country’s ability to stay solvent. Personally, I’m not too worried about that at the moment. The Bank of Japan has the means to finance plenty of borrowing. The Japanese are very, very high savers. They have bought all their government’s debt to date, and I don’t see why they wouldn’t buy more.And it’s conceivable that, if done right, a really vigorously financed, executed reconstruction scheme could actually in the end prove to be a big boost to Japanese economic growth.RAY SUAREZ: Greg Ip of “The Economist,” thanks a lot.GREG IP: Thank you. SHARE ON FACEBOOK SHARE ON TWITTERBusiness dow earthquake economy HealthBeat japan Japan's Quake and Tsunami nikkei Photo Galleries stock market trading tsunami Weather Are you aware of our comment policy?Beginning October 24, 2012, PBS NewsHour will allow open commenting for all registered users. We hope that the elimination of our moderation process will enable a more organic discussion amongst you, our audience. However, if a commenter violates our terms of use or abuses the commenting forum, their comment will be removed. We reserve the right to remove posts that do not follow these basic guidelines: comments must be relevant to the topic of the post; may not include profanity, personal attacks or hate speech; may not promote a business or raise money; may not be spam. Anything you post should be your own work. The PBS NewsHour reserves the right to read on the air and/or publish on its website or in any medium now known or unknown the comments or emails that we receive. By submitting comments, you agree to the PBS Terms of Use and Privacy Policy, which include more details.Please enable JavaScript to view the comments powered by Disqus.READ THIS NEXT Teaching students how to combat traumas of poverty on the yoga matSUBSCRIBEFOLLOW US Loading...READ MORE Loading... WATCHFULL BROADCASTS LISTENFULL AUDIO PODCASTSSUPPORT FOR PBS NEWSHOUR PROVIDED BYMOST READMOST DISCUSSED1UN Ambassador Power: Russia is looking at the path of isolation2Is Alzheimer’s even more deadly than we thought?3What's the big deal about official economic data?4How enrolling in a MOOC could help you save your grandmother5Without these ancient cells, you wouldn't be here 1Obama budget gets cool reception from GOP lawmakers2As tensions build, U.S. has ‘zero options’ in Ukraine3Reviewing U.S. options for responding to Russia’s intervention in Ukraine4Economic gap takes priority in Obama’s 2015 budget5Seeking tech genius among disadvantaged teens TOPICSRECENT PROGRAMSPOLITICSARTSNATIONWORLDECONOMYSCIENCEHEALTHEDUCATIONTEACHERSTV LISTINGSABOUT USFEEDBACKSUBSCRIPTIONSPRIVACYJOB OPENINGS© 1996 - 2014 MacNeil / Lehrer Productions.All Rights Reserved.Support the kind of journalism done by the NewsHour... Become a member of your local PBS station. 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/newshour/interactive/patchworknation/id/fremont-county/
+WARC-Date: 2014-03-07T06:55:06Z
+WARC-Record-ID: <urn:uuid:59ded5f5-7001-4c6a-b7a4-c12ff039b2cc>
+WARC-Refers-To: <urn:uuid:485bcadb-7f50-4dbd-9e11-e35347d095c8>
+WARC-Block-Digest: sha1:3Y4K5CLL2PTQDUMS4WG7KBQSG6NLOB5M
+Content-Type: text/plain
+Content-Length: 2927
+
+Fremont County | Patchwork Nation | Online NewsHour | PBS
+301 Moved Permanently
+Moved Permanently
+The document has moved here.
+301 Moved Permanently
+Moved Permanently
+The document has moved here.
+Fremont County, ID
+More Idaho Counties | Mormon Outposts
+Basic Demographics
+Population: 12,551
+Median Household Income: $34,046
+Hardship Index
+The hardest county to live in is set at 100 and the easiest at 0.
+This is meant as a comparative snapshot of how difficult life is for the average resident of a given county. » How Do You Calculate Patchwork Nation's Hardship Index?
+Population
+Religion
+Number of residents per 1,000 who identify with each religion
+110
+Catholic 40
+Evangelical 0
+Jewish 29
+Lutherans 20
+Mainline Protestants 684
+Mormons or LDS 0
+Muslims 0
+Reformed Protestant Denominations Education
+2000
+15%
+Adult Illiteracy
+Sources
+US Census Bureau; Bureau of Labor Statistics; Economic Research Service; Realtytrac; GasBuddy; Glenmary Research Center: Religious Congregations and Membership, 2000; Geolytics, Inc.; David Leip's Atlas of Presidential Elections Mormon Outposts: Recent News
+April 5 2010
+Unemployment Rate Stories From Very Different Places
+February 1 2010
+In Utah, Jobs are Scarce and Patience is Thin
+January 22 2010
+Economic hardship grows again, showing rough road ahead
+November 30 2009
+Where the biggest jumps in food stamps have been
+November 18 2009
+Tourism in Utah still suffers from economic downturn
+Fremont County: Recent News
+Canon City Daily Record: March 4 2014
+Fremont County Bulletin Board
+Greenfield Daily Reporter: March 6 2014
+Fremont coroner trying to confirm ID of found body
+Imperial Republican: March 5 2014
+Candidates file in final days for council, school board
+The Ranger: March 5 2014
+Coroner waiting to confirm ID of found body
+Milpitas Post: March 4 2014
+Fremont woman ID'd as person killed in Cameron Hills area crash
+Page Not Found » PBS NewsHour PBS NEWSHOUR WATCHpoliticsShields and BrooksSupreme CourtartsArt BeatPoetrynationSupreme CourtworldSocial EntrepreneurshipeconomyMaking Sen$eSocial SecurityAsk the HeadhunterPaul SolmanscienceScience WednesdayMiles O’BrienhealtheducationTeachersteachersThe RundownTV SCHEDULEABOUT USFEEDBACKSUBSCRIPTIONSPRIVACYJOB OPENINGS RECENT PROGRAMSPOLITICSARTSNATIONWORLDECONOMYSCIENCEHEALTHEDUCATIONTEACHERSTHE RUNDOWN SUBSCRIBEFOLLOW USPage not found We're sorry, the URL you are looking for cannot be found.Please try our search to find what you are looking for. You may also visit our Home page.If you believe that there has been an error, please contact us.TOPICSRECENT PROGRAMSPOLITICSARTSNATIONWORLDECONOMYSCIENCEHEALTHEDUCATIONTEACHERSTV LISTINGSABOUT USFEEDBACKSUBSCRIPTIONSPRIVACYJOB OPENINGS© 1996 - 2014 MacNeil / Lehrer Productions.All Rights Reserved.Support the kind of journalism done by the NewsHour... Become a member of your local PBS station. 301 Moved Permanently
+Moved Permanently
+The document has moved here.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/newshour/tag/stanley-mcchrystal/
+WARC-Date: 2014-03-07T06:44:41Z
+WARC-Record-ID: <urn:uuid:ca7529d9-9527-4aa1-97c0-3c4733585e57>
+WARC-Refers-To: <urn:uuid:2a3d46d1-700b-48a1-a8a0-fb4bed4ca250>
+WARC-Block-Digest: sha1:WHLRDNOWZQEPOOS5MSAWASFYICMLODXM
+Content-Type: text/plain
+Content-Length: 5209
+
+stanley mcchrystal | Tag | PBS NewsHour | PBS PBS NEWSHOUR WATCHpoliticsShields and BrooksSupreme CourtartsArt BeatPoetrynationSupreme CourtworldSocial EntrepreneurshipeconomyMaking Sen$eSocial SecurityAsk the HeadhunterPaul SolmanscienceScience WednesdayMiles O’BrienhealtheducationTeachersteachersThe RundownTV SCHEDULEABOUT USFEEDBACKSUBSCRIPTIONSPRIVACYJOB OPENINGS RECENT PROGRAMSPOLITICSARTSNATIONWORLDECONOMYSCIENCEHEALTHEDUCATIONTEACHERSTHE RUNDOWN SUBSCRIBEFOLLOW USstanley mcchrystal Petraeus: Afghan Forces Not Ready to Take the Lead on SecurityJune 29, 2010 Gen. David Petraeus, the newly appointed U.S. commander in Afghanistan, testified that the U.S. faces a long-term commitment to the war in Afghanistan. Gwen Ifill reports on the general’s endorsement by the Senate Armed Services Committee. Continue reading →Shields and Brooks on Obama’s Response to McChrystal, Wall Street OverhaulJune 25, 2010 Columnists Mark Shields and David Brooks sort through the top political stories of the week, including Gen. Stanley McChrystal’s ouster, financial reform clearing a major hurdle in Congress and the rejected extension of unemployment benefits for many Americans. Continue reading →U.S., Afghan Officials Say War Strategy on Track After Leadership ShakeupJune 24, 2010 Defense Secretary Robert Gates said the U.S. mission and strategy in Afghanistan will not change, following the ouster of Gen. Stanley McChrystal. Judy Woodruff reports on the reactions to the appointment of Gen. David Petraeus to command NATO forces in Afghanistan. Continue reading →After Iraq Tenure, Examining What Petraeus Brings to Afghan EffortJune 24, 2010 Pending confirmation by the Senate, Gen. David Petraeus will take the helm of U.S. forces and counterinsurgency strategy in Afghanistan. Judy Woodruff gets three views on how Petraeus will lead the war effort. Continue reading →Political Fallout of McChrystal Ouster ExaminedJune 23, 2010 President Barack Obama announced Wednesday that the top U.S. commander in the Afghan war, Gen. Stanley McChrystal, will be replaced by Gen. David Petraeus, the head of U.S. Central Command. Ray Suarez speaks with analysts about what the decision could mean politically for the president. Continue reading →Obama: McChrystal Departure is ‘Right Thing’ for Afghanistan MissionJune 23, 2010 The U.S. mission in Afghanistan will be in new hands following the resignation of Gen. Stanley McChrystal over disparaging remarks about the Obama administration. Gwen Ifill recaps the day’s developments, including the president’s remarks about accepting the resignation. Continue reading →Afghanistan Policy, Goals Reexamined Upon McChrystal DepartureJune 23, 2010 President Barack Obama is replacing the top U.S. commander in Afghanistan, following his disparaging remarks about administration officials. Gwen Ifill gets three points of view about the decision and its consequences for the U.S. strategy in Afghanistan. Continue reading →McChrystal’s Future in Limbo Over CriticismJune 22, 2010 Gen. Stanley McChrystal, the top U.S. commander in Afghanistan, made a swift apology to Obama administration officials for critical remarks that were published in a Rolling Stone article. Jim Lehrer gets three points of view on the fallout from the general’s quotes. Continue reading →News Wrap: U.S. Troops Ready to Take Kandahar From TalibanMarch 8, 2010 In other news Monday, U.S. troops are preparing to wrest control of Kandahar, Afghanistan’s second-largest city, from Taliban control with a gradual buildup. Meanwhile, Defense Secretary Robert Gates met with Afghan President Hamid Karzai in an unannounced visit to the country. Continue reading →McChrystal: Afghan Corruption Must be ‘Wiped Away’December 10, 2009 In an excerpt from a conversation with Charlie Rose, the top U.S. commander in Afghanistan, Gen. Stanley McChrystal, says ultimate success in the war will depend on the confidence of the Afghan people in their own government. Continue reading → Page 1 of 51235»Last »SUBSCRIBEFOLLOW USSUPPORT FOR PBS NEWSHOUR PROVIDED BYSUPPORT FOR PBS NEWSHOUR PROVIDED BYLATEST NEWS BLOG Loading...READ MORESUBSCRIBE Receive The Daily Dispatch From the NewsHour Politics Team SUBSCRIBE Receive audio podcasts directly to your device MORE MOST READMOST DISCUSSED1Is Alzheimer’s even more deadly than we thought?2UN Ambassador Power: Russia is looking at the path of isolation3What's the big deal about official economic data?4Fishing for data in the radioactive waters off Fukushima5How enrolling in a MOOC could help you save your grandmother1Obama budget gets cool reception from GOP lawmakers2As tensions build, U.S. has ‘zero options’ in Ukraine3Reviewing U.S. options for responding to Russia’s intervention in Ukraine4Economic gap takes priority in Obama’s 2015 budget5Seeking tech genius among disadvantaged teensTOPICSRECENT PROGRAMSPOLITICSARTSNATIONWORLDECONOMYSCIENCEHEALTHEDUCATIONTEACHERSTV LISTINGSABOUT USFEEDBACKSUBSCRIPTIONSPRIVACYJOB OPENINGS© 1996 - 2014 MacNeil / Lehrer Productions.All Rights Reserved.Support the kind of journalism done by the NewsHour... Become a member of your local PBS station. 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/wgbh/aia/part2/2i1601.html
+WARC-Date: 2014-03-07T06:53:33Z
+WARC-Record-ID: <urn:uuid:e3481598-df8c-42c1-ace9-61e7c403e047>
+WARC-Refers-To: <urn:uuid:ad249a96-9885-448e-972f-c9d2710ff35a>
+WARC-Block-Digest: sha1:6VTCNJ63L2PLBFN7VS4ZXPPQJUVTVGCB
+Content-Type: text/plain
+Content-Length: 1498
+
+Africans in America/Part 2/Colin Powell on the Declaration of Independence and how it applied to black people
+Part 1: 1450-1750
+<---Part 2: 1750-1805
+Part 3: 1791-1831
+Part 4: 1831-1865
+Narrative | Resource Bank | Teacher's Guide
+Modern Voices
+Colin Powell on the Declaration of Independence and how it applied to black people
+Resource Bank Contents
+Q: The Declaration of Independence is unprecedented, a watershed moment in the nation. How did it apply to black people?
+A: The Declaration of Independence is one of the most remarkable documents in the world, and certainly in the English language or in Christendom. And in just a few words, it captures the essence. You know, "inalienable rights", rights not given to you by the state but given to you by God, so they can't be taken away. And the purpose of the state is to secure these rights, not to give them to you or to tell you what you're supposed to do with them, but to secure those rights for you. What are those rights? Life, liberty, and the pursuit of happiness. "We hold these truths to be self-evident." In other words, you don't have to prove them. It's self-evident. Why is it self-evident? Came from God. They're inalienable. Government secures them. Remarkable document. It didn't apply to black folks. General Colin PowellFormer Head of The Joint Chiefs of Staff
+previous | next
+Part 2: Narrative | Resource Bank Contents | Teacher's Guide
+Africans in America: Home | Resource Bank Index | Search | Shop
+WGBH | PBS Online | ©
+
+

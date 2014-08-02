@@ -1,0 +1,96 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/booksblog/2011/jul/18/first-book-award-missing-list?INTCMP=ILCNETTXT3487
+WARC-Date: 2014-03-07T06:44:57Z
+WARC-Record-ID: <urn:uuid:b68c7ec7-8b83-4345-be80-89459174ae5c>
+WARC-Refers-To: <urn:uuid:bb0eeb14-fe5b-4780-b4aa-f0d3ba09d20b>
+WARC-Block-Digest: sha1:VNJHI5LG52WYKADDCLL6NXAE4ZNOQHCI
+Content-Type: text/plain
+Content-Length: 88
+
+What's still missing from the Guardian first book award list? | Books | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/culture/whoopi-goldberg?page=2
+WARC-Date: 2014-03-07T06:48:02Z
+WARC-Record-ID: <urn:uuid:0585f3aa-13ee-4d63-84a1-a466526e9607>
+WARC-Refers-To: <urn:uuid:b626b04f-9b8f-4e0b-b67e-aed117c1ad6b>
+WARC-Block-Digest: sha1:KS4OXFNBPJILSPDPPMZOV7RZF75YBXVE
+Content-Type: text/plain
+Content-Length: 41
+
+Whoopi Goldberg | Culture | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/education/2003/sep/10/schools.uk
+WARC-Date: 2014-03-07T06:48:42Z
+WARC-Record-ID: <urn:uuid:92ce2003-fe5f-404b-896d-7b11bd146fa0>
+WARC-Refers-To: <urn:uuid:5504832f-c59b-4a64-98d3-1a7862899282>
+WARC-Block-Digest: sha1:6BLEQZZ2MBUWZPPONWPBIXYKKPQIDPKB
+Content-Type: text/plain
+Content-Length: 48
+
+When the bullies won | Education | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/environment/2009/jun/30/network-climate-change
+WARC-Date: 2014-03-07T06:47:29Z
+WARC-Record-ID: <urn:uuid:e6ef0178-709e-4897-a7e0-daa71d184aa7>
+WARC-Refers-To: <urn:uuid:e4bc87e9-c672-4fa0-b897-6952095a8298>
+WARC-Block-Digest: sha1:XP4JHHJ5THJDLEEWHBZCNPL2ZRIMVKM6
+Content-Type: text/plain
+Content-Length: 101
+
+Guardian Environment Network: A devastating critique of EPA science? | Environment | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/environment/winter?page=5
+WARC-Date: 2014-03-07T06:46:49Z
+WARC-Record-ID: <urn:uuid:9dd549af-a2a7-474a-ad5b-428bf1a0ba0a>
+WARC-Refers-To: <urn:uuid:e2cfe698-5836-489c-9ac9-eb2f360fa309>
+WARC-Block-Digest: sha1:Z6W5ZAW7GQLQN77ST5WWESSU66J4KVNJ
+Content-Type: text/plain
+Content-Length: 36
+
+Winter | Environment | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/film/filmblog+world/middleeast
+WARC-Date: 2014-03-07T06:46:35Z
+WARC-Record-ID: <urn:uuid:775b8aa7-0ee9-41b5-b546-918611a71c8e>
+WARC-Refers-To: <urn:uuid:67108afd-09c2-4210-97e1-29ee5fac8149>
+WARC-Block-Digest: sha1:CBRFKPLPF6TSRG2TSFS4DLEJB4SCEUBT
+Content-Type: text/plain
+Content-Length: 63
+
+Film blog + Middle East and North Africa | Film | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/football/2010/feb/07/premierleague/print
+WARC-Date: 2014-03-07T06:46:11Z
+WARC-Record-ID: <urn:uuid:368440b2-677d-4509-9fd9-3dbc1de759d8>
+WARC-Refers-To: <urn:uuid:66417d0d-e3f0-4bbf-9f2d-56f32b2920a0>
+WARC-Block-Digest: sha1:2T6R4WS7HZLI6RSY3DDHOSAAKKFYATFF
+Content-Type: text/plain
+Content-Length: 52
+
+Said & Done | David Hills | Football | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/travel/2013/aug/22/been-there-readers-competition
+WARC-Date: 2014-03-07T06:44:54Z
+WARC-Record-ID: <urn:uuid:e99569cb-a161-4a6b-acca-914c86db6b4a>
+WARC-Refers-To: <urn:uuid:dff0125f-2acd-4026-a867-8203ebacd8e6>
+WARC-Block-Digest: sha1:XOFQEQSUHVSLNDTNVQAJODDJHFJXC6CA
+Content-Type: text/plain
+Content-Length: 86
+
+Changes to Been there readers' tips and photo competitions | Travel | theguardian.com 
+

@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2625051/robert-olen-butler-talks-about-his-books/
+WARC-Date: 2014-03-07T05:25:49Z
+WARC-Record-ID: <urn:uuid:d45c5989-67b0-4e9e-a6a4-73e8991dd376>
+WARC-Refers-To: <urn:uuid:3a5c7e25-06b1-4d00-9d2d-244a0b26f4c5>
+WARC-Block-Digest: sha1:RWJ2GM7Z3PMYTRTIYAMM7L2FT2DUAQKQ
+Content-Type: text/plain
+Content-Length: 40
+
+Robert Olen Butler talks about his books
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/olympics/2013/10/01/simon-dumont-freeskier-olympic-games/2905649/
+WARC-Date: 2014-03-07T05:28:23Z
+WARC-Record-ID: <urn:uuid:7963abb2-ed40-45be-bfb0-e0bacdeb84d9>
+WARC-Refers-To: <urn:uuid:c95f685c-fe3d-48b1-939c-2fbc0d2455da>
+WARC-Block-Digest: sha1:J2257EZWV7YHDFMR5P4QMSK4YMXZYTSU
+Content-Type: text/plain
+Content-Length: 84
+
+Freeskier Dumont shoots for first, likely last OlympicsNewsSportsLifeMoneyTechTravel
+

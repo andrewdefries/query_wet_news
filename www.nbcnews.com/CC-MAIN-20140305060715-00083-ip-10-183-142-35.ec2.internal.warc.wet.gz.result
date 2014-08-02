@@ -1,0 +1,216 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/id/31260763/ns/business-markets?q=SPX.X
+WARC-Date: 2014-03-07T05:26:47Z
+WARC-Record-ID: <urn:uuid:e0dd9768-ac5a-4553-b76a-bc0510110e37>
+WARC-Refers-To: <urn:uuid:4dfaf71c-3a8d-4341-b198-ddefc55ecdfd>
+WARC-Block-Digest: sha1:NFOZJVOGV34HSWE53UZUK77WXROQMV34
+Content-Type: text/plain
+Content-Length: 13309
+
+Markets| msnbc.com
+/g, ">");
+safe.replace(/"/g, """);
+safe.replace(/'/g, "'");
+return safe;
+},
+createIframes: function (query) {
+var self = this;
+/*when doc is ready, find tabs and insert ajax/iframe call*/
+$(document).ready(function () { /*collect tabbox tabs and links*/
+var $tabs = $('.tbx-content', $('#tbx-' + tbx_id));
+var $links = $('.box-hdr .tabs a', $('#tbx-' + tbx_id));
+/*if there's a readable tabbox, assemble iframe experience*/
+if ($tabs.length > 0) {
+/*for each tab, figure out 'name', iframe and optional ajax loading*/
+jQuery.each($tabs, function (i) {
+/*fetch name from omniture-related markup -- hold in case it is useful?*/
+var attrib = $($(this).parent()).attr('cn');
+attrib = attrib.replace('Company data/', '').toLowerCase();
+/*write in correct iframe per tab*/
+var iframe_src = ((($tabs.length) - 1) != i) ? IDC_ROOT + '?SEARCH_VALUE=' + query + '&TAB=' + IDCpgs[i] : PREDICT + query;
+var iframe = ''; /*load iframe for the pinned tab (based on its class); onclick for subsequent tabs*/
+if (location.hash.indexOf(IDCpgs[i]) != -1 && IDCrend[i] == false) {
+$('#tbx-' + tbx_id + ' .box-hdr .tabs .current').removeClass("current");
+$('#tbx-' + tbx_id + ' .tbx-body').addClass("hide");
+$($links[i]).parent().addClass('current')
+$(this).parent().removeClass('hide')
+}
+if ($($links[i]).parent().hasClass('current') && IDCrend[i] == false) {
+$(this).html(iframe);
+IDCrend[i] = true;
+if (IDCnames[i] == "IDCsentiment") {
+$("#IDCsentiment").css("height", "1130px"); /*1130 w/ads*/
+$("#ad-front-sponsoredlinks").show();
+} else if (IDCnames[i] == "IDCquote") {
+$("#IDCquote").css("height", "371px");
+}
+} else {
+$($links[i]).bind("click", function (e) { /*check if not rendered*/
+if (IDCrend[i] == false) {
+$($tabs[i]).html(iframe);
+IDCrend[i] = true;
+}
+});
+}
+});
+/*on tabbox tab click, rotate ads*/
+$links.bind("click", function (e) {
+if (e.target.innerHTML == "Quote") {
+$("#ad-front-sponsoredlinks").hide();
+$("#IDCquote").show();
+} else if (e.target.innerHTML == "Sentiment") {
+$("#IDCsentiment").css("height", "1130px"); /*1130 w/ads*/
+} else {
+$("#ad-front-sponsoredlinks").show();
+}
+refreshAds();
+location.hash = IDCpgs[$links.index(this)];
+});
+}
+});
+},
+createHeadlines: function (data, query) {
+if (data.headlines.length > 0) {
+//console.log("createHeadlines"); /*start column grid markup*/
+var co_name = (data.headlines[0] && data.headlines[0].name.length < 50) ? co_name = data.headlines[0].name : co_name = query;
+var $col1 = ['Recent headlines for ', co_name, ''];
+var $col2 = [''];
+var size = "minmedmax";
+/*for each headline, work out grid markup*/
+jQuery.each(data.headlines, function (i) {
+if (i == 1) {
+$col1.push('', this.headline, '', this.deck, '');
+} else {
+if (i == 2) {
+$col1.push('', this.headline, '');
+$col2.push('', this.headline, '');
+} else if (i > 0 && i < 15) {
+if (i > 6 && i <= 11) {
+size = "medmax";
+} else if (i > 11) {
+size = "max";
+}
+$col2.push('', this.headline, '');
+}
+}
+});
+if (data.headlines.length < 5) {
+$col2.push('Search for more company news');
+}
+/*when document is ready, find cells and inject new headlines*/
+$(document).ready(function () {
+/*if there's data, inject pre-built grid markup over initial headlines*/
+if (data.headlines) {
+$($('.ssBody #cell1')).html($col1.join(''));
+$($('.ssBody #cell2')).html($col2.join(''));
+} /*onclick ad refresh*/
+var $sizes = $(".opt-size a");
+$sizes.bind("click", function (e) {
+refreshAds();
+});
+/*update breadcrumb with company name*/
+if (co_name != query) {
+var breadcrumb = $("#mktbread");
+breadcrumb.html('' + co_name + '');
+}
+});
+}
+}
+};
+})();
+$.stockQuery.render();
+Skip navigation
+Jump to story headline
+MSN
+Outlook.com
+More
+Autos
+My MSN Video
+Careers & Jobs msnNOW
+Weather
+Delish
+Quotes
+White Pages
+Games
+Real Estate
+Wonderwall
+Horoscopes
+Shopping
+Yellow Pages
+Local Edition
+Traffic
+Feedback
+Maps & Directions
+Travel
+Full MSN Index
+Bing
+NBCNews.comsites & shows:
+TODAY
+Nightly News
+Meet the Press
+Dateline
+Morning Joe
+Hardball
+All In
+Maddow
+Last Word
+msnbc
+Home
+US
+World
+Politics
+Business
+Sports
+Entertainment
+Health
+Tech
+Science
+Travel
+Local
+Weather
+BusinessStocks & economyon
+NBCNews.com Company dataPinned QuoteChartProfileFinancialsAnalyst ratingsSentiment
+Sponsored linksQuotes displayed with 15 minute delay. Market data provided by Interactive Data. Company fundamental data powered by Morningstar. Ratings provided by Zacks. Powered and implemented by Interactive Data Managed Solutions. Terms & Conditions.Market headlinesMove box ShowfewermorestoriesStocks & economyPeter Morrison / APG8 will produce lots of chatter, but not much elseAny time eight of the world's most powerful heads of state gather in one room, there will be plenty to talk about. But much of the most important jawboning and arm-twisting happens behind the scenes. Full storyStocks close in the red on concerns Fed will pare back stimulus Stocks close in the red on concerns Fed will pare back stimulusFinancial markets suffering a crisis of confidenceJobless claims drop, showing labor market still healingWhat's behind the spike in pump prices where you are?S&P gives US credit outlook a better gradeJob growth shows economy expanding at leisurely paceProgress on the jobs front will be slow, but steadyJobless claims drop, labor market improves slowlyBusinesses slow job creation, raising summer slowdown fearsGood jobs news may be bad for stocksAusterity backlash forces Europe to soften cutsRichest 1% control 39% of world's wealth and growingConsumer spending slips in sign US economy slowedEconomy looks stronger, but DC's an obstacle BusinessMicrosoft names Satya Nadella CEOThese Olympians compete for love, not moneyStocks rebound from brutal plunge; Dow closes 72 points higherWicked winter chills economy, stocksSafety agency probing Honda Accord airbag complaints TopicsEconomyMarketsTODAY MoneyAutosReal estateTaxesEnergyRadder U.S. & world newsPoliticsBusinessSportsEntertainmentHealthTech & sciTravelLatest headlinesTenn. plane crash devastates Kansas ranching familyThe hero pilot of the light plane that crashed in Nashville, Tenn., was a prominent Kansas rancher on his way to the nation's largest cattle industry trade show, authorities said Tuesday.4 killed in Tenn. crash; pilot avoided buildingOlympic construction leaves Sochi residents in the cold2013 a record year for exonerations of prisonersAvalanche-choked road into Alaska town to reopen'Apologetic bandit' suspect caught after 10 heistsAfghans tune into first televised presidential debateOutcry over the fate of Sochi's stray dogsPalestinians marry, but remain separated by bordersVA backlog again gnarled in red tape, report finds MultimediaNightly News VideoSources: Hoffman Withdrew $1200 Prior to His DeathNightly NewsNightly News VideoHacked Within Minutes: Sochi Visitors Face Internet MinefieldNightly News TopicsInvestigationsBehind the WallWorld News Blog Latest headlinesAnimated Boehner: 'There's nothing complex about the Keystone Pipeline!'Budget deficits shrinking but set to grow after 2015 Senate readies another volley on unemployment aidObama faces Syria standstillFluke files to run in California Christie acknowledges federal subpoena Obama says Fox News's O'Reilly 'absolutely' unfair in extended interviewChristie security officer hit with shoplifting chargesFarm bill's effects to be felt far and wideYellen sworn in as Fed chair as Bernanke heads to BrookingsMultimediaCNBC VideoPutin is scared of Ukraine uprising: KlitschkoCNBCNightly News VideoGOP Warms Up for 2016Nightly NewsNightly News VideoBlurred Lines: What Secession Means for a NationNightly News TopicsFirst ReadMeet the PressNBC Politics appLatest headlinesMicrosoft names Satya Nadella CEOThese Olympians compete for love, not moneyStocks rebound from brutal plunge; Dow closes 72 points higherWicked winter chills economy, stocksSafety agency probing Honda Accord airbag complaintsGood sign for economy: Small business borrowing risesCar-sharing a growing threat to auto salesGoogle's Schmidt gets second $100 million stock awardRich Chinese fleeing to Australia and the U.S.Dial 'V' for victim: Scammers and con men hit the phones againSenate grills Target CFO on data breach MultimediaTODAY VideoMark Zuckerberg: Facebook effect is ‘mind-blowing’TODAYCNBC VideoBill George: Not clear who's running MicrosoftCNBCNightly News Video‘Talking’ Cars? It Needs to Happen, Feds SayNightly News TopicsEconomyMarketsTODAY MoneyAutosReal estateTaxesEnergy Latest headlinesJacoby Jones allegedly involved in overnight altercationUSC fans taken to hospital after storming field Report: Penn State offers top job to FranklinVonn spends quality time with Tiger's kidsNFL player loses fingertip during gameCharles' 172 yards, stout D help Reid get best of EaglesNick Saban says Ricky Williams would be good coachKen Norton rode indomitable will to greatnessLochte's show canceled, according to reportBolt reconsiders plan to retire after '16 GamesTime trumps tradition with Jackson statue MultimediaLoic Venance / AFP/Getty ImagesVideoWhat's in store for Sochi?Patrick Smith / Getty ImagesVideoThanks to Nabokov, Islanders shutout CapitalsMike Zarrilli / Getty ImagesVideoShould Texans draft Manziel first overall? TopicsShopVideoStreamingScoresOddsMatchupsInjuries Latest headlinesSutherland admits he's 'nervous' about new '24'Kiefer Sutherland returns this spring as "24's" Jack Bauer, but says he's a bit concerned about starting up the show, which had been off the air for a few years, again.Leonard Nimoy urges smokers to 'quit now' as he battles lung disease Streisand puts focus on women's heart healthSheldon finally kisses Amy on 'Big Bang Theory'Parents' guide to 'The Lego Movie''Top Chef' judges defend shocking finale pickSandra Bullock gives Jay Leno a teary farewellKevin Jonas snuggles his baby girl in new picsSelena Gomez did stint in rehab last month'Little Couple' trailer reveals star's cancer battleAxl Rose slams Red Hot Chili Peppers MultimediaNBC Slideshow'Biggest Loser' 15: Before and afterTODAYThomas Samson / AFP - Getty Images SlideshowCelebrity Sightingsmore photosTODAY VideoOlivia Newton-John: I’m coming to Vegas!TODAY TopicsNBC News EntertainmentTODAY EntertainmentCelebsTVPop cultureMoviesConcert Series Latest headlinesWhy good athletes are good-looking, too Good-looking athletes seem to have it all — fame, money and often plenty of admiring women. And there may be a good reason for it, a new study finds. Too amazing to be true? Castaway's tale of survival baffles experts Don't curse the cold: Shivering may help burn body fatFewer kids die in crashes but it's still too many, CDC saysDrug companies, government team up in hunt for curesFDA targets teens in its first anti-smoking campaignGene tool delivers healthy babies to mom with fatal diseaseA serving a day of added sugar can harm youAntifungal drug may treat common skin cancer, study finds'An epidemic of heroin': Hoffman is a new face of growing abuseRacism in teen years could spell future health woes MultimediaStefan Simonsen / AP SlideshowAnimal Tracksmore photosYipes! Yips throw catcher's gameNBC News VideoMaple syrup as health food?NBC News TopicsHealth careWomen's healthKid's healthHeart healthAgingDiet and fitnessCancer Latest headlines'Like' it or not: 10 things Facebook changed in 10 yearsSenate grills Target CFO on data breach Some developers balk as Apple cracks down on apps that track user infoEvolution debate plays out on creationism's home turfFBI: Give us your malware, your wormsFling high: Bumblebees can scale Mount EverestDemocratic lawmakers want to bring Net neutrality back to lifeSexting stats: Half of adults' phones contain intimate contentNorthern lights get too bright for the cameraMissed a call? 'One-ring' cell phone scam could cost you moneyRings and swirls: Photo shows off Saturn's polar vortex MultimediaNightly News Video‘Talking’ Cars? It Needs to Happen, Feds SayNightly NewsNightly News VideoHow Facebook Transformed the World in 10 YearsNightly NewsNBC News VideoTarget CFO: We're Moving on 'Smart Chip' CardsNBC News TopicsScienceSpaceTechSecurityVideo gamesInnovationMobile Latest headlinesGap year for grown-ups: Some workers taking a mid-career time outChild dies after being pulled from cruise ship pool LaGuardia terminal reopens after 'smoking' bag investigatedWorkers race to finish 'Putin World' amusement parkProtests drive tourists from Thai capitalCarnival reports record cruise bookings in JanuaryHotels investigating potential security breachFrigid January cost air passengers $2.5 billionUnited to dump Cleveland hub, cut 470 jobsBuzz abounds over Denver County Fair’s new pot pavilionCruise virus outbreak one of worst in 20 years, CDC says MultimediaTODAY VideoRossen Reports: Do pilots rely too much on automation?TODAYTODAY VideoMassachusetts gov: Airport’s 9/11 fire drill was ‘dumb’TODAYTODAY VideoCosta Concordia wreckage crushing itselfTODAY TopicsTrendingDestinationsTipsFamilyInspirationSecurityTODAY Travel Two Moms Join Forces to Help Families Struggling with Heroin AddictionHoffman withdrew $1,200 from ATM the night before he was found dead: sourcesHoffman found with 50 bags of heroin, addiction meds: sources
+© 2012 NBCNews.com
+NBCNews.com
+About us
+Contact
+Help
+Site map
+Stock data
+Careers
+Terms & Conditions
+About our ads
+Privacy policy
+Legal
+Advertise
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/id/34744208/ns/topics-foreign_policy?q=Foreign%20policy
+WARC-Date: 2014-03-07T05:33:39Z
+WARC-Record-ID: <urn:uuid:33ff63af-72ea-48b0-8d79-3235228f8caa>
+WARC-Refers-To: <urn:uuid:991012ab-b502-410c-a630-501591f20893>
+WARC-Block-Digest: sha1:WDVWI4NEP4WOLV5XUDMXLLG4MW3N5OVD
+Content-Type: text/plain
+Content-Length: 83
+
+Foreign policy - Latest news, videos, and information- NBCNews.com
+Skip navigation
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/video/nightly-news/52557803
+WARC-Date: 2014-03-07T05:37:27Z
+WARC-Record-ID: <urn:uuid:a6a8f996-1cda-4a79-a7f7-191d2290791a>
+WARC-Refers-To: <urn:uuid:84f16b3e-29ed-456e-a6ab-e059f1c2075a>
+WARC-Block-Digest: sha1:L5RPJU2BCGRUCH2L7BUKW5N3V32EEP52
+Content-Type: text/plain
+Content-Length: 70
+
+Al Qaeda group claims Abu Ghraib prison attack - Video on NBCNews.com
+
+

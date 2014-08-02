@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/business/2011/dec/05/eurozone-credit-downgrade-germany-france
+WARC-Date: 2014-03-07T06:46:28Z
+WARC-Record-ID: <urn:uuid:67730611-b6cd-4045-acc9-4449d40164a7>
+WARC-Refers-To: <urn:uuid:a3678fdc-950b-4212-96ec-9a622fac12ef>
+WARC-Block-Digest: sha1:W7AF54FA5K3SH6WQADV6DGCMPM4SLIB4
+Content-Type: text/plain
+Content-Length: 100
+
+Eurozone warned of credit downgrades after Germany and France strike deal | Business | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/cifamerica/2011/jun/12/nato-usa
+WARC-Date: 2014-03-07T06:44:52Z
+WARC-Record-ID: <urn:uuid:ea69d2d6-f56d-4f14-84c6-c65032a0c1c4>
+WARC-Refers-To: <urn:uuid:502823e9-547a-419d-a11a-5bad66aeec6f>
+WARC-Block-Digest: sha1:EE26ILOV2EHEZUJKCK5JWDSDJYJ63TGM
+Content-Type: text/plain
+Content-Length: 91
+
+Does Nato have a purpose any longer? | Observer editorial | Comment is free | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/education/2005/jul/22/highereducation.news
+WARC-Date: 2014-03-07T06:45:32Z
+WARC-Record-ID: <urn:uuid:5027e56f-8627-41d6-afeb-064d1e098b1d>
+WARC-Refers-To: <urn:uuid:0a107fc8-93c1-4393-bba3-b6a8ea1bf7d3>
+WARC-Block-Digest: sha1:ODC4OQ5GWPQ6YNJVSP5SGISPFQAAZPFF
+Content-Type: text/plain
+Content-Length: 68
+
+St John's tops Oxford's results table | Education | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/music/2006/oct/06/neilyoung.popandrock
+WARC-Date: 2014-03-07T06:48:49Z
+WARC-Record-ID: <urn:uuid:24f324b6-be2e-4425-9a8b-88ebc0be51ba>
+WARC-Refers-To: <urn:uuid:dabbf455-f3c1-4ff2-ab72-19168156628d>
+WARC-Block-Digest: sha1:BYMIJWCBSZL6VU5OY4ZSSPOUYUT3L5DT
+Content-Type: text/plain
+Content-Length: 49
+
+Neil Young: Heart of Gold | Music | The Guardian 
+

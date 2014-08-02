@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/game/recap/l.mlb.com-2010-e.27669/
+WARC-Date: 2014-03-07T05:33:02Z
+WARC-Record-ID: <urn:uuid:b3ba172c-4eda-4f9c-96fe-4c9817c74030>
+WARC-Refers-To: <urn:uuid:782e52b2-2fc2-4d9d-be0d-37e5764a24a2>
+WARC-Block-Digest: sha1:ZKYQXZQVLYTCDQFUA2RVXP45LWZNHALL
+Content-Type: text/plain
+Content-Length: 58
+
+Cleveland Indians at Chicago White Sox | USA TODAY | RECAP
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nba/game/recap/l.nba.com-2009-e.12238/
+WARC-Date: 2014-03-07T05:32:23Z
+WARC-Record-ID: <urn:uuid:e881cd6f-8a99-440c-af80-7f28c29d23a9>
+WARC-Refers-To: <urn:uuid:e842e115-48a7-4f7d-a266-ef84376e3590>
+WARC-Block-Digest: sha1:EBJ5C25V47P6AODKI2RFV3ABGGF6ZWJT
+Content-Type: text/plain
+Content-Length: 65
+
+New Orleans Pelicans at Oklahoma City Thunder | USA TODAY | RECAP
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nfl/arrests/2012/jac/de-dt/
+WARC-Date: 2014-03-07T05:26:02Z
+WARC-Record-ID: <urn:uuid:e8fef089-dccd-4585-9c22-cfa4757c2daf>
+WARC-Refers-To: <urn:uuid:97a3c7c7-cad6-41d1-91fd-f77b7e9d994f>
+WARC-Block-Digest: sha1:CKMQ4D7XKDAKKPZ4TWYQH7TP4K6YWD4F
+Content-Type: text/plain
+Content-Length: 167
+
+USA Today | Sports | NFLNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull For
+

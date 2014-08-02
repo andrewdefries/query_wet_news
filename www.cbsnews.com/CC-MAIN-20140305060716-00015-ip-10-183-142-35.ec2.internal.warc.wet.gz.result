@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.cbsnews.com/news/just-like-the-russians/
+WARC-Date: 2014-03-07T06:52:35Z
+WARC-Record-ID: <urn:uuid:d2e4d9bb-e1d5-4a1e-9502-0c7e00ed13b0>
+WARC-Refers-To: <urn:uuid:59105d1d-8c4b-4337-9ecc-0491db6ac0ec>
+WARC-Block-Digest: sha1:EIKQUVT6KRVEE6CQJU5JBHZKOOETPS3B
+Content-Type: text/plain
+Content-Length: 145
+
+Just Like The Russians - CBS News
+60 Minutes
+CBSNews.com
+CBS Evening News
+CBS This Morning
+48 Hours
+60 Minutes
+Sunday Morning
+Face The Nation
+GO
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.cbsnews.com/pictures/women-of-the-civil-war/
+WARC-Date: 2014-03-07T06:46:12Z
+WARC-Record-ID: <urn:uuid:cd0c5fe0-7e74-4cf4-87d5-9846233692e8>
+WARC-Refers-To: <urn:uuid:7bbb4749-b485-407d-bd34-b720da25186c>
+WARC-Block-Digest: sha1:BDMFKCJMK2Y3323SADPRWRRIEAQ3H4XZ
+Content-Type: text/plain
+Content-Length: 70
+
+Women of the Civil War - Photo 1 - Pictures - CBS News
+CBSNews.com
+CBS
+

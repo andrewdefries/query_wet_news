@@ -1,0 +1,45 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/2014/01/09/3860451/work-at-foster-farms-plant-suspended.html
+WARC-Date: 2014-03-07T06:55:32Z
+WARC-Record-ID: <urn:uuid:e2cccefb-cad6-40e1-8f7d-804c1502cf54>
+WARC-Refers-To: <urn:uuid:5b4f6fcf-4289-46a7-a362-53b301b27112>
+WARC-Block-Digest: sha1:WF7CEFW2B3Q3L5YBYUWODEQSRQ7HH62W
+Content-Type: text/plain
+Content-Length: 247
+
+Work at Foster Farms plant suspended after cockroaches found - National Business - MiamiHerald.com
+Customer Service
+Digital Newspaper
+el Nuevo Herald Classifieds
+Jobs Cars Real Estate Find & Save Deals Public Notices
+Place an Ad
+National Business
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/classified-ads/Real+Estate/classification/MIHFMobile-Manufactured+Home/?fb_sf_published_at_l=%5B*+TO+1358830800%5D&sort=is_featured_b%20desc%2Cpublished_at_l%20desc
+WARC-Date: 2014-03-07T06:55:53Z
+WARC-Record-ID: <urn:uuid:beab27a4-e741-4773-b045-0416df160861>
+WARC-Refers-To: <urn:uuid:d538ba01-4cf6-4237-bdf5-40ad04b9bd2f>
+WARC-Block-Digest: sha1:GPHOAFZV2SMFZJHKRY6FCKEHR74VTD27
+Content-Type: text/plain
+Content-Length: 29
+
+Miami Herald: Classified Ads
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/classified-ads/ad/2330487
+WARC-Date: 2014-03-07T06:55:40Z
+WARC-Record-ID: <urn:uuid:e9d61789-3c16-4206-b527-c816888e1cf5>
+WARC-Refers-To: <urn:uuid:32840cf7-46d3-4a02-8b4c-43c360917525>
+WARC-Block-Digest: sha1:GPHOAFZV2SMFZJHKRY6FCKEHR74VTD27
+Content-Type: text/plain
+Content-Length: 29
+
+Miami Herald: Classified Ads
+
+

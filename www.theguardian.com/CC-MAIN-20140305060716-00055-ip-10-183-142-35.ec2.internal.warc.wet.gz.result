@@ -1,0 +1,133 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2003/jan/04/classics.dhlawrence?view=mobile
+WARC-Date: 2014-03-07T06:51:00Z
+WARC-Record-ID: <urn:uuid:58d4b530-a911-4580-abe5-e107b113a433>
+WARC-Refers-To: <urn:uuid:db889f7a-6d4c-4f14-ad6a-91da05d5e8fc>
+WARC-Block-Digest: sha1:6YOSL2KO6HR36PBIATIIQ4I4S2KC2GOB
+Content-Type: text/plain
+Content-Length: 63
+
+Rereadings: The Fox by DH Lawrence | culture | theguardian.com
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2008/mar/30/fiction.reviews1
+WARC-Date: 2014-03-07T06:47:21Z
+WARC-Record-ID: <urn:uuid:714a6481-00c5-48c2-9281-6661bcf45d0d>
+WARC-Refers-To: <urn:uuid:842ab9fd-0ec4-41ee-897b-821b9381e0c4>
+WARC-Block-Digest: sha1:LEE37SK23PJBAPJ7V7VGH4R2A2W6Q2UX
+Content-Type: text/plain
+Content-Length: 58
+
+Review: Pilcrow by Adam Mars-Jones | Books | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2013/aug/02/claire-messud-interview
+WARC-Date: 2014-03-07T06:49:38Z
+WARC-Record-ID: <urn:uuid:4c37b584-4e2f-41fa-be02-7d526fc95b0d>
+WARC-Refers-To: <urn:uuid:85315b25-7ff9-43a0-94b5-3e3e6e9429cb>
+WARC-Block-Digest: sha1:PPTZ66DWYQXWHFUCFAWXRSHFELCZAB4E
+Content-Type: text/plain
+Content-Length: 123
+
+Claire Messud: 'I still believe at the end somebody will say: and you get an A-minus for your life' | Books | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/business/2009/mar/21/letters-car-scrappage-scheme
+WARC-Date: 2014-03-07T06:47:57Z
+WARC-Record-ID: <urn:uuid:5cfabec8-5ad2-47b4-995c-abec13ee2a03>
+WARC-Refers-To: <urn:uuid:c31e1411-3c1f-4eda-87a9-e5b0ed0fda3f>
+WARC-Block-Digest: sha1:AQCYSMF44WTUH7R2DMFOQJVSONSJGKOZ
+Content-Type: text/plain
+Content-Length: 67
+
+Letters: Scrappage schemes make no sense | Business | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/business/series/tax-gap+world/uruguay
+WARC-Date: 2014-03-07T06:46:53Z
+WARC-Record-ID: <urn:uuid:5b8bce87-f9c1-4404-ad8e-133776792b8f>
+WARC-Refers-To: <urn:uuid:4a992068-1d58-47f0-abe2-9f6cb113914e>
+WARC-Block-Digest: sha1:VGQZPPHJ56QU5J673SGRBKLGOQFPYTED
+Content-Type: text/plain
+Content-Length: 48
+
+The tax gap + Uruguay | Business | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/2009/oct/30/taylor-mitchell-coyote-death-rare
+WARC-Date: 2014-03-07T06:45:46Z
+WARC-Record-ID: <urn:uuid:89a27c4c-624f-4211-accd-2da1a9357a8d>
+WARC-Refers-To: <urn:uuid:0a39136a-cc50-40df-9ca0-eba359aaad28>
+WARC-Block-Digest: sha1:57DFLPAQP5GO5N2HOUGDCPZFNIDDSRTY
+Content-Type: text/plain
+Content-Length: 89
+
+Coyote killings are rare and shocking | Colin Horgan | Comment is free | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/fashion/picture/2012/nov/13/fashion-buy-asos-metallic-shoe
+WARC-Date: 2014-03-07T06:47:22Z
+WARC-Record-ID: <urn:uuid:e1fdb627-47ae-45f1-b0b1-5f9402903e2f>
+WARC-Refers-To: <urn:uuid:ba1e825f-ed22-41d3-a556-10750ea7c399>
+WARC-Block-Digest: sha1:Q3P7FIKQMO3HS666E3IY5GB6JH3HQX6Y
+Content-Type: text/plain
+Content-Length: 80
+
+Fashion buy of the day: Asos metallic pointed heels | Fashion | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/lifeandstyle/2007/feb/24/fashion1
+WARC-Date: 2014-03-07T06:46:44Z
+WARC-Record-ID: <urn:uuid:93dfe2ce-ce8c-4f93-a329-16bf944f5037>
+WARC-Refers-To: <urn:uuid:5a739bdc-0443-48cb-a238-eed07aa21229>
+WARC-Block-Digest: sha1:SCVHUMIYBBM6LD6VCIKQTFERTC6I4QFP
+Content-Type: text/plain
+Content-Length: 66
+
+Alexis Petridis: To tint or not to tint? | Fashion | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/music/2010/oct/08/fbi-seizes-john-lennon-card/print
+WARC-Date: 2014-03-07T06:51:48Z
+WARC-Record-ID: <urn:uuid:c15011eb-6a0b-4a4c-a9f4-6b0aa5e688da>
+WARC-Refers-To: <urn:uuid:903565d3-2ec2-48cc-9e88-c63b21b5d057>
+WARC-Block-Digest: sha1:FT7WWQ6MZJZJLPAWHDZSW2JTXJ723B6Y
+Content-Type: text/plain
+Content-Length: 85
+
+FBI seizes John Lennon fingerprint card from auction house | Music | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/news/2007/sep/14/guardianobituaries.obituaries1
+WARC-Date: 2014-03-07T06:46:07Z
+WARC-Record-ID: <urn:uuid:8ba1b646-ba9c-45f1-82c9-6f681658d15c>
+WARC-Refers-To: <urn:uuid:16073eeb-2e4e-46d8-8631-d7d4ba762ad6>
+WARC-Block-Digest: sha1:GJTN757EUJF2WXEHPQS62WLMXV3G2LKO
+Content-Type: text/plain
+Content-Length: 49
+
+Obituary: John Garrett | Politics | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/politics/2009/jun/29/labour-plan-building-britains-future/print
+WARC-Date: 2014-03-07T06:51:16Z
+WARC-Record-ID: <urn:uuid:4df059cd-3a88-484e-8440-36ee4623c483>
+WARC-Refers-To: <urn:uuid:6d99b099-e2ca-4a4a-acf5-8f03693cdcf8>
+WARC-Block-Digest: sha1:GKYY5LWEBHIJUC5A2UB4MEU4F7YXLYZG
+Content-Type: text/plain
+Content-Length: 59
+
+The future? Labour's latest plan | Politics | The Guardian 
+

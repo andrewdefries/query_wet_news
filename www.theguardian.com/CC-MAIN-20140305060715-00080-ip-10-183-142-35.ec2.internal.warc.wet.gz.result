@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/2012/jun/19/new-orleans-daily-times-picayune
+WARC-Date: 2014-03-07T05:35:57Z
+WARC-Record-ID: <urn:uuid:383c019e-6d8e-40b1-85bf-8648e5ae3c5e>
+WARC-Refers-To: <urn:uuid:7cd78039-6d74-47a6-8c31-c70803b66e39>
+WARC-Block-Digest: sha1:DXFSFASAJN2L2NIWREKDD7LPFJIYFH3R
+Content-Type: text/plain
+Content-Length: 102
+
+New Orleans needs a daily dose of its Times-Picayune | Jim Gabour | Comment is free | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/sport/2006/may/13/athletics.gdnsport3
+WARC-Date: 2014-03-07T05:24:57Z
+WARC-Record-ID: <urn:uuid:02d8a3ff-7736-4fab-a29a-b519ab073fe2>
+WARC-Refers-To: <urn:uuid:1e3ff082-4eeb-44d9-be16-216446e05ea2>
+WARC-Block-Digest: sha1:SOZ5HLQH7XAGCD5IR2UOCMAJQ2SMRB4G
+Content-Type: text/plain
+Content-Length: 68
+
+Athletics: Gatlin sets new 100m world record | Sport | The Guardian 
+

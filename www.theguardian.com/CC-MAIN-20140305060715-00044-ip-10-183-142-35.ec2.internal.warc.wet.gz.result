@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2013/jul/07/go-bernadette-maria-semple-review
+WARC-Date: 2014-03-07T05:30:36Z
+WARC-Record-ID: <urn:uuid:77a8c5bf-c7ec-4ffb-985e-87f8fe2ae728>
+WARC-Refers-To: <urn:uuid:6152884a-2d87-45a5-897b-b4bb6dc129dc>
+WARC-Block-Digest: sha1:JDA2S42D5YUL23WE4ESBTTSCWAKB35DY
+Content-Type: text/plain
+Content-Length: 77
+
+Where'd You Go, Bernadette by Maria Semple – review | Books | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/politics/2011/nov/09/nick-clegg-debt-crisis-european-decline
+WARC-Date: 2014-03-07T05:33:28Z
+WARC-Record-ID: <urn:uuid:fee8bd15-3ce8-4cfd-b123-b01e1526444e>
+WARC-Refers-To: <urn:uuid:bbda201b-9f42-4dd6-963a-c95098018765>
+WARC-Block-Digest: sha1:LPDROVJHJUCJAW64PMEETKNQR2KBOLZI
+Content-Type: text/plain
+Content-Length: 83
+
+Nick Clegg urges EU not to become fixated by treaties | Politics | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/theobserver/2003/nov/02/features.review97
+WARC-Date: 2014-03-07T05:26:11Z
+WARC-Record-ID: <urn:uuid:9dc1b3de-968f-498b-8762-e483da26c997>
+WARC-Refers-To: <urn:uuid:ef97b8ac-576a-489a-9829-2bfb8727910a>
+WARC-Block-Digest: sha1:FW7P66ZYHOEDVXUWBAFVUZ73AKXOJDFF
+Content-Type: text/plain
+Content-Length: 47
+
+Other films | From the Observer | The Observer 
+

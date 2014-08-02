@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nba/game/boxscore/l.nba.com-2009-e.11769/
+WARC-Date: 2014-03-07T05:24:48Z
+WARC-Record-ID: <urn:uuid:f38d592f-b1a5-4af4-927e-453ff3c36371>
+WARC-Refers-To: <urn:uuid:c889d6cf-47b7-44fa-86fc-1ea689b8303f>
+WARC-Block-Digest: sha1:PDDE3GKJHVTULYDWARCKNJON3YL3NIAV
+Content-Type: text/plain
+Content-Length: 69
+
+New Orleans Pelicans at Minnesota Timberwolves | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaaf/missouri/statistics/2010/season-regular/team/offense/
+WARC-Date: 2014-03-07T05:30:22Z
+WARC-Record-ID: <urn:uuid:fa76d62d-f24e-47f3-8383-b97fcad49337>
+WARC-Refers-To: <urn:uuid:6fe89485-4542-40d7-8120-c773af71f1cf>
+WARC-Block-Digest: sha1:JEXZHYUCX7AG76B5P2I5NF5GMHEHAHFC
+Content-Type: text/plain
+Content-Length: 196
+
+USA Today | Sports | NCAAF | missouriNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScores
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/news/nation-now/2014/02/24/got-milk-milk-life-campaign/5776421/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+usatoday-NewsTopStories+%28USATODAY+-+News+Top+Stories%29
+WARC-Date: 2014-03-07T05:27:27Z
+WARC-Record-ID: <urn:uuid:3b390a14-9a95-421a-9c65-a18f827c5539>
+WARC-Refers-To: <urn:uuid:2800cbaf-044b-43e7-8639-112aa776bc37>
+WARC-Block-Digest: sha1:DZFTVH3FGTRIRFI6PRDCZW2A5F7LUK2V
+Content-Type: text/plain
+Content-Length: 80
+
+'Milk Life' replaces 'Got Milk?' ad campaignNewsSportsLifeMoneyTechTravelOpinion
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/popcandy/2013/04/24/iron-man-3/2108927/
+WARC-Date: 2014-03-07T05:31:47Z
+WARC-Record-ID: <urn:uuid:2aba97de-6ef4-4355-83a5-d7107da77140>
+WARC-Refers-To: <urn:uuid:3c063450-3585-4883-9a03-299626f06996>
+WARC-Block-Digest: sha1:NLYZUJTKQT5PUSEXNUELIQ6P6XP7WELR
+Content-Type: text/plain
+Content-Length: 78
+
+Streaming tonight: 'Iron Man 3' on the red carpetNewsSportsLifeMoneyTechTravel
+

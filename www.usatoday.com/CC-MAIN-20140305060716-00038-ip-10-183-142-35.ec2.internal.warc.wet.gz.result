@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2061707/slopestyle-world-cup-champion-eyes-olympics/
+WARC-Date: 2014-03-07T06:46:07Z
+WARC-Record-ID: <urn:uuid:c654ce10-1f1e-41f7-8ea5-8bd5a00dfe30>
+WARC-Refers-To: <urn:uuid:966577d2-cd03-4e1c-bcd5-ff1dddc4b903>
+WARC-Block-Digest: sha1:G7IE4OFQPO646Q6FFAS4H2QMVSSHE35M
+Content-Type: text/plain
+Content-Length: 43
+
+Slopestyle World Cup champion eyes Olympics
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2064089/meryl-streep-remembers-margaret-thatcher/
+WARC-Date: 2014-03-07T06:50:41Z
+WARC-Record-ID: <urn:uuid:aca1e50d-b172-4f7f-b53a-b369a5f91090>
+WARC-Refers-To: <urn:uuid:650ebdb9-81f7-4a8e-8997-c9fd33cb9ff0>
+WARC-Block-Digest: sha1:LZLEGH7HGIZYSRQWWONOMAO24HGGWJLO
+Content-Type: text/plain
+Content-Length: 40
+
+Meryl Streep remembers Margaret Thatcher
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/gameon/2013/03/27/rob-gronkowski-patriots-not-trying-to-hurt-himself/2024779/
+WARC-Date: 2014-03-07T06:49:41Z
+WARC-Record-ID: <urn:uuid:6469d056-4a61-4ac4-8707-27109c67a380>
+WARC-Refers-To: <urn:uuid:d68e2af1-cbad-4550-bf45-6526a3633696>
+WARC-Block-Digest: sha1:GQHJCYKQRUIXIFCNPGH5A3AVPMD6HTF6
+Content-Type: text/plain
+Content-Length: 105
+
+Rob Gronkowski: 'I'd never put myself in jeopardy'NewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidity
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/tech/2013/12/29/safe-online-banking-at-home/4199221/
+WARC-Date: 2014-03-07T06:44:55Z
+WARC-Record-ID: <urn:uuid:ac5dea54-839b-48c8-a719-33b9230926e5>
+WARC-Refers-To: <urn:uuid:8ca6e4ea-1791-47df-8497-88adf81f893c>
+WARC-Block-Digest: sha1:DNCDKXV6XJESPGPH3WVLDZDJQPD7ECWW
+Content-Type: text/plain
+Content-Length: 186
+
+Tip: How to bank safely online at homeNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull Forecast
+

@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/1971069/white-house-we-can-deal-with-any-north-korea-threat/
+WARC-Date: 2014-03-07T05:26:35Z
+WARC-Record-ID: <urn:uuid:01a00b6c-7d82-4f19-a6aa-e4eea1cf9511>
+WARC-Refers-To: <urn:uuid:2a2ab872-a309-48d0-b106-22d2ca7c54a1>
+WARC-Block-Digest: sha1:A2OMLHCNUMBQ3I5NR4XTTO6WKLICXAJD
+Content-Type: text/plain
+Content-Length: 52
+
+White House: We can deal with any North Korea threat
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nba/game/recap/l.nba.com-2011-e.15981/
+WARC-Date: 2014-03-07T05:29:38Z
+WARC-Record-ID: <urn:uuid:7e4b7e1b-5b55-4de4-ba3e-802d05d2b301>
+WARC-Refers-To: <urn:uuid:b2971451-d282-41b4-a7c0-46ad02e2adb9>
+WARC-Block-Digest: sha1:ZCXYIGKWBIHHINMWKALXR5KMIPGWFNLS
+Content-Type: text/plain
+Content-Length: 60
+
+Portland Trail Blazers at Indiana Pacers | USA TODAY | RECAP
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nhl/standings/2008/conference/
+WARC-Date: 2014-03-07T05:28:26Z
+WARC-Record-ID: <urn:uuid:b2663deb-0d81-4080-88bb-ccce28004212>
+WARC-Refers-To: <urn:uuid:f6923273-bb21-4692-9473-7e0dc5444c50>
+WARC-Block-Digest: sha1:T3WKLPVH3VDTTQKQPUJS5GXGGBMWTIRF
+Content-Type: text/plain
+Content-Length: 189
+
+USA Today | Sports | NHLNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocks
+

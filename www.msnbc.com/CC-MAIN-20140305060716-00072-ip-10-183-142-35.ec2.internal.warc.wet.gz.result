@@ -1,0 +1,39 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/msnbc/watch-snowdens-girlfriend-dancer-and-blog
+WARC-Date: 2014-03-07T06:44:14Z
+WARC-Record-ID: <urn:uuid:d5d83e27-3592-4275-92f3-cad715e8caaf>
+WARC-Refers-To: <urn:uuid:564cb58c-c5a9-465e-a18c-7a717715aaac>
+WARC-Block-Digest: sha1:QJH2IZLE74RFUQRR2U2RIR22WXFSK5VL
+Content-Type: text/plain
+Content-Length: 57
+
+Watch: Snowden's girlfriend a dancer and blogger | MSNBC
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/now-with-alex-wagner/watch/red-state-politics-leave-many-uninsured-149384771555
+WARC-Date: 2014-03-07T06:45:15Z
+WARC-Record-ID: <urn:uuid:35370ebc-9cbe-4d3c-8e67-c62dbcc3353c>
+WARC-Refers-To: <urn:uuid:693bf17f-650e-4810-9e35-df6ad529828b>
+WARC-Block-Digest: sha1:Y3JNM3VP2NYKY4IFK3CI3DLY73VNALXN
+Content-Type: text/plain
+Content-Length: 48
+
+Red state politics leave many uninsured | MSNBC
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/up-with-steve-kornacki/hayes-ben-bernanke-trying-get-mit
+WARC-Date: 2014-03-07T06:44:03Z
+WARC-Record-ID: <urn:uuid:c83a8cb5-4911-4f16-80a4-92483dcd2d69>
+WARC-Refers-To: <urn:uuid:053d486f-49c0-438a-8170-c35093670393>
+WARC-Block-Digest: sha1:RASB77MWOQIFEWDOQ5VU55SMSZPZEUEQ
+Content-Type: text/plain
+Content-Length: 76
+
+Hayes: Is Ben Bernanke trying to get Mitt Romney elected president? | MSNBC
+
+

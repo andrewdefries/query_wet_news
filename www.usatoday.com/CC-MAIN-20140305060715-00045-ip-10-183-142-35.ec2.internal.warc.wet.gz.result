@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/game/play-by-play/l.mlb.com-2011-e.30623/
+WARC-Date: 2014-03-07T05:33:17Z
+WARC-Record-ID: <urn:uuid:be62b555-5023-4c83-acf2-540e71b082f2>
+WARC-Refers-To: <urn:uuid:c2881bea-568f-44e3-a7c4-a145ec31d88f>
+WARC-Block-Digest: sha1:2CWELWDOTZ6XETNQFV4AFORAD4C5AVHN
+Content-Type: text/plain
+Content-Length: 66
+
+Toronto Blue Jays at Kansas City Royals | USA TODAY | PLAY-BY-PLAY
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/gameon/2013/02/01/bar-refaeli-go-daddy-makeout-kiss/1883009/?csp=usatgoogleplus
+WARC-Date: 2014-03-07T05:25:11Z
+WARC-Record-ID: <urn:uuid:4bb3cc87-867c-4d88-ae6f-1294c2999863>
+WARC-Refers-To: <urn:uuid:0ee778a1-9c92-412a-9def-aaf3ba5cab62>
+WARC-Block-Digest: sha1:CXXIBCKPOL6EVLCRNWT36AOWNEWRBDIS
+Content-Type: text/plain
+Content-Length: 119
+
+Bar Refaeli makes out with tech nerd in Go Daddy's Super Bowl commercialNewsSportsLifeMoneyTechTravelOpinionWeatherIcon
+
