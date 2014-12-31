@@ -1,0 +1,39 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.boston.com/news/globe/living/articles/2006/03/30/leading_the_free_world_and_looking_for_love/?camp=pm
+WARC-Date: 2014-03-07T05:35:23Z
+WARC-Record-ID: <urn:uuid:ce26e7eb-3716-4490-80d2-b0ef88741c84>
+WARC-Refers-To: <urn:uuid:74669475-689c-4a5a-81a7-cb8cbe14867e>
+WARC-Block-Digest: sha1:P7TBL4QLFAIXCX43JK6BCXBU2VTODF57
+Content-Type: text/plain
+Content-Length: 64
+
+Leading the free world, and looking for love - The Boston Globe
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.boston.com/news/globe/obituaries/articles/2006/09/11/patty_berg_88_key_player_behind_start_of_lpga_tour/?camp=pm
+WARC-Date: 2014-03-07T05:32:34Z
+WARC-Record-ID: <urn:uuid:c1454866-ccf3-464b-8027-7e303b07e864>
+WARC-Refers-To: <urn:uuid:14cf2f61-a969-4186-acf4-24c9825c2727>
+WARC-Block-Digest: sha1:5O36ZOBDZJ2SAS6PNRMHBYTGB546FMKE
+Content-Type: text/plain
+Content-Length: 72
+
+Patty Berg, 88, key player behind start of LPGA tour - The Boston Globe
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.boston.com/sports/baseball/redsox/articles/2005/08/31/team_has_sock_schilling_doesnt/?camp=pm
+WARC-Date: 2014-03-07T05:35:15Z
+WARC-Record-ID: <urn:uuid:090ee4e3-582f-47a7-a2fa-5b22dfc32f81>
+WARC-Refers-To: <urn:uuid:bec293fc-afb9-46d1-8444-fe7eb1afcd84>
+WARC-Block-Digest: sha1:OTEPZUYB5P4SYTUBICM5GEG7U24NLUY7
+Content-Type: text/plain
+Content-Length: 87
+
+Boston Red Sox - Team has sock, Schilling doesn't - The Boston Globe
+Red Sox Patriots &
+

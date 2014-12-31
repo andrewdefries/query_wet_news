@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2606281/raw-arod-mum-as-suspension-looms/
+WARC-Date: 2014-03-07T06:50:57Z
+WARC-Record-ID: <urn:uuid:4bd25670-007e-4f2d-bd91-85e8287a2907>
+WARC-Refers-To: <urn:uuid:f2dc88fd-6e9b-48fd-bc32-2c8cbfb7add3>
+WARC-Block-Digest: sha1:D5W4VCRVOLYCOM5G4DOFIGRX62FKW564
+Content-Type: text/plain
+Content-Length: 33
+
+Raw: ARod mum as suspension looms
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/money/business/2012/11/16/hostess-twinkies-ding-dongs-wonder-bread-going-out-of-business/1708409/
+WARC-Date: 2014-03-07T06:43:54Z
+WARC-Record-ID: <urn:uuid:f672d7aa-c95e-44e5-9aec-fa132280a937>
+WARC-Refers-To: <urn:uuid:286da9f1-b657-4fbb-976c-c3606b7d1c4b>
+WARC-Block-Digest: sha1:65LOWD2JH5LIVQ4BZFXPMPJG2YNXS6XK
+Content-Type: text/plain
+Content-Length: 316
+
+No more Twinkies? Others could buy Hostess' brandsNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribeMorePhoto GalleriesYour TakeInteractivesNewsletters & AlertsBest-Selling BooksNewsstand
+

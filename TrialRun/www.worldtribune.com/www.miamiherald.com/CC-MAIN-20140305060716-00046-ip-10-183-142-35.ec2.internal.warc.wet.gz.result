@@ -1,0 +1,55 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/classified-ads/Commercial+Real+Estate/classification/Commercial+Real+Estate+for+Rent?fb_sf_published_at_l=[1356152400%20TO%20*]&sort=is_featured_b%20desc%2Cpublished_at_l%20desc
+WARC-Date: 2014-03-07T06:44:53Z
+WARC-Record-ID: <urn:uuid:42969caa-7726-4b1d-9249-a8897d0b53f8>
+WARC-Refers-To: <urn:uuid:97220e69-cd39-4928-b7a9-58eb72b213f8>
+WARC-Block-Digest: sha1:GPHOAFZV2SMFZJHKRY6FCKEHR74VTD27
+Content-Type: text/plain
+Content-Length: 29
+
+Miami Herald: Classified Ads
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/classified-ads/For+Sale/classification/Furniture?fb_sf_published_at_l=%5B1352869200+TO+*%5D&sort=is_featured_b%20desc%2Cpublished_at_l%20desc
+WARC-Date: 2014-03-07T06:48:37Z
+WARC-Record-ID: <urn:uuid:d6e5390d-f894-453d-88c4-6aa4e8f32abc>
+WARC-Refers-To: <urn:uuid:d14662ab-29be-47ba-b9e5-162419fad10e>
+WARC-Block-Digest: sha1:MNMBEADBH2F5MV4J6437QPSQSR7YKRVC
+Content-Type: text/plain
+Content-Length: 102
+
+Miami Herald: Classified Ads
+Customer Service
+Digital Newspaper
+el Nuevo Herald Classifieds
+Jobs Cars 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/classified-ads/Real+Estate/classification/MIHFCondominium+Unit/?start=120&fb_sf_published_at_l=[1351659600%20TO%20*]&sort=is_featured_b%20desc%2Cpublished_at_l%20desc
+WARC-Date: 2014-03-07T06:54:21Z
+WARC-Record-ID: <urn:uuid:fe27f149-73a3-45b4-bc7e-df84ae063d92>
+WARC-Refers-To: <urn:uuid:482c7a9f-c38a-430d-bfd1-59f0f5cfba5e>
+WARC-Block-Digest: sha1:GPHOAFZV2SMFZJHKRY6FCKEHR74VTD27
+Content-Type: text/plain
+Content-Length: 29
+
+Miami Herald: Classified Ads
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.miamiherald.com/classified-ads/category/Real+Estate?start=40&sort=is_featured_b%252520desc%25252Cpublished_at_l%252520desc
+WARC-Date: 2014-03-07T06:51:30Z
+WARC-Record-ID: <urn:uuid:c4b888b0-c643-4498-815e-dca4c758d169>
+WARC-Refers-To: <urn:uuid:861da32b-1e2a-4e9a-9064-161939d8f47c>
+WARC-Block-Digest: sha1:GPHOAFZV2SMFZJHKRY6FCKEHR74VTD27
+Content-Type: text/plain
+Content-Length: 29
+
+Miami Herald: Classified Ads
+
+

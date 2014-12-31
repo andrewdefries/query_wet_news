@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/news/nation/2013/10/10/newser-alzheimers-peanut-butter/2961393/
+WARC-Date: 2014-03-07T06:44:11Z
+WARC-Record-ID: <urn:uuid:2c5fa8f1-c434-4d30-a4c6-8e41a86f98f3>
+WARC-Refers-To: <urn:uuid:c8263197-c0e0-4aff-a383-2c4566e0e96e>
+WARC-Block-Digest: sha1:3NX7PQ5V4XENASQGLRVIFQK6NXJV6S6N
+Content-Type: text/plain
+Content-Length: 108
+
+Alzheimer's test: Can you smell peanut butter?NewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/nfl/broncos/2013/01/23/broncos-elway/1859975/
+WARC-Date: 2014-03-07T06:49:05Z
+WARC-Record-ID: <urn:uuid:b72d33b4-3923-43bc-afdd-bc129fb1bf01>
+WARC-Refers-To: <urn:uuid:9d404a16-b959-4007-b592-5a34465f69a6>
+WARC-Block-Digest: sha1:NXNSUDFCJNXY2AQYVDGAEIDN3FAROCMA
+Content-Type: text/plain
+Content-Length: 91
+
+John Elway still feels sting of Broncos' loss to RavensNewsSportsLifeMoneyTechTravelOpinion
+

@@ -1,0 +1,12 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/popular/travel/cruises/
+WARC-Date: 2014-03-07T06:53:03Z
+WARC-Record-ID: <urn:uuid:a605ed62-1fb7-4afc-b2f6-6eb0359be302>
+WARC-Refers-To: <urn:uuid:95bc1e3d-47b5-4042-a070-066b5462609a>
+WARC-Block-Digest: sha1:63POOYOQA4KMYBSVNSUPZIBD3MS5W3F3
+Content-Type: text/plain
+Content-Length: 28
+
+Videos,Photos - USATODAY.com
+

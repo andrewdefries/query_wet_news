@@ -1,0 +1,39 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/id/3032608/vp/46531258
+WARC-Date: 2014-03-07T05:27:21Z
+WARC-Record-ID: <urn:uuid:72ed3df5-7fe3-4058-bd73-440ac33f6952>
+WARC-Refers-To: <urn:uuid:40121554-6ae3-49ed-851a-0f314362c3db>
+WARC-Block-Digest: sha1:3TRDOERMGDSOZLATDTQRBKZ7IVPAMESA
+Content-Type: text/plain
+Content-Length: 72
+
+Meet the Press with David Gregory - Sundays on NBC News Skip navigation
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/slideshow/today/bizarre-bridal-gowns-36739455/fair-feathered-23/
+WARC-Date: 2014-03-07T05:30:04Z
+WARC-Record-ID: <urn:uuid:d1fee3bb-21a7-4c70-84c6-d7636c45a18c>
+WARC-Refers-To: <urn:uuid:208aa57d-04e2-4fac-a8d8-038759820a4e>
+WARC-Block-Digest: sha1:Y6G2GLNKWBLPQDBEXIYWM2RNIOJUPDSQ
+Content-Type: text/plain
+Content-Length: 68
+
+Bizarre bridal gowns - Slideshows and Picture Stories - NBCNews.com
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/video/nightly-news/52425166/
+WARC-Date: 2014-03-07T05:29:21Z
+WARC-Record-ID: <urn:uuid:a9921b2b-14c7-4a54-aa00-e1dc577aa05b>
+WARC-Refers-To: <urn:uuid:0245b287-6ed2-4a75-96ab-5230c55ade81>
+WARC-Block-Digest: sha1:MU5GSYB4C75X2E5ZEEH4S5MH6QFQHOSJ
+Content-Type: text/plain
+Content-Length: 69
+
+Congress is back, but will anything get done? - Video on NBCNews.com
+
+

@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaab/game/boxscore/l.ncaa.org.mbasket-2011-e.59711/
+WARC-Date: 2014-03-07T06:51:34Z
+WARC-Record-ID: <urn:uuid:edb01d2a-56d9-4c00-82e5-e937286b541e>
+WARC-Refers-To: <urn:uuid:83442c38-d63d-4923-9e1f-d5a04a5e1ff4>
+WARC-Block-Digest: sha1:FPHTUMNDZZSFTSHZAB7TDWLWQL2V3SEY
+Content-Type: text/plain
+Content-Length: 77
+
+Bryant Bulldogs at Cent. Connecticut State Blue Devils | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaab/jacksonville-st/schedule/
+WARC-Date: 2014-03-07T06:49:01Z
+WARC-Record-ID: <urn:uuid:d024c9a3-c7ec-454c-974f-0e11e6a30b19>
+WARC-Refers-To: <urn:uuid:23af2f75-52c5-4cb1-b560-0b0c05355069>
+WARC-Block-Digest: sha1:RY3QJQEKOY2DITX5LMCLXI5NWXSTTDOU
+Content-Type: text/plain
+Content-Length: 132
+
+USA Today | Sports | NCAAB | jacksonville-stNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettings
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/money/business/2013/06/12/apollo-tyres-to-buy-cooper-tire/2414669/
+WARC-Date: 2014-03-07T06:47:28Z
+WARC-Record-ID: <urn:uuid:90d75ee6-9afa-41f0-93d7-02291f1c6bdb>
+WARC-Refers-To: <urn:uuid:c2755a89-b217-488a-9aed-5d0c28580f2c>
+WARC-Block-Digest: sha1:GIHZPCSCAPPYV27J3IJR732MZ6QMSAC4
+Content-Type: text/plain
+Content-Length: 91
+
+India's Apollo Tyres buys Cooper Tire for $2.22BNewsSportsLifeMoneyTechTravelOpinionWeather
+

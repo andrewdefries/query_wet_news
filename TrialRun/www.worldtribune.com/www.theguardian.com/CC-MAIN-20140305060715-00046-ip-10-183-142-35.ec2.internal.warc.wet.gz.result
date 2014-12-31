@@ -1,0 +1,49 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/discussion/report-abuse/comment/1912257
+WARC-Date: 2014-03-07T05:26:35Z
+WARC-Record-ID: <urn:uuid:f14431f8-ba08-4857-bc1f-3ba8d6dd7e76>
+WARC-Refers-To: <urn:uuid:851609be-6ff5-44c3-9b3d-e27280d0cde3>
+WARC-Block-Digest: sha1:JCVBFS3HUFQBHTZ2A7A7CBWOQUBYVRR6
+Content-Type: text/plain
+Content-Length: 24
+
+Report abuse on comment
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/global/2011/oct/07/simon-hoggart-week-conservatives-conference
+WARC-Date: 2014-03-07T05:27:31Z
+WARC-Record-ID: <urn:uuid:167515ac-56d2-4944-97fa-c485f7c0885b>
+WARC-Refers-To: <urn:uuid:9bf28519-b68f-4e8a-96e1-ceb919bd0173>
+WARC-Block-Digest: sha1:DZIUQVS2L6N2DB5RDKLXGFYDWJVFIIZO
+Content-Type: text/plain
+Content-Length: 108
+
+Simon Hoggart's week: Champagne Tories show why class war will never end | From the Guardian | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2001/jun/20/usa.russia
+WARC-Date: 2014-03-07T05:32:10Z
+WARC-Record-ID: <urn:uuid:19ed35e4-7f5d-4606-a83f-282288135a06>
+WARC-Refers-To: <urn:uuid:bb894c29-9689-4e12-93c6-691f46c6b77b>
+WARC-Block-Digest: sha1:YVCBWUTE2PERZF6FJ5OYH7MBB3GZH4VH
+Content-Type: text/plain
+Content-Length: 82
+
+Why the world should learn to love missile defence | World news | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2013/mar/14/cpac-immigration-reform-gop-division
+WARC-Date: 2014-03-07T05:26:25Z
+WARC-Record-ID: <urn:uuid:3f9c75f4-a2f3-40d0-9e43-c85f9b3c776c>
+WARC-Refers-To: <urn:uuid:956543c7-689c-4721-af7f-30d041f1f9d1>
+WARC-Block-Digest: sha1:NTALZ7VLDZSQC2OQ74JBU6FPPWDZWMBH
+Content-Type: text/plain
+Content-Length: 98
+
+CPAC immigration reform keynote panel reveals divisions within GOP | World news | theguardian.com 
+

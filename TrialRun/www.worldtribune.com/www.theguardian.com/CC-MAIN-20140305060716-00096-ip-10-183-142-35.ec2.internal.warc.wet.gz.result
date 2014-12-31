@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/2011/jun/17/phone-hacking-news-of-the-world/print
+WARC-Date: 2014-03-07T06:46:02Z
+WARC-Record-ID: <urn:uuid:3112336e-7570-43fb-982f-970d5cc969b5>
+WARC-Refers-To: <urn:uuid:fd5f8c54-0481-4394-b465-0676a58f7d68>
+WARC-Block-Digest: sha1:DLT5KW5CWOBWSGZWXZPTZ4FOWZXPLD75
+Content-Type: text/plain
+Content-Length: 83
+
+Phone hacking: information commissioner ends NoW inquiry | Media | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2009/feb/27/teenager-killed-acne-pill
+WARC-Date: 2014-03-07T06:44:50Z
+WARC-Record-ID: <urn:uuid:1a3bbf91-1a73-4ee4-a493-10c6d2374431>
+WARC-Refers-To: <urn:uuid:828b6d22-934c-4708-9c54-b72de9e22ed7>
+WARC-Block-Digest: sha1:66VKIS2GLHOYS6VCGS5RDPT22ETZWCO5
+Content-Type: text/plain
+Content-Length: 65
+
+Healthy teenager killed by acne pill | UK news | theguardian.com 
+

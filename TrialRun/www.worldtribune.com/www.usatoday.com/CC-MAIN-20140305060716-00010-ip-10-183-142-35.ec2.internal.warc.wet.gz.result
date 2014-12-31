@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nba/game/recap/l.nba.com-2013-e.18332/
+WARC-Date: 2014-03-07T06:44:54Z
+WARC-Record-ID: <urn:uuid:52fb8433-ecd1-43e9-bfe5-4079f2c5eac5>
+WARC-Refers-To: <urn:uuid:16ce21b6-b4f1-4226-8641-cc8052f89055>
+WARC-Block-Digest: sha1:ZK3FZ47EGYJFZAZTGA6MLILWR4PBTJFL
+Content-Type: text/plain
+Content-Length: 61
+
+Washington Wizards at Cleveland Cavaliers | USA TODAY | RECAP
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/experience/cruise/destination-traveler-type/alaska-romance/2013/06/27/alaska-romance/2161657/
+WARC-Date: 2014-03-07T06:44:32Z
+WARC-Record-ID: <urn:uuid:dbbfbc13-ef37-4b36-9e66-22301d653254>
+WARC-Refers-To: <urn:uuid:ce19d2aa-c372-46b6-b6ea-065418115467>
+WARC-Block-Digest: sha1:X5PKTOVBZNPFNX2YPTZZ6IOQ2RLG2OBF
+Content-Type: text/plain
+Content-Length: 83
+
+Romantic Cruise Vacations in Alaska | USA TODAY TravelNewsSportsLifeMoneyTechTravel
+

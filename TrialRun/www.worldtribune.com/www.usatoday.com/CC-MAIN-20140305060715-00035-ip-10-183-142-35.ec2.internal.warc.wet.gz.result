@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/gallery/2456377/hanging-around-at-the-dalston-house/
+WARC-Date: 2014-03-07T05:25:44Z
+WARC-Record-ID: <urn:uuid:2583031a-a1b3-42de-ae46-0e9c2324e711>
+WARC-Refers-To: <urn:uuid:237f71d7-cafa-4f6d-8aac-862b45a868e1>
+WARC-Block-Digest: sha1:6RERH4MDN5S4E6MRABE3DYI2FFLZOXSP
+Content-Type: text/plain
+Content-Length: 49
+
+Hanging around at the Dalston HouseNewsSportsLife
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaab/game/boxscore/l.ncaa.org.mbasket-2009-e.44186/
+WARC-Date: 2014-03-07T05:25:54Z
+WARC-Record-ID: <urn:uuid:adcdebb8-6eae-4618-b28b-6dd8be61cec0>
+WARC-Refers-To: <urn:uuid:f2ca6096-c65e-4163-963d-919ba4d21e8d>
+WARC-Block-Digest: sha1:AHJ4DY42QQRTXEJIGIVR3SFFTR7DGY37
+Content-Type: text/plain
+Content-Length: 61
+
+Tennessee Volunteers at Florida Gators | USA TODAY | BOXSCORE
+

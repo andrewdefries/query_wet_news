@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nba/game/boxscore/l.nba.com-2010-e.13602/
+WARC-Date: 2014-03-07T06:47:05Z
+WARC-Record-ID: <urn:uuid:06a12099-9108-4af2-ad29-bb21d2f66ff7>
+WARC-Refers-To: <urn:uuid:2770cda8-c5ae-4889-ba1a-a03b90b94a84>
+WARC-Block-Digest: sha1:PSUMDAWV7V2D7BIPRLCIQR5YUDOH7Y24
+Content-Type: text/plain
+Content-Length: 61
+
+New Orleans Pelicans at Boston Celtics | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaaf/kent-state/statistics/2013/season-regular/player/offense/
+WARC-Date: 2014-03-07T06:50:43Z
+WARC-Record-ID: <urn:uuid:ce5e5b02-a6ba-4f8f-81d2-151bc25efa9c>
+WARC-Refers-To: <urn:uuid:70503097-c813-4edc-8af3-d20773932c60>
+WARC-Block-Digest: sha1:7YN75DU7P5RVV3NXVX6XMS5YTWETYLFP
+Content-Type: text/plain
+Content-Length: 209
+
+USA Today | Sports | NCAAF | kent-stateNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideo
+

@@ -1,0 +1,61 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/news/2007/mar/07/guardianobituaries.military
+WARC-Date: 2014-03-07T06:54:18Z
+WARC-Record-ID: <urn:uuid:ce5209ff-6eae-4b6f-b396-54ffac2de99a>
+WARC-Refers-To: <urn:uuid:44c4df97-2a9d-4dc9-9e13-fbdc1283a19a>
+WARC-Block-Digest: sha1:OXAQLA6DMKE3ATNPMJCIW7ZTCUW4YI7L
+Content-Type: text/plain
+Content-Length: 50
+
+Obituary: Peter Fletcher | UK news | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/politics/2009/jul/15/boris-ian-clement-expenses
+WARC-Date: 2014-03-07T06:53:28Z
+WARC-Record-ID: <urn:uuid:3821f247-933d-4c51-9fe8-57a1a1b0c3f4>
+WARC-Refers-To: <urn:uuid:0e9f632f-664f-4fa5-bcd7-2d6ba41542e4>
+WARC-Block-Digest: sha1:D4OSLR2LW6HWJVGWX6YFARLKGHXZCUAL
+Content-Type: text/plain
+Content-Length: 103
+
+Boris Johnson accused of 'not doing proper job' over Ian Clement expenses | Politics | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2003/jan/31/politics.iraq1?view=mobile
+WARC-Date: 2014-03-07T06:45:18Z
+WARC-Record-ID: <urn:uuid:a68ac129-c386-4bce-bee8-74657ae86bf1>
+WARC-Refers-To: <urn:uuid:e2aafd4e-e70e-46b2-bdf8-10b7731449fd>
+WARC-Block-Digest: sha1:3G7BCGVJIUSDSPYBWTRHF5B7ENJT5JOO
+Content-Type: text/plain
+Content-Length: 71
+
+Blair pressed to back final deadline for war | world | theguardian.com
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2009/may/18/tamil-tigers-ltte-prabhakaran-death-srilanka
+WARC-Date: 2014-03-07T06:47:08Z
+WARC-Record-ID: <urn:uuid:7d766a2c-dfd3-4e43-9d8b-8ecd29f8e812>
+WARC-Refers-To: <urn:uuid:276d98f5-6483-4651-b689-9e8677521f83>
+WARC-Block-Digest: sha1:YO7FTYON5AXXPSRDHMFF62FRY3ALSCUL
+Content-Type: text/plain
+Content-Length: 106
+
+Prabhakaran's death and fall of LTTE lead to street celebrations in Sri Lanka | World news | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2012/mar/30/two-nato-troops-killed-afghanistan/print
+WARC-Date: 2014-03-07T06:49:07Z
+WARC-Record-ID: <urn:uuid:615d3217-e597-47ce-a2dc-c90a014980fc>
+WARC-Refers-To: <urn:uuid:931ba00e-592e-4763-9137-1fe41774a192>
+WARC-Block-Digest: sha1:XP5SVRRUS7LJBI4ZQH757ARJ6XFZC3ID
+Content-Type: text/plain
+Content-Length: 66
+
+Two Nato troops killed in Afghanistan | World news | The Guardian 
+

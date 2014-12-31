@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/education/2009/oct/27/crib-sheet-email
+WARC-Date: 2014-03-07T05:28:32Z
+WARC-Record-ID: <urn:uuid:865458ff-c60a-4c5c-89f6-b3b4c41d95b0>
+WARC-Refers-To: <urn:uuid:e96e1cf1-3be3-4a9e-adc1-c08efd161b72>
+WARC-Block-Digest: sha1:67CFGMVWGKDR4V45LZDICIIO5QC2KS5X
+Content-Type: text/plain
+Content-Length: 56
+
+Crib sheet email 27.10.09 | Education | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/politics/blog/2009/sep/22/liberal-democrat-conference-roundup
+WARC-Date: 2014-03-07T05:24:48Z
+WARC-Record-ID: <urn:uuid:d0281b44-8b59-4712-827e-5cd9a4e20231>
+WARC-Refers-To: <urn:uuid:6089de55-7465-4c3e-81c2-236fe58499f4>
+WARC-Block-Digest: sha1:X4D4BX7272LBLKOJACJKTX7TIVZBAKTQ
+Content-Type: text/plain
+Content-Length: 79
+
+Liberal Democrat conference at a glance: day four | Politics | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/technology/2009/may/14/games-game-theory
+WARC-Date: 2014-03-07T05:32:22Z
+WARC-Record-ID: <urn:uuid:c7f4e588-e6fa-4e33-baef-65b591825308>
+WARC-Refers-To: <urn:uuid:ac4a7f3b-a97c-42d4-9442-71e0e60887ba>
+WARC-Block-Digest: sha1:X4DPMBAC432FCNFPTXJBXF7U3L4NRJEP
+Content-Type: text/plain
+Content-Length: 97
+
+Game theory: Aleks Krotoski on Duke Nukem, who passed away last week | Technology | The Guardian 
+

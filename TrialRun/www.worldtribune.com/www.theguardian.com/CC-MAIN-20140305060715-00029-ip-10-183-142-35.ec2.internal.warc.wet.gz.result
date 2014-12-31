@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/education/2010/dec/09/police-tactics-tuition-fees-protest
+WARC-Date: 2014-03-07T05:32:13Z
+WARC-Record-ID: <urn:uuid:786a8388-d55e-4874-acc2-df277b4d73a0>
+WARC-Refers-To: <urn:uuid:193d4be4-508d-4111-b6f7-ad6b11447bd2>
+WARC-Block-Digest: sha1:RW4B3OE33KBKXHV4QV2HRY5TWR54YDLS
+Content-Type: text/plain
+Content-Length: 105
+
+Police tactics at tuition fees protest questioned after further angry clashes | Education | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/society/2006/may/03/politics.crime
+WARC-Date: 2014-03-07T05:35:55Z
+WARC-Record-ID: <urn:uuid:17f8e262-892d-4465-9edc-0d434ab8cbce>
+WARC-Refers-To: <urn:uuid:4aae569e-ac71-455c-a679-d1773b2d35eb>
+WARC-Block-Digest: sha1:IKO2C2456R2NGA6JQPYMJ75N47ENHOPA
+Content-Type: text/plain
+Content-Length: 53
+
+Interview: Baroness Corston | Society | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/stage/2009/aug/29/preview-dance-mob-london?INTCMP=ILCNETTXT3487
+WARC-Date: 2014-03-07T05:28:08Z
+WARC-Record-ID: <urn:uuid:a37d5efe-545e-40e0-9388-6c07052a90b0>
+WARC-Refers-To: <urn:uuid:8f1b8afc-3c6d-486d-bc73-06f06b5eb5f9>
+WARC-Block-Digest: sha1:JNIIYUF5BB2VS6IAS7W4K2BPV3REECZF
+Content-Type: text/plain
+Content-Length: 56
+
+Dance preview: Dance Mob, London | Stage | The Guardian 
+

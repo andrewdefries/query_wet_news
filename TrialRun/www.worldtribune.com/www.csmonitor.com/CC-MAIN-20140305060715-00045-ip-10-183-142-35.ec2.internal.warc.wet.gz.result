@@ -1,0 +1,29 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.csmonitor.com/Media/Content/2013/0328/0328-lion-kills-heron2
+WARC-Date: 2014-03-07T05:24:30Z
+WARC-Record-ID: <urn:uuid:34560477-03f0-4ddf-92c7-e46f12a93ca4>
+WARC-Refers-To: <urn:uuid:2c80d26f-dca6-403e-895a-3bdaff39b897>
+WARC-Block-Digest: sha1:5XMNLUQUAEW6NANW4A4VF4ASRFN46O7Q
+Content-Type: text/plain
+Content-Length: 102
+
+Lion Kills Heron at the Zoo - CSMonitor.com
+Skip to: Content
+Skip to: Site Navigation
+Skip to: Search
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.csmonitor.com/Photo-Galleries/In-Pictures/Drones-the-eye-in-the-sky/(photo)/366802
+WARC-Date: 2014-03-07T05:28:17Z
+WARC-Record-ID: <urn:uuid:8ba5f7bc-8e55-4515-b922-8d147dea7fd9>
+WARC-Refers-To: <urn:uuid:1ef2e421-fa9e-42c0-bd34-e772a1fb67d9>
+WARC-Block-Digest: sha1:GLDDGCAPKSRO4GK55ANQ4LDUDSFEJYPY
+Content-Type: text/plain
+Content-Length: 75
+
+Drones: the eye in the sky - The Christian Science Monitor - CSMonitor.com
+
+

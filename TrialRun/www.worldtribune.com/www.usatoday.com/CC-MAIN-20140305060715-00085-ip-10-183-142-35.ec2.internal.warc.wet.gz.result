@@ -1,0 +1,60 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/2343419/this-chevy-rat-rod-pops-wheelies/
+WARC-Date: 2014-03-07T05:24:55Z
+WARC-Record-ID: <urn:uuid:170ed2e0-6034-4095-9846-d11232ccdda8>
+WARC-Refers-To: <urn:uuid:5be99ca7-46e8-4f33-b43a-394a79c4f11d>
+WARC-Block-Digest: sha1:IGYZOEXUIFEJMMWF4GD7HMHCNWVQCCYB
+Content-Type: text/plain
+Content-Length: 34
+
+This Chevy 'rat rod' pops wheelies
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nba/pacers/schedule/
+WARC-Date: 2014-03-07T05:32:56Z
+WARC-Record-ID: <urn:uuid:751a48f1-2c31-4912-bab3-7ada6580d4e8>
+WARC-Refers-To: <urn:uuid:6eb4f769-67e3-44ed-a466-b89283be31e7>
+WARC-Block-Digest: sha1:U3KPREL6S5LLKBMT7QHR3VWVHVZSVSV4
+Content-Type: text/plain
+Content-Length: 252
+
+USA Today | Sports | NBA | pacersNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribeMorePhoto GalleriesYour TakeInteractives
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaaf/game/recap/l.ncaa.org.mfoot-2011-e.31905/
+WARC-Date: 2014-03-07T05:31:44Z
+WARC-Record-ID: <urn:uuid:f7184eb6-e72b-4177-b144-837cfbbce717>
+WARC-Refers-To: <urn:uuid:d43ec4d1-b1d9-49a7-ba10-f70c34819828>
+WARC-Block-Digest: sha1:5V3CWESWGXNCKDAZ7R7WWWP2UIMJE2AT
+Content-Type: text/plain
+Content-Length: 68
+
+Florida State Seminoles at Boston College Eagles | USA TODAY | RECAP
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/news/nation/2013/10/06/fire-california-marine-pendleton/2930531/
+WARC-Date: 2014-03-07T05:32:26Z
+WARC-Record-ID: <urn:uuid:f9f3e666-b895-4aad-8ebc-bebb40e94662>
+WARC-Refers-To: <urn:uuid:d5358e1c-fba4-4698-b2ef-e17455324902>
+WARC-Block-Digest: sha1:4OT4FUFFS562BLR7MPAYFC6NKEYMN7AB
+Content-Type: text/plain
+Content-Length: 93
+
+Small Calif. fire forces evacuation at Marine baseNewsSportsLifeMoneyTechTravelOpinionWeather
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/ncaaw/2013/02/25/brittney-griner-baylor-lady-bears-oklahoma-sooners/1947639/
+WARC-Date: 2014-03-07T05:29:23Z
+WARC-Record-ID: <urn:uuid:23f1896e-980a-4bb3-b28e-f6e5cf014860>
+WARC-Refers-To: <urn:uuid:e006960e-1b2f-41e0-9c80-f6f57598ab44>
+WARC-Block-Digest: sha1:4H72VFLTOQO34YPDGPBHNMEKF3L3UKAY
+Content-Type: text/plain
+Content-Length: 98
+
+No. 1 Baylor rolls Oklahoma, Griner climbs scoring listNewsSportsLifeMoneyTechTravelOpinionWeather
+

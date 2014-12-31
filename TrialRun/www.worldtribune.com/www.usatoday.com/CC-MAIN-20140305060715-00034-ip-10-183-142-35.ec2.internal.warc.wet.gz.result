@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/rightnow/?q=tech
+WARC-Date: 2014-03-07T05:26:18Z
+WARC-Record-ID: <urn:uuid:07d16775-2fc4-4dca-a8c3-6e4c221ad659>
+WARC-Refers-To: <urn:uuid:99592c8a-7651-4e39-a10e-d9777052ab5e>
+WARC-Block-Digest: sha1:7PGB7JYY3DOBJ2ZVRGZ7RW65Z7AOFLOE
+Content-Type: text/plain
+Content-Length: 203
+
+USA TODAY: Right NowNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribeMore
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/topic/ea84ac0f-fd46-4850-9b0a-b861a7daada7/moscow/
+WARC-Date: 2014-03-07T05:27:39Z
+WARC-Record-ID: <urn:uuid:5314c0c1-5a3c-4e41-9460-3a890b26a612>
+WARC-Refers-To: <urn:uuid:4680f420-fe23-43f1-880a-9ae56c1c1edd>
+WARC-Block-Digest: sha1:2QGHVYQLMDQ7MIKYDY4VVUZCREY4XU6I
+Content-Type: text/plain
+Content-Length: 217
+
+Moscow - Latest World & National News & Headlines - USATODAY.comNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGames
+

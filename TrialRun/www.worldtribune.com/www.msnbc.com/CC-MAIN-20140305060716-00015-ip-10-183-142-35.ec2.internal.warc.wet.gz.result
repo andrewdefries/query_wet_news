@@ -1,0 +1,13 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/morning-joe/top-talker-severe-weather-woes
+WARC-Date: 2014-03-07T06:45:48Z
+WARC-Record-ID: <urn:uuid:24def591-7ddd-4c98-a3dd-dc7311583b6c>
+WARC-Refers-To: <urn:uuid:11579878-af08-4e05-85e6-cd08862b77cf>
+WARC-Block-Digest: sha1:OVDTNUTF4WH73X2VAR5K5KJQ33AA2B3T
+Content-Type: text/plain
+Content-Length: 40
+
+Top Talker: Severe weather woes | MSNBC
+
+

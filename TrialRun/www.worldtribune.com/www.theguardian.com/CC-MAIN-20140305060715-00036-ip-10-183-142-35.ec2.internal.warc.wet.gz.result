@@ -1,0 +1,85 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/discussion/report-abuse/comment/15356469
+WARC-Date: 2014-03-07T05:30:39Z
+WARC-Record-ID: <urn:uuid:f0979827-af5a-46de-93f2-6066dbf3b187>
+WARC-Refers-To: <urn:uuid:8f9c18e5-67bb-4cbb-a2a6-2a03bde0af0c>
+WARC-Block-Digest: sha1:JCVBFS3HUFQBHTZ2A7A7CBWOQUBYVRR6
+Content-Type: text/plain
+Content-Length: 24
+
+Report abuse on comment
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/football/2008/feb/29/1/print
+WARC-Date: 2014-03-07T05:31:32Z
+WARC-Record-ID: <urn:uuid:f6472379-720f-4851-a3cd-2c20ddc49162>
+WARC-Refers-To: <urn:uuid:dadf7ac7-38c8-44a4-a58b-096ab33b8336>
+WARC-Block-Digest: sha1:ZP3RKN2M4J6NZH43BGGJJ36P3ZSTL5AN
+Content-Type: text/plain
+Content-Length: 77
+
+The Joy of Six: greatest captains by Paul Doyle | Football | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/2007/mar/07/ITV.broadcasting2
+WARC-Date: 2014-03-07T05:25:01Z
+WARC-Record-ID: <urn:uuid:5930a234-56d1-4fee-839d-d6c878a8bc0d>
+WARC-Refers-To: <urn:uuid:e8803675-249e-4843-9bf8-d1028d730d5b>
+WARC-Block-Digest: sha1:PK4BJTYXMXYW37HDVA5EPGV5X3T762W5
+Content-Type: text/plain
+Content-Length: 61
+
+Michael Grade raps ITV copycat shows | Media | MediaGuardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/greenslade/2011/oct/30/paywalls-canada
+WARC-Date: 2014-03-07T05:29:49Z
+WARC-Record-ID: <urn:uuid:98af23f2-2c0b-401d-bfc3-12b7f1b0450a>
+WARC-Refers-To: <urn:uuid:6260645d-82b8-478a-b13a-4f38d7952ab4>
+WARC-Block-Digest: sha1:Z5MAYQ7PQSQS7CEWFLGDKY6P4MPCR4MZ
+Content-Type: text/plain
+Content-Length: 66
+
+Big Canadian publisher opts for paywall | Media | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/society/2003/jun/01/health.medicineandhealth
+WARC-Date: 2014-03-07T05:25:39Z
+WARC-Record-ID: <urn:uuid:93bc3ad2-9434-403d-9ad6-175900b3dfe7>
+WARC-Refers-To: <urn:uuid:77823f63-3a9d-4170-9f7a-b9c093f60946>
+WARC-Block-Digest: sha1:NS64WRVTTEQTAWVTHLLSL3J2NOFZVPRP
+Content-Type: text/plain
+Content-Length: 67
+
+Bone risk in late life for small foetuses | Society | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/sport/2011/jul/04/brown-panther-st-leger-target
+WARC-Date: 2014-03-07T05:30:42Z
+WARC-Record-ID: <urn:uuid:ef326310-04b8-481c-a2b7-dc6be7f597e9>
+WARC-Refers-To: <urn:uuid:0b21533d-75bb-441c-9700-2dd47e902160>
+WARC-Block-Digest: sha1:3OG7FVLZAT5Q4SCXPNMPOMF4EIMTR33M
+Content-Type: text/plain
+Content-Length: 92
+
+Brown Panther 'fine' and still on target for Leger after German flop | Sport | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/sport/2012/may/27/britain-rowing-australia-world-cup
+WARC-Date: 2014-03-07T05:25:11Z
+WARC-Record-ID: <urn:uuid:f59b2262-eaaf-44f7-885b-255791168fec>
+WARC-Refers-To: <urn:uuid:77f61331-93b1-47b8-a786-b6f546c7a31e>
+WARC-Block-Digest: sha1:KIQFKEBMAICDA6MNSNRAZT6BUT3LW5ZB
+Content-Type: text/plain
+Content-Length: 90
+
+Britain's flagship four snatch victory from Australia in World Cup | Sport | The Guardian 
+

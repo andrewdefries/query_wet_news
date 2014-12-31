@@ -1,0 +1,26 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/rachel-maddow-show/obama-not-going-give-any-ground?lite=
+WARC-Date: 2014-03-07T06:45:26Z
+WARC-Record-ID: <urn:uuid:a94c9363-53a6-4f29-8f58-63fd9cb09d0d>
+WARC-Refers-To: <urn:uuid:422a2386-599e-4f87-a2bd-43891e7cbcd6>
+WARC-Block-Digest: sha1:25NNAJMGE5VE6RKML5FDZBTTNVTE4APD
+Content-Type: text/plain
+Content-Length: 63
+
+Obama 'not going to give any ground' on women's health | MSNBC
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/the-last-word/watch/fixing-the-obamacare-website-58122819988
+WARC-Date: 2014-03-07T06:47:05Z
+WARC-Record-ID: <urn:uuid:e4b0f786-4d37-4eda-813a-159aad39f43d>
+WARC-Refers-To: <urn:uuid:94b72593-f036-489c-b4d4-26ed75c5527f>
+WARC-Block-Digest: sha1:BKGAYEL6TWSD3ZJ6NDA7BNJMK5NDT3QQ
+Content-Type: text/plain
+Content-Length: 37
+
+Fixing the Obamacare website | MSNBC
+
+

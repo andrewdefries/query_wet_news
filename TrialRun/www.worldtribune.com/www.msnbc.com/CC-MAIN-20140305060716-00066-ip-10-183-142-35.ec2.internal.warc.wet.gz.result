@@ -1,0 +1,26 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/melissa-harris-perry/casualties-the-education-wars?lite=
+WARC-Date: 2014-03-07T06:44:40Z
+WARC-Record-ID: <urn:uuid:da29bce6-2105-494b-928a-3482463aa00e>
+WARC-Refers-To: <urn:uuid:48c3ddaf-0f05-4c89-98a3-35009cd8f3ac>
+WARC-Block-Digest: sha1:APU6OEWEK2VUFCGEHZHL25GQL36U25YP
+Content-Type: text/plain
+Content-Length: 41
+
+Casualties in the education wars | MSNBC
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/msnbc/boehner-digs-debt-default-the-path
+WARC-Date: 2014-03-07T06:44:25Z
+WARC-Record-ID: <urn:uuid:9a52b557-0da9-4e17-8719-14384e38b708>
+WARC-Refers-To: <urn:uuid:ffe025db-2cfc-4490-b9e3-3c24e4c5fd56>
+WARC-Block-Digest: sha1:RUZJB6S7GAU3ANIR2VWCNRJIIZM7YZAZ
+Content-Type: text/plain
+Content-Length: 63
+
+Boehner digs in: Debt default is 'the path we’re on' | MSNBC
+
+

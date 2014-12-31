@@ -1,0 +1,552 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/cgi-registry/wgbh/roadshow/archive_search.cgi?form=Football
+WARC-Date: 2014-03-07T05:29:08Z
+WARC-Record-ID: <urn:uuid:fac86bbd-e855-4e89-840f-f68d4656ab33>
+WARC-Refers-To: <urn:uuid:f78d254b-9da2-4f8c-b3ae-9472248e53f9>
+WARC-Block-Digest: sha1:7OH3ZTWN6ECSMSGFR7NRIB6MB3ULBY7K
+Content-Type: text/plain
+Content-Length: 2836
+
+Search Results | Roadshow Archive | PBS
+Antiques Roadshow Liberty Mutual InsuranceSubaru
+Collette
+Search Site SUPPORT PROVIDED BY
+ON TV
+about us
+schedule
+past cities
+appraisers
+host
+sponsors
+ON TOUR
+Bismarck
+Santa Clara
+Birmingham
+Austin
+Albuquerque
+Chicago
+New York City
+Charleston
+tickets
+furniture
+tour faq
+WATCH ONLINE
+WEB EXCLUSIVES
+follow the stories
+tips
+games
+your stories
+roadshow's most wanted
+RESOURCES
+glossary
+experts' library
+field trips
+for teachers
+shop AR
+SHOP
+view all merchandise
+apparel & accessories
+DVDs/Books/CDs
+gift sets
+start new searchreturn to results
+Archive Search Results
+Your search for form Football returned 8 results.
+1 next 1962 Signed Green Bay Packers FootballTags: Football, Leather, 1960sEpisode: Baton Rouge, Season 18 Appraiser: Leila Dunbar, Sports Memorabilia Value: $3,000-$5,000
+1958 Signed Baltimore Colts FootballTags: Football, 20th, CenturyEpisode: El Paso, Season 16 Appraiser: Jasmani Francis, Sports Memorabilia Value: $1,500-$2,000
+1963 & 1966 Green Bay Packers Signed FootballsTags: Football, Autograph, Leather, 20th, Century, 1960sEpisode: Greatest Gifts, Season 16 Appraiser: Mike Gutierrez, Sports Memorabilia Value: $7,000
+University of Southern California Football Memorabilia, ca. 1962Tags: Memorabilia, Football, Autograph, Watch, Ring, Leather, Metal, Stone, 20th, CenturyEpisode: Madison, Season 14 Appraiser: Mike Gutierrez, Collectibles Value: $5,000
+1969-1970 Gale Sayers JerseyTags: Jersey, Football, Cloth, 20th, CenturyEpisode: Mobile, Season 11 Appraiser: Simeon Lipman, Sports Memorabilia Value: $20,000-$30,000
+1965 Green Bay Packers FootballTags: Football, Leather, 20th, CenturyEpisode: Mobile, Season 11 Appraiser: Simeon Lipman, Sports Memorabilia Value: $5,000-$6,000
+1958 Topps Football Cello PacksTags: Football, Paper, 20th, Century, 1950sEpisode: Houston, Season 10 Appraiser: Simeon Lipman, Sports Memorabilia Value: $3,000-$6,000
+1891 Yale University Football BannersTags: Football, ClothEpisode: Providence, Season 10 Appraiser: Philip Weiss, Sports Memorabilia Value: $4,000-$8,000
+1 next START NEW SEARCH
+On TV
+About ANTIQUES ROADSHOW
+TV Schedule
+Past Cities
+Appraisers
+Our Host
+Our Sponsors
+On Tour
+Tour Schedule + Info
+Tickets
+Furniture
+Tour FAQ
+Web Exclusives
+Follow the Stories Articles
+Tips of the Trade Articles
+Appraise It Yourself Games
+Your Stories
+Roadshow's Most Wanted
+Resources
+FAQs
+Teacher's Guide
+Glossary
+Experts' Library
+Field Trips
+Appraisers
+Tips of the Trade Articles
+Telephone Scam Warning
+Other
+The ROADSHOW Archive
+Contact Us
+E-Newsletter Sign-up
+Support ROADSHOW
+Site + Series Credits
+PBS Privacy Policy
+ROADSHOW Imitators Warning This website is produced for PBS Online by WGBH. © 1997-2011 WGBH Educational Foundation.
+WGBH and PBS are not responsible for the content of websites linked to from ANTIQUES ROADSHOW Online.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/pov/regardingwar/conversations/blog-1/weekly-news-roundup-talking-in-kabul-air-assaults-civilian-deaths-and-irans-influence.php
+WARC-Date: 2014-03-07T05:31:39Z
+WARC-Record-ID: <urn:uuid:28c62726-a050-4e9e-a362-767625d5ee5a>
+WARC-Refers-To: <urn:uuid:c494a51b-e999-4b38-b0f8-ed2ff8f9ef3f>
+WARC-Block-Digest: sha1:WAU2TWEG6KS5B5EGUHIWMSQSJN3VMKI7
+Content-Type: text/plain
+Content-Length: 8401
+
+Weekly News Roundup: Talking in Kabul, Air Assaults, Civilian Deaths, and Iran's Influence | POV - Regarding War | PBS
+POV
+Regarding War
+';
+content += 'Edit profile' + separator;
+// content += separator + 'Sign out';
+content += 'Sign out';
+} else if (u && u.is_banned) {
+content = 'You do not have permission to sign in to this blog.';
+} else {
+content = 'Sign In';
+// content += separator + 'Not a member? Register';
+content += separator + 'Register';
+}
+el.innerHTML = content;
+}
+mtAttachEvent('usersignin', mtUpdateSignInWidget);
+mtUpdateSignInWidget();
+/* ]]> */
+Conversations
+Stories
+Watch Video
+Share Your Story
+Links & Resources
+About
+Conversations
+On the Regarding War blog, soldiers, veterans, and journalists will share their stories from Afghanistan, Iraq and other war zones. It will feature personal stories and opinions from those who have first-hand knowledge of past and current conflicts. Those at home directly affected by a family member serving in the military will also contribute. The blog is meant to be a place where ideas are exchanged and experiences are related in an effort to gain a better understanding of the realities and effects of war. Share your thoughts, raise a question, and join the conversation by leaving comments on the posts.
+Weekly News Roundup: Talking in Kabul, Air Assaults, Civilian Deaths, and Iran's Influence
+written by Matt Elliotton October 15, 2010
+The latest developments in Afghanistan center around talks of reconciliation between the Afghan government and the Taliban. The United States are not directly involved in the discussions, but Defense Secretary Robert Gates says, "there is access into the process and opportunities to make U.S. concerns and suggestions known." In order for the talks to take place, NATO has facilitated the safe passage of Taliban leaders to Kabul, according to Gen. David Petraeus. This short editorial in The Washington Times argues that the advantage lies with the Taliban, since they need only to wait until U.S. troops withdraw next year before expanding their presence in the country, while President Karzai and his government are motivated to reach an agreement now, while they have the backing of NATO.
+No one expects the talks to be easy or reconciliation to be reached quickly, and, indeed, violence in Afghanistan continues. Despite granting safe passage for some of the Taliban leadership to Kabul, NATO has reportedly killed the Taliban's second in command in Pakistan. "In a major setback to Taliban, missiles fired from US drones have killed its top commander and group's deputy chief Qari Hussain Mehsud, mastermind of many suicide attacks across Pakistan." This latest drone attack is part of an increased air assault, ushered in by Gen. Petraeus earlier this year. "Last month, NATO attack planes dropped their bombs and fired their guns on 700 separate missions, according to U.S. Air Force statistics. That's more than double the 257 attack sorties they flew in September 2009, and one of the highest single-month totals of the entire nine-year Afghan campaign."
+Not surprising, giving the heightened level of military activity, civilian deaths have risen sharply. In Kandahar, the number of Afghan civilians hospitalized for serious war wounds has doubled in the past 12 months. And the effect goes beyond direct war casualties, explains Reto Stocker, the Red Cross chief in Kabul:
+"Our greatest challenge consists in maintaining access to the areas hardest hit by the fighting, but the increase in the number of armed groups is making this much harder for us. The result is that children die from tetanus, measles and tuberculosis - easily prevented with vaccines - while women die in childbirth and otherwise strong men succumb to simple infections."
+Elsewhere, seven NATO troops across Afghanistan were killed on Thursday, on top of six NATO troops that were killed the day before. What is it like to be out on patrol in Afghanistan? This GlobalPost article provides a gripping narrative and an accompanying photo slide show of an American platoon that gets ambushed toward the end of a recent patrol.
+Our own blogger, Rajiv Srinivasan, has a post on The New York Times At War blog about a photo he saw after his return home that brought back vivid memories of his platoon in Afghanistan taking fire from a sniper.
+In Iraq this week, a Time Magazine report from Baghdad looks at Iraqis' bleak outlook of their country and compares pre-war Iraq with the current situation and economy.
+Perhaps part of the pessimism of Iraqis is the continued violence and the lack of any move toward formation of a legitimate government. The above article mentions that car bombs are still a regular event in Baghdad, and this Guardian report states, " 710 Iraqis had been killed this year with silenced pistols or rifles. At least 600 more had been killed by magnet bombs placed under the cars of officials, according to Baghdad's Major Crimes Unit. Hundreds more have been injured." Sobering figures.
+Iraqi officials this week claimed that the United States under reported the number of civilian deaths in the war. "On Thursday, the US military in Iraq released data showing 63,185 civilians and 13,754 members of Iraq's security forces were killed from early 2004 to August 2008, some 22,000 less than Iraq government figures."
+Lastly, this piece from The Atlantic argues that Iran's influence isn't nearly as great as the United States may think, after seeing Prime Minister Nouri al-Maliki receive the support of Shiite cleric Muqtada al-Sadr earlier this month.
+Iraqi nationalism and suspicion of Iranian intentions, nearly universal in Iraq, simply do not allow for the kind of Iranian power one hears about in the U.S. While Maliki and Sadr's ascent in Baghdad are in line with the Iranian desire for Shiite Islamist supremacy, their rise is a reflection of Iraq's demography and politics. Of course a Shiite-majority, Islamist-leaning country will elect a Shiite-majority, Islamist-leaning government. Unfortunately, this is how democracy works in a war-scarred country where ethno-sectarian identity remains stubbornly vital to political affiliation. Sadr's political participation, though it may make Iraq less likely to follow every American interest, is simply a reflection of the realities of Iraq's nascent, flawed democracy. Filed Under: Blog
+Tags: Afghanistan, casualties, Iran, iraq, patrol
+or e-mail a link
+Send a link to this post via email:
+To:
+From:
+Message (optional)
+Recommended.
+Rot recommended. Click here to recommend
+Like this
+0
+likes
+Previous post in topic
+Next post in topic
+Leave a comment
+Are you aware of our Comment Policy?
+Weekly News Roundup: Talking in Kabul, Air Assaults, Civilian Deaths, and Iran's Influence
+Not surprising, giving the heightened level of military activity, civilian deaths have risen sharply. In Kandahar, the number of Afghan civilians hospitalized for serious war wounds has doubled in the past 12 months.
+Please enable JavaScript to view the comments powered by Disqus.
+Matt Elliott
+Editor and Web producer
+Author's recent posts
+In Conversations:
+The End of Regarding War »
+Weekly News Roundup: Taking Stock of Afghanistan, a Rare Look at the Taliban, FET Photos »
+Weekly News Roundup: Obama Touches Down in Afghanistan, Diplomatic Cables Hit the Internet »
+Weekly News Roundup: A New Date and Weapons in Afghanistan, Medal of Honor for Giunta Back Home »
+Weekly News Roundup: Veterans Day, Four More Years in Afghanistan »
+In Stories:
+Three Stories From Frontline's The Wounded Platoon »
+Purple Hearts Elusive For Traumatic Brain Injuries »
+Read more by Matt Elliott »
+Subscribe to Matt Elliott's posts
+Back to
+Blog
+Share the Site
+Twitter
+Facebook
+Email
+Share Stories
+Share your story
+Popular tags
+Afghanistan»
+army»
+combat»
+deployment»
+family»
+female soldiers»
+iraq»
+media»
+memorial»
+military spouse»
+news roundup»
+ptsd»
+Q&A»
+spouses»
+veteran»
+veterans»
+vietnam»
+women»
+women and war»
+women in war»
+Most Popular
+Links on Delicious
+Follow us on Delicious
+Funded in Part By
+Blog
+Stories
+Watch Video
+Share Your Story
+Links & Resources
+About
+POV
+Press Room
+Support Independent Programming. Pledge Now »
+Discover Films
+Explore Topics
+Watch Video
+Take Action
+Filmmakers
+For Educators
+Blog
+About POV
+Contact Us
+TV Schedule
+POV is a production of American Documentary, Inc.
+Copyright © 1995–2009 American Documentary, Inc.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/soptv/400years/en/
+WARC-Date: 2014-03-07T05:28:52Z
+WARC-Record-ID: <urn:uuid:10697587-23ae-4396-8e8f-2adf4c1d0384>
+WARC-Refers-To: <urn:uuid:af210036-7485-4c3e-ad4a-9af89824c9db>
+WARC-Block-Digest: sha1:IO42LVOPUCEZAA5EAKUPWHOAYJXFMBSB
+Content-Type: text/plain
+Content-Length: 1830
+
+400 Years of the Telescope | A Journey of Science, Technology and Thought
+ENGLISH ESPAÑOL
+Click here for a larger preview.
+Panoramic visuals and engaging interviews make 400 Years of the Telescope the must-see documentary of the International Year of Astronomy in 2009.
+Beautifully photographed in 4K digital cinematography, the film is a visually stunning chronicle of the history of the telescope from the time of Galileo, its profound impact upon the science of astronomy, and how both shape the way we view ourselves in the midst of an infinite universe.
+The film features interviews with leading astrophysicists and cosmologists from the world's renowned universities and observatories, who explain concepts ranging from Galileo's act of revealing the cosmos with a simple telescope, to the latest discoveries in space, including startling new ideas about life on other planets and dark energy — a mysterious vacuum energy that is accelerating the expansion of the universe.
+Join us on this companion website to explore this fascinating subject as you meet the film's producers and their worldwide search for the world's greatest telescopes, enjoy captivating interviews with brilliant personalities, learn about planetarium programs in your area and discover local and faraway opportunities to experience our incredible universe firsthand.
+Richard Green — Large Binocular Telescope (LBT)English Galileos 1610 Starry Messenger Will Be on Display at NASA Scientist Michelle Thallers Lecture on Galileo and the Telescope
+Djelic at closing ceremony of International Year of Astronomy
+Where is a good place to stargaze in my area?
+MORE NEWS
+Why I became an astronomer
+Geoff Marcy - University of California, Berkeley
+HIGH MORE VIDEO
+400 Years of the telescope (DVD)
+Order your copy of this extraordinary film today!
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/wgbh/americanexperience/features/primary-resources/lincolns-Fitzhugh/
+WARC-Date: 2014-03-07T05:31:09Z
+WARC-Record-ID: <urn:uuid:4b09a864-1482-4d71-ae51-bea3762062b6>
+WARC-Refers-To: <urn:uuid:3de39eb4-0e9c-4b8d-a5d6-e914d7dd908b>
+WARC-Block-Digest: sha1:ZN4DN6DMG6GC2LCJJAKJNTBB7HWML6YX
+Content-Type: text/plain
+Content-Length: 5815
+
+A Defender of Slavery .
+Abraham and Mary Lincoln: A House Divided
+. WGBH American Experience
+| PBS
+American Experience: TV's most-watched history series.
+Broadcast Schedule
+All Films
+Special Features
+Series Blog
+Shop American Experience
+Search American Experience
+Exclusive corporate funding provided by: Liberty Mutual
+Major funding by: Alfred P. Sloan Foundation
+Watch Preview
+Buy the DVD
+Preview:
+Abraham and Mary Lincoln: A House Divided
+Introduction:
+Abraham and Mary Lincoln: A House Divided
+Photo Gallery:
+Political Cartoons of the 1860s
+Photo Gallery:
+Urban Slave Quarters
+Photo Gallery:
+Technology
+Photo Gallery:
+The Camera Goes to War
+Photo Gallery:
+African American Soldiers
+Timeline:
+Political Party Timeline: 1836-1864
+Timeline:
+African Americans in the Civil War
+Virtual Tour:
+Slave Quarters
+Virtual Tour:
+Medical Field Tent
+Virtual Tour:
+New England Mill
+Bonus Video:
+Interview with Historian Margaret Washington
+Bonus Video:
+Interview with Historian Ira Berlin
+Bonus Video:
+Interview with Historian Joseph Glatthaar
+Bonus Video:
+Interview with Historian Catherine Clinton
+Bonus Video:
+Interview with Historian Elizabeth Young
+Bonus Video:
+Interview with Producer David Grubin
+Bonus Video:
+Interview with Cinematographer James Callanan
+General Article:
+Newspaper Opinions
+General Article:
+Shifting Political Landscape
+General Article:
+The Battle for Abolition
+General Article:
+The Underground Railroad
+General Article:
+In the North
+General Article:
+Wage Slavery
+General Article:
+The Battle of Fredericksburg
+General Article:
+Women in the War
+General Article:
+Antebellum Women's Rights
+General Article:
+Literary Women
+General Article:
+On the Eve of War
+General Article:
+Civil War Photographers
+Primary Resources:
+A War Begins
+Primary Resources:
+Responses to John Brown's Raid at Harper's Ferry
+Primary Resources:
+A Greater Sin
+Primary Resources:
+The Golden Rule
+Primary Resources:
+Inconsistencies of Slavery in a Christian Nation
+Primary Resources:
+The Church and Slavery
+Primary Resources:
+Regarding John Brown
+Primary Resources:
+The Christian Constable
+Primary Resources:
+The Political Economy of Slavery
+Primary Resources:
+He Is Not Hers
+Primary Resources:
+The Miseries We Tasted
+Primary Resources:
+We Are of Another Race
+Primary Resources:
+Results of the Fugitive Slave Act
+Primary Resources:
+I am a True Born American
+Primary Resources:
+Defending Slavery: Comparing Factory Workers and Slaves
+Primary Resources:
+A Defender of Slavery
+Primary Resources:
+A Nurse's Diary
+Primary Resources:
+Speaking Out For Women's Equality
+Primary Resources:
+Women Writers and Literary Activism
+Primary Resources:
+News Clippings: A Confederate Spy in Prison
+Primary Resources:
+The Press and Abolition
+Primary Resources:
+The Press and Army Morale
+Cast & Crew:
+Film Credits
+Transcript:
+Abraham and Mary Lincoln: A House Divided
+Further Reading:
+Related Books and Websites
+Teacher's Resources:
+Teacher's Guide
+Part of the Collection: Share Primary Resources: A Defender of Slavery
+Other Primary Resources
+Excerpt from George Fitzhugh, Cannibals All! Or, Slaves Without Masters.
+The negro slaves of the South are the happiest, and, in some sense, the freest people in the world. The children and the aged and infirm work not at all, and yet have all the comforts and necessities of life provided for them. They enjoy liberty, because they are oppressed neither by care nor labor. The women do little hard work, and are protected from the despotism of their husbands by their masters. The negro men and stout boys work, on the average, in good weather, not more than nine hours a day. The balance of their time is spent in perfect abandon. Besides, they have their Sabbaths and holidays. White men, with so much of license and liberty, would die of ennui; but negroes luxuriate in corporeal and mental repose. With their faces upturned to the sun, they can sleep at any hour; and quiet sleep is the greatest of human enjoyments. "Blessed be the man who invented sleep." 'tis happiness in itself-and results from contentment with the present, and confident assurance of the future. We do not know whether free laborers ever sleep. They are fools to do so; for, whilst they sleep, the wily and watchful capitalist is devising means to ensnare and exploitate them. The free laborer must work or starve. He is more of a slave than the negro, because he works longer and harder for less allowance than the slave, and has no holiday, because the cares of life with him begin when its labors end. He has no liberty, and not a single right. We know, 'tis often said, air and water are common property, which all have equal right to participate and enjoy; but this is utterly false. The appropriation of the lands carries with it the appropriation of all on or above the lands, usque ad coelum, aut ad inferos. (Even to heaven or hell.) A man cannot breathe the air without a place to breathe it from, and all places are appropriated. All water is private property "to the middle of the stream," except the ocean, and that is not fit to drink.
+Fitzhugh, George. Cannibals All! Or, Slaves Without Masters. Richmond, Va.: A. Morris, 1857.
+Share Shop PBS
+Buy Abraham and Mary Lincoln: A House Divided on DVD
+My American Experience
+Share Your Story
+Of America's first 25 presidents, who is your favorite? From George Washington to William McKinley, which of the new country's leaders most helped shape America in its first century of existence?
+Which of the First 25 Presidents is Your Favorite?
+Teachers' Resources
+Follow us on:
+Facebook
+Flickr
+Twitter
+YouTube
+About the Series
+Podcasts
+Contact Us
+Sign up for our Newsletter
+Shop PBS
+For Teachers
+Mobile Version
+Terms of Use
+Privacy Policy
+Corporate Sponsorship
+Website ©1996-2013 WGBH Educational Foundation. This site is produced for PBS by WGBH
+Additional Funding Provided By:
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.pbs.org/wgbh/roadshow/archive/200401A14.html
+WARC-Date: 2014-03-07T05:30:51Z
+WARC-Record-ID: <urn:uuid:f1fdb9ad-21ff-46b4-b96f-66e1f15e542f>
+WARC-Refers-To: <urn:uuid:051582fa-6376-492d-9435-1644365b0632>
+WARC-Block-Digest: sha1:TB5662JKDHMZPDB3JXNKVPBNK7DGIOOO
+Content-Type: text/plain
+Content-Length: 4103
+
+Aviation Collection, ca. 1920
+| Roadshow Archive | PBS
+Antiques Roadshow
+Liberty Mutual
+Subaru
+Collette
+Search Site
+SUPPORT PROVIDED BY
+ON TV
+about us
+schedule
+past cities
+appraisers
+host
+sponsors
+ON TOUR
+Bismarck
+Santa Clara
+Birmingham
+Austin
+Albuquerque
+Chicago
+New York City
+Charleston
+tickets
+furniture
+tour faq
+WATCH ONLINE
+WEB EXCLUSIVES
+follow the stories
+tips
+games
+your stories
+roadshow's most wanted
+RESOURCES
+glossary
+experts' library
+field trips
+for teachers
+shop AR
+SHOP
+view all merchandise
+apparel & accessories
+DVDs/Books/CDs
+gift sets
+start new searchreturn to results
+Aviation Collection, ca. 1920
+Appraised Value: $25,000
+Appraised on: June 26, 2004
+Appraised in: St. Paul, Minnesota
+Appraised by: Christopher Coover
+Category: Books & Manuscripts
+Episode Info: St. Paul, Hour 3 (#903)
+Originally Aired: January 17, 2005
+IMAGE: 1 of 2
+More Like This:
+Appraisal Video: (2:20)
+Appraised By:
+Christopher Coover
+Books & Manuscripts
+Senior Vice President & Senior Specialist, Rare Books and Manuscripts
+Christie's
+Appraisal Transcript:
+GUEST: This is a life's work of my great-grandfather's. He was an aviation pioneer, mainly out of the state of Michigan.APPRAISER: We have a huge album here of clippings, letters, photographs, programs, tickets, you name it. And we have this stack of original early-aviation photographs collected by your grandfather.GUEST: Yes. There's his picture.APPRAISER: His name was Wayne Sheldon.GUEST: Correct.APPRAISER: And, uh, he was obviously someone fascinated by early aviation and its pioneers particularly. So I was struck by some of the images in this wonderful collection you have. Manned flight began with the Wright brothers, of course, and his scrapbook has three nice early shots of the Wright Flyer, 3. Uh, another Wright machine over here, and this is rather nice. This is one of the Wright brothers himself at the controls of his aircraft. Here's an early helicopter... a strange, birdlike machine that someone built. And... let's look at this little group as well. A lot of images of Glenn Curtiss, who was one of the pioneers along with the Wrights. In fact, they later formed a company together. And didn't your grandfather work for the Curtiss-Wright Company?GUEST: Correct.APPRAISER: Uh, this shows some of Curtiss's early experiments: a sort of motor-powered bike, an ice boat powered by a propeller. And over here you have a picture of Curtiss and Alexander Graham Bell, a few of the other early pioneers. What struck me about the collection particularly was how carefully captioned all these were by your grandfather. He identified the individual who was the pilot, the aircraft, the date of the flight, and that kind of documentation is very special and I think it adds to the appeal and the importance of the collection.GUEST: Great.APPRAISER: It's such an enormous group of material that it's hard to value just for its complexity. My own feeling is, though, that it should be worth something in the neighborhood of $25,000. Possibly more, depending on what's in these enormous books.GUEST: Great. Thank you.APPRAISER: The most valuable part of the collection is the photographs, without a doubt.
+On TV
+About ANTIQUES ROADSHOW
+TV Schedule
+Past Cities
+Appraisers
+Our Host
+Our Sponsors	Corporate Sponsorship
+On Tour
+Tour Schedule + Info
+Tickets
+Furniture
+Tour FAQ
+Web Exclusives
+Follow the Stories Articles
+Tips of the Trade Articles
+Appraise It Yourself Games
+Your Stories
+Roadshow's Most Wanted
+Resources
+Shop
+FAQs
+Teacher's Guide
+Glossary
+Experts' Library
+Field Trips
+Appraisers
+Tips of the Trade Articles
+Telephone Scam Warning
+Other
+The ROADSHOW Archive
+Contact Us
+E-Newsletter Sign-up
+Support ROADSHOW
+Site + Series Credits
+PBS Privacy Policy
+ROADSHOW Imitators Warning This website is produced for PBS Online by WGBH Boston. ©1997-2013 WGBH Educational Foundation.
+ANTIQUES ROADSHOW is a trademark of the BBC and is produced for PBS by WGBH under license from BBC Worldwide.
+WGBH and PBS are not responsible for the content of websites linked to or from ANTIQUES ROADSHOW Online.
+PBS is a 501(c)(3) not-for-profit organization.
+
+

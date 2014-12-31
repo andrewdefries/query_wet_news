@@ -1,0 +1,51 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/izharcohen/page/0,,1543375,00.html
+WARC-Date: 2014-03-07T05:24:43Z
+WARC-Record-ID: <urn:uuid:7fc9659e-e5a2-4e24-8d36-6c4891249208>
+WARC-Refers-To: <urn:uuid:e0e28054-1cf9-45f2-906b-b40ad9efd5f7>
+WARC-Block-Digest: sha1:YAZ7UEVD7UQHZDV247CGCJJIDVKGQE5M
+Content-Type: text/plain
+Content-Length: 48
+
+Shelf life | Izhar Cohen | guardian.co.uk Books 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/2008/jan/16/realfears
+WARC-Date: 2014-03-07T05:25:50Z
+WARC-Record-ID: <urn:uuid:2e95cd78-90f8-4a2b-931d-a77f48781b6e>
+WARC-Refers-To: <urn:uuid:62c77896-22bd-4529-b21d-58ebabe4bdbb>
+WARC-Block-Digest: sha1:NFPOULL3F4SVFYKSWNVK5YWHZ7MQYLRA
+Content-Type: text/plain
+Content-Length: 47
+
+Real fears | Comment is free | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/2013/feb/19/all
+WARC-Date: 2014-03-07T05:27:10Z
+WARC-Record-ID: <urn:uuid:fa99342a-7e8b-44c4-9e76-3b7fb9ae617d>
+WARC-Refers-To: <urn:uuid:ab9f716c-28cf-4c80-82f0-eb94db844f21>
+WARC-Block-Digest: sha1:DLXM25GSWO2ET74MWA2YP743ZZDFX7LV
+Content-Type: text/plain
+Content-Length: 50
+
+All
+media
+stories 19 February 2013 | The Guardian
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2010/dec/21/european-commission-communist-crimes-nazism
+WARC-Date: 2014-03-07T05:32:38Z
+WARC-Record-ID: <urn:uuid:60a6794d-8428-435a-8a47-1cf21e0a8c7c>
+WARC-Refers-To: <urn:uuid:38bccd96-525e-4eb0-8d1a-456360098a63>
+WARC-Block-Digest: sha1:VFLMIK7WH2M676KHCA2T4QYZPF5E7GAQ
+Content-Type: text/plain
+Content-Length: 108
+
+EU rejects eastern states' call to outlaw denial of crimes by communist regimes | World news | The Guardian 
+

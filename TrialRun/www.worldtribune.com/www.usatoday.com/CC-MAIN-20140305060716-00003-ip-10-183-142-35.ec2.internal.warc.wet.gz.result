@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/game/recap/l.mlb.com-2013-e.38748/
+WARC-Date: 2014-03-07T06:46:55Z
+WARC-Record-ID: <urn:uuid:edc59624-6d2b-4e7b-b8ff-5caaaa1af9be>
+WARC-Refers-To: <urn:uuid:a2a12f2d-7750-4471-8ae2-dc59f33b532e>
+WARC-Block-Digest: sha1:473V52NRSVCMJ6TGISPOMEJNV7Y2CGWV
+Content-Type: text/plain
+Content-Length: 50
+
+Miami Marlins at New York Mets | USA TODAY | RECAP
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nba/game/boxscore/l.nba.com-2010-e.13140/
+WARC-Date: 2014-03-07T06:44:37Z
+WARC-Record-ID: <urn:uuid:0d608544-279f-4aac-bac1-5fe005579b24>
+WARC-Refers-To: <urn:uuid:912907a3-6c4f-421b-bbee-ca747c6b746a>
+WARC-Block-Digest: sha1:VV4PUZ6KZMGBFD25HRBC4P2NKGXRE5J2
+Content-Type: text/plain
+Content-Length: 56
+
+Memphis Grizzlies at Phoenix Suns | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaaf/clemson/statistics/2013/season-regular/team/special-teams/
+WARC-Date: 2014-03-07T06:52:35Z
+WARC-Record-ID: <urn:uuid:9b2a2df9-16fd-487e-86fd-9c2939e392d9>
+WARC-Refers-To: <urn:uuid:5b03f505-dc80-46d9-921e-f43b040e3d19>
+WARC-Block-Digest: sha1:NPTAJOD6KMQ6LMKQISOVZD2PFYF7M6WL
+Content-Type: text/plain
+Content-Length: 195
+
+USA Today | Sports | NCAAF | clemsonNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScores
+

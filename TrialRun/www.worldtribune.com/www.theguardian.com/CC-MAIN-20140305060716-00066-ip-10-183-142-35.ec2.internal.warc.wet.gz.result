@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/music/2012/jul/06/beth-ditto-singer-songwriter?newsfeed=true
+WARC-Date: 2014-03-07T06:44:26Z
+WARC-Record-ID: <urn:uuid:78cb733c-f581-477d-975e-f52cdd602e03>
+WARC-Refers-To: <urn:uuid:bd9d81db-763a-40e4-98d4-45b519ad45aa>
+WARC-Block-Digest: sha1:5JSV6ZM4HMTSPXO5BPGH2U426F3ZBACX
+Content-Type: text/plain
+Content-Length: 39
+
+Q&A: Beth Ditto | Music | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/society/2013/dec/16/gay-marriage-abbott-plays-down-vote
+WARC-Date: 2014-03-07T06:43:59Z
+WARC-Record-ID: <urn:uuid:d019fe88-401f-43cb-a70a-5a71f9d38896>
+WARC-Refers-To: <urn:uuid:5977ba1c-cb84-4ab0-ae96-6ed0808c885d>
+WARC-Block-Digest: sha1:5EWZX7OPPDE4HZQ2QU2ANVXSTQU5XETE
+Content-Type: text/plain
+Content-Length: 92
+
+Same-sex marriage: Abbott plays down chances of conscience vote | Society | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/travel/2004/aug/11/tunisia
+WARC-Date: 2014-03-07T06:44:40Z
+WARC-Record-ID: <urn:uuid:7ccaeb42-7a2e-4b5c-9573-35b501589fb0>
+WARC-Refers-To: <urn:uuid:aa4c0890-1037-4700-b2f7-97311104ecca>
+WARC-Block-Digest: sha1:WDY3RSWTJRSN5CWR72VNHQTWNYQN6RKF
+Content-Type: text/plain
+Content-Length: 47
+
+From dust till dawn | Travel | theguardian.com 
+

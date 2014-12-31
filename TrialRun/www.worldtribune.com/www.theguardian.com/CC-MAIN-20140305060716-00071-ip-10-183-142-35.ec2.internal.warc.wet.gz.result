@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/2013/feb/10/financial-times-editor-lionel-barber
+WARC-Date: 2014-03-07T06:44:02Z
+WARC-Record-ID: <urn:uuid:79a646e8-ce8c-4369-8d71-22fc1ad8c39f>
+WARC-Refers-To: <urn:uuid:33331454-290f-42d7-9232-68522f928c4f>
+WARC-Block-Digest: sha1:B77GFPC63YGRQVFTJKYLFUFXUH7JTH4J
+Content-Type: text/plain
+Content-Length: 93
+
+Financial Times editor Lionel Barber: 'News now is not the newspaper' | Media | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/pda/2008/mar/09/nickdentonandtheobservers
+WARC-Date: 2014-03-07T06:45:05Z
+WARC-Record-ID: <urn:uuid:5aca8070-ae49-4a4e-9342-da488a7248d1>
+WARC-Refers-To: <urn:uuid:067b9cc1-bb19-4643-bda5-0b70f325a080>
+WARC-Block-Digest: sha1:BQRQ4GGPYRPKLMHT5GFNUSDLX2354FOW
+Content-Type: text/plain
+Content-Length: 73
+
+Nick Denton and the Observer's favourite blogs | Media | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/theguardian/from-the-archive-blog+media/series/guardian-190
+WARC-Date: 2014-03-07T06:47:50Z
+WARC-Record-ID: <urn:uuid:a8a6c01f-2482-48d4-81d2-e1eff1579b55>
+WARC-Refers-To: <urn:uuid:31250be6-e348-4e0d-b888-7efba5fe3db7>
+WARC-Block-Digest: sha1:5GGAQNBKYOCCMQWRDNTHFEPBHLODNDFS
+Content-Type: text/plain
+Content-Length: 72
+
+From the archive blog + Guardian 190 | From the Guardian | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/travel/2002/sep/02/userstraveladvice1
+WARC-Date: 2014-03-07T06:44:36Z
+WARC-Record-ID: <urn:uuid:8942fd80-5ca5-4a23-b80a-495a958e0078>
+WARC-Refers-To: <urn:uuid:de76b64f-658f-4fa9-b490-9e21982a5d15>
+WARC-Block-Digest: sha1:ELIQAOUC26NCAITM5XBQ7QB4F7QUXZIV
+Content-Type: text/plain
+Content-Length: 74
+
+Checking the credentials of Nepalese charities | Travel | theguardian.com 
+

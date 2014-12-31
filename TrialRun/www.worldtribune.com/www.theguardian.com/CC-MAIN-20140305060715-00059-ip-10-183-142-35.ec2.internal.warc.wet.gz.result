@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/artanddesign/gallery/2009/feb/05/gallery-christies-impressionist-sale
+WARC-Date: 2014-03-07T05:25:57Z
+WARC-Record-ID: <urn:uuid:a6dcbe14-bee9-4a9b-924d-55f133eb0f93>
+WARC-Refers-To: <urn:uuid:badf8af3-d82b-443e-a22c-e70dd23d5a09>
+WARC-Block-Digest: sha1:CLUAX7TPRP7G46JB2DFR3XUVUCJ7KNRC
+Content-Type: text/plain
+Content-Length: 96
+
+Christie's art sale: Impressionist works go under the hammer | Art and design | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2012/may/20/waterstones-e-reader-strategy-james-daunt
+WARC-Date: 2014-03-07T05:26:16Z
+WARC-Record-ID: <urn:uuid:e212fedd-a878-4968-9f36-a3bb6b880bcf>
+WARC-Refers-To: <urn:uuid:8e4edcd2-be61-456d-af2e-b058da957a37>
+WARC-Block-Digest: sha1:QLLU34SDFCYMXTICEUFYLVAMI37PAOS6
+Content-Type: text/plain
+Content-Length: 75
+
+Waterstones boss poised to join the e-reader battle | Books | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/politics/2013/may/01/lib-dem-claims-education-spending/print
+WARC-Date: 2014-03-07T05:26:06Z
+WARC-Record-ID: <urn:uuid:3ecbb62f-6647-4666-9375-2adb264203fa>
+WARC-Refers-To: <urn:uuid:1aa173d9-58f1-4047-b5d4-a39427145a90>
+WARC-Block-Digest: sha1:2Q3TXLA6WMCE2Y5PBM4ITDH2TYVLRMYX
+Content-Type: text/plain
+Content-Length: 72
+
+Letters: Lib Dem claims on education spending | Politics | The Guardian 
+

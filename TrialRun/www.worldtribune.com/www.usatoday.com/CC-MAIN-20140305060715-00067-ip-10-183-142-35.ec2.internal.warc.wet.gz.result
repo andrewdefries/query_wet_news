@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nfl/arrests/2000/phi/wr/
+WARC-Date: 2014-03-07T05:32:09Z
+WARC-Record-ID: <urn:uuid:0499354b-29b9-405b-90ac-8dd6aafaf519>
+WARC-Refers-To: <urn:uuid:d6383c25-31c6-4df2-b6dd-9ec319d07ff4>
+WARC-Block-Digest: sha1:PH4ISCVZHQPKP5ZR7H3IPB62H4PHLMTL
+Content-Type: text/plain
+Content-Length: 163
+
+USA Today | Sports | NFLNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/boxing/2012/10/21/for-danny-garcia-knockout-of-morales-is-start-of-something-big/1648579/
+WARC-Date: 2014-03-07T05:26:15Z
+WARC-Record-ID: <urn:uuid:ad81c6e9-ba26-4811-b36d-eb1fe0e9e0c3>
+WARC-Refers-To: <urn:uuid:648c944d-2305-4f16-8d61-5ea236b6ef1a>
+WARC-Block-Digest: sha1:7VLAU7P442XROZ7QEXWK4HOQJA2UQB5B
+Content-Type: text/plain
+Content-Length: 94
+
+For Garcia, KO of Morales is start of something bigNewsSportsLifeMoneyTechTravelOpinionWeather
+

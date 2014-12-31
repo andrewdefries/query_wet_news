@@ -1,0 +1,72 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/film/2005/jan/29/classics.film
+WARC-Date: 2014-03-07T05:24:41Z
+WARC-Record-ID: <urn:uuid:388c1b4c-df4d-48a5-8a66-938c603a3328>
+WARC-Refers-To: <urn:uuid:a137f0c7-936e-4f0a-b89f-1930d8063e1f>
+WARC-Block-Digest: sha1:DJAONKGMOAT33V44NTV3LFDRYR545I7M
+Content-Type: text/plain
+Content-Length: 54
+
+F Scott Fitzgerald in Hollywood | Film | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/housing-network/2012/feb/24/home-work-company-town-model
+WARC-Date: 2014-03-07T05:27:15Z
+WARC-Record-ID: <urn:uuid:c386c876-5eb3-499a-a40c-964adbb7c928>
+WARC-Refers-To: <urn:uuid:46b66273-1c6e-4f72-896d-10cdb015665a>
+WARC-Block-Digest: sha1:FSNQQZ34PSIOXWHSAG5XQZ7ZWC6QRJZN
+Content-Type: text/plain
+Content-Length: 89
+
+Home from work: the company town housing model | Housing Network | Guardian Professional 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/money/appsblog/2012/mar/30/uk-banks-apps-of-the-week?utm_source=twitterfeed&utm_medium=twitter
+WARC-Date: 2014-03-07T05:36:32Z
+WARC-Record-ID: <urn:uuid:a4751a4d-3acd-4040-b3bd-b158291d2dbb>
+WARC-Refers-To: <urn:uuid:2ec5ec93-c427-48a3-bc02-01985d8cefa2>
+WARC-Block-Digest: sha1:ZVAGAD6L46F4LMPSHMT7SYG7KHVH2W6R
+Content-Type: text/plain
+Content-Length: 79
+
+UK's high street banking - consumer apps of the week | Money | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/music/2011/feb/16/james-watson-obituary
+WARC-Date: 2014-03-07T05:37:06Z
+WARC-Record-ID: <urn:uuid:120a7a13-8cfa-4886-90c6-6fa876203332>
+WARC-Refers-To: <urn:uuid:113329dc-8616-4cde-b1a3-2e92155ff80a>
+WARC-Block-Digest: sha1:QDZ2HPCA3GMD5MCCGNWR4DMBAQF6OFTE
+Content-Type: text/plain
+Content-Length: 45
+
+James Watson obituary | Music | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/science/2010/oct/29/flamingo-pink-plumage-makeup
+WARC-Date: 2014-03-07T05:35:02Z
+WARC-Record-ID: <urn:uuid:d2e2041c-a0a8-4378-b61a-f9caf3809caf>
+WARC-Refers-To: <urn:uuid:5623b980-3089-4760-aff2-2219b3f40e0d>
+WARC-Block-Digest: sha1:LOO2HNKOC6DPWXQVG5OOWKENZX5L35JS
+Content-Type: text/plain
+Content-Length: 64
+
+Flamingos apply oils to look pinker | Science | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2009/oct/30/obama-ends-hiv-travel-ban
+WARC-Date: 2014-03-07T05:29:02Z
+WARC-Record-ID: <urn:uuid:ab30f4f2-bb61-4474-b379-b156f6f5b54e>
+WARC-Refers-To: <urn:uuid:30bfacc9-8c5b-463c-8951-89e373c06370>
+WARC-Block-Digest: sha1:B6AJ4CG3UNCPKHV7M5GML35I7GGXDVNJ
+Content-Type: text/plain
+Content-Length: 77
+
+Obama overturns travel ban on people with HIV | World news | theguardian.com 
+

@@ -1,0 +1,12 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theonion.com/articles/the-basement,26769/
+WARC-Date: 2014-03-07T05:26:20Z
+WARC-Record-ID: <urn:uuid:f0850278-4879-4e96-8908-2f66d5ca250e>
+WARC-Refers-To: <urn:uuid:6fc7c59a-3aad-42d3-9334-d629260cf42b>
+WARC-Block-Digest: sha1:4QJ5LSAUGUXSTEG7SPVCLC35NST5I3DY
+Content-Type: text/plain
+Content-Length: 127
+
+The Basement | The Onion - America's Finest News SourceCould do with a little less Tatooine, a little more Hoth. Right, ladies?
+

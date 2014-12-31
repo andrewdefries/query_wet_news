@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/football/2007/may/04/newsstory.sport11
+WARC-Date: 2014-03-07T06:51:53Z
+WARC-Record-ID: <urn:uuid:e4f0f822-1e8f-49e6-8fac-e8bf4382df23>
+WARC-Refers-To: <urn:uuid:3259ac63-cc2e-471a-8419-1e5db92b920a>
+WARC-Block-Digest: sha1:5UBBLWASE25NMGFAAZLE3TID74Y6NHJY
+Content-Type: text/plain
+Content-Length: 40
+
+Trendspotting | Football | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/music/2010/nov/23/rlpo-wigglesworth-review
+WARC-Date: 2014-03-07T06:44:17Z
+WARC-Record-ID: <urn:uuid:6d338f2f-0094-46b2-8378-9aaade9931f9>
+WARC-Refers-To: <urn:uuid:880de35f-1432-4102-bc92-9e8b73d8e73e>
+WARC-Block-Digest: sha1:2CN3HDOE3GGH5FKX3H5SA2ERSAOVL4D3
+Content-Type: text/plain
+Content-Length: 52
+
+RLPO/Wigglesworth – review | Music | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/stage/2005/aug/14/comedy.edinburghfestival2005
+WARC-Date: 2014-03-07T06:54:46Z
+WARC-Record-ID: <urn:uuid:061b7d66-4a9b-44f5-b781-93b8f1dd60f3>
+WARC-Refers-To: <urn:uuid:19bc3ee3-63b1-4864-a46b-70b383bd7079>
+WARC-Block-Digest: sha1:IU5JSVPQ377JEHVU5C2XP4UFCICGJ7UV
+Content-Type: text/plain
+Content-Length: 101
+
+Comedy: Stewart Lee; Janey Godley; Political Animal | Chris Addison | Cowards | Stage | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2013/jul/12/us-china-edward-snowden
+WARC-Date: 2014-03-07T06:46:55Z
+WARC-Record-ID: <urn:uuid:8f859f3e-e4c1-4d33-9d98-11d787e7bfa3>
+WARC-Refers-To: <urn:uuid:8ced4e40-99cf-4ed1-8de6-a43b212d0491>
+WARC-Block-Digest: sha1:I2YAHBY33H3AR6FS4WR4OCCGQRCL57GA
+Content-Type: text/plain
+Content-Length: 103
+
+US 'disappointed' with China for letting Edward Snowden leave Hong Kong | World news | theguardian.com 
+

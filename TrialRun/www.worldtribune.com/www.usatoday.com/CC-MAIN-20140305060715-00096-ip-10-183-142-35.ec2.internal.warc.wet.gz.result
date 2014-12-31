@@ -1,0 +1,12 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/tech/2013/09/12/drync-wine-app/2805379/
+WARC-Date: 2014-03-07T05:27:03Z
+WARC-Record-ID: <urn:uuid:e6dd81ed-184b-4a40-b904-2a6e37af9a5f>
+WARC-Refers-To: <urn:uuid:ddd7821a-0321-4571-9e2f-e106da06c639>
+WARC-Block-Digest: sha1:NSGNCKBA5REP76R4I7UYBAPE7MESTPSV
+Content-Type: text/plain
+Content-Length: 116
+
+Drync: app lets you discover, scan and order wineNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.Winds
+

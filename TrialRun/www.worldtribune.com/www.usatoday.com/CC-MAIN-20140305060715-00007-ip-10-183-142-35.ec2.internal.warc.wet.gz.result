@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/1955919/andrea-bocelli-la-vie-en-rose/
+WARC-Date: 2014-03-07T05:24:58Z
+WARC-Record-ID: <urn:uuid:8481321a-5c5e-43c3-94a1-2fbe368fa656>
+WARC-Refers-To: <urn:uuid:26fe4cf4-bbc7-4d7c-bd22-9aaa6b27a29b>
+WARC-Block-Digest: sha1:HAX4GB6JE6VKY3BWKKOZ6BQF72PDHLDE
+Content-Type: text/plain
+Content-Length: 30
+
+Andrea Bocelli: La Vie En Rose
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/nfl/arrests/2002/ten/s/
+WARC-Date: 2014-03-07T05:27:25Z
+WARC-Record-ID: <urn:uuid:77a55c31-6b1f-465e-b955-7807827322ac>
+WARC-Refers-To: <urn:uuid:06b539b1-c9c8-484c-9211-6cd838b02902>
+WARC-Block-Digest: sha1:CKMQ4D7XKDAKKPZ4TWYQH7TP4K6YWD4F
+Content-Type: text/plain
+Content-Length: 167
+
+USA Today | Sports | NFLNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull For
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/travel/flights/2012/11/27/airfares-christmas-increase/1729545/?csp=twusattravel_sf7498765&sf7498765=1
+WARC-Date: 2014-03-07T05:33:55Z
+WARC-Record-ID: <urn:uuid:01371e0b-c339-4aa5-ba5a-1a83c2c0457d>
+WARC-Refers-To: <urn:uuid:f4a4d250-f288-4d9a-8839-9b5b89432021>
+WARC-Block-Digest: sha1:ZMVICMNIYTXWKLKRG6SAWDCXUJMW4Z7H
+Content-Type: text/plain
+Content-Length: 110
+
+Airfares for Christmas travel up from last yearNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.<
+

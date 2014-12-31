@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/music/2010/dec/09/miles-davis-art?INTCMP=ILCNETTXT3487
+WARC-Date: 2014-03-07T05:33:02Z
+WARC-Record-ID: <urn:uuid:9452046e-8347-4cd0-810d-ec665b43dc78>
+WARC-Refers-To: <urn:uuid:2374806b-9b9b-4f1e-b9d9-aaa75e9163a1>
+WARC-Block-Digest: sha1:ZLDXNO2PEVB2KLUSNBMBWXUIF65G5AXW
+Content-Type: text/plain
+Content-Length: 60
+
+Art – Miles Davis's last addiction | Music | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/news/blog/2007/mar/19/hainlaunchesw
+WARC-Date: 2014-03-07T05:33:22Z
+WARC-Record-ID: <urn:uuid:c7e592f0-cfe9-4968-b814-18d28d0290fa>
+WARC-Refers-To: <urn:uuid:d70f9c45-11da-4f76-9aa3-1b8446d3a9c2>
+WARC-Block-Digest: sha1:IFMG2GI32IN526CDCKROMYKFADTA6IL5
+Content-Type: text/plain
+Content-Length: 66
+
+Forward not back with Hain's new website | News | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2010/mar/05/turkey-us-vote-armenian-genocide
+WARC-Date: 2014-03-07T05:30:20Z
+WARC-Record-ID: <urn:uuid:1b4fc4d1-6ff4-4836-988d-1e865dda3a99>
+WARC-Refers-To: <urn:uuid:a545a7de-904c-4840-9b64-fd2748ef073e>
+WARC-Block-Digest: sha1:HSS7E6G7U2FWSW2DWEGPREAZNXBTLBVS
+Content-Type: text/plain
+Content-Length: 103
+
+Turkey threatens 'serious consequences' after US vote on Armenian genocide | World news | The Guardian 
+

@@ -1,0 +1,26 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nytimes.com/2002/05/07/theater/footlights.html
+WARC-Date: 2014-03-07T05:26:50Z
+WARC-Record-ID: <urn:uuid:b935f329-1d12-4ece-affd-8cf0cdc3d7cf>
+WARC-Refers-To: <urn:uuid:57cc1ed1-6d2c-4b1b-8d34-08775cfd4b3b>
+WARC-Block-Digest: sha1:BNEJE5ZHN642XOOCJYMO3VTOOGI6JOMV
+Content-Type: text/plain
+Content-Length: 28
+
+Footlights - New York Times
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nytimes.com/2004/04/18/sports/baseball-analysis-rodriguez-looks-in-the-mirror-and-it-is-not-a-pretty-sight.html
+WARC-Date: 2014-03-07T05:30:07Z
+WARC-Record-ID: <urn:uuid:b6564f6d-d5ad-4898-926e-38be366487fa>
+WARC-Refers-To: <urn:uuid:37761f09-2cc2-4943-b1de-b97e0dd940da>
+WARC-Block-Digest: sha1:AIJ6ZV6GNJMWHXZFFIV47QVZW27MBZQN
+Content-Type: text/plain
+Content-Length: 96
+
+Baseball Analysis; Rodriguez Looks in the Mirror, and It Is Not a Pretty Sight - New York Times
+
+

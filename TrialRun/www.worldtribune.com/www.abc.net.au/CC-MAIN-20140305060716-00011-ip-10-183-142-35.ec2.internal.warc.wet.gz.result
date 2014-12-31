@@ -1,0 +1,55 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.abc.net.au/classic/program/yourrequests/music-listings/?date=2012-03
+WARC-Date: 2014-03-07T06:58:13Z
+WARC-Record-ID: <urn:uuid:48984e22-c6c5-4ce2-aa96-e28afc428292>
+WARC-Refers-To: <urn:uuid:218ce9b0-b0d5-42c6-b0bf-0c16391de2eb>
+WARC-Block-Digest: sha1:KJCDCLTXMZNHHB5EBZ6RAJBEHMVQLZQI
+Content-Type: text/plain
+Content-Length: 201
+
+ABC Classic FM - Your Requests - Music Listings
+Search:
+Radio
+TV
+Shop
+News
+Sport
+Local
+Children
+Science
+Environment
+more Topics
+help
+Home
+Programs
+Listen
+Editor's Picks
+Music Listings
+Australian Music
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.abc.net.au/news/2012-08-13/union-backs-calls-for-more-somerset-police/4195034
+WARC-Date: 2014-03-07T06:53:55Z
+WARC-Record-ID: <urn:uuid:02108d3a-c686-490c-a0dd-b19b5e456fa6>
+WARC-Refers-To: <urn:uuid:eab3734e-01af-4f95-8cf2-13e9f6194d3c>
+WARC-Block-Digest: sha1:KYSDQDEQ2WDKZQ5NPN3MJFYP5MQXWLEE
+Content-Type: text/plain
+Content-Length: 172
+
+Union backs calls for more Somerset police - ABC News (Australian Broadcasting Corporation)
+Search:
+Radio
+TV
+Shop
+News
+Sport
+Local
+Children
+Science
+Environment
+more Topics
+
+

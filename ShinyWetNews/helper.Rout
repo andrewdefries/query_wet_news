@@ -1,0 +1,79 @@
+
+R version 3.1.1 (2014-07-10) -- "Sock it to Me"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> ###################
+> library(wordcloud)
+Loading required package: RColorBrewer
+> library(tm)
+Loading required package: NLP
+> library(shiny)
+> library(igraph)
+> library(parallel)
+> ###################
+> ###################
+> #do some work here and then move off to helper.R
+> 
+> #system("./TryMe.sh")
+> 
+> files<-list.files(pattern=".result", recursive=T)
+> 
+> #get corpus list
+> MyCorpus<-Corpus(DirSource("TXT/", recursive=T),readerControl=list(language="english"))
+> 
+> #lower case corpus
+> MyCorpus<-tm_map(MyCorpus, tolower)
+> 
+> #make a function to remove lone numbers
+> #http://stackoverflow.com/questions/23864860/using-filter-in-tm-maptestfile-removenumbers-in-r
+> ####
+> #some work to be done as p450 is p
+> remove_lone_numbas <- function (x){
++ #gsub('\\s*(?<!\\B|-)\\d+(?!\\B|-)\\s*', "", x,perl=TRUE)
++ gsub('\\s*[0-9]s*', "", x,perl=TRUE)
++ #gsub("[[:digit:]]+", "", x)
++ }
+> ####
+> ##make this into a radio button
+> #remove lone numbers
+> MyCorpus<-tm_map(MyCorpus, remove_lone_numbas)
+> 
+> #remove copied entries
+> #Not working now
+> #http://stackoverflow.com/questions/21731246/how-to-remove-duplicates-from-a-corpus-using-the-tm-package-in-r
+> ##MyCorpus<-tm_map(MyCorpus, unique)
+> ####
+> ##removeDup <- function(x) as.list(unique(unlist(x)))
+> ##MyCorpus<-tm_map(MyCorpus, removeDup)
+> MyCorpus<-tm_map(MyCorpus, stemDocument, language="english")
+> MyCorpus<-tm_map(MyCorpus, removeWords, stopwords("english"))
+> dtm <- DocumentTermMatrix(Corpus(VectorSource(MyCorpus)), control = list(removePunctuation = TRUE, stopwords = TRUE))
+> 
+> dtm<-removeSparseTerms(dtm,0.1) #or 0.2
+> 
+> 
+> save(MyCorpus, file="CorpusReady.rda", compress=T)
+> save(dtm, file="dtm.rda", compress=T)
+> save(files,file="files.rda", compress=T)
+> 
+> 
+> 
+> 
+> proc.time()
+   user  system elapsed 
+409.576   9.956 323.211 

@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/football/2010/jun/08/wayne-rooney-controversy-usa-world-cup
+WARC-Date: 2014-03-07T05:29:33Z
+WARC-Record-ID: <urn:uuid:11867e08-b823-479b-a969-6d062c9f1b09>
+WARC-Refers-To: <urn:uuid:fa86234c-4183-41ff-b784-07e0a0655b1f>
+WARC-Block-Digest: sha1:AQSNQS7JXABUJ662AGNZGFKJBHKHO5JZ
+Content-Type: text/plain
+Content-Length: 96
+
+Wayne Rooney shrugs off controversy to focus on USA World Cup game | Football | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/greenslade/2010/may/13/us-press-publishing-magazines
+WARC-Date: 2014-03-07T05:36:00Z
+WARC-Record-ID: <urn:uuid:b58f94b6-03a2-467e-b8b4-0ab2c5840b21>
+WARC-Refers-To: <urn:uuid:016c7136-cbc3-46e1-908c-d194c68b5d6a>
+WARC-Block-Digest: sha1:B7BFE6HS35DNAU5XKBQVS6PWG3ARPBUL
+Content-Type: text/plain
+Content-Length: 80
+
+Roy Greenslade: Suitors line up for Newsweek magazine | Media | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/utv?page=2
+WARC-Date: 2014-03-07T05:29:16Z
+WARC-Record-ID: <urn:uuid:b620032f-17d9-4eef-91d4-1b1b65b732b4>
+WARC-Refers-To: <urn:uuid:af63132f-bd89-4f3f-a0aa-d609ef961281>
+WARC-Block-Digest: sha1:RXUOCZONLAAOKDPOKC5TT6BO53LEWOSX
+Content-Type: text/plain
+Content-Length: 27
+
+UTV | Media | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/sport/2005/may/08/sportandleisurebooks.features
+WARC-Date: 2014-03-07T05:28:29Z
+WARC-Record-ID: <urn:uuid:b12a69e5-b2f6-4ee8-b0f5-cf2769ef1dbe>
+WARC-Refers-To: <urn:uuid:9c020124-d232-459a-93ab-12c7c697d073>
+WARC-Block-Digest: sha1:JH7OVNGNPNJHLE2TWDXUGXVI6433T55D
+Content-Type: text/plain
+Content-Length: 64
+
+Top 50 sports books: The countdown: 2-10 | Sport | The Observer 
+

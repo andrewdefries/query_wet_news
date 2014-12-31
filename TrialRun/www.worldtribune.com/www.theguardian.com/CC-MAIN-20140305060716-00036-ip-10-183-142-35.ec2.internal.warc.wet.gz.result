@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2007/oct/20/featuresreviews.guardianreview2/print
+WARC-Date: 2014-03-07T06:45:51Z
+WARC-Record-ID: <urn:uuid:264e4f8d-02bf-4567-9e38-af96de82c72c>
+WARC-Refers-To: <urn:uuid:11730246-d2b9-4d78-9913-705f9333acd3>
+WARC-Block-Digest: sha1:LND5KKCAUIFECHIHSHAQK6YYHBUNJLMT
+Content-Type: text/plain
+Content-Length: 91
+
+Review: The Decline and Fall of the British Empire by Piers Brendon | Books | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/booksblog/2010/nov/10/literary-magazine-technology-internet
+WARC-Date: 2014-03-07T06:45:16Z
+WARC-Record-ID: <urn:uuid:6f4f253b-73b7-4f6c-acce-efda43a76773>
+WARC-Refers-To: <urn:uuid:e4f47b9c-265f-407a-949c-4f915d422788>
+WARC-Block-Digest: sha1:M5V7F6LI65S5YIL6MMLROQUERXH35WJX
+Content-Type: text/plain
+Content-Length: 92
+
+A renaissance rooted in technology: the literary magazine returns | Books | theguardian.com 
+

@@ -1,0 +1,61 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2004/oct/30/featuresreviews.guardianreview16
+WARC-Date: 2014-03-07T06:50:48Z
+WARC-Record-ID: <urn:uuid:c52f8db8-3c9c-4173-a23a-1fb97c51a070>
+WARC-Refers-To: <urn:uuid:2e22ad6a-874b-4ab5-ae41-c9f7730f1a6d>
+WARC-Block-Digest: sha1:E7OUUXYY4Q5FYF4I7HDBYCLWNJBG6ZRP
+Content-Type: text/plain
+Content-Length: 50
+
+Sleeper in the White House | Books | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/2007/may/02/kmexthelosangelesaffiliate
+WARC-Date: 2014-03-07T06:45:03Z
+WARC-Record-ID: <urn:uuid:f95133c4-60d3-42ae-9156-02a49c0568a9>
+WARC-Refers-To: <urn:uuid:67ad11c0-6bd2-4f34-b3f5-4381ca668061>
+WARC-Block-Digest: sha1:3MBZSDPBQD6N5A2MWBGCXDYIRNGBGKJ6
+Content-Type: text/plain
+Content-Length: 48
+
+Marching on | Comment is free | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/football/2013/apr/27/paolo-di-canio-sunderland?view=mobile
+WARC-Date: 2014-03-07T06:47:14Z
+WARC-Record-ID: <urn:uuid:f54a4acc-1a59-434c-bbfa-4a2d42536fb5>
+WARC-Refers-To: <urn:uuid:bbc37a75-c4bc-43a6-bc9e-f2033caff4c2>
+WARC-Block-Digest: sha1:QDUE4LMO5S73ZWUAKWFBRBVVSEY7P4Y5
+Content-Type: text/plain
+Content-Length: 99
+
+Paolo Di Canio promises to take the plunge if Sunderland reach safety | football | theguardian.com
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/sport/blog/2011/apr/14/county-cricket-live-yorkshire-somerset-nottinghamshire?INTCMP=ILCNETTXT3487
+WARC-Date: 2014-03-07T06:49:07Z
+WARC-Record-ID: <urn:uuid:6f9f2bd1-43fb-4015-9679-f8318be5ea5b>
+WARC-Refers-To: <urn:uuid:2c69345c-84e0-42fc-927f-0ee69b2a95b7>
+WARC-Block-Digest: sha1:ICG4CCCGZBR2VH62GUJVPEZGVAFDKWRE
+Content-Type: text/plain
+Content-Length: 485
+
+County cricket - as it happened | Sport | theguardian.com 9.30am: The second round of County Championship games begins today:Division OneNottinghamshire v Hampshire at NottinghamSomerset v Warwickshire at TauntonYorkshire v Durham at LeedsDivision TwoDerbyshire v Leicestershire at DerbyGlamorgan v Gloucestershire at CardiffMiddlesex v Essex at Lord'sNorthamptonshire v Kent at NorthamptonAndy Wilson is at Headingley, David Hopps is at Trent Bridge and Richard Latham at Taunton.Here
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2011/jan/02/uk-soldier-killed-afghanistan
+WARC-Date: 2014-03-07T06:47:03Z
+WARC-Record-ID: <urn:uuid:a1769826-d0c8-4849-89a0-9548562a5a9c>
+WARC-Refers-To: <urn:uuid:ad1d36e6-de7b-42a8-8d73-fb5d7cd0c1e2>
+WARC-Block-Digest: sha1:J46FJP5CQQJH5ZXHJC65G7CUJ6QNRXET
+Content-Type: text/plain
+Content-Length: 58
+
+UK soldier killed in Afghanistan | UK news | The Guardian 
+

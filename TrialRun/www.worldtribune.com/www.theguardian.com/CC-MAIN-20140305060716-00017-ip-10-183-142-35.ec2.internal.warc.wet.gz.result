@@ -1,0 +1,60 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/booksblog/2007/jan/19/insiberia
+WARC-Date: 2014-03-07T06:44:48Z
+WARC-Record-ID: <urn:uuid:7665570e-edcd-4776-8a65-42c28d576cfd>
+WARC-Refers-To: <urn:uuid:be7f0dd4-a4d0-47d3-a28a-62067969b59f>
+WARC-Block-Digest: sha1:F2OSGDAEK27EMGRKMIRFXK6QKH2GRHVU
+Content-Type: text/plain
+Content-Length: 37
+
+In Siberia | Books | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/2008/aug/03/aids.unitednations
+WARC-Date: 2014-03-07T06:49:22Z
+WARC-Record-ID: <urn:uuid:3a295374-ae7e-41c5-b285-90c182211eb9>
+WARC-Refers-To: <urn:uuid:caeec25a-ea9e-4884-a35b-20fc53259486>
+WARC-Block-Digest: sha1:YREUPST73HX2NQYQ5WBORUN7Z4JUDTBB
+Content-Type: text/plain
+Content-Length: 108
+
+Siddharth Dube and Joanne Csete: A chance to fix the fight against Aids | Comment is free | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/education/2011/sep/05/carol-ann-duffy-poetry-texting-competition
+WARC-Date: 2014-03-07T06:49:49Z
+WARC-Record-ID: <urn:uuid:e17d7d86-b1d5-422e-bab2-b90a81017fb4>
+WARC-Refers-To: <urn:uuid:fd075561-dec4-4b6b-b079-ec8d1ce9b126>
+WARC-Block-Digest: sha1:MKT5W37Y5K7F3JSORRE5OK6CV2PW4QA7
+Content-Type: text/plain
+Content-Length: 74
+
+Carol Ann Duffy: 'Poems are a form of texting' | Education | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/film/2004/may/22/features.johnpatterson
+WARC-Date: 2014-03-07T06:44:03Z
+WARC-Record-ID: <urn:uuid:cc2f847c-8b0d-45cc-a732-d3343058d805>
+WARC-Refers-To: <urn:uuid:ec9fe7e7-8f70-45c2-8ac7-e687b960f991>
+WARC-Block-Digest: sha1:AAP2HVQBIGNBGZNSRM24VBJX63YNR6PR
+Content-Type: text/plain
+Content-Length: 47
+
+Profile: Jake Gyllenhaal | Film | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2002/sep/12/usa.september11
+WARC-Date: 2014-03-07T06:45:45Z
+WARC-Record-ID: <urn:uuid:1e25ede6-7d9c-4c60-ac8b-9474ebd6ffce>
+WARC-Refers-To: <urn:uuid:d70493d5-b445-4138-a9d2-249247d2d257>
+WARC-Block-Digest: sha1:JWBAH45OLGUVHN2ZN3XVHXPJQZLEQL53
+Content-Type: text/plain
+Content-Length: 71
+
+America's tribute, uncertain but heartfelt | World news | The Guardian 
+

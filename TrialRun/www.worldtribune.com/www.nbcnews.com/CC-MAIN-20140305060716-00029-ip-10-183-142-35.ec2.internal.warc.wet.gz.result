@@ -1,0 +1,39 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/news/world/defense-against-unknown-uk-releases-1983-nuclear-war-speech-queen-v19796572
+WARC-Date: 2014-03-07T06:44:26Z
+WARC-Record-ID: <urn:uuid:3b74f0f5-decd-4eee-8139-d206c4e331e6>
+WARC-Refers-To: <urn:uuid:d37bc4da-453f-449c-a7ec-456c0309453c>
+WARC-Block-Digest: sha1:SPUDVXH6U7KRQ2YDN6JCU6P37LZH5CMU
+Content-Type: text/plain
+Content-Length: 88
+
+'Defense against the unknown': UK releases 1983 nuclear war speech for queen - NBC News
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/slideshow/travel/rio-de-janeiro-48618805/
+WARC-Date: 2014-03-07T06:54:00Z
+WARC-Record-ID: <urn:uuid:951cfe5e-e645-4500-9281-0fd17aef1194>
+WARC-Refers-To: <urn:uuid:22b5f9f1-cebf-4143-a6b6-0c8ab77e8fb6>
+WARC-Block-Digest: sha1:BFXIIYEKOOFTFLHJEDERRSLL4AFIRLEN
+Content-Type: text/plain
+Content-Length: 62
+
+Rio de Janeiro - Slideshows and Picture Stories - NBCNews.com
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/video/nightly-news/32500060/
+WARC-Date: 2014-03-07T06:50:06Z
+WARC-Record-ID: <urn:uuid:7fa7e3a9-3521-4238-a8c6-97f8c02e2cd7>
+WARC-Refers-To: <urn:uuid:905f674c-7c23-4f58-9536-8c73cbf5a408>
+WARC-Block-Digest: sha1:UJ7VW637DUB67CTBYA2K7UPHXQVVVQ3C
+Content-Type: text/plain
+Content-Length: 69
+
+Obama takes health reform pitch to talk radio - Video on NBCNews.com
+
+

@@ -1,0 +1,12 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sitemap/travel/advice/2013/
+WARC-Date: 2014-03-07T05:27:57Z
+WARC-Record-ID: <urn:uuid:e17a0ac6-479b-4be6-80ab-ec219e8da4c2>
+WARC-Refers-To: <urn:uuid:6c48636a-8cc6-4f5e-8db8-deda6af17eb5>
+WARC-Block-Digest: sha1:VVEVTH67HJIBQTOXUNHGOKTOVHJQKRUV
+Content-Type: text/plain
+Content-Length: 8
+
+USATODAY
+

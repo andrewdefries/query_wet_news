@@ -1,0 +1,12 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books
+WARC-Date: 2014-03-07T05:24:51Z
+WARC-Record-ID: <urn:uuid:e902d011-3b77-4f01-8af2-e2d34ad2cf88>
+WARC-Refers-To: <urn:uuid:a1f4543a-e81a-484f-b767-90f4b5b5d94d>
+WARC-Block-Digest: sha1:NUDME5B3DNMT3QBND2ATMW7B4LB7KJSL
+Content-Type: text/plain
+Content-Length: 65
+
+Books news, reviews and author interviews | Books | The Guardian 
+

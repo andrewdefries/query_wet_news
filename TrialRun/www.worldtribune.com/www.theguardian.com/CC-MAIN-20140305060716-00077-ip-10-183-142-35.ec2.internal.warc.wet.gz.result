@@ -1,0 +1,85 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/lifeandstyle/2012/apr/14/diary-of-a-separation-goodbye/print
+WARC-Date: 2014-03-07T06:50:48Z
+WARC-Record-ID: <urn:uuid:ee27aa3a-7eb3-4925-934c-0671e851e1eb>
+WARC-Refers-To: <urn:uuid:30e02838-43ad-4db7-9966-a118dd557b62>
+WARC-Block-Digest: sha1:66HEJLWK5WJXV5CN26SDS7JQ5N3UOTIH
+Content-Type: text/plain
+Content-Length: 54
+
+Diary of a separation | Life and style | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media-network/media-network-blog/2012/apr/19/tablets-tools-mobile-enterprise?view=mobile
+WARC-Date: 2014-03-07T06:47:56Z
+WARC-Record-ID: <urn:uuid:6e8473fd-1bc2-457d-90da-5f47c74adcb5>
+WARC-Refers-To: <urn:uuid:a0a48ac1-ca21-4c08-af0b-4fbdff6c459a>
+WARC-Block-Digest: sha1:3BD2BQ43N3RZLVJSQWZJBZZ4YMDLJ5UY
+Content-Type: text/plain
+Content-Length: 96
+
+Turning tablets into powerful tools for the mobile enterprise | Media Network | theguardian.com
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/2008/may/08/privacy.medialaw
+WARC-Date: 2014-03-07T06:46:25Z
+WARC-Record-ID: <urn:uuid:66a13a43-8039-40d8-b85e-9025d78d0cef>
+WARC-Refers-To: <urn:uuid:6f306c80-aaf0-4aee-a684-f60d1b16eba1>
+WARC-Block-Digest: sha1:MHNXD6ZX6LL6AXSWGP7SMIRBSH7VZ3G3
+Content-Type: text/plain
+Content-Length: 64
+
+JK Rowling wins ban on photos of her son | Media | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/2009/jul/14/jimmy-mcgovern-the-street-end-itv-cuts
+WARC-Date: 2014-03-07T06:49:10Z
+WARC-Record-ID: <urn:uuid:e4bacc3e-592b-4604-b228-626edb863076>
+WARC-Refers-To: <urn:uuid:54fa7663-8cb5-4766-9764-b2659b751a6d>
+WARC-Block-Digest: sha1:PXC3TOBU6OBXV4I5YHNDL37AWHSU6FGC
+Content-Type: text/plain
+Content-Length: 81
+
+The Street facing end of the road, says Jimmy McGovern | Media | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/greenslade+nationalunionofjournalists?page=4
+WARC-Date: 2014-03-07T06:45:42Z
+WARC-Record-ID: <urn:uuid:b4673af4-3bfc-453c-9484-a21b2d3ced35>
+WARC-Refers-To: <urn:uuid:21ca6d27-be9d-43bc-bf20-510a865e4439>
+WARC-Block-Digest: sha1:2TGCDYAEMHH5WPACROSP7T3KKYQXTC4H
+Content-Type: text/plain
+Content-Length: 66
+
+Greenslade + National Union of Journalists | Media | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/sport/2012/feb/06/alberto-contador-career-timeline/print
+WARC-Date: 2014-03-07T06:46:09Z
+WARC-Record-ID: <urn:uuid:853f7c69-ab8e-42c9-8fa1-7b7137201cb5>
+WARC-Refers-To: <urn:uuid:9a790183-38a4-4b89-b2d5-34268ff34b11>
+WARC-Block-Digest: sha1:J7RNJNEBLYLYPZZ3SE6FWZKP2PKHZOWS
+Content-Type: text/plain
+Content-Length: 64
+
+Alberto Contador's career: a timeline | Sport | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/travel/2011/jun/04/greece-insiders-guide-holidays
+WARC-Date: 2014-03-07T06:48:36Z
+WARC-Record-ID: <urn:uuid:cab03859-b5c6-45cf-a1f9-6e78843f1477>
+WARC-Refers-To: <urn:uuid:69424180-504b-4bd1-a9e8-2c2522f45deb>
+WARC-Block-Digest: sha1:BBD65OEFLEM6SXDDZCA43OB7GY7TPP7Q
+Content-Type: text/plain
+Content-Length: 50
+
+Insiders' guide to Greece | Travel | The Guardian 
+

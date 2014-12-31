@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/music/2003/jan/24/popandrock.artsfeatures
+WARC-Date: 2014-03-07T06:47:50Z
+WARC-Record-ID: <urn:uuid:a035fc03-8bc1-4d92-be2a-30c392070b4c>
+WARC-Refers-To: <urn:uuid:56f0feb2-9adb-4ef4-a673-63086e592d0a>
+WARC-Block-Digest: sha1:R2BB45NGVPIXDY7XBZ5QVO65OH2GPCY3
+Content-Type: text/plain
+Content-Length: 55
+
+CD review: Nick Cave: Nocturama | Music | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/news/2005/jul/29/guardianobituaries.italy
+WARC-Date: 2014-03-07T06:45:37Z
+WARC-Record-ID: <urn:uuid:3a3dc32e-bf9f-41ce-8313-652cc97cffe1>
+WARC-Refers-To: <urn:uuid:a8e237a7-25a8-46f9-9a24-e08b03e8828a>
+WARC-Block-Digest: sha1:JZ7M4J26EQBCR2SR6Q4ZHZ4AUQXPWMYB
+Content-Type: text/plain
+Content-Length: 56
+
+Obituary: Piero Cappuccilli | World news | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/sport/2004/aug/28/athensolympics2004.athletics4
+WARC-Date: 2014-03-07T06:46:22Z
+WARC-Record-ID: <urn:uuid:057eaec9-2a1e-43d3-8a16-99bd6edc607c>
+WARC-Refers-To: <urn:uuid:91bf45f8-7c87-4785-b09e-90d8cf5c4d75>
+WARC-Block-Digest: sha1:Y6CNNF2WH7K2NS2VOKMYLDGWKUUMMSTF
+Content-Type: text/plain
+Content-Length: 58
+
+Holmes cruises to golden double | Sport | theguardian.com 
+

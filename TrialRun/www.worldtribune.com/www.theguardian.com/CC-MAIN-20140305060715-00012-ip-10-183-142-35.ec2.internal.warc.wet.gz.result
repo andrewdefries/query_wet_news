@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2005/jun/18/featuresreviews.guardianreview11
+WARC-Date: 2014-03-07T05:35:30Z
+WARC-Record-ID: <urn:uuid:1738c9ee-1214-45dd-bbf3-db77abf836d7>
+WARC-Refers-To: <urn:uuid:f3a92ed8-506b-4838-8ff5-83a94b837f9d>
+WARC-Block-Digest: sha1:T42LH6QHOEX3KOTHVBXZJDMP6ZXN46IM
+Content-Type: text/plain
+Content-Length: 58
+
+Review: The Poems of Exile by Ovid | Books | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/edinburgh/2010/dec/16/edinburgh-snow-sleighs-crime-flu-jab-gallery-tours
+WARC-Date: 2014-03-07T05:30:45Z
+WARC-Record-ID: <urn:uuid:a907e309-7934-4c1a-94d5-5825bc3a7e1a>
+WARC-Refers-To: <urn:uuid:31174222-b24a-474c-8809-d2703411324f>
+WARC-Block-Digest: sha1:MGBMPERG7QY7LRTUV6AREHLEKOE2OBC2
+Content-Type: text/plain
+Content-Length: 108
+
+Edinburgh today: Snow sleighs crime, musical medics and festive gallery tours | Edinburgh | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/education/2007/mar/20/highereducation.students
+WARC-Date: 2014-03-07T05:37:01Z
+WARC-Record-ID: <urn:uuid:91e6d504-f41d-43ac-bb5d-3a6dc67f6888>
+WARC-Refers-To: <urn:uuid:d3e592ca-0510-4ca7-b921-5e0dc6286dfe>
+WARC-Block-Digest: sha1:7JYDQX3KB6ALVGWZIA6AOSWAASSD6MZ7
+Content-Type: text/plain
+Content-Length: 74
+
+British university adopts US-style honour code | Education | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/politics/2011/mar/10/coalition-elected-mayors-adonis-plan
+WARC-Date: 2014-03-07T05:31:43Z
+WARC-Record-ID: <urn:uuid:8ffe64d1-51e2-4d2d-af2f-078ed7d89b0e>
+WARC-Refers-To: <urn:uuid:df2969cd-deab-4f8c-bdf4-55f519af2256>
+WARC-Block-Digest: sha1:XKV2LCDVIMERRUTIXO3FJJU624GUDXXZ
+Content-Type: text/plain
+Content-Length: 100
+
+Coalition's mayoralty model blessed in Leicester but trashed in Doncaster | Politics | The Guardian 
+

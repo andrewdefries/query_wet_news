@@ -1,0 +1,60 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/commentisfree/2013/jan/30/asylum-theresa-may-private-fiefdom
+WARC-Date: 2014-03-07T05:25:55Z
+WARC-Record-ID: <urn:uuid:6c92e01d-5a1c-4208-ae4c-6591074fd1db>
+WARC-Refers-To: <urn:uuid:3a911798-f1fe-42e6-a682-41a3a1aa523f>
+WARC-Block-Digest: sha1:EYVJYV4BI4QEAPE2WSVRFLCNKTAFPB7S
+Content-Type: text/plain
+Content-Length: 102
+
+Asylum has become Theresa May's cruel private fiefdom | Zoe Williams | Comment is free | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/social-enterprise-network/2011/jul/01/social-enterprise-blog
+WARC-Date: 2014-03-07T05:33:42Z
+WARC-Record-ID: <urn:uuid:6ef6dcc4-ca58-4630-90a9-aa93194adb46>
+WARC-Refers-To: <urn:uuid:4a543c84-d7c4-4b31-b214-72ca86a1ee8a>
+WARC-Block-Digest: sha1:BMVWNVBVSIJAFG5FFDZB6ETAD7R2XFYV
+Content-Type: text/plain
+Content-Length: 100
+
+You're not a social enterprise unless you share | Social Enterprise Network | Guardian Professional 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/sport/video/2014/feb/07/kittels-dubai-win-delight-video
+WARC-Date: 2014-03-07T05:36:05Z
+WARC-Record-ID: <urn:uuid:608b8ce2-c1fc-4b51-9f2d-d48cf94c70e6>
+WARC-Refers-To: <urn:uuid:26791434-58d6-478e-a3c0-f5490f3c2dc3>
+WARC-Block-Digest: sha1:3BC6UDERWWSKJFQFUF2DCLIOMW53MF74
+Content-Type: text/plain
+Content-Length: 93
+
+Tour of Dubai: Marcel Kittel's delight at second stage win - video | Sport | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/blog/2009/oct/29/northerner-wigan-labour-party-lists
+WARC-Date: 2014-03-07T05:29:05Z
+WARC-Record-ID: <urn:uuid:8effa661-369a-40c1-a579-d583e772426f>
+WARC-Refers-To: <urn:uuid:0655cd3e-5041-4644-aa08-6d4828db5f1a>
+WARC-Block-Digest: sha1:L36FKU4P6NXGEFQCDTOCBRKA5BUYNOLY
+Content-Type: text/plain
+Content-Length: 80
+
+The Northerner: Never have you seen a crisp so evil | UK news | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/video/2011/oct/31/qantas-action-gillard-australia-video
+WARC-Date: 2014-03-07T05:31:32Z
+WARC-Record-ID: <urn:uuid:03f027c5-500c-4dee-a27a-cdf1d0283cb0>
+WARC-Refers-To: <urn:uuid:beeb6c55-427a-4816-b1d0-5c2ed72750d9>
+WARC-Block-Digest: sha1:RHDDDMUXV7CVP4KBOLRCV6CYEYWYNDHC
+Content-Type: text/plain
+Content-Length: 79
+
+Qantas action attacked by Australian PM - video | World news | theguardian.com 
+

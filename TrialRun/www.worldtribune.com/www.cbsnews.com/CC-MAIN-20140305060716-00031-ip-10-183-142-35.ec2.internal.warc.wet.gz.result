@@ -1,0 +1,13 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.cbsnews.com/common/includes/footer_new.html?secId=278&cbsnews_oid=3515370&cbsnews_ptid=2304&ncat=500502:278
+WARC-Date: 2014-03-07T06:57:25Z
+WARC-Record-ID: <urn:uuid:0131cc13-5504-43cd-b84a-872d28134c88>
+WARC-Refers-To: <urn:uuid:52f23aae-a90f-4423-8d40-e02237979500>
+WARC-Block-Digest: sha1:XDCRENU5C7NYZRBL6KJZ2QVVHQEDTEFC
+Content-Type: text/plain
+Content-Length: 12
+
+CBSNEWS.com
+
+

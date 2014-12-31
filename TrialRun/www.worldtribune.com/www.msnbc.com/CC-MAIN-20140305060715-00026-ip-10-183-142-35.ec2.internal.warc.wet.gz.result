@@ -1,0 +1,26 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/hardball/not-april-fools-joke-georgia-celebrates
+WARC-Date: 2014-03-07T05:24:52Z
+WARC-Record-ID: <urn:uuid:7be7169d-32a8-4d5c-a151-25966c716b9d>
+WARC-Refers-To: <urn:uuid:2f78c85a-48e9-4f0d-b5c5-751ebeb81577>
+WARC-Block-Digest: sha1:WSTIBYCDYKHSVGA3YSV2LW2PJPCBGGGI
+Content-Type: text/plain
+Content-Length: 79
+
+Not an April Fools' joke: Georgia celebrates Confederate History Month | MSNBC
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/rachel-maddow-show/political-campaign-isnt-military-ca?lite=
+WARC-Date: 2014-03-07T05:24:59Z
+WARC-Record-ID: <urn:uuid:74599633-25b5-4c8e-add5-3e14fd041c32>
+WARC-Refers-To: <urn:uuid:b96a5637-407e-4307-b533-cbb4f77801cc>
+WARC-Block-Digest: sha1:FRFJ7UBIIZICXRTVJYHTJ3C2Y2ZIFQLP
+Content-Type: text/plain
+Content-Length: 55
+
+A political campaign isn't a military campaign | MSNBC
+
+

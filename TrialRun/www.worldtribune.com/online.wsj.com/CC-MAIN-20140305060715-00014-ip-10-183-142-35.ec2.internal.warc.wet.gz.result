@@ -1,0 +1,3139 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/article/SB10001424127887324021104578549493732311294.html?dsk=y
+WARC-Date: 2014-03-07T05:39:04Z
+WARC-Record-ID: <urn:uuid:12638416-7536-43d4-b24b-e1dabf4b539d>
+WARC-Refers-To: <urn:uuid:31095c85-8c0e-4128-8fd7-ba1b65bd86ef>
+WARC-Block-Digest: sha1:SF3WWO4QRAE2CIEYQJL5SQM73N255AZW
+Content-Type: text/plain
+Content-Length: 21650
+
+La nueva revolución industrial - WSJ.com
+WSJ	WSJ	Facebook
+Twitter
+Live	Live	MarketWatch	MarketWatch	Barron's	Barron's	Portfolio	Portfolio	Product X	Product X	djx
+rt
+f
+r&c
+pe&vc
+wsj
+b
+The Shops	The Shops	More WSJ Briefcase
+BigCharts
+Financial News
+Professor Journal
+SmartMoney
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classroom
+WSJ Radio
+WSJ Wine
+SEARCH
+headline
+goldman
+Companies
+GOLD
+Ran
+gold Resources Ltd. ADS
+U.S.
+View All Search Results »
+Subscribe
+Log In
+América Latina U.S.
+Asia
+Europe América Latina
+Brasil
+中文-简体(China)
+Deutschland
+India
+Indonesia
+日本(Japan)
+한국(Korea)
+Türkiye
+Inicio
+Negocios
+Mercados
+Tecnologia
+Gestión
+Actualidad
+Vida y Estilo
+Opinión
+Pequeñas Empresas
+Finanzas Personales
+Carrera
+Personajes
+Dow Jones Reprints: This copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers, use the Order Reprints tool at the bottom of any article or visit
+www.djreprints.com
+See a sample reprint in PDF format.
+Order a reprint of this article now
+SPANISH
+June 16, 2013, 2:08 p.m. ET
+La nueva revolución industrial
+Artículo
+Stock Quotes
+Comentarios
+smaller
+Larger
+Por JOHN KOTEN
+Una oscura noche de tormenta hace dos semanas en Schenectady, en el estado de Nueva York, Ken Hislop se relajaba en su casa cuando su celular comenzó a vibrar en su bolsillo. Era un mensaje de texto urgente de la fábrica de General Electric Co. donde trabaja.Poco después, llegó un segundo mensaje y luego otros dos. Los textos eran enviados por pequeños sensores incrustados dentro de una serie de máquinas, algunas de los cuales parecen enormes mezcladoras de cemento invertidas. Una violenta tormenta con truenos que pasaba por la zona había causado problemas.
+Gráfico: EE.UU. y México ganan
+Los costos de fabricación en EE.UU. y en México se han vuelto competitivos.
+"Supe enseguida que nos habíamos quedado sin energía en la planta", afirma Hislop, un ingeniero de fabricación. Rápidamente encendió su iPad y accedió a mapas animados que le mostraban todo lo que sucedía en las instalaciones de US$170 millones que fabrican enormes baterías de torres para teléfonos celulares, plantas energéticas y otros usuarios. Aunque el apagón había sido momentáneo, gran parte del equipo en la fábrica tuvo que reiniciarse y cualquier problema, por mínimo que fuera, podía significar costosas demoras de producción. "Recibía un informe en primera persona y en tiempo real", relata Hislop, quien también podía ver un video de la tormenta tomado desde el tejado de la planta. La información le permitió cerciorarse de que las máquinas se reiniciaran en la secuencia apropiada y que el material sensible de las baterías no hubiese sufrido daños.
+Bienvenido a la Nueva Revolución Industrial, una ola de tecnologías e ideas que están haciendo que las manufacturas automatizadas tengan poco que ver con los talleres polvorientos y sucios de antaño. La revolución amenaza con hacer añicos los modelos de negocios que han imperado desde hace mucho tiempo, modificar los patrones del comercio global y revivir la industria estadounidense.
+Ryan Etter
+Las grandes empresas tienen a su disposición una variedad de nuevas herramientas para construir fábricas más inteligentes y simples y explorar productos, materiales y técnicas innovadoras que antes eran inviables. Gracias a la caída de los precios, las pequeñas empresas tienen acceso a equipos de manufactura y herramientas de diseño más baratos, que le dan incluso a las firmas novatas de un solo empleado la posibilidad de crear innovaciones que pueden sacudir el mercado. Muchos comparan la era actual con los primeros días de la computación, cuando personas con iniciativas que practicaban un hobby en su garaje introdujeron grandes avances que cambiaron la faz de una industria. Pequeño y ágil
+"La manufactura atraviesa por un cambio que es igual de significativo que la introducción de partes intercambiables o la línea de producción, tal vez más", afirma Michael Idelchik, quien encabeza la unidad de tecnologías avanzadas del laboratorio de investigación global de GE, ubicado a unos 15 minutos de la planta de baterías. El futuro no les pertenecerá "a las cadenas globales de suministro dispersas conectadas a una red de grandes fábricas distantes", señala, sino a "operaciones de manufactura pequeñas y ágiles que usen herramientas altamente sofisticadas y materiales nuevos".
+Enlarge ImageClose
+General Electric
+La nueva ola: baterías de alta tecnología de GE. No cabe duda de que un término como la Nueva Revolución Industrial suena algo pomposo, dado el profundo impacto que tuvo la Revolución Industrial original, no sólo sobre los negocios, sino también sobre los estándares de vida en todo el mundo. Además, no hay dudas de que a pesar de todo lo que se dice, muchas cosas seguirán produciéndose con técnicas que fueron perfeccionadas hace mucho tiempo.
+Pero el nombre, por grandilocuente que suene, se justifica. Las repercusiones, aún en una etapa inicial, se están acelerando gracias a la convergencia de una serie de tendencias: el bajo costo y la accesibilidad de grandes cantidades de datos asociados a la computación en la nube; el costo decreciente de los sensores electrónicos, microprocesadores y otros componentes que pueden usarse para fabricar máquinas más hábiles, y los avances en software y tecnología de comunicaciones que posibilitan manejar la manufactura con un nuevo nivel de precisión y dan lugar a nuevas formas de colaboración.
+Fabricación flexible
+Los adelantos tecnológicos ahora permiten que las empresas inventen nuevas formas de fabricar objetos que representan un alejamiento extremo del modelo clásico de la línea de producción. Enlarge ImageClose
+Nike
+La parte superior del modelo de zapatilla Flyknit, de Nike. El más significativo de estos pasos es, con holgura, la manufactura aditiva, un proceso de fabricación de objetos tridimensionales de virtualmente cualquier forma a partir de un modelo digital. Estas máquinas exóticas pueden usar una gama de materiales —desde pulpa de celulosa al cobalto— y crear objetos tan variados como zapatillas, surtidores de combustible para aviones y, a largo plazo, órganos humanos. Y una sola pieza de equipo de manufactura puede ser programada para fabricar una variedad de objetos prácticamente ilimitada.
+En un recorrido por un laboratorio de equipos de manufactura avanzada que construye Autodesk Inc. en San Francisco, su presidente ejecutivo, Carl Bass, señala una marca en el piso, donde se ubicará una sofisticada máquina controlada por computadora. Bass cuenta que la planta donde se fabrica el aparato es tan avanzada que casi no hay que prender la luz porque las máquinas hacen todo. En una universidad en Inglaterra, una impresora de 3-D se replicó a sí misma. De todos modos, los fabricantes también afrontan grandes desafíos en esta nueva era. Por un lado, la manufactura aditiva funciona con modelos digitales de objetos y las empresas son mucho más vulnerables al robo de propiedad intelectual.
+La suela de una máquina nueva
+La zapatilla Flyknit, de Nike Inc., ofrece una idea más concreta de cómo las nuevas tecnologías están cambiando los métodos de fabricación.Aunque muchas zapatillas parezcan productos de alta tecnología, casi todas se siguen fabricando en líneas de montaje que ponen un énfasis sorprendente en la mano de obra humana. El año pasado, sin embargo, Nike comenzó a fabricar Flyknit de otra forma.
+Los ingenieros de la empresa modificaron una máquina para fabricar chalecos y la convirtieron en una que teje toda la parte superior del zapato en una sola pieza que luego se adosa a la lengüeta y a la suela. Cuando se cose el zapato, un programa de software registrado le indica a la máquina que altere los materiales que usa —un poco más de poliéster aquí, un poco menos allá— para añadir resistencia o flexibilidad donde sea necesario.
+Lo más importante es que la máquina hace todos estos ajustes sin costos adicionales. La tecnología le permitió a Nike fabricar un zapato con sólo unas pocas partes en lugar de decenas y con hasta 80% menos de desechos. "El Flyknit de Nike es el primer producto de consumo producido en masa fabricado con manufactura aditiva", afirma Maurice Conti, director de innovación estratégica en Autodesk, que trabajó con Nike en el proyecto Flyknit.
+Las implicaciones de esto son obvias y profundas: la justificación para fabricar zapatos en países de salarios bajos comienza a evaporarse y las ventajas de ubicar las máquinas más cerca del cliente —en parte para una entrega más veloz— cobran mayor importancia. Adidas AG ya está produciendo una zapatilla, la Primeknit, en su país de origen, Alemania.
+No nos apresuremos
+Pero resta por verse si este fenómeno generará un resurgimiento del empleo fabril en Estados Unidos que alcanzó su apogeo en 1979 con unos 19,5 millones de trabajadores, los que han descendido a cerca de 12 millones en la actualidad, según la Oficina de Estadísticas Laborales de EE.UU. La oportunidad real está en el crecimiento de microfábricas avanzadas y especializadas, y en legiones de pequeños emprendimientos dedicados a fabricar cosas viejas de formas nuevas y artículos por encargo. Un importante signo de los tiempos que corren es que el mayor fabricante de impresoras 3-D de EE.UU., 3D Systems Corp., presentó un modelo a botones de US$1.299 el año pasado en EE.UU., un precio al alcance de la mano de las empresas más pequeñas y los usuarios individuales. Kits para fabricar una impresora que funciona con software del proyecto de fuentes abiertas RepRap pueden llegar a costar apenas US$400.Una empresa llamada Bespoke Holding Inc., una filial de 3D Systems, ya fabrica extremidades del cuerpo artificiales. Otra, Organovo Holdings Inc., utiliza la impresión en 3-D para crear tejido humano que se emplea en los laboratorios médicos.
+Nuevos métodos La manufactura aditiva podría traer otros cambios que son igual de radicales que las "fábricas" controladas desde el garaje de una casa. La manufactura aditiva posibilita crear diseños o estructuras que no eran factibles mediante las dos formas de fabricación tradicionales: moler (esculpir material a partir de un bloque macizo) y moldear (verter material líquido que se endurece en un molde). Ambas técnicas son notablemente mejoradas por la producción en masa puesto que la calidad suele aumentar y los costos caen a medida que crece el volumen.
+Pero la manufactura aditiva permite la creación de materiales con muchas partes y componentes móviles sin ensamblar. Y como el proceso es controlado por completo por computadoras, siguiendo instrucciones digitales precisas, la primera pieza que se fabrica es tan buena como la última. El costo incremental de producir una parte se vuelve estrictamente una función del tiempo y los materiales.
+Diseñadores e ingenieros de GE estudiaron objetos antiguos y esqueletos prehistóricos de aves, y se adentraron en nuevas topologías, en busca de inspiración para nuevas formas de diseño. Su razonamiento: siglos de fabricar cosas con las restricciones de los viejos métodos podrían haber tenido como consecuencia que sus predecesores descartaran estructuras innovadoras simplemente porque no había forma práctica de producirlas a través del molido o moldeado. Hoy, podrían ser muy factibles. De todos modos, este nuevo contexto plantea grandes desafíos para los fabricantes. En Internet aparecen abundantes archivos digitales de objetos físicos con las respectivas instrucciones para fabricarlos. "Doy muchos discursos sobre este tema ante grupos manufactureros y la gente suele quedarse callada durante la parte de preguntas y respuestas", afirma Christine Furstoss, quien supervisa a 450 ingenieros y científicos que trabajan en materiales, estrategia energética y tecnología de procesamiento en el centro de investigación de GE. "Pero posteriormente, se acercan en privado y quieren hablar de lo asustados que están. La gente tiene una pequeño vistazo de la forma en que esto podría transformar su negocio, y no están seguros de cómo reaccionar".
+Copyright 2012 Dow Jones & Company, Inc. All Rights Reserved
+This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit
+www.djreprints.com
+Subscriber Content Read Preview
+In China ist die erste Anleihe geplatzt
+Volkswirte haken EZB-Zinssenkung ab
+US-Börsenmakler verheimlichen ihre dunkle Vergangenheit
+close
+Email This
+Recipient's Email Address (Separate multiple address with commas)
+Your Email Address
+Message (Optional)
+Send me a copy
+or Cancel
+close
+Thank You
+Your email has been sent.
+close
+Error.
+An error has occured and your email has not been sent. Please try again.
+• Invalid email address.
+• You can't enter more than 20 emails.
+• Seperate multiple addresses with Commas.
+• Must enter an email address.
+• You must enter the verification code below to send.
+• Invalid entry: Please type the verification code again.
+Voltar ao Back To
+MSN Money Homepage
+MSN Money Investing
+Available to WSJ.com Subscribers
+Subscriber Content Read Preview
+Stockbrokers Fail to Disclose Red Flags
+Subscriber Content Read Preview
+Lenders Spring Up to Cater to Subprime Sector
+Subscriber Content Read Preview
+BofA Seeks a Lift From Flat-Fee Checking
+Subscriber Content Read Preview
+Cerberus Seeks $9 Billion-Plus Deal for Safeway
+From the HomePage
+Crimea Raises Tension by Setting Secession Vote
+The Moscow-backed government of Crimea set a referendum in 10 days to ratify its decision to secede from Ukraine and join Russia, a vote President Obama blasted as illegal.
+Subscriber Content Read Preview
+Crimeans React With Mixed Emotions
+As Crimea's legislators were voting for secession, residents expressed a mixture of shock and satisfaction about the prospect of splitting Ukraine and joining Russia.
+Subscriber Content Read Preview
+Ukraine Strife Strains Diplomatic Ties
+Escalating tensions between Washington and Moscow are casting an uneasy light on the delicate diplomatic partnership between Secretary of State John Kerry and his Russian counterpart, Sergei Lavrov.
+Subscriber Content Read Preview
+Russia's Crimea Grab Sparks Wartime Allusions
+Russia's threat to annex the Crimea, which calls to mind Germany's moves before World War II, is stoking fears in Europe that Moscow may seek to take more territory under its control and destabilize the broader region.
+Recomendaciones del Editor
+previous
+next
+Un año después de la muerte de Hugo Chávez, crece la división en Venezuela La aguda sequía en Brasil reanima los mercados de materias primas
+Las empresas alemanas abandonan la red eléctrica
+El ADN de los diferentes estilos de inversión
+Los mercados de frontera ganan atractivo ante la turbulencia en los emergentes
+Incluso los ricos sienten el alza de los bienes de lujo
+Los mercados emergentes se ven atractivos... otra vez
+La batalla por los 'smartphones' ultrabaratos Extrayendo oro a 45 grados bajo cero
+Los artesanos textiles de Italia se enfrentan a la extinción
+En medio de la volatilidad de sus vecinos, Uruguay se vende como una opción estable
+Colombia habría desplazado a Argentina como tercera economía de Latinoamérica
+El héroe popular de las protestas venezolanas
+La mafia de Nueva York baja su perfil, pero mantiene su cuota de poder
+La apuesta de Sony para resucitar en el mercado de celulares
+El regulador de México apunta a Slim y Televisa
+Cómo saber si un potencial jefe se convertirá en una pesadilla
+Loading...
+Footnotes*
+Real-time U.S. stock quotes reflect trades reported through Nasdaq only; comprehensive U.S. stock quotes reflect trading in all markets and are delayed at least 15 minutes. All quote volume is comprehensive and reflects trading in all markets, delayed at least 15 minutes. International stock quotes are delayed as per exchange requirements.
+Video
+previous
+next
+Opinion
+Opinion: Kasparov: Failure of the Russian “Reset” 4:59
+Opinion
+Opinion: Another Day, Another ObamaCare Delay
+3:37
+Opinion
+Opinion: The Carter Presidency, Pt. II. 3:41
+Opinion
+Opinion: Milken: Housing Policy Hurts The Middle Class 4:52
+Opinion
+Opinion: Obama's Blowout Budget 4:40
+Opinion
+Opinion: Putin's Georgia Precedent 3:28
+Opinion
+Opinon: Will Cuomo Save School Choice?
+3:49
+Opinion
+Opinion: Why One Parent Rallied for Charter Schools
+2:46
+Opinion
+Opinion: What Went Wrong for the Tea Party? 4:40
+Opinion
+Opinion: Tea Party Primary Stumbles 4:02
+Opinion
+Opinion: Lone Star State Bellwether 3:43
+Opinion
+Opinion: The Case for a Camera-Free Supreme Court 2:58
+Opinion
+Opinion: Why Ukraine Matters
+3:46
+Opinion
+Opinion: How to Punish Putin 4:35
+Opinion
+Opinion: Our Politicized Drug Czars
+3:02
+Most Recommended
+CommentsComments
+CommentersCommenters
+1.
+“So much for the idea, pushed by...;”
+- Don Hansen
+132 Recommendations
+2.
+“The IRS should collect the taxes...;”
+- Jonathan Murray
+123 Recommendations
+3.
+“We don't know what the course of...;”
+- Roger Cohen
+117 Recommendations
+4.
+“"Unfortunately, the UAW has...;”
+- XAVIER L SIMON
+104 Recommendations
+5.
+“True. I have read that in the...;”
+- Keith Dowling
+103 Recommendations
+Craig Mundo
+2787 Recommendations
+XAVIER L SIMON
+2549 Recommendations
+Bob Wahler
+2227 Recommendations
+James Doppelheuer
+2088 Recommendations
+Maria Bonanno
+1373 Recommendations
+Most Active Discussions
+Journal Community
+Religion & Ethics
+Do we need religion to have ethics? Is it possible that a world without religion can be, on the whole, a better place to live?
+Science Fiction and Fantasy
+What is your favorite Heinlein Story
+Libertarians
+Is it useful to compare political figures of today with Hitler?
+Question of the Day
+Have you had to sacrifice anything from your household budget to allow for higher cellphone/mobile data expenses?
+Question of the Day
+What do you think of as a “small” business?
+See all Discussion Groups
+]]>
+Recomendaciones del Editor
+previous
+next
+Un año después de la muerte de Hugo Chávez, crece la división en Venezuela La aguda sequía en Brasil reanima los mercados de materias primas
+Las empresas alemanas abandonan la red eléctrica
+El ADN de los diferentes estilos de inversión
+Los mercados de frontera ganan atractivo ante la turbulencia en los emergentes
+Incluso los ricos sienten el alza de los bienes de lujo
+Los mercados emergentes se ven atractivos... otra vez
+La batalla por los 'smartphones' ultrabaratos Extrayendo oro a 45 grados bajo cero
+Los artesanos textiles de Italia se enfrentan a la extinción
+En medio de la volatilidad de sus vecinos, Uruguay se vende como una opción estable
+Colombia habría desplazado a Argentina como tercera economía de Latinoamérica
+El héroe popular de las protestas venezolanas
+La mafia de Nueva York baja su perfil, pero mantiene su cuota de poder
+La apuesta de Sony para resucitar en el mercado de celulares
+El regulador de México apunta a Slim y Televisa
+Cómo saber si un potencial jefe se convertirá en una pesadilla
+Journal Community
+close window
+Hello Your question to the Journal Community Your comments on articles will show your real name and not a username.Why?
+Why use your real name? The Journal Community encourages thoughtful dialogue and meaningful connections between real people. We require the use of your full name to authenticate your identity. The quality of conversations can deteriorate when real identities are not provided.
+Please enter your first and last name
+First name: Last name: Create a Journal Community profile to avoid this message in the future. (As a member you agree to use your real name when participating in the Journal Community)
+Post
+Cancel
+Privacy Policy
+Community Rules
+Notice: Your participation access with Journal Community has been disabled due to violation of Journal Community Guidelines.
+If you feel you have reached this status change in error, please contact TBD@wsj.com
+WSJ Web Slice
+CONTENT
+LINKS TO ACTUAL PAGE CONTAINING WEB SLICE FUNCTIONALITY.
+15
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Advertise
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads Recruitment & Career Ads Franchising
+Advertise Locally Tools & Features
+Apps
+Emails & Alerts
+Graphics
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Why Subscribe
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+Mobile Site
+Price & Volume
+Keyword & Symbol
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+Schließen
+Subscribe Now
+Save to ↓ More
+Save ↓ More
+Saved ↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+smaller
+Larger
+facebook
+twitter
+google plus
+linked in	Email
+Print
+Save
+↓ More
+facebook twitter google plus linked in
+Email
+Print Save
+↓ More
+Order Reprints facebook
+twitter
+google plus
+linked in
+Email
+Print
+Save
+↓ More
+Order Reprints 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424052702304384104579143881375126264?mod=WSJ_article_WSJ.MoneyHeadlines&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304384104579143881375126264.html%3Fmod%3DWSJ_article_WSJ.MoneyHeadlines
+WARC-Date: 2014-03-07T05:26:20Z
+WARC-Record-ID: <urn:uuid:692a6b09-e981-49b0-9631-4a9db94e971d>
+WARC-Refers-To: <urn:uuid:143b67db-d986-47f0-9886-e7d03575ab61>
+WARC-Block-Digest: sha1:AZJDF5QVPDQ53VAQEXYIETGOODJL4UHJ
+Content-Type: text/plain
+Content-Length: 4108
+
+J.P. Morgan, Citi, PNC and M&T Results Show Banks in a Squeeze - WSJ.com WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+absolutely
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+Markets Home
+Wall Street
+Heard on the Street
+Stocks
+Mutual Funds & ETFs
+Bonds
+Commodities
+Currencies
+Wealth Adviser
+World Markets
+Markets Pulse
+Corporate Intelligence
+CFO Journal
+MoneyBeat
+Market Data
+Markets
+Subscribe
+Log In
+Top Stories in Markets​
+1 of 12
+Don't Bet the House on Higher Spending
+Subscriber Content
+Read Preview
+2 of 12
+European Central Bank Digs In
+Subscriber Content
+Read Preview
+3 of 12
+Jobs Data Shouldn't Be Cause for Alarm
+Subscriber Content
+Read Preview
+4 of 12
+Altice Has Edge in French Telecom Battle
+Subscriber Content
+Read Preview
+5 of 12
+Vedanta's New Boss Faces Fix-Up Job
+Subscriber Content
+Read Preview
+6 of 12
+Cruising in the Back Seat of Tata Motors
+Subscriber Content
+Read Preview
+7 of 12
+A Chilling Forecast for Bank Profits
+Subscriber Content
+Read Preview
+8 of 12
+Exxon Gets the Joke
+Subscriber Content
+Read Preview
+9 of 12
+Winter's Toll on Gas Inventories May La...
+Subscriber Content
+Read Preview
+10 of 12
+No Escaping Standard Chartered's Headwi...
+Subscriber Content
+Read Preview
+11 of 12
+Defusing China's Debt Before It's Too L...
+Subscriber Content
+Read Preview
+12 of 12
+Austria Faces Bank Headache
+Subscriber Content
+Read Preview
+advertisement
+Markets
+Banks Face a Profit Squeeze
+Mortgage Lending and Bond Trading Slow as Job Cuts Mount
+By
+Andrew R. Johnson, Shayndi Raice and @Shayndi Shayndi.Raice@wsj.com
+Shayndi Raice
+Biography
+Julie Steinberg @jbsteins julie.steinberg@wsj.com
+Biography
+connect
+Shayndi Raice
+@Shayndi Shayndi.Raice@wsj.com
+Shayndi Raice
+Biography
+Julie Steinberg
+@jbsteins julie.steinberg@wsj.com
+Biography
+Updated Oct. 18, 2013 7:21 p.m. ET
+The nation's biggest banks are getting squeezed from almost every direction, quarterly reports show, from slumping mortgage demand to a sluggish economy and tumultuous bond markets. The result has been a lackluster third quarter for lenders from behemoths like J.P. Morgan Chase & Co. and Citigroup Inc. to regional banks such as PNC Financial Services Group Inc. and M&T Bank Corp. The 10 largest traditional commercial...
+Available to WSJ.com Subscribers Stockbrokers Fail to Disclose Red Flags
+Lenders Spring Up to Cater to Subprime Sector
+BofA Seeks a Lift From Flat-Fee Checking
+Cerberus Seeks $9 Billion-Plus Deal for Safeway
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887323316804578163733429534650?mod=WSJ_article_U.S.Headlines&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887323316804578163733429534650.html%3Fmod%3DWSJ_article_U.S.Headlines
+WARC-Date: 2014-03-07T05:27:56Z
+WARC-Record-ID: <urn:uuid:451dfbb5-6619-4032-a730-3ca508bf1e81>
+WARC-Refers-To: <urn:uuid:0e366a11-4af6-4392-96b8-5035cbda0e2c>
+WARC-Block-Digest: sha1:UU3B4E4DRPYRL3PLXBVFBGPL5PXRCNA4
+Content-Type: text/plain
+Content-Length: 3871
+
+HEARD ON THE STREET: Apple's Soft Core Is Its Strength - WSJ.com WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+absolutely
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+Markets Home
+Wall Street
+Heard on the Street
+Stocks
+Mutual Funds & ETFs
+Bonds
+Commodities
+Currencies
+Wealth Adviser
+World Markets
+Markets Pulse
+Corporate Intelligence
+CFO Journal
+MoneyBeat
+Market Data
+Markets
+Subscribe
+Log In
+Top Stories in Markets​
+1 of 12
+Don't Bet the House on Higher Spending
+Subscriber Content
+Read Preview
+2 of 12
+European Central Bank Digs In
+Subscriber Content
+Read Preview
+3 of 12
+Jobs Data Shouldn't Be Cause for Alarm
+Subscriber Content
+Read Preview
+4 of 12
+Altice Has Edge in French Telecom Battle
+Subscriber Content
+Read Preview
+5 of 12
+Vedanta's New Boss Faces Fix-Up Job
+Subscriber Content
+Read Preview
+6 of 12
+Cruising in the Back Seat of Tata Motors
+Subscriber Content
+Read Preview
+7 of 12
+A Chilling Forecast for Bank Profits
+Subscriber Content
+Read Preview
+8 of 12
+Exxon Gets the Joke
+Subscriber Content
+Read Preview
+9 of 12
+Winter's Toll on Gas Inventories May La...
+Subscriber Content
+Read Preview
+10 of 12
+No Escaping Standard Chartered's Headwi...
+Subscriber Content
+Read Preview
+11 of 12
+Defusing China's Debt Before It's Too L...
+Subscriber Content
+Read Preview
+12 of 12
+Austria Faces Bank Headache
+Subscriber Content
+Read Preview
+advertisement
+Heard on the Street
+Apple's Power Within
+By
+Rolfe Winkler
+Updated Dec. 7, 2012 7:05 a.m. ET
+Whether Apple's share-price plunge is justified comes down to one question: Is the iPhone maker a hardware or a software company? Right now, it is more the latter. And that is why the 22% drop in the shares since their September peak creates an opportunity for investors. Hardware's history is ugly, thanks to rapid advances in technology. Sony's once-popular Walkman was made obsolete, its televisions commoditized. Neither scale nor manufacturing expertise protected Dell or Hewlett-Packard in personal computers. The...
+Available to WSJ.com Subscribers Stockbrokers Fail to Disclose Red Flags
+Lenders Spring Up to Cater to Subprime Sector
+BofA Seeks a Lift From Flat-Fee Checking
+Cerberus Seeks $9 Billion-Plus Deal for Safeway
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887323401904578157181809406370?mod=WSJ_article_MoreIn_CollegeBasketball&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887323401904578157181809406370.html%3Fmod%3DWSJ_article_MoreIn_CollegeBasketball
+WARC-Date: 2014-03-07T05:26:41Z
+WARC-Record-ID: <urn:uuid:de96cc5b-e1f9-4bb4-b1d1-adead887627c>
+WARC-Refers-To: <urn:uuid:fe2f36fd-92ec-400f-8458-c3ef951e2837>
+WARC-Block-Digest: sha1:5WN6762KO5BQEQS2DNCCA6XCKED3LOH4
+Content-Type: text/plain
+Content-Length: 10824
+
+Hollywood's Guide to the Bowls—Northern Illinois in 'Almost Famous'—Notre Dame in 'Never Say Never Again' - WSJ.com WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+absolutely
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+Life & Culture Home
+Arts & Entertainment
+Sports
+Fashion
+Food & Drink
+Travel
+Health & Wellness
+Retirement Planning
+Cars
+Books & Ideas
+The A-Hed
+Speakeasy
+Life & Culture
+Subscribe
+Log In
+Top Stories in Life & Culture​
+1 of 12
+Cut to the Car Chase
+Subscriber Content
+Read Preview
+2 of 12
+'Nuns. Who Knew?' How Documentaries Fin...
+Subscriber Content
+Read Preview
+3 of 12
+A Channel of One's Own—With Vampires
+Subscriber Content
+Read Preview
+4 of 12
+'Ernest & Celestine' Recalls Tradit...
+Subscriber Content
+Read Preview
+5 of 12
+Scalpers Bet Fans Will Pay $5,500 to Se...
+6 of 12
+Showing the Love at 'Sweeney Todd'
+7 of 12
+Partying With Art 'Addicts'
+8 of 12
+Not Crazy, Actor Says of Murderer Chara...
+9 of 12
+Big Deals in Las Vegas
+10 of 12
+An Artist Finds the Perfect Red
+11 of 12
+Anatomy of a Song: "Kansas City&qu...
+Subscriber Content
+Read Preview
+12 of 12
+A Banjo and a Brass Fest
+College Football
+Hollywood's Guide to the Bowls
+In Our Annual Bowl Primer, We Use Movies to Explain the Matchups; Northern Illinois in 'Almost Famous'
+Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Facebook
+Twitter
+Google+
+LinkedIn
+smaller
+Larger
+By
+Darren Everson
+Updated Dec. 4, 2012 7:16 p.m. ET
+Ben Affleck and Bryan Cranston in 'Argo.'
+Warner Bros./Everett Collection The 'Argo' Bowl (Rose Bowl: Stanford vs. Wisconsin, Jan. 1 in Pasadena, Calif.): The stranger-than-fiction tale of how a desperate group of impostors managed to fool Bowl officials into believing they were the Big Ten champions. Clint Eastwood in 'Gran Torino.'
+Warner Bros./Everett Collection The 'Gran Torino' Bowl (Fiesta Bowl: Kansas State vs. Oregon, Jan. 3 in Glendale, Ariz.): A crotchety older man (Kansas State coach Bill Snyder
+?) clashes with a bunch of loudmouth youngsters with their crazy outfits and newfangled gadgets. 'The Descendants' Bowl (Hawaii Bowl: Fresno State vs. Southern Methodist, Dec. 24 in Honolulu): A quiet drama that takes place on the Hawaiian islands. Rather depressing. Kate Hudson and Patrick Fugit in 'Almost Famous.'
+Everett Collection The 'Almost Famous' Bowl (Orange Bowl: Florida State vs. Northern Illinois, Jan. 1 in Miami Gardens, Fla.): A wide-eyed, little-known team is given the opportunity of a lifetime when it joins up with a rock-star football program in a BCS bowl game. Duke basketball player Mason Plumlee.
+Associated Press The 'Hoop Dreams' Bowl (Belk Bowl: Cincinnati vs. Duke, Dec. 27 in Charlotte, N.C.): Like the documentary film, this game features a pair of basketball stars who aspire to greater things. The Baylor mascot
+Cal Sport Media/Zuma Press 'The Edge' Bowl (Holiday Bowl: Baylor vs. UCLA, Dec. 27 in San Diego): It's not clear whether this game will match the film's star billing. But we can guarantee there will be bears involved. And somebody will be eaten. Hollywood's Guide to the Bowls Archive A Movie Guide to the Bowls Hollywood's Guide to the Bowl Games 'The Right Stuff' Bowl (Armed Forces Bowl: Air Force vs. Rice, Dec. 29 in Fort Worth, Texas): A collection of America's brightest collegians joins forces with elite aeronauts to create something special—in this case a meaningless bowl game. The '2012' Bowl (Beef 'O' Brady's Bowl: Ball State vs. Central Florida, Dec. 21 in St. Petersburg, Fla.): As detailed in the movie, the Mayans supposedly predicted the world to end Dec. 21—the same day the Cardinals face the Knights. So the good news is you may not have to watch the whole game. Oregon State coach Mike Riley
+Associated Press The 'Magic Mike' Bowl (Alamo Bowl: Oregon State vs. Texas, Dec. 29 in San Antonio): Like the film, this game revolves around a character named Mike (in this case, Oregon State coach Mike Riley) who choreographs his team to surprising success. Bonus: possible cameo by shirtless Longhorns fan Matthew McConaughey. Kevin Bacon and Julia Roberts in 'Flatliners.'
+Columbia/Everett Collection The 'Flatliners' Bowl (Sun Bowl: Georgia Tech vs. Southern California, Dec. 31 in El Paso, Texas): Two ambitious football programs inexplicably decide to experiment in the realm of near-death experiences, temporarily killing themselves by losing game after game. Each is revived to play in a subpar bowl. South Carolina running back Marcus Lattimore.
+Associated Press The 'Psycho' Bowl (Outback Bowl: Michigan vs. South Carolina, Jan. 1 in Tampa, Fla.): Audiences were stunned when Alfred Hitchcock killed off his leading lady halfway through the film. Likewise, South Carolina fans were forced to watch gruesome replays of star running back Marcus Lattimore's midseason knee injury—although not in a shower. The '28 Days Later' Bowl (
+Capital One
+COF +0.90%
+Capital One Financial Corp.
+U.S.: NYSE
+$75.03
++0.67
++0.90%
+March 6, 2014 4:01 pm Volume (Delayed 15m)
+:
+2.85M
+AFTER HOURS
+$75.03
+0.00
+0.00%
+March 6, 2014 5:02 pm Volume (Delayed 15m):
+30,692
+P/E Ratio
+10.63
+Market Cap
+$42.59 Billion
+Dividend Yield
+1.60% Rev. per Employee
+$575,791
+02/27/14 Capital One, GreenPoint Receiv...
+02/18/14 Train Reading: 'Our Concerns A...
+02/07/14 Capital One CIO said Digital D...
+More quote details and news »
+COF in
+Your Value
+Your Change
+Short position
+Bowl: Georgia vs. Nebraska, Jan. 1 in Orlando, Fla.): Exactly four weeks from now, the Bulldogs and Cornhuskers will awaken in a post-apocalyptic landscape nowhere near the Bowl Championship Series. Where did everybody go? Peter Fonda and Dennis Hopper in 'Easy Rider.'
+Everett Collection The 'Easy Rider' Bowl (Sugar Bowl: Florida vs. Louisville, Jan. 2 in New Orleans): Not much of a plot to this one. Two teams cruise along for much of the season, only to end up in New Orleans. Possible downer ending. The 'Home Alone 2: Lost in New York' Bowl (Pinstripe Bowl: Syracuse vs. West Virginia, Dec. 29 in Bronx, N.Y.): A classic Christmas comedy about an innovative kid (played by West Virginia quarterback Geno Smith) who gets stranded in New York and has to fight a familiar foe. Kevin Kline and Will Smith in 'Wild Wild West.'
+Warner Bros./Everett Collection The 'Wild Wild West' Bowl (Cotton Bowl: Oklahoma vs. Texas A&M, Jan. 4 in Arlington, Texas): Take away the Will Smith character (Aggies QB Johnny Manziel) and the special effects on offense and you're left with a lousy remake of a Big 12 western. Sean Connery in 'Never Say Never Again.'
+Everett Collection The 'Never Say Never Again' Bowl (BCS title game: Alabama vs. Notre Dame, Jan. 7 in Miami Gardens, Fla.): After years of Roger Moore-like seasons, the Irish—like Sean Connery—make a comeback. —Geoff Foster, Adam Thompson, Jim Chairusmi and Kevin Clark contributed to this article.
+Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Order Reprints
+Facebook
+Twitter
+Google+
+LinkedIn
+close
+Email This
+• Invalid Email Address
+Recipient's Email Address (Separate multiple address with commas)
+• Invalid Email Address
+Your Email Address
+Message (Optional)
+Send me a copy
+You must enter the verification code below to send.
+or Cancel
+close
+Thank You
+Your email has been sent.
+close
+Error.
+An error has occurred and your email has not been sent.
+Please try again.
+WSJ In-Depth Obama Scales Back Budget Goals
+Interactive: Faces of the Affordable Care Act
+The Journal follows those affected by the health law—from industry executives to consumers to care providers—and shares their stories.
+CDC: Antibiotic Overuse Can Be Lethal
+Why This Computer Mouse Rules
+Inside a Stunning Comeback
+China Calibrates its Response to Attack
+Popular Now
+What's This?
+Close
+Content engaging our readers now, with additional prominence accorded if the story is rapidly gaining attention. Our WSJ algorithm comprises 30% page views, 20% Facebook, 20% Twitter, 20% email shares and 10% comments.
+ARTICLES
+1
+Behind Oscar Selfie: Samsung's Ad Plan
+Twitter
+Facebook
+Email
+Comments
+2
+Ramblin' No More: A Last Run at the Beacon
+Twitter
+Facebook
+Email
+Comments
+3
+Crimea Raises Tension by Setting Secession Vote
+Twitter
+Facebook
+Email
+Comments
+4
+Selfies Bring Ashtags to Lent
+Twitter
+Facebook
+Email
+Comments
+5
+Opinion: Henninger: Putin Carterizes Obama, Totally
+Twitter
+Facebook
+Email
+Comments
+VIDEO
+1 RT Anchor Quits On Air, Cites Putin 'Whitewash' Twitter
+Facebook
+2 For Billionaires Only: Tour a $315 Million Yacht Twitter
+Facebook
+3 Putinisms: Vladimir Putin’s Top Six One Liners Twitter
+Facebook
+4 Viral Oscar Selfie Sponsored by Samsung Twitter
+Facebook
+5 Structuring a Portfolio for Rising Rates Twitter
+Facebook
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887323539804578261880248933170?mod=WSJ_hpp_PhotosModule_1&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887323539804578261880248933170.html%3Fmod%3DWSJ_hpp_PhotosModule_1
+WARC-Date: 2014-03-07T05:24:36Z
+WARC-Record-ID: <urn:uuid:961ee85f-f3f9-4571-a422-6c73c58c9e1c>
+WARC-Refers-To: <urn:uuid:4c547916-f433-4d12-b56b-ef0cbaddb776>
+WARC-Block-Digest: sha1:WFZPRJ4HIQFYOSOJ5LQ25GWCRHEI4AEV
+Content-Type: text/plain
+Content-Length: 6251
+
+Satmar Wedding - WSJ.com WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+trips
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+World Home
+Asia
+China
+Hong Kong
+Japan
+India
+SE Asia
+Europe
+U.K.
+Russia
+Middle East
+Africa
+Canada
+Latin America
+World
+Subscribe
+Log In
+Top Stories in World​
+1 of 12
+Venezuelan President Calls for Meeting ...
+Subscriber Content
+Read Preview
+2 of 12
+Al Qaeda Trainee Testifies at Terror Tr...
+Subscriber Content
+Read Preview
+3 of 12
+Netherlands Flags Possible Ukraine Asse...
+Subscriber Content
+Read Preview
+4 of 12
+Niger Extradites Gadhafi's Son to Libya
+Subscriber Content
+Read Preview
+5 of 12
+Sweden Mulls "Doctrine Shift"...
+Subscriber Content
+Read Preview
+6 of 12
+Canadian Regulators Approve Enbridge Pi...
+Subscriber Content
+Read Preview
+7 of 12
+Heavenly Currency Intervention Is Sought
+Subscriber Content
+Read Preview
+8 of 12
+Karzai's Brother Quits Afghan Race
+9 of 12
+Doctor at Scene of Pistorius Shooting T...
+Subscriber Content
+Read Preview
+10 of 12
+New Zealand Looking to Revive Solid Ene...
+Subscriber Content
+Read Preview
+11 of 12
+U.S., Russia Discuss International 'Con...
+Subscriber Content
+Read Preview
+12 of 12
+Indonesia Candidate Backs Nimbler Econo...
+Subscriber Content
+Read Preview
+Jan 24, 2013 3:42 p.m. ET
+Mazel Tov!
+Scenes from a traditional Hasidic wedding in Beit Shemesh, Israel.
+Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Facebook
+Twitter
+Google+
+LinkedIn
+close
+Email This
+• Invalid Email Address
+Recipient's Email Address (Separate multiple address with commas)
+• Invalid Email Address
+Your Email Address
+Message (Optional)
+Send me a copy
+You must enter the verification code below to send.
+or Cancel
+close
+Thank You
+Your email has been sent.
+close
+Error.
+An error has occurred and your email has not been sent.
+Please try again.
+recent
+popular
+world
+u.s.
+New York
+Business
+Europe
+Asia
+Life & Culture
+Real Estate
+The Films of Richard Rodriguez
+In These Films, the Cars Are the Stars
+Jackpot Homes in Las Vegas
+Private Properties
+Tensions Rise in Crimea
+Pepper...and Salt
+Explore More
+Back to the beginning
+The bride, Miryam Teitelbaum, granddaughter of Grand Rabbi Zalman Leib Teitelbaum of the Satmar Hasidic Jewish movement, danced with her father, Rabbi Chaim Tzvi Teitelbaum, head of the Jerusalem Satmar branch, at her wedding reception early Thursday in Beit Shemesh, Israel. Yin Dongxun/Xinhua/Zuma Press
+Hide
+Captions
+1
+of 13
+The bride watched as Grand Rabbi Teitelbaum, right, in white, danced during the mitzvah tantz, in which the bride enters the men's section of the hall and family members and honored rabbis are invited to dance for her. Oded Balilty/Associated Press
+Hide
+Captions
+2
+of 13
+Some 5,000 guests attended the traditional Hasidic wedding in Beit Shemesh, near Jerusalem. The groom is Moshey Chaim, the son of Rabbi Yeshaya Labin of Zidichov, from Williamsburg, Brooklyn. Oded Balilty/Associated Press
+Hide
+Captions
+3
+of 13
+The bride covered her face with her veil as she arrived at the ceremony Wednesday. Oded Balilty/Associated Press
+Hide
+Captions
+4
+of 13
+Guests danced during the wedding, which was held from Wednesday evening to Thursday morning. Yin Dongxun/Xinhua/Zuma Press
+Hide
+Captions
+5
+of 13
+A boy looked at the women's section through a curtain. In accordance with Jewish law, men and women dance separately. Yin Dongxun/Xinhua/Zuma Press
+Hide
+Captions
+6
+of 13
+Rabbi Zalman Leib Teitelbaum, in white, danced with the groom and relatives in front of the bride. Yin Dongxun/Xinhua/Zuma Press
+Hide
+Captions
+7
+of 13
+Women sitting behind a curtain took photos of the ceremonies. Oded Balilty/Associated Press
+Hide
+Captions
+8
+of 13
+The bride looked on from behind her veil. Yin Dongxun/Xinhua/Zuma Press
+Hide
+Captions
+9
+of 13
+Male guests looked on during the wedding at Beit Shemesh. Oded Balilty/Associated Press
+Hide
+Captions
+10
+of 13
+Female guests watched from behind a curtain. Oded Balilty/Associated Press
+Hide
+Captions
+11
+of 13
+Women sat around the bride. The bride dances with male guests, other than her father and the groom, by holding to one end of a scarf or belt. Oded Balilty/Associated Press
+Hide
+Captions
+12
+of 13
+Popular Slideshows
+Private Properties
+Photos of the Day: March 5
+Tensions Rise in Crimea
+A Curated Home in Connecticut
+Photos of the Day: March 6
+Jackpot Homes in Las Vegas
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887323789704578447080476172420?mod=WSJ_article_TheSaturdayEssayHeadlines&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887323789704578447080476172420.html%3Fmod%3DWSJ_article_TheSaturdayEssayHeadlines
+WARC-Date: 2014-03-07T05:35:07Z
+WARC-Record-ID: <urn:uuid:1ec34117-1c3f-478f-9237-ad08f7090f05>
+WARC-Refers-To: <urn:uuid:0f74e05b-8418-4f10-be84-989d8a077e4b>
+WARC-Block-Digest: sha1:LFRWRUDIKFZO3TFRD7W2KFGS6FCA4E5G
+Content-Type: text/plain
+Content-Length: 4067
+
+Asia Goes on a Debt Binge as Much of World Sobers Up - WSJ.com mainly
+WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+World Home
+Asia
+China
+Hong Kong
+Japan
+India
+SE Asia
+Europe
+U.K.
+Russia
+Middle East
+Africa
+Canada
+Latin America
+World
+Subscribe
+Log In
+Top Stories in World​
+1 of 12
+Venezuelan President Calls for Meeting ...
+Subscriber Content
+Read Preview
+2 of 12
+Al Qaeda Trainee Testifies at Terror Tr...
+Subscriber Content
+Read Preview
+3 of 12
+Netherlands Flags Possible Ukraine Asse...
+Subscriber Content
+Read Preview
+4 of 12
+Niger Extradites Gadhafi's Son to Libya
+Subscriber Content
+Read Preview
+5 of 12
+Sweden Mulls "Doctrine Shift"...
+Subscriber Content
+Read Preview
+6 of 12
+Canadian Regulators Approve Enbridge Pi...
+Subscriber Content
+Read Preview
+7 of 12
+Heavenly Currency Intervention Is Sought
+Subscriber Content
+Read Preview
+8 of 12
+Karzai's Brother Quits Afghan Race
+9 of 12
+Australia Rates Likely on Hold
+Subscriber Content
+Read Preview
+10 of 12
+Doctor at Scene of Pistorius Shooting T...
+Subscriber Content
+Read Preview
+11 of 12
+New Zealand Looking to Revive Solid Ene...
+Subscriber Content
+Read Preview
+12 of 12
+U.S., Russia Discuss International 'Con...
+Subscriber Content
+Read Preview
+Asia News
+Asia Goes on a Debt Binge as Much of World Sobers Up
+By
+Alex Frangos in Kuala Lumpur, Malaysia, and @alexfrangos Alex.Frangos@wsj.com
+Biography
+Bob Davis in Beijing
+@bobdavis187 Bob.Davis@wsj.com
+Bob Davis
+Biography
+connect
+Alex Frangos
+@alexfrangos Alex.Frangos@wsj.com
+Biography
+Bob Davis
+@bobdavis187 Bob.Davis@wsj.com
+Bob Davis
+Biography
+Updated May 24, 2013 2:51 a.m. ET
+In the heart of Kuala Lumpur lies the abandoned foundation of Plaza Rakyat, a never-built skyscraper and shopping mall. Rusty rebar jutting from concrete pilings and fetid green pools of rainwater serve as an unintended monument to the debt crisis that ravaged Asia in the late 1990s. Today, less than a half mile from the abandoned project, the next boom is under way in the Malaysian metropolis. Construction has begun on a new subway line, and next to one station plans call for a 118-story zigzagging skyscraper that would...
+Available to WSJ.com Subscribers Stockbrokers Fail to Disclose Red Flags
+Lenders Spring Up to Cater to Subprime Sector
+BofA Seeks a Lift From Flat-Fee Checking
+Cerberus Seeks $9 Billion-Plus Deal for Safeway
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887324050304578408740516151464?mod=WSJ_article_RecentColumns_CultureCity&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887324050304578408740516151464.html%3Fmod%3DWSJ_article_RecentColumns_CultureCity
+WARC-Date: 2014-03-07T05:28:01Z
+WARC-Record-ID: <urn:uuid:83ce2b8d-39e5-4ef9-957e-6d7afd171e81>
+WARC-Refers-To: <urn:uuid:c7256023-9b8e-4454-8ddc-3be232a902d0>
+WARC-Block-Digest: sha1:XZNN4AODVMBXTFLEMU4H45Z36R5HWWJ7
+Content-Type: text/plain
+Content-Length: 10273
+
+Britain Exports a Double Bill - WSJ.com WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+absolutely
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+News
+Sports
+Culture
+Real Estate
+Metropolis
+New York
+Subscribe
+Log In
+Top Stories in New York​
+1 of 12
+De Blasio Approval Rating at 39% in Poll
+2 of 12
+NYPD Focus on Subway Panhandlers
+3 of 12
+MoMA PS1 Shows 'Body Awareness'
+4 of 12
+Garment District Proves Comfortable Fit
+Subscriber Content
+Read Preview
+5 of 12
+New York Assemblyman Found Guilty of Br...
+6 of 12
+City Jobs Picture Perks Right Along
+Subscriber Content
+Read Preview
+7 of 12
+Law Firm Under Scrutiny Boosts Lobbying
+8 of 12
+Jersey City Fire Kills Family of Four
+9 of 12
+Port Authority Land for Sale
+Subscriber Content
+Read Preview
+10 of 12
+Gov. Christie: Set Sights on Defeating ...
+11 of 12
+No Nibbling, Except in the Clubhouse
+12 of 12
+Showing the Love at 'Sweeney Todd'
+Culture City
+Britain Exports a Double Bill
+By
+Pia Catton
+@piacatton Pia.Catton@wsj.com
+Pia Catton
+Biography
+connect
+Pia Catton
+@piacatton Pia.Catton@wsj.com
+Pia Catton
+Biography
+Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Facebook
+Twitter
+Google+
+LinkedIn
+smaller
+Larger
+Updated April 7, 2013 8:49 p.m. ET
+It's a rare week in New York when the Royal Shakespeare Company opens two major shows on consecutive days. The company's production of "Julius Caesar," set in Africa with an all-black cast, opens on Wednesday at the Brooklyn Academy of Music. Then on Thursday, its hit musical "Matilda" has its official opening night on Broadway. The moment comes not long after the cannonball splash the RSC made in the summer of 2011, when it built a full-scale theater within the Park Avenue Armory and presented five plays as part of Lincoln Center Festival. Patterson Joseph in Royal Shakespeare Company's 'Julius Caesar' at BAM.
+Kwame Lestrade It may seem like the RSC drops by only occasionally, but those are just the marquee events: In some ways, it hasn't really left since 2011. Like many international arts organizations, it has a fundraising operation, (RSC America) based here. It has also continued the educational efforts begun in collaboration with the Park Avenue Armory. Those efforts, often in conjunction with the Armory and the Department of Education, have had two major effects: bringing Shakespeare to students, and training teachers in the RSC's performance method. The latter has in turn led to workshops for about 200 teachers, who learn the active approach to reading Shakespeare developed by the company's voice director, Cicely Berry.
+"She created a way of working with the text that got the actors physically engaged with the language," said Jacqui O'Hanlon, the RSC's director of education. "Actors have to physically connect with their whole selves." In other words, kids don't get to sit at a desk and sleepily read the lines. Sometimes, though, they do have the chance to simply watch a play. Enlarge Image
+Bailey Ryon, Milly Shapiro, Sophia Gennusa and Oona Laurence, the stars of the company's Broadway production of 'Matilda.'
+ASSOCIATED PRESS That is the purview of the RSC's Young People's Shakespeare series. In 2011, hundreds of New York public-school students saw adapted versions of "Hamlet" and "The Comedy of Errors" at the Park Avenue Armory. In 2012, the RSC unveiled a 75-minute production of "King Lear." About 1,000 students saw the live performance, which was subsequently filmed. This fall, the DVD of that production will be distributed to New York's 1,700-plus public schools, along with additional teaching materials for classes including English and history. Why a shortened version? For many kids, Ms. O'Hanlon said, "'King Lear' in three and half hours is not going to lead to a lifelong relationship with Shakespeare." And if Shakespeare doesn't take, there's always a backup: Miss Trunchbull. No, the maniacal, child-hating teacher of "Matilda" does not visit schools, but the RSC has developed an online instruction platform for teachers who bring student groups to the show. It offers ideas for teachers to encourage the writing and telling of stories, as Matilda does in the musical. It's not immediately clear how those educational tools will be applied to the radical edit of "Antony and Cleopatra," which is coming to the Public Theater in January 2014. But surely they'll think of something. In the meantime, for the grown-ups there's the new "Julius Caesar" at BAM. Directed by Gregory Doran,
+the play is something of a calling card—his first major production in New York as the RSC's artistic director, a post he took in September 2012. And what a way to make a statement. Mr. Doran decided to set the play in Africa after learning that Nelson Mandela had read it while imprisoned on Robben Island. When a copy of Shakespeare's complete works was circulated among the prisoners, Mr. Mandela, according to the RSC, underlined the following passage and signed it "M, December 16th 1977": Cowards die many times before their deaths; The valiant never taste of death but once. Of all the wonders that I yet have heard. It seems to me most strange that men should fear; Seeing that death, a necessary end, Will come when it will come. Mr. Doran cast the play with classical actors, many born in Britain, whose heritage traces to countries including Nigeria, Zimbabwe and Mali, as well as Caribbean nations. Certain elements in the text made the setting seem natural. "The closeness of the spirit world is so pronounced in the play that it sits very easily," Mr. Doran said. The setting also resonates politically, though in some ways it transcends mere location. "By Caesar's death, they create a vacuum into which much more dangerous people flood," he said. "Shakespeare is talking about his own world though the metaphor of Ancient Rome." Mr. Doran said he's ready for the constant traveling between BAM and Broadway: "I think I will be scuttling across the Brooklyn Bridge a few times." Ultimately, said the RSC's executive director, Catherine Mallyon, the concurrent productions of "Julius Caesar" and "Matilda" underline the company's breadth. "It really is a special moment for us," she said. "It's a chance for people to learn more about what we do." Write to Pia Catton at pia.catton@wsj.com Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Order Reprints
+Facebook
+Twitter
+Google+
+LinkedIn
+close
+Email This
+• Invalid Email Address
+Recipient's Email Address (Separate multiple address with commas)
+• Invalid Email Address
+Your Email Address
+Message (Optional)
+Send me a copy
+You must enter the verification code below to send.
+or Cancel
+close
+Thank You
+Your email has been sent.
+close
+Error.
+An error has occurred and your email has not been sent.
+Please try again.
+WSJ In-Depth Obama Scales Back Budget Goals
+Interactive: Faces of the Affordable Care Act
+The Journal follows those affected by the health law—from industry executives to consumers to care providers—and shares their stories.
+CDC: Antibiotic Overuse Can Be Lethal
+Why This Computer Mouse Rules
+Inside a Stunning Comeback
+China Calibrates its Response to Attack
+Popular Now
+What's This?
+Close
+Content engaging our readers now, with additional prominence accorded if the story is rapidly gaining attention. Our WSJ algorithm comprises 30% page views, 20% Facebook, 20% Twitter, 20% email shares and 10% comments.
+ARTICLES
+1
+Behind Oscar Selfie: Samsung's Ad Plan
+Twitter
+Facebook
+Email
+Comments
+2
+Ramblin' No More: A Last Run at the Beacon
+Twitter
+Facebook
+Email
+Comments
+3
+Crimea Raises Tension by Setting Secession Vote
+Twitter
+Facebook
+Email
+Comments
+4
+Selfies Bring Ashtags to Lent
+Twitter
+Facebook
+Email
+Comments
+5
+Opinion: Henninger: Putin Carterizes Obama, Totally
+Twitter
+Facebook
+Email
+Comments
+VIDEO
+1 RT Anchor Quits On Air, Cites Putin 'Whitewash' Twitter
+Facebook
+2 For Billionaires Only: Tour a $315 Million Yacht Twitter
+Facebook
+3 Putinisms: Vladimir Putin’s Top Six One Liners Twitter
+Facebook
+4 Viral Oscar Selfie Sponsored by Samsung Twitter
+Facebook
+5 Structuring a Portfolio for Rising Rates Twitter
+Facebook
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887324281004578356240553085684?mod=WSJ_article_EatingOutHeadlines&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887324281004578356240553085684.html%3Fmod%3DWSJ_article_EatingOutHeadlines
+WARC-Date: 2014-03-07T05:32:49Z
+WARC-Record-ID: <urn:uuid:4d7c5f4b-2b38-4dfe-86dc-5e7341d92646>
+WARC-Refers-To: <urn:uuid:9652729c-cd9a-4782-8542-96221350f940>
+WARC-Block-Digest: sha1:R7IT2N55MMOCRMWZSWTJWKKXN2APTXJR
+Content-Type: text/plain
+Content-Length: 3777
+
+As U.S. Departs, Afghan Business Dries Up - WSJ.com mainly
+WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+World Home
+Asia
+China
+Hong Kong
+Japan
+India
+SE Asia
+Europe
+U.K.
+Russia
+Middle East
+Africa
+Canada
+Latin America
+World
+Subscribe
+Log In
+Top Stories in World​
+1 of 12
+Venezuelan President Calls for Meeting ...
+Subscriber Content
+Read Preview
+2 of 12
+Al Qaeda Trainee Testifies at Terror Tr...
+Subscriber Content
+Read Preview
+3 of 12
+Netherlands Flags Possible Ukraine Asse...
+Subscriber Content
+Read Preview
+4 of 12
+Niger Extradites Gadhafi's Son to Libya
+Subscriber Content
+Read Preview
+5 of 12
+Sweden Mulls "Doctrine Shift"...
+Subscriber Content
+Read Preview
+6 of 12
+Canadian Regulators Approve Enbridge Pi...
+Subscriber Content
+Read Preview
+7 of 12
+Heavenly Currency Intervention Is Sought
+Subscriber Content
+Read Preview
+8 of 12
+Karzai's Brother Quits Afghan Race
+9 of 12
+Australia Rates Likely on Hold
+Subscriber Content
+Read Preview
+10 of 12
+Doctor at Scene of Pistorius Shooting T...
+Subscriber Content
+Read Preview
+11 of 12
+New Zealand Looking to Revive Solid Ene...
+Subscriber Content
+Read Preview
+12 of 12
+U.S., Russia Discuss International 'Con...
+Subscriber Content
+Read Preview
+World News
+As U.S. Departs, Afghan Business Dries Up
+By
+Nathan Hodge
+@nohodge Nathan.Hodge@wsj.com
+Biography
+connect
+Nathan Hodge
+@nohodge Nathan.Hodge@wsj.com
+Biography
+April 3, 2013 10:31 p.m. ET
+BAGRAM, Afghanistan—The Aria Water Plant, built in 2006 north of Kabul, is a state-of-the-art facility that can produce 100,000 cases of purified drinking water per week—an unusual success story from the decadelong American enterprise in Afghanistan. But with U.S. military involvement in the nation winding down, Aria, like other Afghan companies that sprang up to serve the foreigners, is struggling to survive an uncertain time....
+Available to WSJ.com Subscribers Stockbrokers Fail to Disclose Red Flags
+Lenders Spring Up to Cater to Subprime Sector
+BofA Seeks a Lift From Flat-Fee Checking
+Cerberus Seeks $9 Billion-Plus Deal for Safeway
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887324767004578487034184131390?mod=WSJ_article_DeclarationsHeadlines&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887324767004578487034184131390.html%3Fmod%3DWSJ_article_DeclarationsHeadlines
+WARC-Date: 2014-03-07T05:29:49Z
+WARC-Record-ID: <urn:uuid:e90de782-ce92-4000-a4e1-0187ecdc3323>
+WARC-Refers-To: <urn:uuid:6731992d-fc3f-4590-b01a-268395898ec2>
+WARC-Block-Digest: sha1:L6MD5SOTQOQNKB42JGFQNZQQVJC445WW
+Content-Type: text/plain
+Content-Length: 10981
+
+Preakness: Why Orb Will Win the Triple Crown - WSJ.com WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+absolutely
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+Life & Culture Home
+Arts & Entertainment
+Sports
+Fashion
+Food & Drink
+Travel
+Health & Wellness
+Retirement Planning
+Cars
+Books & Ideas
+The A-Hed
+Speakeasy
+Life & Culture
+Subscribe
+Log In
+Top Stories in Life & Culture​
+1 of 12
+Cut to the Car Chase
+Subscriber Content
+Read Preview
+2 of 12
+'Nuns. Who Knew?' How Documentaries Fin...
+Subscriber Content
+Read Preview
+3 of 12
+A Channel of One's Own—With Vampires
+Subscriber Content
+Read Preview
+4 of 12
+'Ernest & Celestine' Recalls Tradit...
+Subscriber Content
+Read Preview
+5 of 12
+Scalpers Bet Fans Will Pay $5,500 to Se...
+6 of 12
+Showing the Love at 'Sweeney Todd'
+7 of 12
+Partying With Art 'Addicts'
+8 of 12
+Not Crazy, Actor Says of Murderer Chara...
+9 of 12
+Big Deals in Las Vegas
+10 of 12
+An Artist Finds the Perfect Red
+11 of 12
+Anatomy of a Song: "Kansas City&qu...
+Subscriber Content
+Read Preview
+12 of 12
+A Banjo and a Brass Fest
+Sports
+Why Orb Will Win the Triple Crown
+Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Facebook
+Twitter
+Google+
+LinkedIn
+smaller
+Larger
+By
+Pia Catton
+@piacatton Pia.Catton@wsj.com
+Pia Catton
+Biography
+connect
+Pia Catton
+@piacatton Pia.Catton@wsj.com
+Pia Catton
+Biography
+Updated May 17, 2013 11:26 a.m. ET
+Orb won the Kentucky Derby by 2 ½ lengths, the same margin as Secretariat. Associated Press This is the year. This is really, quite possibly, the year of the first Triple Crown since 1978. Pia Catton explains why she's putting her bet on Orb to win Preakness this weekend, and the first Triple Crown since 1978.
+Because if Kentucky Derby-winning Orb can edge out from his rail post to win Saturday's Preakness Stakes (NBC, 4:30 p.m. ET), then there is no question—barring all superstitions and acts of God—that he can win the June 8 Belmont Stakes. Related Why Orb Is Still No Sure Bet Orb Wins the Kentucky Derby I say this now because after Orb shines in Baltimore, everyone will declare they knew it all along. Commentators will pontificate. People will scramble for tickets to the Belmont. If you're remotely interested, fire up your credit card and buy 'em now. Which is what I say to people when they ask what Broadway show to see. Sometimes they listen. Sometimes they wind up waiting a year to see "The Book of Mormon." Right now, this horse has everything he needs to justify confidence. In most years, "Big Sandy," the not-so-affectionate nickname for Belmont's track, is the problem. Twelve horses since Affirmed in 1978 have won the Derby and the Preakness only to miss out in New York. For some, it was the distance: At a mile and a half, it's the longest race in the Triple Crown series. And it's at the end of a grueling five-week push. Last year, injury caused I'll Have Another to scratch the day before the race. The Sports Retort Photos
+View Slideshow
+Women waited for the race to begin Saturday in Baltimore.
+Patrick Smith/Getty Images But this year is different. Belmont Park is Orb's home track. "He's trained over it a whole bunch, so I know he's going to like it," said trainer Shug McGaughey. "He knows the paddock, he knows the way to the racetrack…and knows his way home." Familiarity is not the only factor, but it is significant in keeping 3-year-old colts—the excitable teenagers of the equine world—relaxed. "That's a pretty settling factor," said McGaughey, 62. For Orb, the bigger hurdle in making history may be Saturday at Pimlico Race Course for the Preakness. But there's no reason to think he can't crush it. He has now won his last five races. In the Kentucky Derby, he beat five of the eight runners he'll face in the Preakness. The best of that lot, Mylute, finished fifth. Oxbow was behind him in sixth. Will Take Charge ran eighth, Itsmyluckyday 15th and Goldencents in 17th. The remaining three contenders are "new shooters," who skipped the Derby. Among them is Titletown Five, who is 1 for 7. The buzz (inexplicably) is for Departing, whose last race in the Illinois Derby was the equivalent of Double-A baseball. Then there's Govenor Charlie, a lightly-raced colt who wasn't deemed ready for the Derby. If these horses are half as game as Orb, they'll be lucky to finish within a few lengths of him. The short turnaround is tough for Derby runners, but Orb's record suggests he can handle it: His first win (as a 2-year-old) came after finishing fourth in a race 14 days prior. Granted, the Preakness is 1/16th of a mile shorter than the Derby, a fact that can favor speed horses. Which Orb is not. He's a closer: three-quarters of a mile into the Derby, he was 17th out of 19 horses. But by the home stretch, he was in second, positioned for the win. The man who guided him there was Joel Rosario, who you'll find variously referred to as the hottest jockey in the country, hemisphere or world. It may not be hyperbole. This season, Rosario set a record for the most number of wins (35) in the spring meet at Keeneland, and he won the $10 million Dubai World Cup aboard 2011 Kentucky Derby winner Animal Kingdom in March. Who do you want riding Orb—and getting him out of the worst possible post position? This guy. If there's rain on Saturday…or on Belmont Stakes day, Orb has proved he loves a sloppy track: He splashed his way handily down the stretch on Derby day. If the Preakness pace shapes up to be fast, Orb's Derby performance shows it's not a problem: The first half-mile there was run in a blazing 45.33 seconds. If the pace is slow, his Florida Derby win does the same: The opening half-mile in that race was run in a leisurely 48.56 seconds. And then there's the fact that his bloodline goes back to Secretariat, who in 1973 became the first horse to win the Triple Crown since 1948. Coincidentally, Orb won the Derby by 2½ lengths, the same margin of victory as Secretariat. When Secretariat won, the world had spent 25 years waiting for a Triple Crown winner. If Orb wins all three this year, it would end a 35-year drought. This should be making McGaughey, a Hall of Fame trainer, a ball of nerves. But he has reason to be calm. Until this spring, he had achieved almost everything a trainer can—winning nine Breeders' Cup races and a Belmont Stakes. But missing from his resume was the Kentucky Derby. What McGaughey needed most was to win the Run for the Roses. Like it or not, it is part of what defines a top trainer. Now that he's notched the win, everything else is gravy. There's no shame in coming up short in a Triple Crown bid: The last trainer to be successful was Laz Barrera, who died in 1991. McGaughey says he's taking a relaxed attitude. For a good reason: "I think that a horse can sense nervousness," he said. If it doesn't happen this year, so be it. But if a horse like Orb can't do it, we might need to stop pretending that any modern thoroughbred can. Write to Pia Catton at pia.catton@wsj.com Email
+Print
+Save
+↓ More
+Save to
+↓ More
+Save
+↓ More
+Saved
+↓ More
+Please log in or register for free to use Save This.
+Log In
+Register
+What is Save This?
+Save to
++ New Collection
+Go to Save & Share »
+Name your new Collection and click save.
+Save
+Cancel
+Go to Save & Share »
+Go to Save & Share »
+Comments
+Order Reprints
+Facebook
+Twitter
+Google+
+LinkedIn
+close
+Email This
+• Invalid Email Address
+Recipient's Email Address (Separate multiple address with commas)
+• Invalid Email Address
+Your Email Address
+Message (Optional)
+Send me a copy
+You must enter the verification code below to send.
+or Cancel
+close
+Thank You
+Your email has been sent.
+close
+Error.
+An error has occurred and your email has not been sent.
+Please try again.
+WSJ In-Depth Obama Scales Back Budget Goals
+Interactive: Faces of the Affordable Care Act
+The Journal follows those affected by the health law—from industry executives to consumers to care providers—and shares their stories.
+CDC: Antibiotic Overuse Can Be Lethal
+Why This Computer Mouse Rules
+Inside a Stunning Comeback
+China Calibrates its Response to Attack
+Popular Now
+What's This?
+Close
+Content engaging our readers now, with additional prominence accorded if the story is rapidly gaining attention. Our WSJ algorithm comprises 30% page views, 20% Facebook, 20% Twitter, 20% email shares and 10% comments.
+ARTICLES
+1
+Behind Oscar Selfie: Samsung's Ad Plan
+Twitter
+Facebook
+Email
+Comments
+2
+Ramblin' No More: A Last Run at the Beacon
+Twitter
+Facebook
+Email
+Comments
+3
+Crimea Raises Tension by Setting Secession Vote
+Twitter
+Facebook
+Email
+Comments
+4
+Selfies Bring Ashtags to Lent
+Twitter
+Facebook
+Email
+Comments
+5
+Opinion: Henninger: Putin Carterizes Obama, Totally
+Twitter
+Facebook
+Email
+Comments
+VIDEO
+1 RT Anchor Quits On Air, Cites Putin 'Whitewash' Twitter
+Facebook
+2 For Billionaires Only: Tour a $315 Million Yacht Twitter
+Facebook
+3 Putinisms: Vladimir Putin’s Top Six One Liners Twitter
+Facebook
+4 Viral Oscar Selfie Sponsored by Samsung Twitter
+Facebook
+5 Structuring a Portfolio for Rising Rates Twitter
+Facebook
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/articles/SB10001424127887324880504578297221700853796?mod=WSJ_article_NYAPTopNewsHeadlines&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887324880504578297221700853796.html%3Fmod%3DWSJ_article_NYAPTopNewsHeadlines
+WARC-Date: 2014-03-07T05:29:59Z
+WARC-Record-ID: <urn:uuid:c89b5df9-438a-4b1c-9f1d-7227c98711f2>
+WARC-Refers-To: <urn:uuid:f16468d9-1e0c-4530-b8ec-dc39c2e83fb3>
+WARC-Block-Digest: sha1:WFG72S4KRMDV74RBRRNG7ZZDQR3HSNHB
+Content-Type: text/plain
+Content-Length: 3735
+
+Ahold Sells Stake in Scandinavian Chain ICA - WSJ.com WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+THE SHOPS
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+absolutely
+The Wall Street Journal
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+Business Home
+Earnings
+Economy
+Management
+Small Business
+Startup Journal
+Startup of the Year
+Corporate Intelligence
+CFO Journal
+CIO Journal
+Risk & Compliance
+Business
+Subscribe
+Log In
+Top Stories in Business​
+1 of 12
+With Shouts and Hugs, Sprint Boss Drive...
+Subscriber Content
+Read Preview
+2 of 12
+Companies Rush to List Shares
+Subscriber Content
+Read Preview
+3 of 12
+Energy Chiefs Sound Cost Alarms
+Subscriber Content
+Read Preview
+4 of 12
+Fallen Law Firm's Leaders Are Indicted
+Subscriber Content
+Read Preview
+5 of 12
+Abercrombie to Remake Hollister Line
+Subscriber Content
+Read Preview
+6 of 12
+EMC Is Undaunted by Cloud, Startups
+Subscriber Content
+Read Preview
+7 of 12
+Canadian Regulators Approve Enbridge Pi...
+Subscriber Content
+Read Preview
+8 of 12
+Cerberus Reaches Deal for Safeway
+Subscriber Content
+Read Preview
+9 of 12
+At Lavish SXSW Festival, Some Avoid Mar...
+10 of 12
+Staples to Close 225 Stores
+Subscriber Content
+Read Preview
+11 of 12
+FDA Official Rejects Cosmetics Firms' S...
+Subscriber Content
+Read Preview
+12 of 12
+In France, a Telecom Bidding War
+Subscriber Content
+Read Preview
+advertisement
+European Business News
+Ahold Sells Stake in Scandinavian Chain ICA
+By
+Robert van den Oever
+Updated Feb. 11, 2013 3:12 p.m. ET
+STOCKHOLM—Ahold NV agreed to sell its 60% stake in ICA AB for 21.2 billion Swedish kronor ($3.29 billion), ending its 12-year ownership of the Scandinavian supermarket operator as the Dutch retailer concentrates on other European markets and the U.S. The sale to Sweden's Hakon Invest AB, which already owns the remaining 40% of ICA, followed Ahold's decision in September to look at options for its stake in ICA, which has little...
+Available to WSJ.com Subscribers Stockbrokers Fail to Disclose Red Flags
+Lenders Spring Up to Cater to Subprime Sector
+BofA Seeks a Lift From Flat-Fee Checking
+Cerberus Seeks $9 Billion-Plus Deal for Safeway
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://online.wsj.com/news/technology?mod=AllThingsD&redirect_from=http%3A%2F%2Fallthingsd.com%2Ftag%2Ffred-wilson%2Ffeed%2F
+WARC-Date: 2014-03-07T05:32:26Z
+WARC-Record-ID: <urn:uuid:26329f04-8a91-498b-8f4c-62ece254bb32>
+WARC-Refers-To: <urn:uuid:76e3ac42-8500-4d35-8e81-58105876bad9>
+WARC-Block-Digest: sha1:F5YTKTIJLWN4A6QWBGB6G4G4TQS5C4XK
+Content-Type: text/plain
+Content-Length: 12173
+
+Technology News & Computers, Mobile, Internet and Trends in Innovation - Wsj.com
+Sign Up For Tech Emails From WSJD.
+Tech Newsletter
+The biggest headlines and buzz of the day.
+Add
+Remove
+Personal Technology
+Reviews of new products and innovations, and how they affect your life.
+Add
+Remove
+Technology Alert
+Major breaking news in the technology sector.
+Add
+Remove
+CIO Journal Morning Download
+A quick read of top news for CIOs and business-technology executives.
+Add
+Remove
+Close
+Manage Email Subscriptions
+Sign Up For Tech Emails From WSJD.
+Error
+We're sorry, we were unable to sign you up for the emails because we don't have an email address for you.
+Please go to your account settings and add your email address.
+Close
+Manage Email Subscriptions
+Log In
+Subscribe Now
+Sections
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+Quick Links
+Blogs
+Videos
+Today's Paper
+Columns
+Politics & Policy
+MORE FROM WSJ
+My Journal
+CIO Journal
+CFO Journal
+Heard on the Street
+Mansion
+WSJ
+<h4>WSJ on Facebook</h4><div style="border: none; padding: 2px 3px;" class="fb-like" data-href="http://www.facebook.com/wsj" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false" data-action="recommend"></div>
+<h4>WSJ on Twitter</h4><a href="https://twitter.com/wsj" class="twitter-follow-button" data-show-count="true">Follow @wsj</a>
+WSJ LIVE
+WSJ Live on Facebook
+WSJ Live on Twitter
+MARKETWATCH
+MarketWatch on Facebook
+MarketWatch on Twitter
+BARRON'S
+Barron's on Facebook
+Barron's on Twitter
+Portfolio
+Portfolio on Facebook
+Portfolio on Twitter
+DJX
+Product X on Facebook
+Product X on Twitter
+RT
+F
+R&C
+PE&VC
+WSJ
+B
+The Shops
+WSJ Shops on Facebook
+WSJ Shops on Twitter
+MORE
+WSJ Secure
+BigCharts
+Financial News
+Professor Journal
+Student Journal
+Virtual Stock Exchange
+WSJ Classifieds
+WSJ Classrooms
+WSJ Radio
+WSJ Wine
+Search
+The Wall Street Journal
+technology
+Menu
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+Tech Home
+Personal Tech
+Startups
+Privacy & Security
+Mobile
+Commerce
+Asia Tech
+Europe Tech
+CIO Journal
+Conference
+Digits
+Accelerators
+VentureWire
+Tech Trader Daily
+Log In
+Subscribe
+Go to WSJ →
+Reveal Navigation Options
+The Wall Street Journal
+show search
+Close Search
+Submit Search
+COMPANIES
+Personal Tech
+Startups
+Privacy & Security
+Mobile
+Commerce
+Asia
+Europe
+CIO
+CONFERENCE
+Amazon
+Apple
+Blackberry
+Facebook
+Google
+Intel
+Microsoft
+Samsung
+Twitter
+Yahoo
+Scroll Left
+Scroll Right
+FOLLOW US
+Facebook
+Twitter
+Google+
+RSS Feed
+EMC Is Undaunted by Cloud, Startups
+Pivotal CEO: Firms Must Rediscover Software Development 123
+READ MORE
+With Shouts and Hugs, Sprint Boss Drives Turnaround
+How Mr. Son Gets What He Wants 110
+READ MORE
+At Lavish SXSW Festival, Some Avoid Marketing Circus
+143
+READ MORE
+Judge Says FAA Lacks Clear Authority on Commercial Drones
+Bitcoin Report Rattles Currency's World
+PlayStation's Americas Head Steps Down
+Car Makers Hold Smartphones at Bay, 'We Are Trying to Figure Out What Big Data Means for Us'
+Apple Loses Bid to Block Samsung
+LATEST FROM DIGITS
+Tech News and Buzz
+Headline View
+Image View
+17 min ago
+How SoftBank’s Masayoshi Son Gets What He Wants
+Mayumi Negishi
+How hard does SoftBank Corp.’s Chief Executive Masayoshi Son push to get what he wants? The consensus from more than a dozen former and current executives at SoftBank: as hard as it takes.
+5 hours ago
+Facebook Redesigns Web News Feed With a More Mobile Feel
+Nathan Olivarez-Giles
+Facebook said Thursday that it is rolling out a new design for its news feed, that stream of posted photos, videos and links that hits you whenever you jump on the social network.
+5 hours ago
+Machinima Cuts Staff, Nears Funding from Warner Bros.
+Rolfe Winkler
+Machinima, a distributor of videogame-related videos popular on YouTube, is cutting 30% of its workforce as it nears an $18 million investment led by Warner Bros.
+6 hours ago
+Spotify Buys Echo Nest, Brings Brains to Streaming Service
+Lizette Chapman
+The recommendation engine recognizes the meaning of lyrics in a Norwegian death metal ditty and knows they would not be appreciated by Christian music fans despite similarities in the syncopation.
+9 hours ago
+Video Chat: Networking at SXSW and More; 3 p.m. EST Thurs. March 6
+Looking to network at SXSW? Get your questions answered from leading VCs and founders. 9 hours ago
+Yukari Iwatani Kane Answers Readers’ Questions About Apple
+Yukari Iwatani Kane’s new book about Apple since the death of Steve Jobs was excerpted in the Journal last weekend. Here, she responds to questions posed by readers.
+10 hours ago
+What It Means to ‘Dox’
+Brian R. Fitzgerald
+Along with Newsweek's article claiming to out the creator of bitcoin is criticism over the supposed "doxing." What does that word mean?
+12 hours ago
+How to Win the Networking Game at SXSW
+After eight visits to SXSW, Ryan Holmes learned that the hard way how to network at the giant conference.
+13 hours ago
+Is This Satoshi Nakamoto, the Mysterious Creator of Bitcoin?
+Paul Vigna
+Newsweek claims to have fingered Satoshi Nakamoto, the shadowy figure who created bitcoin in the last decade and simply disappeared into the ether as it took off.
+15 hours ago
+With Up Coffee App, Jawbone Pits Your Caffeine Habit Against Your Insomnia
+Nathan Olivarez-Giles
+If you sip a lot of coffee, tea or soda throughout the day, Jawbone has an app for you. Up Coffee, hitting Apple’s iOS App Store Thursday, is a free app that will estimate how much your caffeine intake impacts your sleep.
+16 hours ago
+CurrencyFair Finds a Lucrative Online-Transfer Niche
+Online money-transfer firm CurrencyFair has found a lucrative niche, having handled $1 billion in transactions in the four years since it was founded.
+19 hours ago
+Q&A: HWTrek, Taiwan’s Answer to Kickstarter
+66
+Lorraine Luk
+Lucas Wang, chief executive of TMI, which operates a crowdfunding platform, talks about his ambitions to create Taiwan's version of Kickstarter. 19 hours ago
+Huawei to Upgrade Vodafone Networks
+Juro Osawa and Simon Zekaria and John Edwards
+Chinese telecommunications-equipment supplier Huawei Technologies said it has signed a five-year contract with Vodafone Group to help upgrade the U.K.-based carrier’s networks in 15 countries in Europe and Africa. 23 hours ago
+For Some Online Deals in India, Warranties Won’t Work
+Dhanya Ann Thoppil
+Manufacturers warn there is a hidden price for that cheap electronic gadget bought online: sometimes their warranties won’t work.
+Mar. 5, 2014
+Meet K-Glass: Korea’s Answer to Google Glass
+840
+Min-Jeong Lee
+As the hype surrounding wearable devices builds, a team of South Korean researchers from the country’s top technology university claim they have developed an alternative to Google Glass: the K-Glass.
+Mar. 5, 2014
+Founders Fund Hits $1 Billion Mark for New Venture-Capital Fund
+447
+Evelyn M. Rusli
+Founders Fund, a backer of Facebook and Space Exploration Technologies, has closed $1 billion in new financing for a fifth fund, the firm announced on Wednesday. Mar. 5, 2014
+Getty’s Images Are Now Free for Twitter, Tumblr and Personal Blogs
+Yoree Koh
+For the first time in its history, Getty Images is allowing people to use and share photos from its vast library free of charge.
+Mar. 5, 2014
+Google Exec on WhatsApp Deal: $500 Million Per Employee?!
+216
+Alistair Barr and Rolfe Winkler
+A Google executive questioned the price Facebook paid for text-messaging service WhatsApp. Mar. 5, 2014
+Yahoo to Axe Log-in With Facebook, Google Accounts
+Douglas MacMillan
+Yahoo will no longer let users sign in using Facebook and Google credentials, a move that will give the company more control over user data, but also limiting potential new sign-ups.
+Load More
+CIO JOURNAL
+Pivotal CEO Paul Maritz Says Companies Must Rediscover Software Development
+Time for Senior Managers to Get Serious About Cybersecurity
+Billy Beane Expects Big Things from MLB’s Big Data Play
+Equinix CIO Calls Open Stack a ‘Science Project’
+VENTURE CAPITAL DISPATCH
+Spotify Buys Echo Nest, Brings Brains to Streaming Service
+FitBit Chief on Recall, What’s Next
+OnDeck Capital Raises $77M Led by Tiger Global to Expand Small Business Lending
+The Daily Startup: DigitalOcean Raises $37M Series A Led by Andreessen Horowitz
+Twitter-Tailored Oreo Cookies to Sweeten SXSW
+Oreo cookies can be dunked in milk or twisted and licked. A new method involves Twitter and a process akin to 3-D printing. Advertisement
+Sign up for Newsletters & Tech Alerts
+MORE TECH NEWS
+In France, a Telecom Bidding War
+229
+Pixelworks Shares Surge On Apple Mention
+Game Changes for China's Online Money Funds
+111
+Japan Says Bitcoin Not a Currency
+92
+Intel Gives Server Chips Big Speed Boost
+Robots Star in Nuclear Cleanup
+170
+FitBit Chief Says Building Hardware Is Hard, 'Mistakes Can Be Expensive'
+274
+Disney Interactive Lays Off 700 Workers
+70
+Facebook Cracks Down on Illegal Gun Posts
+648
+Workers Strike at China IBM Plant
+127
+Ex-NSA Official Inglis Warns Tech Firms: Be Transparent
+183
+Logitech Surges on Buyback, Earnings Guidance
+76
+Hack-Proof Devices? New Phones Try to Keep Prying Eyes Out
+348
+Global Tablet Shipment Forecast Lower
+Load More
+Tech Product Reviews & News
+Fujifilm Instax Share Printer Turns Smartphones Into Old-School Instant Cameras
+54
+Why This Computer Mouse Rules
+650
+Messaging Apps to Make You Forget Plain, Old Texting
+526
+Smartphone Upgrade Plans: Proceed With Caution
+Roku Streaming Channeled Into a Stick
+570
+Psst, Secrets You Share Online Aren't Always Safe
+Load More
+POPULAR NOW IN TECH
+ARTICLES
+Facebook Cracks Down on Illegal Gun Posts
+Why This Computer Mouse Rules
+Roku Streaming Channeled Into a Stick
+New Phones Try to Keep Prying Eyes Out
+Disney Interactive Lays Off 700 Workers
+VIDEO
+One-Minute Review: How to Take a Better Selfie One-Minute Review: How to Take a Better Selfie Tech Leaders Seek Out Quieter, More Intimate SXSW Tech Leaders Seek Out Quieter, More Intimate SXSW #AskWSJD: Best DIY Video Tech Support Programs #AskWSJD: Best DIY Video Tech Support Programs Robots Help in Cleanup at Fukushima Nuclear Plant Robots Help in Cleanup at Fukushima Nuclear Plant Photos of the Day – Horse Rescued From Narrow Pit Photos of the Day – Horse Rescued From Narrow Pit AROUND THE GLOBE
+13-Year-Old Student Builds a Working Nuclear Reactor
+via Silicon Republic
+This Pakistani Startup Wants to Replace Much-Hated Customer Service Calls With an App
+via Tech in Asia
+China Cyber-Gangs Use 'Vast Underground Network'
+via BBC
+New Gadget From MapMyIndia Puts Your in-Car Navigation on the Rear-View Mirror
+via Tech in Asia
+Sponsored Sections
+Smarter Insights on Security sponsored by Tyco
+Vote For Change Presented by GMC
+Partner Center — An Advertising Feature
+Advertisement
+Advertisement
+Wall Street Journal
+Facebook
+Twitter
+LinkedIn
+FourSquare
+Google+
+YouTube
+Podcasts
+RSS Feed
+AppStore
+Subscribe
+/Login
+Back to Top«
+Customer Service
+Customer Center
+New! Live Help
+Contact Us
+WSJ Weekend
+Contact Directory
+Corrections
+Policy
+Privacy Policy
+Cookie Policy
+Data Policy
+Copyright Policy
+Subscriber Agreement& Terms of Use
+Your Ad Choices
+Ads
+Advertise
+Place a Classified Ad
+Sell Your Home
+Sell Your Business
+Commercial Real Estate Ads
+Recruitment & Career Ads
+Franchising
+Advertise Locally
+Tools & Features
+Apps
+Emails & Alerts
+Graphics & Photos
+Columns
+Topics
+Guides
+Portfolio
+Old Portfolio
+More
+Register for Free
+Reprints
+Content Partnerships
+Conferences
+SafeHouse
+Mobile Site
+News Archive
+Jobs at WSJ
+Copyright ©2014 Dow Jones & Company, Inc. All Rights Reserved.
+FOLLOW WSJ.D
+Twitter
+RSS Feed
+Technology
+Personal Tech
+Startups
+Privacy & Security
+Mobile
+Commerce
+Asia
+Europe
+CIO Journal
+Conference
+Digits
+Accelerators
+VentureWire
+Tech Trader Daily
+Sections
+Home
+World
+U.S.
+Business
+Tech
+Markets
+Market Data
+Your Money
+Opinion
+Life & Culture
+New York
+Real Estate
+Management
+Edition: U.S.
+Asia
+Europe
+Deutschland
+América Latina
+Brasil
+中国 (China)
+India
+Indonesia
+日本 (Japan)
+한국 (Korea)
+Türkiye
+Text Size:
+Small
+Medium
+Large
+Log In Subscribe
+©2014 Dow Jones & Company, Inc. All Rights Reserved. Legal Policies
+Contact
+Full Site
+Submit Search
+
+

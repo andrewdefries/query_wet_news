@@ -1,0 +1,72 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/video/1659879/giants-shut-out-tigers-lead-world-series-2-0/
+WARC-Date: 2014-03-07T05:32:25Z
+WARC-Record-ID: <urn:uuid:9dc582f6-482d-4461-9c3f-50eea317d10e>
+WARC-Refers-To: <urn:uuid:8b862567-f89d-4564-bd90-bbda7e472d69>
+WARC-Block-Digest: sha1:JRPWVRXPNR6UB4QC62UQJHBOLSS4B5TS
+Content-Type: text/plain
+Content-Length: 45
+
+Giants shut out Tigers, lead World Series 2-0
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sitemap/sports/tennis/2013/
+WARC-Date: 2014-03-07T05:30:50Z
+WARC-Record-ID: <urn:uuid:57c6fb5e-f9f4-45fa-a917-94d084c1635d>
+WARC-Refers-To: <urn:uuid:e10b5cc0-eb92-4027-a333-145466c1f207>
+WARC-Block-Digest: sha1:VVEVTH67HJIBQTOXUNHGOKTOVHJQKRUV
+Content-Type: text/plain
+Content-Length: 8
+
+USATODAY
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/salaries/1992/padres/team/3b/
+WARC-Date: 2014-03-07T05:25:32Z
+WARC-Record-ID: <urn:uuid:5a1f7ef7-d807-4c3e-95cd-3acf060475f4>
+WARC-Refers-To: <urn:uuid:011b3e48-0631-4662-bc18-614b7be565b5>
+WARC-Block-Digest: sha1:J75FLC57C4DFT3GLELL5QZ73PYYBXNAB
+Content-Type: text/plain
+Content-Length: 198
+
+USA Today | Sports | MLB | padresNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocks
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/news/politics/2013/12/11/independent-voters-registration-third-way/3988351/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+UsatodaycomNation-TopStories+%28USATODAY+-+Nation+Top+Stories%29
+WARC-Date: 2014-03-07T05:28:25Z
+WARC-Record-ID: <urn:uuid:25fc5882-9ceb-4c22-89d3-4581974d52fd>
+WARC-Refers-To: <urn:uuid:f4fe7bfa-ae24-470f-9f5b-5571d40d393c>
+WARC-Block-Digest: sha1:TMDCOENHOXCLNTBOCL7BLJYM5G7BLD67
+Content-Type: text/plain
+Content-Length: 121
+
+More voters choose indie label, buck Democrats and GOPNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.Winds
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/tennis/2013/10/20/tommy-Haas-Beats-Robin-Haase-Vienna-Final-Erste-Bank-Open/3096521/
+WARC-Date: 2014-03-07T05:37:20Z
+WARC-Record-ID: <urn:uuid:0a0f9725-5409-4fed-8845-d18299603c06>
+WARC-Refers-To: <urn:uuid:44533c8c-5019-4961-9de5-51bda505abe3>
+WARC-Block-Digest: sha1:BZT6CGZTXAKLUQPGQ4XM3F63UNUH5M63
+Content-Type: text/plain
+Content-Length: 80
+
+Tommy Haas beats Robin Haase to win Erste Bank OpenNewsSportsLifeMoneyTechTravel
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/travel/news/2013/06/19/cruise-ship-man-charged-murder/2437197/
+WARC-Date: 2014-03-07T05:32:18Z
+WARC-Record-ID: <urn:uuid:d93635bc-d63d-466c-abe6-d01b21e9300a>
+WARC-Refers-To: <urn:uuid:487626b6-b587-479e-968f-d14b7533dbd1>
+WARC-Block-Digest: sha1:LE5AZBVEXOURRTC23WKXF5WZIKZ3WSBZ
+Content-Type: text/plain
+Content-Length: 90
+
+Report: Man charged with tossing wife from cruise shipNewsSportsLifeMoneyTechTravelOpinion
+

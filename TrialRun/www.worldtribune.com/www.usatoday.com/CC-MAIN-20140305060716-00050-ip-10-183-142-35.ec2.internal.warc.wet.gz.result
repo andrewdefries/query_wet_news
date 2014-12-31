@@ -1,0 +1,36 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaab/game/boxscore/l.ncaa.org.mbasket-2008-e.43187/
+WARC-Date: 2014-03-07T06:44:11Z
+WARC-Record-ID: <urn:uuid:920fa1d9-82d6-4115-ad08-31163d5dd76c>
+WARC-Refers-To: <urn:uuid:02c8282f-4fed-4e25-9023-77c3e88ca732>
+WARC-Block-Digest: sha1:3SSRHXF27CHPUHXFILEIAEPW5YNT77TP
+Content-Type: text/plain
+Content-Length: 64
+
+Binghamton Bearcats at Boston U. Terriers | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/opinion/2013/04/29/george-w-bush-library-leno-letterman-stewart/2120351/
+WARC-Date: 2014-03-07T06:53:37Z
+WARC-Record-ID: <urn:uuid:7cf8fb8e-7a7e-41d3-a07e-f97f489df36b>
+WARC-Refers-To: <urn:uuid:0b62253f-46e4-45a1-8c69-6c013f893078>
+WARC-Block-Digest: sha1:KXZTF3ZFRGTVQ5SP4DAFJMHGHALSF6RR
+Content-Type: text/plain
+Content-Length: 96
+
+Punchlines: Leno, Letterman, Stewart on presidential libraryNewsSportsLifeMoneyTechTravelOpinion
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/college/hockey/2013/10/09/government-shutdown-air-force-kendall-hockey-classic/2953183/
+WARC-Date: 2014-03-07T06:45:39Z
+WARC-Record-ID: <urn:uuid:5a262104-11be-4cf0-b2ce-76500a1f12f4>
+WARC-Refers-To: <urn:uuid:87aa05bc-4b57-4b13-a5b4-7914e83852b8>
+WARC-Block-Digest: sha1:OGKCIDGSHKRCABJPDLBBBIJCV3TXWHSF
+Content-Type: text/plain
+Content-Length: 90
+
+Government shutdown won't keep Air Force hockey from Alaska tourneyNewsSportsLifeMoneyTech
+

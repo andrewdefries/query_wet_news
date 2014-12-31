@@ -1,0 +1,100 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.ft.com/cms/s/2/093290b6-4278-11df-8c60-00144feabdc0.html
+WARC-Date: 2014-03-07T05:30:41Z
+WARC-Record-ID: <urn:uuid:a1367294-9406-470b-a8c7-07efabd3ead0>
+WARC-Refers-To: <urn:uuid:e41b2aab-580d-4f7f-bfa9-029911142c79>
+WARC-Block-Digest: sha1:KPLLUXBWKMEGAPHH2JYDDREFLMRINCFC
+Content-Type: text/plain
+Content-Length: 7522
+
+Servers soaring as recession thaws - FT.com
+ft.com
+> Companies
+> Tech Hub
+Search
+Advanced search
+Subscribe
+|
+Sign in
+|
+Register
+|
+Site tour
+Welcome Subscribe
+Your account
+Site tour
+Sign out
+Email address
+Password
+Forgot password?
+Remember me on this computer
+Sign in
+"Remember me" uses a cookie. View our Cookie Policy.
+Home UK World Companies Energy Energy› Mining Oil & Gas Utilities Financials Financials› Banks Insurance Property Financial Services Health Health› Health Care Pharmaceuticals Industrials Industrials› Aerospace & Defence Automobiles Basic Resources Chemicals Construction Industrial Goods Support Services Luxury 360 Media Retail & Consumer Retail & Consumer› Food & Beverage Personal & Household Goods Retail Tobacco Travel & Leisure Tech Tech› Science Tech Blog Telecoms Transport Transport› Airlines Shipping Rail By Region By Region› US Companies UK Companies European Companies Americas Companies Asia-Pacific Companies African Companies Middle Eastern Companies UK Small Companies Tools Tools › Topics Portfolio FT clippings Alerts hub Email briefings MBA rankings Newslines FT Lexicon Mobile Currency converter FT ebooks ePaper Executive jobs FT press cuttings Social Media hub Economic calendar Markets Global Economy Lex Comment Management Personal Finance Life & Arts April 7, 2010 8:30 pm
+Servers soaring as recession thaws
+By Chris Nuttall in San Francisco
+©GettyAll change please: Kirk Skaugen says that the more powerful products can help companies to cut costs through efficiency and lower power costs
+At Intel’s launch of its newest processors in San Francisco last week, Jean Gonnord of France’s atomic energy commission gave a thank-you speech to the chipmaker. The programme director for numerical simulation at the Commissariat à l’Énergie Atomique (CEA) told the audience he appreciated the on-time delivery of his order for 18,000 of the chipmaker’s new Xeon 7500 8-core chips.
+MoreOn this story Global computer server sales see rare boom Tech blogIN Technology Samsung leads European patent list Silicon Valley’s rust belt in doldrums IBM factory workers strike in China Facebook tightens its rules on gun salesPriced at more than $2,500 (€1,877, £1,642) each, perhaps Intel should have been thanking him.
+The order is destined for just one supercomputer – among the world’s five fastest – which will run checks on France’s nuclear arsenal. The order might be exceptional in size, but it is typical of the major upgrades taking place in servers and high-performance computing (HPC) this year.
+The “refresh cycle” is good news for chipmakers such as Intel and Advanced Micro Devices and for server vendors, who are led in terms of sales by IBM, followed by Hewlett Packard, Dell and Oracle.
+Servers thumbnail
+A once-in-a-decade market inflection took place in the fourth quarter of 2009 as business shook off the effects of the recession, according to IDC, the research firm.
+Although full-year server revenues for 2009 were down nearly 20 per cent on 2008, the rot stopped late in the year as companies re-evaluated their needs for server upgrades. “There have been a lot of deferrals of orders that should have gone through in 2009, so to that extent there is pent-up demand,” says Jean Bozman, IDC server analyst.
+“Also, the bigger, older servers . . . some have been held onto for a very long time and technology has gotten so much better.”
+About 40 per cent of the installed base of higher-end servers are still running single-core processors and, according to Gartner, the research firm, more than 1m server upgrades were delayed by the downturn.
+Switching to energy-efficient multi-core servers can dramatically cut the amount of power, space and cooling needed for them in data centres, meaning they can pay for themselves in less than a year.
+“You can get your money back in five months and in seven months you’re making money,” says Kirk Skaugen, general manager of Intel’s data centre group. “It’s a cash machine for IT [departments].”
+Some of this surplus is going into new projects, which in turn require new equipment, according to Steve Schuckenbrock, Dell’s head of large business deals. “We’re going to see this run for a long time,” he said.
+Intel’s smaller rival AMD launched its own line-up of high-end server processors – the Opteron 6000 series – the day before Intel and claims it offers similar performance but better value in different segments of the server market.
+“Just because people are having to go through a refresh because they’ve got to end-of-life on their servers or they’re no longer supported on their warranty, that doesn’t mean they’re going to rush out and buy the most expensive servers,” says John Fruehe, head of server marketing at AMD. Both chipmakers and server manufacturers have timed their new offerings to perfection, says Jim Ganthier, vice-president of marketing for Hewlett Packard’s industry standard servers division.
+“We’re seeing a perfect convergence of new products coming along at just the right time and we are able to deliver radical [returns on investment] to our customers.”
+He says the work of 20 old servers can now be done on just one new HP ProLiant server and buyers can see a return on investment in about two months.
+As well as more powerful hardware, consolidation of servers is being further enhanced by virtualisation software. This allows servers to be split into many virtual machines and pooled with others to allow greater task-sharing.
+Other factors driving server sales include the growth of cloud computing, where web services and applications are delivered from data centres and the need for business information to be served in real-time.
+JPMorgan analysts expect server revenues to grow in 2010 at a higher rate than other segments such as PCs, printers and storage. The new processors will drive more than profits as they help scientists better predict natural disasters, explore the universe and tackle major diseases.
+“We’re going to transform scientific discovery at a rate and pace never before seen on earth,” says Mr Skaugen. Additional reporting by Joseph Menn
+Related TopicsUnited States of America
+Copyright The Financial Times Limited 2014. You may share using our article tools.
+Please don't cut articles from FT.com and redistribute by email or post to the web.
+Share
+Share this on
+Clip
+Reprints
+Print
+Share
+Clip
+Reprints
+Print
+COMPANIES VIDEOS
+You need JavaScript active on your browser in order see this video.
+EDITOR’S CHOICE
+Tech blog
+FT experts around the world share their views
+Personal Technology
+Paul Taylor reviews the latest trends in tech
+LATEST HEADLINES FROM CNBC
+Why Apple will struggle to wow investors this year
+Asian stocks mixed; US jobs report in focus
+Why China needs a national property tax
+Contained or contagion: How to play Ukraine Could Draghi's upbeat tone send euro flying higher?
+Help
+•Contact us
+•About us
+•Advertise with the FT
+•Terms & conditions
+•Privacy policy
+•Copyright
+•Cookie policy
+© The Financial Times Ltd 2014 FT and 'Financial Times' are trademarks of The Financial Times Ltd.
+Printed from: http://www.ft.com/cms/s/2/093290b6-4278-11df-8c60-00144feabdc0.html
+Print a single copy of this article for personal use. Contact us if you wish to print more to
+distribute to others.
+© The Financial Times Ltd 2014 FT
+and ‘Financial Times’ are trademarks of The Financial Times Ltd.
+Privacy policy |
+Terms |
+Copyright
+
+

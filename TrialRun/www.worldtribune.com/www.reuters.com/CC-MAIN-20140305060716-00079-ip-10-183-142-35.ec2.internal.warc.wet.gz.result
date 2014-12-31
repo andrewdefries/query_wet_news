@@ -1,0 +1,91 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.reuters.com/article/2012/07/31/us-manchesterunited-ipo-idUSBRE86T1BF20120731
+WARC-Date: 2014-03-07T06:51:44Z
+WARC-Record-ID: <urn:uuid:442f3a6d-8a3c-45f2-99f4-ee2ae44e977c>
+WARC-Refers-To: <urn:uuid:d1d4bf0f-127b-4ae4-8e47-851a9bb0ee85>
+WARC-Block-Digest: sha1:WWPUIB5QZQUR7JPB4EFVSKAB7EGOBQGR
+Content-Type: text/plain
+Content-Length: 444
+
+Manchester United sets IPO terms
+| Reuters
+Edition:
+U.S.
+Arabic
+Argentina
+Brazil
+Canada
+China
+France
+Germany
+India
+Italy
+Japan
+Latin America
+Mexico
+Russia
+Spain
+United Kingdom
+Home
+Business
+Business Home
+Economy
+Legal
+Deals
+Business Video
+Aerospace & Defense
+Autos
+Reuters Summits
+Small Business
+Markets
+Markets Home
+U.S. Markets
+European Markets
+Asian Markets
+Global Market Data
+Indices
+Stocks
+Bonds
+Currencies
+Commodities
+Futures
+Funds
+peHUB
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.reuters.com/finance/stocks/lookup?searchType=any&search=PSSI.OQ
+WARC-Date: 2014-03-07T06:54:21Z
+WARC-Record-ID: <urn:uuid:16302475-81ac-4de2-989b-0db914e545e1>
+WARC-Refers-To: <urn:uuid:ff573bf3-4f3f-4271-9890-e47ab5ee9caf>
+WARC-Block-Digest: sha1:BRRY33F2JWKTFCLAHNE35ZKF6OYGU63Z
+Content-Type: text/plain
+Content-Length: 222
+
+Stock Quotes & Company News | Reuters.com
+Edition:
+U.S.
+Arabic
+Argentina
+Brazil
+Canada
+China
+France
+Germany
+India
+Italy
+Japan
+Latin America
+Mexico
+Russia
+Spain
+United Kingdom
+Home
+Business
+Business Home
+Economy
+Legal
+Deals
+

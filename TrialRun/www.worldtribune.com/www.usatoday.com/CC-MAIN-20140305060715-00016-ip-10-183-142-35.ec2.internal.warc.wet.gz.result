@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaaf/north-carolina/
+WARC-Date: 2014-03-07T05:31:30Z
+WARC-Record-ID: <urn:uuid:7feec47d-7f35-4f13-8351-70fe6a481ac7>
+WARC-Refers-To: <urn:uuid:835fe5a1-7607-4bab-a049-8ddbc2387b28>
+WARC-Block-Digest: sha1:FCB66M5UQ4EZOG4S4VYQZIZH4FDSUHRM
+Content-Type: text/plain
+Content-Length: 222
+
+USA Today | Sports | NCAAF | north-carolinaNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribe
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/money/business/2013/07/29/pilot-flying-j-executives-plead-guilty/2596273/
+WARC-Date: 2014-03-07T05:32:13Z
+WARC-Record-ID: <urn:uuid:c40d8ad4-684b-4cf1-9d35-b5f8a6c6acb7>
+WARC-Refers-To: <urn:uuid:ba70cf8d-f456-4acb-a718-721c2ae8bca8>
+WARC-Block-Digest: sha1:JIFAV7IR3XAEPTUIQTUU57BDYOCTATDA
+Content-Type: text/plain
+Content-Length: 115
+
+2 more Pilot executives plead guilty in rebate schemeNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.
+

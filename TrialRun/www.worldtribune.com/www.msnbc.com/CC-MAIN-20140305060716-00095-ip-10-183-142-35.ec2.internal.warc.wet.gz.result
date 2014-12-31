@@ -1,0 +1,26 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/msnbc/photo-finish-cycle-guilty-pleasure-jams
+WARC-Date: 2014-03-07T06:46:00Z
+WARC-Record-ID: <urn:uuid:a6c99cd1-5cee-41c7-85b6-0d3e6de69409>
+WARC-Refers-To: <urn:uuid:20ed07ee-46ea-4049-abb4-38c3ccea0f66>
+WARC-Block-Digest: sha1:P3JRPRY57OT6KNOBGRR2E353K6DIDUWW
+Content-Type: text/plain
+Content-Length: 49
+
+Photo Finish: Cycle Guilty Pleasure Jams | MSNBC
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.msnbc.com/rachel-maddow-show/ladypeople-indiana-republicans-would-li?lite=
+WARC-Date: 2014-03-07T06:45:49Z
+WARC-Record-ID: <urn:uuid:17d69822-ce1c-4d8c-a2e6-c376b3e3e20a>
+WARC-Refers-To: <urn:uuid:f0ade7ac-014e-4585-92c3-96a425927dcd>
+WARC-Block-Digest: sha1:DF6XA2KBSPVJD2NIZJFOREM3UA6G37P6
+Content-Type: text/plain
+Content-Length: 74
+
+Ladypeople, Indiana Republicans would like a look at your insides | MSNBC
+
+

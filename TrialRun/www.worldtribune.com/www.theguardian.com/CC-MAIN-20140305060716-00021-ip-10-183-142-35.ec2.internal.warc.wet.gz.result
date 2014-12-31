@@ -1,0 +1,60 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/info/2012/jul/25/digital-archive-notice?Ref=R1VBLzE5NDgvMDcvMzAjUGMwMDMxOQ==&Mode=Gif&Locale=english-skin-custom
+WARC-Date: 2014-03-07T06:44:22Z
+WARC-Record-ID: <urn:uuid:e2da0751-cd45-4dd5-8ca0-62e75632b16e>
+WARC-Refers-To: <urn:uuid:46cefb5a-a712-4380-873c-af5ff0fc1426>
+WARC-Block-Digest: sha1:EYDVULMMLJ7PM45UDG2HQTT6GUGDZJLU
+Content-Type: text/plain
+Content-Length: 67
+
+The Guardian and Observer digital archive | Info | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/media/2005/mar/14/advertising1
+WARC-Date: 2014-03-07T06:50:38Z
+WARC-Record-ID: <urn:uuid:7517d102-8535-47c3-9aab-bb5a90dc381a>
+WARC-Refers-To: <urn:uuid:279379c7-f8fe-4356-b2c1-01f0af59b220>
+WARC-Block-Digest: sha1:6LMU6742ILMEGH53Q64YVUKZDDECHU4D
+Content-Type: text/plain
+Content-Length: 61
+
+Joss Stone tipped as new face of Gap | Music | MediaGuardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/music/2006/aug/27/popandrock3
+WARC-Date: 2014-03-07T06:55:36Z
+WARC-Record-ID: <urn:uuid:90d62ad4-52c8-4e72-ad36-830d26bbb481>
+WARC-Refers-To: <urn:uuid:7dc978a9-e25a-4974-a4c8-58fe0198c9a9>
+WARC-Block-Digest: sha1:RO5KYNGKGZWTY7L5AIJKAVCOWVNWNQS7
+Content-Type: text/plain
+Content-Length: 53
+
+Observer profile: Tom Chaplin | Music | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2012/apr/05/birmingham-student-dies-police-car
+WARC-Date: 2014-03-07T06:45:51Z
+WARC-Record-ID: <urn:uuid:070eac6f-1765-45b3-878f-e7f4ab8b8825>
+WARC-Refers-To: <urn:uuid:091ffc0b-bedc-41e9-b6e8-0852702e95fc>
+WARC-Block-Digest: sha1:BNLPJHHRU3AIKUQC4XJNSNH3JG3N32UO
+Content-Type: text/plain
+Content-Length: 91
+
+Birmingham student dies after being hit by unmarked police car | UK news | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2005/jan/14/usa.germany
+WARC-Date: 2014-03-07T06:51:40Z
+WARC-Record-ID: <urn:uuid:635d116f-6bf5-49cd-91c3-b4b58d208c7c>
+WARC-Refers-To: <urn:uuid:8767e8a7-927e-406f-b174-73c66c2c7c70>
+WARC-Block-Digest: sha1:7VL5NI4QPKKBX26PV6O2OTPB4M2PZZ75
+Content-Type: text/plain
+Content-Length: 99
+
+G2: Khaled el-Masri describes America's secret offshore prison network | World news | The Guardian 
+

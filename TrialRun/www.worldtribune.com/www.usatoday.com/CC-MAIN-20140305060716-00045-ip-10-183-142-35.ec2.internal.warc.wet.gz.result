@@ -1,0 +1,24 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/cinematic/gallery/2073607/hotels-get-more-creative-with-digital-screens/
+WARC-Date: 2014-03-07T06:52:24Z
+WARC-Record-ID: <urn:uuid:70162b52-cd3a-4c52-8d20-f04a8024884b>
+WARC-Refers-To: <urn:uuid:ba1629ed-2004-4cd6-b5f5-f799d10d4566>
+WARC-Block-Digest: sha1:YB7YFLK436K5L6ZYQ63AKTEE43BQUS7E
+Content-Type: text/plain
+Content-Length: 100
+
+Hotels get more creative with digital screensNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidity
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/media/latest/videos/sports/horse-racing/
+WARC-Date: 2014-03-07T06:52:40Z
+WARC-Record-ID: <urn:uuid:3915d8e8-b19d-40ab-843d-6cf714640219>
+WARC-Refers-To: <urn:uuid:bb3e3fa7-2eb6-40a9-a53a-d45b86cb7045>
+WARC-Block-Digest: sha1:63POOYOQA4KMYBSVNSUPZIBD3MS5W3F3
+Content-Type: text/plain
+Content-Length: 28
+
+Videos,Photos - USATODAY.com
+

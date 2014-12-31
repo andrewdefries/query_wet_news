@@ -1,0 +1,53 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/id/33863588/ns/business-mac_os_x?q=Mac%20OS%20X
+WARC-Date: 2014-03-07T06:58:25Z
+WARC-Record-ID: <urn:uuid:47255fa1-224d-493d-aec5-32d60a5d02f6>
+WARC-Refers-To: <urn:uuid:8b6dc581-761f-48b6-a43f-c96e49d9b6b2>
+WARC-Block-Digest: sha1:U74V4ZLXYURR5HZAZXRFKFQNFNPFA7HO
+Content-Type: text/plain
+Content-Length: 77
+
+Mac OS X - Latest news, videos, and information- NBCNews.com
+Skip navigation
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/news/us-news/flash-flood-warnings-gulf-coast-ohio-valley-v19318198
+WARC-Date: 2014-03-07T06:44:45Z
+WARC-Record-ID: <urn:uuid:81d10d38-476e-46d6-9926-3483d0a42b3d>
+WARC-Refers-To: <urn:uuid:acf911ca-3a71-4f4b-87c0-a2e5fbb5fb87>
+WARC-Block-Digest: sha1:OU2YSDSSCVUAPGHNPEPTTCGN3BOC65PS
+Content-Type: text/plain
+Content-Length: 63
+
+Flash flood warnings from Gulf Coast to Ohio Valley - NBC News
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/politics
+WARC-Date: 2014-03-07T06:43:56Z
+WARC-Record-ID: <urn:uuid:83c4af63-816f-4ccb-8462-a6ce9b7b5df4>
+WARC-Refers-To: <urn:uuid:16e2a305-56a9-479e-b467-1e66552cc07f>
+WARC-Block-Digest: sha1:RVYMHYAAQPO4BJ5YLJYJSGYGFJFYL2BT
+Content-Type: text/plain
+Content-Length: 71
+
+Politics - White House, Congress, Political & Election News - NBC News
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/video/nightly-news/31192732/
+WARC-Date: 2014-03-07T06:52:56Z
+WARC-Record-ID: <urn:uuid:5018969a-2afe-40d8-afd0-8c17a6c49682>
+WARC-Refers-To: <urn:uuid:6f5a1959-63f2-4dfb-85b1-dd435ad7904d>
+WARC-Block-Digest: sha1:YMFQOLYBVQRPMPJTUB7LPVLECHC6C4OP
+Content-Type: text/plain
+Content-Length: 60
+
+Free falling with the Golden Knights - Video on NBCNews.com
+
+

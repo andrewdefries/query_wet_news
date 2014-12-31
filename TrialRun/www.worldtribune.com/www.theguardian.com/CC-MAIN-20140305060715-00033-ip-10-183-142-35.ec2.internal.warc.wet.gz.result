@@ -1,0 +1,48 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/film/2006/apr/03/news
+WARC-Date: 2014-03-07T05:24:50Z
+WARC-Record-ID: <urn:uuid:4e8fb108-b470-47e9-a8c8-289387f5cb78>
+WARC-Refers-To: <urn:uuid:e13288fc-a299-46da-a80b-b46b24df8aee>
+WARC-Block-Digest: sha1:7QAVRKCQL72BMDFISIVZFBWZA4UI53XF
+Content-Type: text/plain
+Content-Length: 60
+
+US box office in grip of Ice Age 2 | Film | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/info/2012/jul/25/digital-archive-notice?Ref=R1VBLzE5NzIvMDEvMzEjQXIwMTIwMA==&Mode=Gif&Locale=english-skin-custom
+WARC-Date: 2014-03-07T05:24:20Z
+WARC-Record-ID: <urn:uuid:99ee67f5-f386-49c8-bd08-744312d5d381>
+WARC-Refers-To: <urn:uuid:b966159a-d64d-42cf-a42e-d2f56f1ba947>
+WARC-Block-Digest: sha1:EYDVULMMLJ7PM45UDG2HQTT6GUGDZJLU
+Content-Type: text/plain
+Content-Length: 67
+
+The Guardian and Observer digital archive | Info | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/music/musicblog/2008/jan/18/beingblunt
+WARC-Date: 2014-03-07T05:25:29Z
+WARC-Record-ID: <urn:uuid:fa710dc7-de03-467b-bc0e-db8d9a13063b>
+WARC-Refers-To: <urn:uuid:eebaa284-1880-43af-9b13-8c15d6e1fbc9>
+WARC-Block-Digest: sha1:QNKHV5GJLRVQCUFWGDL7YHGIUT6I3YLE
+Content-Type: text/plain
+Content-Length: 38
+
+Being Blunt | Music | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2007/may/18/italy.world1
+WARC-Date: 2014-03-07T05:27:01Z
+WARC-Record-ID: <urn:uuid:6f21ea96-a853-4320-b3c8-83d2c59f631d>
+WARC-Refers-To: <urn:uuid:62da0aaf-c0e7-4a62-acbb-952a1c4184b1>
+WARC-Block-Digest: sha1:OHR2HAPBOYVT674NNMKHLKDDU2MYRLE5
+Content-Type: text/plain
+Content-Length: 59
+
+'Mafia' chief arrested in Preston | UK news | The Guardian 
+

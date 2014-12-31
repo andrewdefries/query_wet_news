@@ -1,0 +1,40 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/id/33712855/ns/default?q=Silvio%20Berlusconi
+WARC-Date: 2014-03-07T05:32:41Z
+WARC-Record-ID: <urn:uuid:a976c8a6-859a-4824-9ccc-ca1cffe737fc>
+WARC-Refers-To: <urn:uuid:596e32fc-13fd-4211-be15-5c12b7f3f34b>
+WARC-Block-Digest: sha1:4PVR5ZBWKFB6KG5QUINLV5QFMF72DTLO
+Content-Type: text/plain
+Content-Length: 86
+
+Silvio Berlusconi - Latest news, videos, and information- NBCNews.com
+Skip navigation
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/pop-culture
+WARC-Date: 2014-03-07T05:25:10Z
+WARC-Record-ID: <urn:uuid:dcd53dc3-dfba-471b-af0b-ed0d4289f5d7>
+WARC-Refers-To: <urn:uuid:89c7c4cc-ce04-437f-9ca8-8d27a95261b7>
+WARC-Block-Digest: sha1:QRJQTRMBI37EZILCOJCTVC3NYOETS233
+Content-Type: text/plain
+Content-Length: 75
+
+Pop Culture - Entertainment News, TV, Movies, Music & Celebrity - NBC News
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.nbcnews.com/video/nightly-news/23439006/
+WARC-Date: 2014-03-07T05:31:52Z
+WARC-Record-ID: <urn:uuid:8a6069b0-92bc-4601-957f-7e25450ffa7f>
+WARC-Refers-To: <urn:uuid:8f670830-cd93-4030-bd82-0226f25ffb7c>
+WARC-Block-Digest: sha1:7LNPFH6WKRKF4KEMTCWERK63BMNRJS2G
+Content-Type: text/plain
+Content-Length: 54
+
+Texas becomes a primary player - Video on NBCNews.com
+
+

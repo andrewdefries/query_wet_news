@@ -1,0 +1,74 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/series/books-season?page=4
+WARC-Date: 2014-03-07T05:26:04Z
+WARC-Record-ID: <urn:uuid:f4540bfb-1286-40bd-8584-c9431d9ec186>
+WARC-Refers-To: <urn:uuid:40a1b904-c5b5-491c-a65c-1bc8f17bc918>
+WARC-Block-Digest: sha1:SSNGHGOSQZT3QZVIUXRCEHFZMYVL3BUT
+Content-Type: text/plain
+Content-Length: 36
+
+Books season | Books | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/discussion/report-abuse/comment/16655200
+WARC-Date: 2014-03-07T05:27:04Z
+WARC-Record-ID: <urn:uuid:2fcaf370-3fd1-438d-8919-05492a9a36aa>
+WARC-Refers-To: <urn:uuid:07f50878-cc44-4419-bc96-1d265fe633ea>
+WARC-Block-Digest: sha1:JCVBFS3HUFQBHTZ2A7A7CBWOQUBYVRR6
+Content-Type: text/plain
+Content-Length: 24
+
+Report abuse on comment
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/discussion/report-abuse/comment/17153369
+WARC-Date: 2014-03-07T05:28:18Z
+WARC-Record-ID: <urn:uuid:92d81b1c-4cdd-423f-a9fe-95ce294e4ac2>
+WARC-Refers-To: <urn:uuid:a96ce3cd-b633-4508-bd16-f49b3b2e5d15>
+WARC-Block-Digest: sha1:JCVBFS3HUFQBHTZ2A7A7CBWOQUBYVRR6
+Content-Type: text/plain
+Content-Length: 24
+
+Report abuse on comment
+
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/education/2006/jun/17/highereducation.uk
+WARC-Date: 2014-03-07T05:27:23Z
+WARC-Record-ID: <urn:uuid:e4f85b66-47f5-43fa-8d73-3090624bf929>
+WARC-Refers-To: <urn:uuid:6c49cf6b-b7c2-419a-8392-a3e6d3ede564>
+WARC-Block-Digest: sha1:AVRQLEPGDJANJ6IBKZUS6PR3TZMJPJE5
+Content-Type: text/plain
+Content-Length: 51
+
+Honourable educators | Education | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/football/2012/jan/26/sudan-angola-africa-cup-of-nations
+WARC-Date: 2014-03-07T05:32:28Z
+WARC-Record-ID: <urn:uuid:60e7ff9f-b0cc-4b50-837d-5cd71ae7b60e>
+WARC-Refers-To: <urn:uuid:f1937e84-abb4-4b3d-a30b-e761dfcad7bd>
+WARC-Block-Digest: sha1:BZYQS76BGN2PAHCNDWM2FN76TQTFSE5Y
+Content-Type: text/plain
+Content-Length: 91
+
+Sudan 2-2 Angola | Africa Cup of Nations Group B match report | Football | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/society/2006/feb/14/health.crime
+WARC-Date: 2014-03-07T05:26:03Z
+WARC-Record-ID: <urn:uuid:4b6d4341-ea0e-47a3-a734-0c639a2a02a6>
+WARC-Refers-To: <urn:uuid:050dd69a-063c-43fa-bdc6-cf9292b6b75a>
+WARC-Block-Digest: sha1:HVQOIKJWCM4ZDPALPZTACAIF5QDROVJI
+Content-Type: text/plain
+Content-Length: 67
+
+£1m equipment stolen to order, NHS fears | Society | The Guardian 
+

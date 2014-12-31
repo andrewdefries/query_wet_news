@@ -1,0 +1,60 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/mlb/game/recap/l.mlb.com-2012-e.33958/
+WARC-Date: 2014-03-07T06:52:42Z
+WARC-Record-ID: <urn:uuid:183e85d9-5628-4bd4-9e46-b516687d0c4d>
+WARC-Refers-To: <urn:uuid:0e27c51c-80dc-428d-b280-65ff1f5c6cd0>
+WARC-Block-Digest: sha1:B25DBALBVOKYDW6O5RMR7JKZCZIZDZG7
+Content-Type: text/plain
+Content-Length: 52
+
+Colorado Rockies at Chicago Cubs | USA TODAY | RECAP
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/sports/ncaab/game/boxscore/l.ncaa.org.mbasket-2008-e.40456/
+WARC-Date: 2014-03-07T06:52:56Z
+WARC-Record-ID: <urn:uuid:8388ac78-7ae8-4d00-a260-7cd4730c93c4>
+WARC-Refers-To: <urn:uuid:6b81af67-9c51-4fb9-8c05-53ded54918c5>
+WARC-Block-Digest: sha1:622VBYMOC6VYERHWPLOCWN5PCTKJALZ5
+Content-Type: text/plain
+Content-Length: 67
+
+State John's Red Storm at Villanova Wildcats | USA TODAY | BOXSCORE
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/news/nation/2012/09/25/texas-executes-ex-army-recruiter/1593417/
+WARC-Date: 2014-03-07T06:44:29Z
+WARC-Record-ID: <urn:uuid:8d280792-993d-4028-b97c-82d6389a2207>
+WARC-Refers-To: <urn:uuid:eb7d9282-e343-4b28-8cba-e47ea1411071>
+WARC-Block-Digest: sha1:DEH4ZPR4ZZGEHHVTEUSGD2SUGAKOTVFT
+Content-Type: text/plain
+Content-Length: 86
+
+Texas executes ex-Army recruiter after 3 reprievesNewsSportsLifeMoneyTechTravelOpinion
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/sports/nhl/2013/05/03/gordie-howe-movie/2132337/
+WARC-Date: 2014-03-07T06:51:52Z
+WARC-Record-ID: <urn:uuid:84cfc0d9-6e83-49b7-8753-cb375130c794>
+WARC-Refers-To: <urn:uuid:87418f04-a8cd-46b8-9042-8740c922aad4>
+WARC-Block-Digest: sha1:CW3OQE2J4G4MZWM2GOLPCTJL3TQUGM7R
+Content-Type: text/plain
+Content-Length: 351
+
+Canadian actor thrilled to portray Gordie HoweNewsSportsLifeMoneyTechTravelOpinionWeatherIconHumidityPrecip.WindsOpen settingsSettingsEnter City, State or ZipCancelSetClose settingsFull ForecastGamesScoresStocksVideoSubscribeMorePhoto GalleriesYour TakeInteractivesNewsletters & AlertsBest-Selling BooksNewsstandUSA WeekendAppsCollegeClassifiedsGames<
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.usatoday.com/story/weather/2013/01/31/late-winter-spring-forecast-drought-snow-cold/1881325/
+WARC-Date: 2014-03-07T06:50:46Z
+WARC-Record-ID: <urn:uuid:0fec1f66-847b-4c7d-b1c9-d6527add155d>
+WARC-Refers-To: <urn:uuid:0290fe4f-b465-43fa-aa85-9b443c76bf5e>
+WARC-Block-Digest: sha1:KGUYKL2AXHQZXQA3S5AAWY6PHW2E5NL5
+Content-Type: text/plain
+Content-Length: 88
+
+Spring forecast: Drought to persist in PlainsNewsSportsLifeMoneyTechTravelOpinionWeather
+

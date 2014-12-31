@@ -1,0 +1,96 @@
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/books/2005/feb/26/1
+WARC-Date: 2014-03-07T05:30:12Z
+WARC-Record-ID: <urn:uuid:fc2f74f4-2016-4a50-b95b-ef53631111b3>
+WARC-Refers-To: <urn:uuid:6ce37412-555f-429a-8c24-ca65ab1986af>
+WARC-Block-Digest: sha1:O2AH2QLM75DUGDB4XXJPGLQGTSJGWTAE
+Content-Type: text/plain
+Content-Length: 43
+
+Indomitable Irishry | Books | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/business/2010/aug/11/apple-ipad-microsoft-clones
+WARC-Date: 2014-03-07T05:33:45Z
+WARC-Record-ID: <urn:uuid:3cc746ea-ebe1-4734-9751-7dde1ee5df58>
+WARC-Refers-To: <urn:uuid:70e56eb1-fec3-4e4a-8863-18c6e2b58c96>
+WARC-Block-Digest: sha1:YXMRGKJRSCGJZ2KMHXNQ54DEMXMEPDNK
+Content-Type: text/plain
+Content-Length: 89
+
+Apple's iPad bonanza triggers race to launch copycat tablets | Technology | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/film/gallery/2013/may/04/philip-french-favourite-films-in-pictures
+WARC-Date: 2014-03-07T05:36:19Z
+WARC-Record-ID: <urn:uuid:5b2560cb-6854-4bdd-8445-a2f81b84b0e7>
+WARC-Refers-To: <urn:uuid:7f516aef-8ecf-4973-8bb2-ac936794eb07>
+WARC-Block-Digest: sha1:6LLH5JBMGG4MQFFN7O3M7CQO5Q6OQJB5
+Content-Type: text/plain
+Content-Length: 69
+
+Philip French's favourite movies - in pictures | Film | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/lifeandstyle/2006/dec/02/fashion.shopping1
+WARC-Date: 2014-03-07T05:36:44Z
+WARC-Record-ID: <urn:uuid:ef965ce3-dbc2-4f5b-be6d-c5ecf21fe91e>
+WARC-Refers-To: <urn:uuid:a4f416b9-5ef3-4d37-8a2a-0db836b68894>
+WARC-Block-Digest: sha1:K7WQONEQQKFZQ3HYE3LJJRIQYZPNGJS6
+Content-Type: text/plain
+Content-Length: 50
+
+Emma Cook: Party glamour | Fashion | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2002/jan/13/vanessathorpe.theobserver
+WARC-Date: 2014-03-07T05:26:23Z
+WARC-Record-ID: <urn:uuid:53681944-82b4-458e-bcda-e434960993f4>
+WARC-Refers-To: <urn:uuid:8cec8e19-4369-4ea4-997b-6179ef74f18c>
+WARC-Block-Digest: sha1:I2IP7OYWUTRTBCYDIBTY3FNKSMFTSUP6
+Content-Type: text/plain
+Content-Length: 79
+
+BBC awaits a miracle after Christmas opera is shelved | UK news | The Observer 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2007/mar/07/usa.internationalcrime
+WARC-Date: 2014-03-07T05:34:26Z
+WARC-Record-ID: <urn:uuid:0e0d5bf0-6fb0-47fa-a805-6a5af6000a14>
+WARC-Refers-To: <urn:uuid:72ac7f2e-00c4-4c57-97cb-70733de8939b>
+WARC-Block-Digest: sha1:V6IX6BN4PWVSKAOFP5YODXWUVMGX4NVN
+Content-Type: text/plain
+Content-Length: 69
+
+Briton faces US trial over hotel rape claim | UK news | The Guardian 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/uk/2010/mar/08/peter-chapman-facebook-killer
+WARC-Date: 2014-03-07T05:37:04Z
+WARC-Record-ID: <urn:uuid:d0df2144-13c6-44b2-bd11-6c028da6e129>
+WARC-Refers-To: <urn:uuid:c50f5e5d-d8a8-460c-ad65-3c5f8ab02886>
+WARC-Block-Digest: sha1:MSU4AJXGFS24SIB3IJJ5SUFJAHWZPDHX
+Content-Type: text/plain
+Content-Length: 84
+
+Facebook killer sentenced to life for teenager's murder | UK news | theguardian.com 
+
+WARC/1.0
+WARC-Type: conversion
+WARC-Target-URI: http://www.theguardian.com/world/2011/mar/31/italy-north-african-migrant-influx-refugees
+WARC-Date: 2014-03-07T05:32:30Z
+WARC-Record-ID: <urn:uuid:a02e7721-7e64-451f-a68a-f000151e06d1>
+WARC-Refers-To: <urn:uuid:d6cd345a-6b0f-44ee-870b-acabe878bc43>
+WARC-Block-Digest: sha1:JDV73YSWBHE6WZSM3JHMYNFEL4YKVYLH
+Content-Type: text/plain
+Content-Length: 91
+
+Italy hits out at neighbours over north African migrant influx | World news | The Guardian 
+
