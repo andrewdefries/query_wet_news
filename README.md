@@ -16,7 +16,8 @@ Install Hanzo warc tools as detailed here: http://code.hanzoarchives.com/warc-to
 Background
 ==========
 
-The Common crawl corpus (www.commoncrawl.org) is a non-profit a digital archive of "snapshots" of the web hosted as aws s3 buckets.   
+The Common crawl corpus (www.commoncrawl.org) is a non-profit a digital archive of "snapshots" of the web hosted as [aws s3 buckets](https://aws.amazon.com/datasets).   
+
 
 ![Common Crawl Corpus via aws s3 buckets](https://github.com/andrewdefries/query_wet_news/blob/master/CommonCrawlCorpus.png "aws dataset")
 
