@@ -1,16 +1,23 @@
 Requirements
 ============
 
-Install s3cmd via:
+The requirements are WARC tools by Hanzo and s3cmd a command line tool for BASH written in python, for our AMI (debian wheezy, are taken care of by execution of:
+
+```
+./Bootstrap.sh
+```
+
+Consider using this via EMR service
+
+This will install s3cmd via:
 
 ```
 sudo apt-get install s3cmd
 
 s3cmd --configure
 ```
-Proceed with your aws information
+You must proceed with your aws information by your own method to download buckets using your aws account.
 
-Install Hanzo warc tools as detailed here: http://code.hanzoarchives.com/warc-tools/wiki/Home
 
 
 Background
