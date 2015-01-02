@@ -22,3 +22,18 @@ query_wet_news
 ==============
 
 Looking through the common crawl archives news entries
+
+
+Parallelization strategy
+========================
+
+Currently prototyping Map-Reduce principles using BASH fork. 
+For example:
+
+```
+
+./CycleThroughFilterShuf.sh & ./CycleThroughFilterShuf.sh ... 
+
+```
+
+![Program execution sequence](https://github.com/andrewdefries/query_wet_news/blob/master/ParallelBatch.png "Breakdown of Program execution sequence")
