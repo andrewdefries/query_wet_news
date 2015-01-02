@@ -25,10 +25,17 @@ mkdir $newsname
 #######
 cat $wetfile.tmp | warcfilter --url "$i" > $wetfile.result
 mv $wetfile.result $newsname
+
+#remove empty files recursive down the tree
+find . -type f -empty -delete
+find . -type d -empty -delete
+
 ###
-s3cmd put -r $newsname s3://commoncrawlnews
+##s3cmd put -r $newsname s3://commoncrawlnews
 ###
-rm -r $newsname
+##rm -r $newsname
+
+
 done
 ###
 ###
