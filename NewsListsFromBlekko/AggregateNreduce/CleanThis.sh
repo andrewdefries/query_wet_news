@@ -1,5 +1,6 @@
 #remove empty files recursive down the tree
 find . -type f -empty | xargs rmdir
+find . -type d -empty | xargs rmdir
 
 #gives error if none to remove
 
